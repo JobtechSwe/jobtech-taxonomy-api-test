@@ -1,0 +1,872 @@
+[
+	{
+		"term" : "Ale"
+	},
+	{
+		"term" : "Alingsås"
+	},
+	{
+		"term" : "Älmhult"
+	},
+	{
+		"term" : "Älvdalen"
+	},
+	{
+		"term" : "Alvesta"
+	},
+	{
+		"term" : "Älvkarleby"
+	},
+	{
+		"term" : "Älvsbyn"
+	},
+	{
+		"term" : "Åmål"
+	},
+	{
+		"term" : "Aneby"
+	},
+	{
+		"term" : "Ånge"
+	},
+	{
+		"term" : "Ängelholm"
+	},
+	{
+		"term" : "Arboga"
+	},
+	{
+		"term" : "Åre"
+	},
+	{
+		"term" : "Årjäng"
+	},
+	{
+		"term" : "Arjeplog"
+	},
+	{
+		"term" : "Arvidsjaur"
+	},
+	{
+		"term" : "Arvika"
+	},
+	{
+		"term" : "Åsele"
+	},
+	{
+		"term" : "Askersund"
+	},
+	{
+		"term" : "Åstorp"
+	},
+	{
+		"term" : "Åtvidaberg"
+	},
+	{
+		"term" : "Avesta"
+	},
+	{
+		"term" : "Båstad"
+	},
+	{
+		"term" : "Bengtsfors"
+	},
+	{
+		"term" : "Berg"
+	},
+	{
+		"term" : "Bjurholm"
+	},
+	{
+		"term" : "Bjuv"
+	},
+	{
+		"term" : "Boden"
+	},
+	{
+		"term" : "Bollebygd"
+	},
+	{
+		"term" : "Bollnäs"
+	},
+	{
+		"term" : "Borås"
+	},
+	{
+		"term" : "Borgholm"
+	},
+	{
+		"term" : "Borlänge"
+	},
+	{
+		"term" : "Botkyrka"
+	},
+	{
+		"term" : "Boxholm"
+	},
+	{
+		"term" : "Bräcke"
+	},
+	{
+		"term" : "Bromölla"
+	},
+	{
+		"term" : "Burlöv"
+	},
+	{
+		"term" : "Dals-Ed"
+	},
+	{
+		"term" : "Danderyd"
+	},
+	{
+		"term" : "Degerfors"
+	},
+	{
+		"term" : "Dorotea"
+	},
+	{
+		"term" : "Eda"
+	},
+	{
+		"term" : "Ekerö"
+	},
+	{
+		"term" : "Eksjö"
+	},
+	{
+		"term" : "Emmaboda"
+	},
+	{
+		"term" : "Enköping"
+	},
+	{
+		"term" : "Eskilstuna"
+	},
+	{
+		"term" : "Eslöv"
+	},
+	{
+		"term" : "Essunga"
+	},
+	{
+		"term" : "Fagersta"
+	},
+	{
+		"term" : "Falkenberg"
+	},
+	{
+		"term" : "Falköping"
+	},
+	{
+		"term" : "Falun"
+	},
+	{
+		"term" : "Färgelanda"
+	},
+	{
+		"term" : "Filipstad"
+	},
+	{
+		"term" : "Finspång"
+	},
+	{
+		"term" : "Flen"
+	},
+	{
+		"term" : "Forshaga"
+	},
+	{
+		"term" : "Gagnef"
+	},
+	{
+		"term" : "Gällivare"
+	},
+	{
+		"term" : "Gävle"
+	},
+	{
+		"term" : "Gislaved"
+	},
+	{
+		"term" : "Gnesta"
+	},
+	{
+		"term" : "Gnosjö"
+	},
+	{
+		"term" : "Göteborg"
+	},
+	{
+		"term" : "Götene"
+	},
+	{
+		"term" : "Gotland"
+	},
+	{
+		"term" : "Grästorp"
+	},
+	{
+		"term" : "Grums"
+	},
+	{
+		"term" : "Gullspång"
+	},
+	{
+		"term" : "Habo"
+	},
+	{
+		"term" : "Håbo"
+	},
+	{
+		"term" : "Hagfors"
+	},
+	{
+		"term" : "Hällefors"
+	},
+	{
+		"term" : "Hallsberg"
+	},
+	{
+		"term" : "Hallstahammar"
+	},
+	{
+		"term" : "Halmstad"
+	},
+	{
+		"term" : "Hammarö"
+	},
+	{
+		"term" : "Haninge"
+	},
+	{
+		"term" : "Haparanda"
+	},
+	{
+		"term" : "Härjedalen"
+	},
+	{
+		"term" : "Härnösand"
+	},
+	{
+		"term" : "Härryda"
+	},
+	{
+		"term" : "Hässleholm"
+	},
+	{
+		"term" : "Heby"
+	},
+	{
+		"term" : "Hedemora"
+	},
+	{
+		"term" : "Helsingborg"
+	},
+	{
+		"term" : "Herrljunga"
+	},
+	{
+		"term" : "Hjo"
+	},
+	{
+		"term" : "Hofors"
+	},
+	{
+		"term" : "Höganäs"
+	},
+	{
+		"term" : "Högsby"
+	},
+	{
+		"term" : "Höör"
+	},
+	{
+		"term" : "Hörby"
+	},
+	{
+		"term" : "Huddinge"
+	},
+	{
+		"term" : "Hudiksvall"
+	},
+	{
+		"term" : "Hultsfred"
+	},
+	{
+		"term" : "Hylte"
+	},
+	{
+		"term" : "Järfälla"
+	},
+	{
+		"term" : "Jokkmokk"
+	},
+	{
+		"term" : "Jönköping"
+	},
+	{
+		"term" : "Kalix"
+	},
+	{
+		"term" : "Kalmar"
+	},
+	{
+		"term" : "Karlsborg"
+	},
+	{
+		"term" : "Karlshamn"
+	},
+	{
+		"term" : "Karlskoga"
+	},
+	{
+		"term" : "Karlskrona"
+	},
+	{
+		"term" : "Karlstad"
+	},
+	{
+		"term" : "Katrineholm"
+	},
+	{
+		"term" : "Kävlinge"
+	},
+	{
+		"term" : "Kil"
+	},
+	{
+		"term" : "Kinda"
+	},
+	{
+		"term" : "Kiruna"
+	},
+	{
+		"term" : "Klippan"
+	},
+	{
+		"term" : "Knivsta"
+	},
+	{
+		"term" : "Köping"
+	},
+	{
+		"term" : "Kramfors"
+	},
+	{
+		"term" : "Kristianstad"
+	},
+	{
+		"term" : "Kristinehamn"
+	},
+	{
+		"term" : "Krokom"
+	},
+	{
+		"term" : "Kumla"
+	},
+	{
+		"term" : "Kungälv"
+	},
+	{
+		"term" : "Kungsbacka"
+	},
+	{
+		"term" : "Kungsör"
+	},
+	{
+		"term" : "Laholm"
+	},
+	{
+		"term" : "Landskrona"
+	},
+	{
+		"term" : "Laxå"
+	},
+	{
+		"term" : "Lekeberg"
+	},
+	{
+		"term" : "Leksand"
+	},
+	{
+		"term" : "Lerum"
+	},
+	{
+		"term" : "Lessebo"
+	},
+	{
+		"term" : "Lidingö"
+	},
+	{
+		"term" : "Lidköping"
+	},
+	{
+		"term" : "Lilla Edet"
+	},
+	{
+		"term" : "Lindesberg"
+	},
+	{
+		"term" : "Linköping"
+	},
+	{
+		"term" : "Ljungby"
+	},
+	{
+		"term" : "Ljusdal"
+	},
+	{
+		"term" : "Ljusnarsberg"
+	},
+	{
+		"term" : "Lomma"
+	},
+	{
+		"term" : "Ludvika"
+	},
+	{
+		"term" : "Luleå"
+	},
+	{
+		"term" : "Lund"
+	},
+	{
+		"term" : "Lycksele"
+	},
+	{
+		"term" : "Lysekil"
+	},
+	{
+		"term" : "Malå"
+	},
+	{
+		"term" : "Malmö"
+	},
+	{
+		"term" : "Malung-Sälen"
+	},
+	{
+		"term" : "Mariestad"
+	},
+	{
+		"term" : "Mark"
+	},
+	{
+		"term" : "Markaryd"
+	},
+	{
+		"term" : "Mellerud"
+	},
+	{
+		"term" : "Mjölby"
+	},
+	{
+		"term" : "Mölndal"
+	},
+	{
+		"term" : "Mönsterås"
+	},
+	{
+		"term" : "Mora"
+	},
+	{
+		"term" : "Mörbylånga"
+	},
+	{
+		"term" : "Motala"
+	},
+	{
+		"term" : "Mullsjö"
+	},
+	{
+		"term" : "Munkedal"
+	},
+	{
+		"term" : "Munkfors"
+	},
+	{
+		"term" : "Nacka"
+	},
+	{
+		"term" : "Nässjö"
+	},
+	{
+		"term" : "Nora"
+	},
+	{
+		"term" : "Norberg"
+	},
+	{
+		"term" : "Nordanstig"
+	},
+	{
+		"term" : "Nordmaling"
+	},
+	{
+		"term" : "Norrköping"
+	},
+	{
+		"term" : "Norrtälje"
+	},
+	{
+		"term" : "Norsjö"
+	},
+	{
+		"term" : "Nybro"
+	},
+	{
+		"term" : "Nyköping"
+	},
+	{
+		"term" : "Nykvarn"
+	},
+	{
+		"term" : "Nynäshamn"
+	},
+	{
+		"term" : "Ockelbo"
+	},
+	{
+		"term" : "Öckerö"
+	},
+	{
+		"term" : "Ödeshög"
+	},
+	{
+		"term" : "Olofström"
+	},
+	{
+		"term" : "Örebro"
+	},
+	{
+		"term" : "Örkelljunga"
+	},
+	{
+		"term" : "Örnsköldsvik"
+	},
+	{
+		"term" : "Orsa"
+	},
+	{
+		"term" : "Orust"
+	},
+	{
+		"term" : "Osby"
+	},
+	{
+		"term" : "Oskarshamn"
+	},
+	{
+		"term" : "Österåker"
+	},
+	{
+		"term" : "Östersund"
+	},
+	{
+		"term" : "Östhammar"
+	},
+	{
+		"term" : "Östra Göinge"
+	},
+	{
+		"term" : "Ovanåker"
+	},
+	{
+		"term" : "Överkalix"
+	},
+	{
+		"term" : "Övertorneå"
+	},
+	{
+		"term" : "Oxelösund"
+	},
+	{
+		"term" : "Pajala"
+	},
+	{
+		"term" : "Partille"
+	},
+	{
+		"term" : "Perstorp"
+	},
+	{
+		"term" : "Piteå"
+	},
+	{
+		"term" : "Ragunda"
+	},
+	{
+		"term" : "Rättvik"
+	},
+	{
+		"term" : "Robertsfors"
+	},
+	{
+		"term" : "Ronneby"
+	},
+	{
+		"term" : "Säffle"
+	},
+	{
+		"term" : "Sala"
+	},
+	{
+		"term" : "Salem"
+	},
+	{
+		"term" : "Sandviken"
+	},
+	{
+		"term" : "Säter"
+	},
+	{
+		"term" : "Sävsjö"
+	},
+	{
+		"term" : "Sigtuna"
+	},
+	{
+		"term" : "Simrishamn"
+	},
+	{
+		"term" : "Sjöbo"
+	},
+	{
+		"term" : "Skara"
+	},
+	{
+		"term" : "Skellefteå"
+	},
+	{
+		"term" : "Skinnskatteberg"
+	},
+	{
+		"term" : "Skövde"
+	},
+	{
+		"term" : "Skurup"
+	},
+	{
+		"term" : "Smedjebacken"
+	},
+	{
+		"term" : "Söderhamn"
+	},
+	{
+		"term" : "Söderköping"
+	},
+	{
+		"term" : "Södertälje"
+	},
+	{
+		"term" : "Sollefteå"
+	},
+	{
+		"term" : "Sollentuna"
+	},
+	{
+		"term" : "Solna"
+	},
+	{
+		"term" : "Sölvesborg"
+	},
+	{
+		"term" : "Sorsele"
+	},
+	{
+		"term" : "Sotenäs"
+	},
+	{
+		"term" : "Staffanstorp"
+	},
+	{
+		"term" : "Stenungsund"
+	},
+	{
+		"term" : "Stockholm"
+	},
+	{
+		"term" : "Storfors"
+	},
+	{
+		"term" : "Storuman"
+	},
+	{
+		"term" : "Strängnäs"
+	},
+	{
+		"term" : "Strömstad"
+	},
+	{
+		"term" : "Strömsund"
+	},
+	{
+		"term" : "Sundbyberg"
+	},
+	{
+		"term" : "Sundsvall"
+	},
+	{
+		"term" : "Sunne"
+	},
+	{
+		"term" : "Surahammar"
+	},
+	{
+		"term" : "Svalöv"
+	},
+	{
+		"term" : "Svedala"
+	},
+	{
+		"term" : "Svenljunga"
+	},
+	{
+		"term" : "Täby"
+	},
+	{
+		"term" : "Tanum"
+	},
+	{
+		"term" : "Tibro"
+	},
+	{
+		"term" : "Tidaholm"
+	},
+	{
+		"term" : "Tierp"
+	},
+	{
+		"term" : "Timrå"
+	},
+	{
+		"term" : "Tingsryd"
+	},
+	{
+		"term" : "Tjörn"
+	},
+	{
+		"term" : "Tomelilla"
+	},
+	{
+		"term" : "Töreboda"
+	},
+	{
+		"term" : "Torsås"
+	},
+	{
+		"term" : "Torsby"
+	},
+	{
+		"term" : "Tranås"
+	},
+	{
+		"term" : "Tranemo"
+	},
+	{
+		"term" : "Trelleborg"
+	},
+	{
+		"term" : "Trollhättan"
+	},
+	{
+		"term" : "Trosa"
+	},
+	{
+		"term" : "Tyresö"
+	},
+	{
+		"term" : "Uddevalla"
+	},
+	{
+		"term" : "Ulricehamn"
+	},
+	{
+		"term" : "Umeå"
+	},
+	{
+		"term" : "Upplands Väsby"
+	},
+	{
+		"term" : "Upplands-Bro"
+	},
+	{
+		"term" : "Uppsala"
+	},
+	{
+		"term" : "Uppvidinge"
+	},
+	{
+		"term" : "Vadstena"
+	},
+	{
+		"term" : "Vaggeryd"
+	},
+	{
+		"term" : "Valdemarsvik"
+	},
+	{
+		"term" : "Vallentuna"
+	},
+	{
+		"term" : "Vänersborg"
+	},
+	{
+		"term" : "Vännäs"
+	},
+	{
+		"term" : "Vansbro"
+	},
+	{
+		"term" : "Vara"
+	},
+	{
+		"term" : "Varberg"
+	},
+	{
+		"term" : "Vårgårda"
+	},
+	{
+		"term" : "Värmdö"
+	},
+	{
+		"term" : "Värnamo"
+	},
+	{
+		"term" : "Västerås"
+	},
+	{
+		"term" : "Västervik"
+	},
+	{
+		"term" : "Vaxholm"
+	},
+	{
+		"term" : "Växjö"
+	},
+	{
+		"term" : "Vellinge"
+	},
+	{
+		"term" : "Vetlanda"
+	},
+	{
+		"term" : "Vilhelmina"
+	},
+	{
+		"term" : "Vimmerby"
+	},
+	{
+		"term" : "Vindeln"
+	},
+	{
+		"term" : "Vingåker"
+	},
+	{
+		"term" : "Ydre"
+	},
+	{
+		"term" : "Ystad"
+	}
+]

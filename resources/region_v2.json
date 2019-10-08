@@ -1,0 +1,4088 @@
+[
+	{
+		"term" : "A Coruña"
+	},
+	{
+		"term" : "Aberdeen City and Aberdeenshire"
+	},
+	{
+		"term" : "Achaia"
+	},
+	{
+		"term" : "Achterhoek"
+	},
+	{
+		"term" : "Agglomeratie Haarlem"
+	},
+	{
+		"term" : "Agglomeratie Leiden en Bollenstreek"
+	},
+	{
+		"term" : "Agglomeratie 's-Gravenhage"
+	},
+	{
+		"term" : "Agrigento"
+	},
+	{
+		"term" : "Ahrweiler"
+	},
+	{
+		"term" : "Aichach-Friedberg"
+	},
+	{
+		"term" : "Ain"
+	},
+	{
+		"term" : "Aisne"
+	},
+	{
+		"term" : "Aitoloakarnania"
+	},
+	{
+		"term" : "Akershus"
+	},
+	{
+		"term" : "Åland"
+	},
+	{
+		"term" : "Álava"
+	},
+	{
+		"term" : "Alba"
+	},
+	{
+		"term" : "Albacete"
+	},
+	{
+		"term" : "Alb-Donau-Kreis"
+	},
+	{
+		"term" : "Alentejo Central"
+	},
+	{
+		"term" : "Alentejo Litoral"
+	},
+	{
+		"term" : "Alessandria"
+	},
+	{
+		"term" : "Algarve"
+	},
+	{
+		"term" : "Alicante \/ Alacant"
+	},
+	{
+		"term" : "Alkmaar en omgeving"
+	},
+	{
+		"term" : "Allier"
+	},
+	{
+		"term" : "Almería"
+	},
+	{
+		"term" : "Alpes-de-Haute-Provence"
+	},
+	{
+		"term" : "Alpes-Maritimes"
+	},
+	{
+		"term" : "Altenburger Land"
+	},
+	{
+		"term" : "Altenkirchen (Westerwald)"
+	},
+	{
+		"term" : "Altmarkkreis Salzwedel"
+	},
+	{
+		"term" : "Alto Alentejo"
+	},
+	{
+		"term" : "Alto Trás-os-Montes"
+	},
+	{
+		"term" : "Altötting"
+	},
+	{
+		"term" : "Alytaus apskritis"
+	},
+	{
+		"term" : "Alzey-Worms"
+	},
+	{
+		"term" : "Amberg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Amberg-Sulzbach"
+	},
+	{
+		"term" : "Ammerland"
+	},
+	{
+		"term" : "Ancona"
+	},
+	{
+		"term" : "Angus and Dundee City"
+	},
+	{
+		"term" : "Anhalt-Bitterfeld"
+	},
+	{
+		"term" : "Ansbach, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Ansbach, Landkreis"
+	},
+	{
+		"term" : "Appenzell Inner-Rhodes"
+	},
+	{
+		"term" : "Appenzell Outer-Rhodes"
+	},
+	{
+		"term" : "Arad"
+	},
+	{
+		"term" : "Ardèche"
+	},
+	{
+		"term" : "Ardennes"
+	},
+	{
+		"term" : "Arezzo"
+	},
+	{
+		"term" : "Argeş"
+	},
+	{
+		"term" : "Argolida"
+	},
+	{
+		"term" : "Argovia \/ Aargau"
+	},
+	{
+		"term" : "Ariège"
+	},
+	{
+		"term" : "Arkadia"
+	},
+	{
+		"term" : "Arnhem\/Nijmegen"
+	},
+	{
+		"term" : "Arr. ( 1 ) de Bruxelles-Capitale\/ Arr. van Brussel-Hoofdstad"
+	},
+	{
+		"term" : "Arr. Aalst"
+	},
+	{
+		"term" : "Arr. Antwerpen"
+	},
+	{
+		"term" : "Arr. Arlon"
+	},
+	{
+		"term" : "Arr. Ath"
+	},
+	{
+		"term" : "Arr. Bastogne"
+	},
+	{
+		"term" : "Arr. Brugge"
+	},
+	{
+		"term" : "Arr. Charleroi"
+	},
+	{
+		"term" : "Arr. Dendermonde"
+	},
+	{
+		"term" : "Arr. Diksmuide"
+	},
+	{
+		"term" : "Arr. Dinant"
+	},
+	{
+		"term" : "Arr. Eeklo"
+	},
+	{
+		"term" : "Arr. Gent"
+	},
+	{
+		"term" : "Arr. Halle-Vilvoorde"
+	},
+	{
+		"term" : "Arr. Hasselt"
+	},
+	{
+		"term" : "Arr. Huy"
+	},
+	{
+		"term" : "Arr. Ieper"
+	},
+	{
+		"term" : "Arr. Kortrijk"
+	},
+	{
+		"term" : "Arr. Leuven"
+	},
+	{
+		"term" : "Arr. Liège"
+	},
+	{
+		"term" : "Arr. Maaseik"
+	},
+	{
+		"term" : "Arr. Marche-en-Famenne"
+	},
+	{
+		"term" : "Arr. Mechelen"
+	},
+	{
+		"term" : "Arr. Mons"
+	},
+	{
+		"term" : "Arr. Mouscron"
+	},
+	{
+		"term" : "Arr. Namur"
+	},
+	{
+		"term" : "Arr. Neufchâteau"
+	},
+	{
+		"term" : "Arr. Nivelles"
+	},
+	{
+		"term" : "Arr. Oostende"
+	},
+	{
+		"term" : "Arr. Oudenaarde"
+	},
+	{
+		"term" : "Arr. Philippeville"
+	},
+	{
+		"term" : "Arr. Roeselare"
+	},
+	{
+		"term" : "Arr. Sint-Niklaas"
+	},
+	{
+		"term" : "Arr. Soignies"
+	},
+	{
+		"term" : "Arr. Thuin"
+	},
+	{
+		"term" : "Arr. Tielt"
+	},
+	{
+		"term" : "Arr. Tongeren"
+	},
+	{
+		"term" : "Arr. Tournai"
+	},
+	{
+		"term" : "Arr. Turnhout"
+	},
+	{
+		"term" : "Arr. Verviers — communes francophones"
+	},
+	{
+		"term" : "Arr. Veurne"
+	},
+	{
+		"term" : "Arr. Virton"
+	},
+	{
+		"term" : "Arr. Waremme"
+	},
+	{
+		"term" : "Arta"
+	},
+	{
+		"term" : "Aschaffenburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Aschaffenburg, Landkreis"
+	},
+	{
+		"term" : "Ascoli Piceno"
+	},
+	{
+		"term" : "Asti"
+	},
+	{
+		"term" : "Asturias"
+	},
+	{
+		"term" : "Attiki"
+	},
+	{
+		"term" : "Aube"
+	},
+	{
+		"term" : "Aude"
+	},
+	{
+		"term" : "Augsburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Augsburg, Landkreis"
+	},
+	{
+		"term" : "Aurich"
+	},
+	{
+		"term" : "Außerfern"
+	},
+	{
+		"term" : "Aust-Agder"
+	},
+	{
+		"term" : "Ave"
+	},
+	{
+		"term" : "Avellino"
+	},
+	{
+		"term" : "Aveyron"
+	},
+	{
+		"term" : "Ávila"
+	},
+	{
+		"term" : "Bacău"
+	},
+	{
+		"term" : "Bács-Kiskun"
+	},
+	{
+		"term" : "Bad Doberan"
+	},
+	{
+		"term" : "Bad Dürkheim"
+	},
+	{
+		"term" : "Bad Kissingen"
+	},
+	{
+		"term" : "Bad Kreuznach"
+	},
+	{
+		"term" : "Bad Tölz-Wolfratshausen"
+	},
+	{
+		"term" : "Badajoz"
+	},
+	{
+		"term" : "Baden-Baden, Stadtkreis"
+	},
+	{
+		"term" : "Baixo Alentejo"
+	},
+	{
+		"term" : "Baixo Mondego"
+	},
+	{
+		"term" : "Baixo Vouga"
+	},
+	{
+		"term" : "Bamberg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Bamberg, Landkreis"
+	},
+	{
+		"term" : "Banskobystrický kraj"
+	},
+	{
+		"term" : "Baranya"
+	},
+	{
+		"term" : "Barcelona"
+	},
+	{
+		"term" : "Bari"
+	},
+	{
+		"term" : "Barletta-Andria-Trani"
+	},
+	{
+		"term" : "Barnim"
+	},
+	{
+		"term" : "Barnsley, Doncaster and Rotherham"
+	},
+	{
+		"term" : "Basle-City \/ -Town"
+	},
+	{
+		"term" : "Basle-Country \/ -Land"
+	},
+	{
+		"term" : "Bas-Rhin"
+	},
+	{
+		"term" : "Bath and North East Somerset, North Somerset and South Gloucestershire"
+	},
+	{
+		"term" : "Bautzen"
+	},
+	{
+		"term" : "Bayreuth, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Bayreuth, Landkreis"
+	},
+	{
+		"term" : "Bedford"
+	},
+	{
+		"term" : "Beira Interior Norte"
+	},
+	{
+		"term" : "Beira Interior Sul"
+	},
+	{
+		"term" : "Békés"
+	},
+	{
+		"term" : "Belfast"
+	},
+	{
+		"term" : "Belluno"
+	},
+	{
+		"term" : "Benevento"
+	},
+	{
+		"term" : "Berchtesgadener Land"
+	},
+	{
+		"term" : "Bergamo"
+	},
+	{
+		"term" : "Bergstraße"
+	},
+	{
+		"term" : "Berkshire"
+	},
+	{
+		"term" : "Berlin"
+	},
+	{
+		"term" : "Berne"
+	},
+	{
+		"term" : "Bernkastel-Wittlich"
+	},
+	{
+		"term" : "Bezirk Verviers — Deutschsprachige Gemeinschaft"
+	},
+	{
+		"term" : "Białostocki"
+	},
+	{
+		"term" : "Bialski"
+	},
+	{
+		"term" : "Biberach"
+	},
+	{
+		"term" : "Bielefeld, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Biella"
+	},
+	{
+		"term" : "Bielski"
+	},
+	{
+		"term" : "Bihor"
+	},
+	{
+		"term" : "Birkenfeld"
+	},
+	{
+		"term" : "Birmingham"
+	},
+	{
+		"term" : "Bistriţa-Năsăud"
+	},
+	{
+		"term" : "Bjelovarsko-bilogorska županija"
+	},
+	{
+		"term" : "Blackburn with Darwen"
+	},
+	{
+		"term" : "Blackpool"
+	},
+	{
+		"term" : "Blagoevgrad"
+	},
+	{
+		"term" : "Blekinge län"
+	},
+	{
+		"term" : "Bludenz-Bregenzer Wald"
+	},
+	{
+		"term" : "Böblingen"
+	},
+	{
+		"term" : "Bochum, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Bodenseekreis"
+	},
+	{
+		"term" : "Bologna"
+	},
+	{
+		"term" : "Bolzano-Bozen"
+	},
+	{
+		"term" : "Bonn, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Börde"
+	},
+	{
+		"term" : "Border"
+	},
+	{
+		"term" : "Borken"
+	},
+	{
+		"term" : "Bornholm"
+	},
+	{
+		"term" : "Borsod-Abaúj-Zemplén"
+	},
+	{
+		"term" : "Botoşani"
+	},
+	{
+		"term" : "Bottrop, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Bouches-du-Rhône"
+	},
+	{
+		"term" : "Bournemouth and Poole"
+	},
+	{
+		"term" : "Bradford"
+	},
+	{
+		"term" : "Brăila"
+	},
+	{
+		"term" : "Brandenburg an der Havel, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Braşov"
+	},
+	{
+		"term" : "Bratislavský kraj"
+	},
+	{
+		"term" : "Braunschweig, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Breisgau-Hochschwarzwald"
+	},
+	{
+		"term" : "Bremen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Bremerhaven, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Brescia"
+	},
+	{
+		"term" : "Bridgend and Neath Port Talbot"
+	},
+	{
+		"term" : "Brighton and Hove"
+	},
+	{
+		"term" : "Brindisi"
+	},
+	{
+		"term" : "Bristol, City of"
+	},
+	{
+		"term" : "Brodsko-posavska županija"
+	},
+	{
+		"term" : "Buckinghamshire CC"
+	},
+	{
+		"term" : "Bucureşti"
+	},
+	{
+		"term" : "Budapest"
+	},
+	{
+		"term" : "Burgas"
+	},
+	{
+		"term" : "Burgenland (DE)"
+	},
+	{
+		"term" : "Burgos"
+	},
+	{
+		"term" : "Buskerud"
+	},
+	{
+		"term" : "Buzău"
+	},
+	{
+		"term" : "Bydgosko-Toruński"
+	},
+	{
+		"term" : "Byen København"
+	},
+	{
+		"term" : "Bytomski"
+	},
+	{
+		"term" : "Cáceres"
+	},
+	{
+		"term" : "Cádiz"
+	},
+	{
+		"term" : "Cagliari"
+	},
+	{
+		"term" : "Caithness & Sutherland and Ross & Cromarty"
+	},
+	{
+		"term" : "Călăraşi"
+	},
+	{
+		"term" : "Calderdale and Kirklees"
+	},
+	{
+		"term" : "Caltanissetta"
+	},
+	{
+		"term" : "Calvados"
+	},
+	{
+		"term" : "Calw"
+	},
+	{
+		"term" : "Cambridgeshire CC"
+	},
+	{
+		"term" : "Campobasso"
+	},
+	{
+		"term" : "Cantabria"
+	},
+	{
+		"term" : "Cantal"
+	},
+	{
+		"term" : "Caraş-Severin"
+	},
+	{
+		"term" : "Carbonia-Iglesias"
+	},
+	{
+		"term" : "Cardiff and Vale of Glamorgan"
+	},
+	{
+		"term" : "Caserta"
+	},
+	{
+		"term" : "Castellón \/ Castelló"
+	},
+	{
+		"term" : "Catania"
+	},
+	{
+		"term" : "Catanzaro"
+	},
+	{
+		"term" : "Cávado"
+	},
+	{
+		"term" : "Celle"
+	},
+	{
+		"term" : "Central Bedfordshire"
+	},
+	{
+		"term" : "Central Valleys"
+	},
+	{
+		"term" : "Ceuta"
+	},
+	{
+		"term" : "Chalkidiki"
+	},
+	{
+		"term" : "Cham"
+	},
+	{
+		"term" : "Chania"
+	},
+	{
+		"term" : "Charente"
+	},
+	{
+		"term" : "Charente-Maritime"
+	},
+	{
+		"term" : "Chełmsko-zamojski"
+	},
+	{
+		"term" : "Chemnitz, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Cher"
+	},
+	{
+		"term" : "Cheshire East"
+	},
+	{
+		"term" : "Cheshire West and Chester"
+	},
+	{
+		"term" : "Chieti"
+	},
+	{
+		"term" : "Chios"
+	},
+	{
+		"term" : "Ciechanowsko-płocki"
+	},
+	{
+		"term" : "Ciudad Real"
+	},
+	{
+		"term" : "Clackmannanshire and Fife"
+	},
+	{
+		"term" : "Cloppenburg"
+	},
+	{
+		"term" : "Cluj"
+	},
+	{
+		"term" : "Coburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Coburg, Landkreis"
+	},
+	{
+		"term" : "Cochem-Zell"
+	},
+	{
+		"term" : "Coesfeld"
+	},
+	{
+		"term" : "Como"
+	},
+	{
+		"term" : "Constanţa"
+	},
+	{
+		"term" : "Conwy and Denbighshire"
+	},
+	{
+		"term" : "Córdoba"
+	},
+	{
+		"term" : "Cornwall and Isles of Scilly"
+	},
+	{
+		"term" : "Corrèze"
+	},
+	{
+		"term" : "Corse-du-Sud"
+	},
+	{
+		"term" : "Cosenza"
+	},
+	{
+		"term" : "Côte-d'Or"
+	},
+	{
+		"term" : "Côtes-d'Armor"
+	},
+	{
+		"term" : "Cottbus, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Cova da Beira"
+	},
+	{
+		"term" : "Covasna"
+	},
+	{
+		"term" : "Coventry"
+	},
+	{
+		"term" : "Cremona"
+	},
+	{
+		"term" : "Creuse"
+	},
+	{
+		"term" : "Crotone"
+	},
+	{
+		"term" : "Csongrád"
+	},
+	{
+		"term" : "Cuenca"
+	},
+	{
+		"term" : "Cuneo"
+	},
+	{
+		"term" : "Cuxhaven"
+	},
+	{
+		"term" : "Częstochowski"
+	},
+	{
+		"term" : "Dachau"
+	},
+	{
+		"term" : "Dahme-Spreewald"
+	},
+	{
+		"term" : "Dalarnas län"
+	},
+	{
+		"term" : "Dâmboviţa"
+	},
+	{
+		"term" : "Dão-Lafões"
+	},
+	{
+		"term" : "Darlington"
+	},
+	{
+		"term" : "Darmstadt, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Darmstadt-Dieburg"
+	},
+	{
+		"term" : "Deggendorf"
+	},
+	{
+		"term" : "Delft en Westland"
+	},
+	{
+		"term" : "Delfzijl en omgeving"
+	},
+	{
+		"term" : "Delmenhorst, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Demmin"
+	},
+	{
+		"term" : "Derby"
+	},
+	{
+		"term" : "Dessau-Roßlau, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Deux-Sèvres"
+	},
+	{
+		"term" : "Devon CC"
+	},
+	{
+		"term" : "Diepholz"
+	},
+	{
+		"term" : "Dillingen a.d. Donau"
+	},
+	{
+		"term" : "Dingolfing-Landau"
+	},
+	{
+		"term" : "Dithmarschen"
+	},
+	{
+		"term" : "Dobrich"
+	},
+	{
+		"term" : "Dodekanisos"
+	},
+	{
+		"term" : "Dolj"
+	},
+	{
+		"term" : "Donau-Ries"
+	},
+	{
+		"term" : "Donnersbergkreis"
+	},
+	{
+		"term" : "Dordogne"
+	},
+	{
+		"term" : "Dorset CC"
+	},
+	{
+		"term" : "Dortmund, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Doubs"
+	},
+	{
+		"term" : "Douro"
+	},
+	{
+		"term" : "Drama"
+	},
+	{
+		"term" : "Dresden, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Drôme"
+	},
+	{
+		"term" : "Dublin"
+	},
+	{
+		"term" : "Dubrovačko-neretvanska županija"
+	},
+	{
+		"term" : "Dudley"
+	},
+	{
+		"term" : "Duisburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Dumfries & Galloway"
+	},
+	{
+		"term" : "Düren"
+	},
+	{
+		"term" : "Durham CC"
+	},
+	{
+		"term" : "Düsseldorf, Kreisfreie Stadt"
+	},
+	{
+		"term" : "East Ayrshire and North Ayrshire mainland"
+	},
+	{
+		"term" : "East Cumbria"
+	},
+	{
+		"term" : "East Derbyshire"
+	},
+	{
+		"term" : "East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond"
+	},
+	{
+		"term" : "East Lothian and Midlothian"
+	},
+	{
+		"term" : "East Merseyside"
+	},
+	{
+		"term" : "East of Northern Ireland"
+	},
+	{
+		"term" : "East Riding of Yorkshire"
+	},
+	{
+		"term" : "East Sussex CC"
+	},
+	{
+		"term" : "Ebersberg"
+	},
+	{
+		"term" : "Edinburgh, City of"
+	},
+	{
+		"term" : "Eichsfeld"
+	},
+	{
+		"term" : "Eichstätt"
+	},
+	{
+		"term" : "Eifelkreis Bitburg-Prüm"
+	},
+	{
+		"term" : "Eilean Siar (Western Isles)"
+	},
+	{
+		"term" : "Eisenach, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Eivissa y Formentera"
+	},
+	{
+		"term" : "El Hierro"
+	},
+	{
+		"term" : "Elbe-Elster"
+	},
+	{
+		"term" : "Elbląski"
+	},
+	{
+		"term" : "Ełcki"
+	},
+	{
+		"term" : "Emden, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Emmendingen"
+	},
+	{
+		"term" : "Emsland"
+	},
+	{
+		"term" : "Enna"
+	},
+	{
+		"term" : "Ennepe-Ruhr-Kreis"
+	},
+	{
+		"term" : "Entre Douro e Vouga"
+	},
+	{
+		"term" : "Enzkreis"
+	},
+	{
+		"term" : "Erding"
+	},
+	{
+		"term" : "Erfurt, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Erlangen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Erlangen-Höchstadt"
+	},
+	{
+		"term" : "Erzgebirgskreis"
+	},
+	{
+		"term" : "Essen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Essex CC"
+	},
+	{
+		"term" : "Esslingen"
+	},
+	{
+		"term" : "Essonne"
+	},
+	{
+		"term" : "Etelä-Karjala"
+	},
+	{
+		"term" : "Etela-Pohjanmaa"
+	},
+	{
+		"term" : "Etela-Savo"
+	},
+	{
+		"term" : "Eure"
+	},
+	{
+		"term" : "Eure-et-Loir"
+	},
+	{
+		"term" : "Euskirchen"
+	},
+	{
+		"term" : "Evros"
+	},
+	{
+		"term" : "Evrytania"
+	},
+	{
+		"term" : "Evvoia"
+	},
+	{
+		"term" : "Falkirk"
+	},
+	{
+		"term" : "Fejér"
+	},
+	{
+		"term" : "Fermo"
+	},
+	{
+		"term" : "Ferrara"
+	},
+	{
+		"term" : "Finistère"
+	},
+	{
+		"term" : "Finnmark"
+	},
+	{
+		"term" : "Firenze"
+	},
+	{
+		"term" : "Flensburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Flevoland"
+	},
+	{
+		"term" : "Flintshire and Wrexham"
+	},
+	{
+		"term" : "Florina"
+	},
+	{
+		"term" : "Foggia"
+	},
+	{
+		"term" : "Fokida"
+	},
+	{
+		"term" : "Forchheim"
+	},
+	{
+		"term" : "Forlì-Cesena"
+	},
+	{
+		"term" : "Frankenthal (Pfalz), Kreisfreie Stadt"
+	},
+	{
+		"term" : "Frankfurt (Oder), Kreisfreie Stadt"
+	},
+	{
+		"term" : "Frankfurt am Main, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Freiburg im Breisgau, Stadtkreis"
+	},
+	{
+		"term" : "Freising"
+	},
+	{
+		"term" : "Freudenstadt"
+	},
+	{
+		"term" : "Freyung-Grafenau"
+	},
+	{
+		"term" : "Fribourg"
+	},
+	{
+		"term" : "Friesland (DE)"
+	},
+	{
+		"term" : "Frosinone"
+	},
+	{
+		"term" : "Fthiotida"
+	},
+	{
+		"term" : "Fuerteventura"
+	},
+	{
+		"term" : "Fulda"
+	},
+	{
+		"term" : "Fürstenfeldbruck"
+	},
+	{
+		"term" : "Fürth, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Fürth, Landkreis"
+	},
+	{
+		"term" : "Fyn"
+	},
+	{
+		"term" : "Gabrovo"
+	},
+	{
+		"term" : "Galaţi"
+	},
+	{
+		"term" : "Gard"
+	},
+	{
+		"term" : "Garmisch-Partenkirchen"
+	},
+	{
+		"term" : "Gävleborgs län"
+	},
+	{
+		"term" : "Gdański"
+	},
+	{
+		"term" : "Gelsenkirchen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Geneva"
+	},
+	{
+		"term" : "Genova"
+	},
+	{
+		"term" : "Gera, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Germersheim"
+	},
+	{
+		"term" : "Gers"
+	},
+	{
+		"term" : "Gießen, Landkreis"
+	},
+	{
+		"term" : "Gifhorn"
+	},
+	{
+		"term" : "Girona"
+	},
+	{
+		"term" : "Gironde"
+	},
+	{
+		"term" : "Giurgiu"
+	},
+	{
+		"term" : "Glarus"
+	},
+	{
+		"term" : "Glasgow City"
+	},
+	{
+		"term" : "Gliwicki"
+	},
+	{
+		"term" : "Gloucestershire"
+	},
+	{
+		"term" : "Göppingen"
+	},
+	{
+		"term" : "Gorenjska"
+	},
+	{
+		"term" : "Goriška"
+	},
+	{
+		"term" : "Gorizia"
+	},
+	{
+		"term" : "Gorj"
+	},
+	{
+		"term" : "Görlitz"
+	},
+	{
+		"term" : "Gorzowski"
+	},
+	{
+		"term" : "Goslar"
+	},
+	{
+		"term" : "Gotha"
+	},
+	{
+		"term" : "Gotlands län"
+	},
+	{
+		"term" : "Göttingen"
+	},
+	{
+		"term" : "Gozo and Comino \/ Għawdex u Kemmuna"
+	},
+	{
+		"term" : "Grad Zagreb"
+	},
+	{
+		"term" : "Grafschaft Bentheim"
+	},
+	{
+		"term" : "Gran Canaria"
+	},
+	{
+		"term" : "Granada"
+	},
+	{
+		"term" : "Grande Lisboa"
+	},
+	{
+		"term" : "Grande Porto"
+	},
+	{
+		"term" : "Graz"
+	},
+	{
+		"term" : "Greater Manchester North"
+	},
+	{
+		"term" : "Greater Manchester South"
+	},
+	{
+		"term" : "Greifswald, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Greiz"
+	},
+	{
+		"term" : "Grevena"
+	},
+	{
+		"term" : "Grisons"
+	},
+	{
+		"term" : "Groot-Amsterdam"
+	},
+	{
+		"term" : "Groot-Rijnmond"
+	},
+	{
+		"term" : "Grosseto"
+	},
+	{
+		"term" : "Groß-Gerau"
+	},
+	{
+		"term" : "Grudziądzki"
+	},
+	{
+		"term" : "Guadalajara"
+	},
+	{
+		"term" : "Guadeloupe"
+	},
+	{
+		"term" : "Guipúzcoa"
+	},
+	{
+		"term" : "Günzburg"
+	},
+	{
+		"term" : "Güstrow"
+	},
+	{
+		"term" : "Gütersloh"
+	},
+	{
+		"term" : "Guyane"
+	},
+	{
+		"term" : "Gwent Valleys"
+	},
+	{
+		"term" : "Gwynedd"
+	},
+	{
+		"term" : "Győr-Moson-Sopron"
+	},
+	{
+		"term" : "Hagen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Hajdú-Bihar"
+	},
+	{
+		"term" : "Hallands län"
+	},
+	{
+		"term" : "Halle (Saale), Kreisfreie Stadt"
+	},
+	{
+		"term" : "Hamburg"
+	},
+	{
+		"term" : "Hameln-Pyrmont"
+	},
+	{
+		"term" : "Hamm, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Hampshire CC"
+	},
+	{
+		"term" : "Harburg"
+	},
+	{
+		"term" : "Harghita"
+	},
+	{
+		"term" : "Hartlepool and Stockton-on-Tees"
+	},
+	{
+		"term" : "Harz"
+	},
+	{
+		"term" : "Haskovo"
+	},
+	{
+		"term" : "Haßberge"
+	},
+	{
+		"term" : "Haute-Corse"
+	},
+	{
+		"term" : "Haute-Garonne"
+	},
+	{
+		"term" : "Haute-Loire"
+	},
+	{
+		"term" : "Haute-Marne"
+	},
+	{
+		"term" : "Hautes-Alpes"
+	},
+	{
+		"term" : "Haute-Saône"
+	},
+	{
+		"term" : "Haute-Savoie"
+	},
+	{
+		"term" : "Hautes-Pyrénées"
+	},
+	{
+		"term" : "Haute-Vienne"
+	},
+	{
+		"term" : "Haut-Rhin"
+	},
+	{
+		"term" : "Hauts-de-Seine"
+	},
+	{
+		"term" : "Havelland"
+	},
+	{
+		"term" : "Hedmark"
+	},
+	{
+		"term" : "Heidelberg, Stadtkreis"
+	},
+	{
+		"term" : "Heidenheim"
+	},
+	{
+		"term" : "Heilbronn, Landkreis"
+	},
+	{
+		"term" : "Heilbronn, Stadtkreis"
+	},
+	{
+		"term" : "Heinsberg"
+	},
+	{
+		"term" : "Helmstedt"
+	},
+	{
+		"term" : "Helsinki-Uusimaa"
+	},
+	{
+		"term" : "Hérault"
+	},
+	{
+		"term" : "Herefordshire, County of"
+	},
+	{
+		"term" : "Herford"
+	},
+	{
+		"term" : "Herne, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Hersfeld-Rotenburg"
+	},
+	{
+		"term" : "Hertfordshire"
+	},
+	{
+		"term" : "Herzogtum Lauenburg"
+	},
+	{
+		"term" : "Het Gooi en Vechtstreek"
+	},
+	{
+		"term" : "Heves"
+	},
+	{
+		"term" : "Hildburghausen"
+	},
+	{
+		"term" : "Hildesheim"
+	},
+	{
+		"term" : "Hlavní město Praha"
+	},
+	{
+		"term" : "Hochsauerlandkreis"
+	},
+	{
+		"term" : "Hochtaunuskreis"
+	},
+	{
+		"term" : "Hof, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Hof, Landkreis"
+	},
+	{
+		"term" : "Hohenlohekreis"
+	},
+	{
+		"term" : "Holzminden"
+	},
+	{
+		"term" : "Hordaland"
+	},
+	{
+		"term" : "Höxter"
+	},
+	{
+		"term" : "Huelva"
+	},
+	{
+		"term" : "Huesca"
+	},
+	{
+		"term" : "Hunedoara"
+	},
+	{
+		"term" : "Ialomiţa"
+	},
+	{
+		"term" : "Iaşi"
+	},
+	{
+		"term" : "IJmond"
+	},
+	{
+		"term" : "Ileia"
+	},
+	{
+		"term" : "Ilfov"
+	},
+	{
+		"term" : "Ille-et-Vilaine"
+	},
+	{
+		"term" : "Ilm-Kreis"
+	},
+	{
+		"term" : "Imathia"
+	},
+	{
+		"term" : "Imperia"
+	},
+	{
+		"term" : "Indre"
+	},
+	{
+		"term" : "Indre-et-Loire"
+	},
+	{
+		"term" : "Ingolstadt, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Inner London - East"
+	},
+	{
+		"term" : "Inner London - West"
+	},
+	{
+		"term" : "Innsbruck"
+	},
+	{
+		"term" : "Innviertel"
+	},
+	{
+		"term" : "Inverclyde, East Renfrewshire and Renfrewshire"
+	},
+	{
+		"term" : "Inverness & Nairn and Moray, Badenoch & Strathspey"
+	},
+	{
+		"term" : "Ioannina"
+	},
+	{
+		"term" : "Irakleio"
+	},
+	{
+		"term" : "Isère"
+	},
+	{
+		"term" : "Isernia"
+	},
+	{
+		"term" : "Island"
+	},
+	{
+		"term" : "Isle of Anglesey"
+	},
+	{
+		"term" : "Isle of Wight"
+	},
+	{
+		"term" : "Istarska županija"
+	},
+	{
+		"term" : "Jaén"
+	},
+	{
+		"term" : "Jämtlands län"
+	},
+	{
+		"term" : "Jász-Nagykun-Szolnok"
+	},
+	{
+		"term" : "Jeleniogórski"
+	},
+	{
+		"term" : "Jena, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Jerichower Land"
+	},
+	{
+		"term" : "Jihočeský kraj"
+	},
+	{
+		"term" : "Jihomoravský kraj"
+	},
+	{
+		"term" : "Jönköpings län"
+	},
+	{
+		"term" : "Jugovzhodna Slovenija"
+	},
+	{
+		"term" : "Jura"
+	},
+	{
+		"term" : "Jura"
+	},
+	{
+		"term" : "Kainuu"
+	},
+	{
+		"term" : "Kaiserslautern, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kaiserslautern, Landkreis"
+	},
+	{
+		"term" : "Kaliski"
+	},
+	{
+		"term" : "Kalmar län"
+	},
+	{
+		"term" : "Kanta-Häme"
+	},
+	{
+		"term" : "Karditsa"
+	},
+	{
+		"term" : "Kardzhali"
+	},
+	{
+		"term" : "Karlovačka županija"
+	},
+	{
+		"term" : "Karlovarský kraj"
+	},
+	{
+		"term" : "Karlsruhe, Landkreis"
+	},
+	{
+		"term" : "Karlsruhe, Stadtkreis"
+	},
+	{
+		"term" : "Kassel, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kassel, Landkreis"
+	},
+	{
+		"term" : "Kastoria"
+	},
+	{
+		"term" : "Katowicki"
+	},
+	{
+		"term" : "Kaufbeuren, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kauno apskritis"
+	},
+	{
+		"term" : "Kavala"
+	},
+	{
+		"term" : "Kefallinia"
+	},
+	{
+		"term" : "Kelheim"
+	},
+	{
+		"term" : "Kempten (Allgäu), Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kent CC"
+	},
+	{
+		"term" : "Kerkyra"
+	},
+	{
+		"term" : "Kesk-Eesti"
+	},
+	{
+		"term" : "Keski-Pohjanmaa"
+	},
+	{
+		"term" : "Keski-Suomi"
+	},
+	{
+		"term" : "Kiel, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kielecki"
+	},
+	{
+		"term" : "Kilkis"
+	},
+	{
+		"term" : "Kingston upon Hull, City of"
+	},
+	{
+		"term" : "Kirde-Eesti"
+	},
+	{
+		"term" : "Kitzingen"
+	},
+	{
+		"term" : "Klagenfurt-Villach"
+	},
+	{
+		"term" : "Klaipėdos apskritis"
+	},
+	{
+		"term" : "Kleve"
+	},
+	{
+		"term" : "Københavns omegn"
+	},
+	{
+		"term" : "Koblenz, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Köln, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Komárom-Esztergom"
+	},
+	{
+		"term" : "Koniński"
+	},
+	{
+		"term" : "Konstanz"
+	},
+	{
+		"term" : "Kop van Noord-Holland"
+	},
+	{
+		"term" : "Koprivničko-križevačka županija"
+	},
+	{
+		"term" : "Korinthia"
+	},
+	{
+		"term" : "Koroška"
+	},
+	{
+		"term" : "Košický kraj"
+	},
+	{
+		"term" : "Koszaliński"
+	},
+	{
+		"term" : "Kozani"
+	},
+	{
+		"term" : "Kraj Vysočina"
+	},
+	{
+		"term" : "Krakowski"
+	},
+	{
+		"term" : "Královéhradecký kraj"
+	},
+	{
+		"term" : "Krapinsko-zagorska županija"
+	},
+	{
+		"term" : "Krefeld, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Kronach"
+	},
+	{
+		"term" : "Kronobergs län"
+	},
+	{
+		"term" : "Krośnieński"
+	},
+	{
+		"term" : "Kulmbach"
+	},
+	{
+		"term" : "Kurzeme"
+	},
+	{
+		"term" : "Kusel"
+	},
+	{
+		"term" : "Kyffhäuserkreis"
+	},
+	{
+		"term" : "Kyklades"
+	},
+	{
+		"term" : "Kymenlaakso"
+	},
+	{
+		"term" : "Kýpros"
+	},
+	{
+		"term" : "Kyustendil"
+	},
+	{
+		"term" : "La Gomera"
+	},
+	{
+		"term" : "La Palma"
+	},
+	{
+		"term" : "La Rioja"
+	},
+	{
+		"term" : "La Spezia"
+	},
+	{
+		"term" : "Lääne-Eesti"
+	},
+	{
+		"term" : "Lahn-Dill-Kreis"
+	},
+	{
+		"term" : "Lakonia"
+	},
+	{
+		"term" : "Lancashire CC"
+	},
+	{
+		"term" : "Landau in der Pfalz, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Landes"
+	},
+	{
+		"term" : "Landsberg am Lech"
+	},
+	{
+		"term" : "Landshut, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Landshut, Landkreis"
+	},
+	{
+		"term" : "Lanzarote"
+	},
+	{
+		"term" : "Lappi"
+	},
+	{
+		"term" : "L'Aquila"
+	},
+	{
+		"term" : "Larisa"
+	},
+	{
+		"term" : "Lasithi"
+	},
+	{
+		"term" : "Latgale"
+	},
+	{
+		"term" : "Latina"
+	},
+	{
+		"term" : "Lecce"
+	},
+	{
+		"term" : "Lecco"
+	},
+	{
+		"term" : "Leeds"
+	},
+	{
+		"term" : "Leer"
+	},
+	{
+		"term" : "Lefkada"
+	},
+	{
+		"term" : "Legnicko-Głogowski"
+	},
+	{
+		"term" : "Leicester"
+	},
+	{
+		"term" : "Leicestershire CC and Rutland"
+	},
+	{
+		"term" : "Leipzig"
+	},
+	{
+		"term" : "Leipzig, Kreisfreie Stadt"
+	},
+	{
+		"term" : "León"
+	},
+	{
+		"term" : "Lesvos"
+	},
+	{
+		"term" : "Leszczyński"
+	},
+	{
+		"term" : "Leverkusen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Lezíria do Tejo"
+	},
+	{
+		"term" : "Liberecký kraj"
+	},
+	{
+		"term" : "Lichtenfels"
+	},
+	{
+		"term" : "Ličko-senjska županija"
+	},
+	{
+		"term" : "Liechtenstein"
+	},
+	{
+		"term" : "Liezen"
+	},
+	{
+		"term" : "Limburg-Weilburg"
+	},
+	{
+		"term" : "Lincolnshire"
+	},
+	{
+		"term" : "Lindau (Bodensee)"
+	},
+	{
+		"term" : "Linz-Wels"
+	},
+	{
+		"term" : "Lippe"
+	},
+	{
+		"term" : "Liverpool"
+	},
+	{
+		"term" : "Livorno"
+	},
+	{
+		"term" : "Lleida"
+	},
+	{
+		"term" : "Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"
+	},
+	{
+		"term" : "Lodi"
+	},
+	{
+		"term" : "Łódzki"
+	},
+	{
+		"term" : "Loire"
+	},
+	{
+		"term" : "Loire-Atlantique"
+	},
+	{
+		"term" : "Loiret"
+	},
+	{
+		"term" : "Loir-et-Cher"
+	},
+	{
+		"term" : "Łomżyński"
+	},
+	{
+		"term" : "Lörrach"
+	},
+	{
+		"term" : "Lot"
+	},
+	{
+		"term" : "Lot-et-Garonne"
+	},
+	{
+		"term" : "Lõuna-Eesti"
+	},
+	{
+		"term" : "Lovech"
+	},
+	{
+		"term" : "Lozère"
+	},
+	{
+		"term" : "Lübeck, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Lubelski"
+	},
+	{
+		"term" : "Lucca"
+	},
+	{
+		"term" : "Lucerne"
+	},
+	{
+		"term" : "Lüchow-Dannenberg"
+	},
+	{
+		"term" : "Ludwigsburg"
+	},
+	{
+		"term" : "Ludwigshafen am Rhein, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Ludwigslust"
+	},
+	{
+		"term" : "Lugo"
+	},
+	{
+		"term" : "Lüneburg, Landkreis"
+	},
+	{
+		"term" : "Lungau"
+	},
+	{
+		"term" : "Luton"
+	},
+	{
+		"term" : "Luxembourg"
+	},
+	{
+		"term" : "Macerata"
+	},
+	{
+		"term" : "Madrid"
+	},
+	{
+		"term" : "Magdeburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Magnisia"
+	},
+	{
+		"term" : "Maine-et-Loire"
+	},
+	{
+		"term" : "Main-Kinzig-Kreis"
+	},
+	{
+		"term" : "Main-Spessart"
+	},
+	{
+		"term" : "Main-Tauber-Kreis"
+	},
+	{
+		"term" : "Main-Taunus-Kreis"
+	},
+	{
+		"term" : "Mainz, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Mainz-Bingen"
+	},
+	{
+		"term" : "Málaga"
+	},
+	{
+		"term" : "Mallorca"
+	},
+	{
+		"term" : "Malta"
+	},
+	{
+		"term" : "Manche"
+	},
+	{
+		"term" : "Mannheim, Stadtkreis"
+	},
+	{
+		"term" : "Mansfeld-Südharz"
+	},
+	{
+		"term" : "Mantova"
+	},
+	{
+		"term" : "Maramureş"
+	},
+	{
+		"term" : "Marburg-Biedenkopf"
+	},
+	{
+		"term" : "Marijampolės apskritis"
+	},
+	{
+		"term" : "Märkischer Kreis"
+	},
+	{
+		"term" : "Märkisch-Oderland"
+	},
+	{
+		"term" : "Marne"
+	},
+	{
+		"term" : "Martinique"
+	},
+	{
+		"term" : "Massa-Carrara"
+	},
+	{
+		"term" : "Matera"
+	},
+	{
+		"term" : "Mayen-Koblenz"
+	},
+	{
+		"term" : "Mayenne"
+	},
+	{
+		"term" : "Mecklenburg-Strelitz"
+	},
+	{
+		"term" : "Međimurska županija"
+	},
+	{
+		"term" : "Medio Campidano"
+	},
+	{
+		"term" : "Médio Tejo"
+	},
+	{
+		"term" : "Medway"
+	},
+	{
+		"term" : "Mehedinţi"
+	},
+	{
+		"term" : "Meißen"
+	},
+	{
+		"term" : "Melilla"
+	},
+	{
+		"term" : "Memmingen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Menorca"
+	},
+	{
+		"term" : "Merzig-Wadern"
+	},
+	{
+		"term" : "Messina"
+	},
+	{
+		"term" : "Messinia"
+	},
+	{
+		"term" : "Mettmann"
+	},
+	{
+		"term" : "Meurthe-et-Moselle"
+	},
+	{
+		"term" : "Meuse"
+	},
+	{
+		"term" : "Miasto Kraków"
+	},
+	{
+		"term" : "Miasto Łódź"
+	},
+	{
+		"term" : "Miasto Poznań"
+	},
+	{
+		"term" : "Miasto Szczecin"
+	},
+	{
+		"term" : "Miasto Warszawa"
+	},
+	{
+		"term" : "Miasto Wrocław"
+	},
+	{
+		"term" : "Midden-Limburg"
+	},
+	{
+		"term" : "Midden-Noord-Brabant"
+	},
+	{
+		"term" : "Mid-East"
+	},
+	{
+		"term" : "Midland"
+	},
+	{
+		"term" : "Mid-West"
+	},
+	{
+		"term" : "Miesbach"
+	},
+	{
+		"term" : "Milano"
+	},
+	{
+		"term" : "Miltenberg"
+	},
+	{
+		"term" : "Milton Keynes"
+	},
+	{
+		"term" : "Minden-Lübbecke"
+	},
+	{
+		"term" : "Minho-Lima"
+	},
+	{
+		"term" : "Mittelburgenland"
+	},
+	{
+		"term" : "Mittelsachsen"
+	},
+	{
+		"term" : "Modena"
+	},
+	{
+		"term" : "Mönchengladbach, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Monmouthshire and Newport"
+	},
+	{
+		"term" : "Montana"
+	},
+	{
+		"term" : "Monza e della Brianza"
+	},
+	{
+		"term" : "Moravskoslezský kraj"
+	},
+	{
+		"term" : "Morbihan"
+	},
+	{
+		"term" : "Møre og Romsdal"
+	},
+	{
+		"term" : "Moselle"
+	},
+	{
+		"term" : "Mostviertel-Eisenwurzen"
+	},
+	{
+		"term" : "Mühldorf a. Inn"
+	},
+	{
+		"term" : "Mühlviertel"
+	},
+	{
+		"term" : "Mülheim an der Ruhr, Kreisfreie Stadt"
+	},
+	{
+		"term" : "München, Kreisfreie Stadt"
+	},
+	{
+		"term" : "München, Landkreis"
+	},
+	{
+		"term" : "Münster, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Murcia"
+	},
+	{
+		"term" : "Mureş"
+	},
+	{
+		"term" : "Müritz"
+	},
+	{
+		"term" : "Napoli"
+	},
+	{
+		"term" : "Navarra"
+	},
+	{
+		"term" : "Neamţ"
+	},
+	{
+		"term" : "Neckar-Odenwald-Kreis"
+	},
+	{
+		"term" : "Neubrandenburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Neuburg-Schrobenhausen"
+	},
+	{
+		"term" : "Neuchâtel"
+	},
+	{
+		"term" : "Neumarkt i. d. OPf."
+	},
+	{
+		"term" : "Neumünster, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Neunkirchen"
+	},
+	{
+		"term" : "Neustadt a. d. Aisch-Bad Windsheim"
+	},
+	{
+		"term" : "Neustadt a. d. Waldnaab"
+	},
+	{
+		"term" : "Neustadt an der Weinstraße, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Neu-Ulm"
+	},
+	{
+		"term" : "Neuwied"
+	},
+	{
+		"term" : "Nidwald \/ Nidwalden"
+	},
+	{
+		"term" : "Niederösterreich-Süd"
+	},
+	{
+		"term" : "Nienburg (Weser)"
+	},
+	{
+		"term" : "Nièvre"
+	},
+	{
+		"term" : "Nitriansky kraj"
+	},
+	{
+		"term" : "Nógrád"
+	},
+	{
+		"term" : "Noord-Drenthe"
+	},
+	{
+		"term" : "Noord-Friesland"
+	},
+	{
+		"term" : "Noord-Limburg"
+	},
+	{
+		"term" : "Noordoost-Noord-Brabant"
+	},
+	{
+		"term" : "Noord-Overijssel"
+	},
+	{
+		"term" : "Nord"
+	},
+	{
+		"term" : "Nordburgenland"
+	},
+	{
+		"term" : "Nordfriesland"
+	},
+	{
+		"term" : "Nordhausen"
+	},
+	{
+		"term" : "Nordjylland"
+	},
+	{
+		"term" : "Nordland"
+	},
+	{
+		"term" : "Nordsachsen"
+	},
+	{
+		"term" : "Nordsjælland"
+	},
+	{
+		"term" : "Nord-Trøndelag"
+	},
+	{
+		"term" : "Nordvorpommern"
+	},
+	{
+		"term" : "Nordwestmecklenburg"
+	},
+	{
+		"term" : "Norfolk"
+	},
+	{
+		"term" : "Norrbottens län"
+	},
+	{
+		"term" : "North and North East Lincolnshire"
+	},
+	{
+		"term" : "North Lanarkshire"
+	},
+	{
+		"term" : "North Northamptonshire"
+	},
+	{
+		"term" : "North Nottinghamshire"
+	},
+	{
+		"term" : "North of Northern Ireland"
+	},
+	{
+		"term" : "North Yorkshire CC"
+	},
+	{
+		"term" : "Northeim"
+	},
+	{
+		"term" : "Northumberland"
+	},
+	{
+		"term" : "Notranjsko-kraška"
+	},
+	{
+		"term" : "Nottingham"
+	},
+	{
+		"term" : "Novara"
+	},
+	{
+		"term" : "Nowosądecki"
+	},
+	{
+		"term" : "Nuoro"
+	},
+	{
+		"term" : "Nürnberg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Nürnberger Land"
+	},
+	{
+		"term" : "Nyski"
+	},
+	{
+		"term" : "Obalno-kraška"
+	},
+	{
+		"term" : "Oberallgäu"
+	},
+	{
+		"term" : "Oberbergischer Kreis"
+	},
+	{
+		"term" : "Oberhausen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Oberhavel"
+	},
+	{
+		"term" : "Oberkärnten"
+	},
+	{
+		"term" : "Oberspreewald-Lausitz"
+	},
+	{
+		"term" : "Obwald \/ Obwalden"
+	},
+	{
+		"term" : "Odenwaldkreis"
+	},
+	{
+		"term" : "Oder-Spree"
+	},
+	{
+		"term" : "Oeste"
+	},
+	{
+		"term" : "Offenbach am Main, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Offenbach, Landkreis"
+	},
+	{
+		"term" : "Ogliastra"
+	},
+	{
+		"term" : "Oise"
+	},
+	{
+		"term" : "Olbia-Tempio"
+	},
+	{
+		"term" : "Oldenburg (Oldenburg), Kreisfreie Stadt"
+	},
+	{
+		"term" : "Oldenburg, Landkreis"
+	},
+	{
+		"term" : "Olomoucký kraj"
+	},
+	{
+		"term" : "Olpe"
+	},
+	{
+		"term" : "Olsztyński"
+	},
+	{
+		"term" : "Olt"
+	},
+	{
+		"term" : "Oost-Groningen"
+	},
+	{
+		"term" : "Oost-Zuid-Holland"
+	},
+	{
+		"term" : "Opolski"
+	},
+	{
+		"term" : "Oppland"
+	},
+	{
+		"term" : "Örebro län"
+	},
+	{
+		"term" : "Oristano"
+	},
+	{
+		"term" : "Orkney Islands"
+	},
+	{
+		"term" : "Orne"
+	},
+	{
+		"term" : "Ortenaukreis"
+	},
+	{
+		"term" : "Osječko-baranjska županija"
+	},
+	{
+		"term" : "Oslo"
+	},
+	{
+		"term" : "Osnabrück, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Osnabrück, Landkreis"
+	},
+	{
+		"term" : "Osrednjeslovenska"
+	},
+	{
+		"term" : "Ostalbkreis"
+	},
+	{
+		"term" : "Ostallgäu"
+	},
+	{
+		"term" : "Östergötlands län"
+	},
+	{
+		"term" : "Osterholz"
+	},
+	{
+		"term" : "Osterode am Harz"
+	},
+	{
+		"term" : "Østfold"
+	},
+	{
+		"term" : "Ostholstein"
+	},
+	{
+		"term" : "Østjylland"
+	},
+	{
+		"term" : "Östliche Obersteiermark"
+	},
+	{
+		"term" : "Ostprignitz-Ruppin"
+	},
+	{
+		"term" : "Ostrołęcko-siedlecki"
+	},
+	{
+		"term" : "Østsjælland"
+	},
+	{
+		"term" : "Oststeiermark"
+	},
+	{
+		"term" : "Osttirol"
+	},
+	{
+		"term" : "Ostvorpommern"
+	},
+	{
+		"term" : "Oświęcimski"
+	},
+	{
+		"term" : "Ourense"
+	},
+	{
+		"term" : "Outer Belfast"
+	},
+	{
+		"term" : "Outer London - East and North East"
+	},
+	{
+		"term" : "Outer London - South"
+	},
+	{
+		"term" : "Outer London - West and North West"
+	},
+	{
+		"term" : "Overig Groningen"
+	},
+	{
+		"term" : "Overig Zeeland"
+	},
+	{
+		"term" : "Oxfordshire"
+	},
+	{
+		"term" : "Paderborn"
+	},
+	{
+		"term" : "Padova"
+	},
+	{
+		"term" : "Päijät-Häme"
+	},
+	{
+		"term" : "Palencia"
+	},
+	{
+		"term" : "Palermo"
+	},
+	{
+		"term" : "Panevėžio apskritis"
+	},
+	{
+		"term" : "Parchim"
+	},
+	{
+		"term" : "Pardubický kraj"
+	},
+	{
+		"term" : "Paris"
+	},
+	{
+		"term" : "Parma"
+	},
+	{
+		"term" : "Pas-de-Calais"
+	},
+	{
+		"term" : "Passau, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Passau, Landkreis"
+	},
+	{
+		"term" : "Pavia"
+	},
+	{
+		"term" : "Pazardzhik"
+	},
+	{
+		"term" : "Peine"
+	},
+	{
+		"term" : "Pella"
+	},
+	{
+		"term" : "Península de Setúbal"
+	},
+	{
+		"term" : "Pernik"
+	},
+	{
+		"term" : "Perth & Kinross and Stirling"
+	},
+	{
+		"term" : "Perugia"
+	},
+	{
+		"term" : "Pesaro e Urbino"
+	},
+	{
+		"term" : "Pescara"
+	},
+	{
+		"term" : "Pest"
+	},
+	{
+		"term" : "Peterborough"
+	},
+	{
+		"term" : "Pfaffenhofen a. d. Ilm"
+	},
+	{
+		"term" : "Pforzheim, Stadtkreis"
+	},
+	{
+		"term" : "Piacenza"
+	},
+	{
+		"term" : "Pieria"
+	},
+	{
+		"term" : "Pierīga"
+	},
+	{
+		"term" : "Pilski"
+	},
+	{
+		"term" : "Pinhal Interior Norte"
+	},
+	{
+		"term" : "Pinhal Interior Sul"
+	},
+	{
+		"term" : "Pinhal Litoral"
+	},
+	{
+		"term" : "Pinneberg"
+	},
+	{
+		"term" : "Pinzgau-Pongau"
+	},
+	{
+		"term" : "Piotrkowski"
+	},
+	{
+		"term" : "Pirkanmaa"
+	},
+	{
+		"term" : "Pirmasens, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Pisa"
+	},
+	{
+		"term" : "Pistoia"
+	},
+	{
+		"term" : "Pleven"
+	},
+	{
+		"term" : "Plön"
+	},
+	{
+		"term" : "Plovdiv"
+	},
+	{
+		"term" : "Plymouth"
+	},
+	{
+		"term" : "Plzeňský kraj"
+	},
+	{
+		"term" : "Podravska"
+	},
+	{
+		"term" : "Põhja-Eesti"
+	},
+	{
+		"term" : "Pohjanmaa"
+	},
+	{
+		"term" : "Pohjois-Karjala"
+	},
+	{
+		"term" : "Pohjois-Pohjanmaa"
+	},
+	{
+		"term" : "Pohjois-Savo"
+	},
+	{
+		"term" : "Pomurska"
+	},
+	{
+		"term" : "Pontevedra"
+	},
+	{
+		"term" : "Pordenone"
+	},
+	{
+		"term" : "Portsmouth"
+	},
+	{
+		"term" : "Potenza"
+	},
+	{
+		"term" : "Potsdam, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Potsdam-Mittelmark"
+	},
+	{
+		"term" : "Powys"
+	},
+	{
+		"term" : "Požeško-slavonska županija"
+	},
+	{
+		"term" : "Poznański"
+	},
+	{
+		"term" : "Prahova"
+	},
+	{
+		"term" : "Prato"
+	},
+	{
+		"term" : "Prešovský kraj"
+	},
+	{
+		"term" : "Preveza"
+	},
+	{
+		"term" : "Prignitz"
+	},
+	{
+		"term" : "Primorsko-goranska županija"
+	},
+	{
+		"term" : "Przemyski"
+	},
+	{
+		"term" : "Puławski"
+	},
+	{
+		"term" : "Puy-de-Dôme"
+	},
+	{
+		"term" : "Pyrénées-Atlantiques"
+	},
+	{
+		"term" : "Pyrénées-Orientales"
+	},
+	{
+		"term" : "Radomski"
+	},
+	{
+		"term" : "Ragusa"
+	},
+	{
+		"term" : "Rastatt"
+	},
+	{
+		"term" : "Ravenna"
+	},
+	{
+		"term" : "Ravensburg"
+	},
+	{
+		"term" : "Razgrad"
+	},
+	{
+		"term" : "Recklinghausen"
+	},
+	{
+		"term" : "Regen"
+	},
+	{
+		"term" : "Regensburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Regensburg, Landkreis"
+	},
+	{
+		"term" : "Reggio di Calabria"
+	},
+	{
+		"term" : "Reggio nell'Emilia"
+	},
+	{
+		"term" : "Região Autónoma da Madeira"
+	},
+	{
+		"term" : "Região Autónoma dos Açores"
+	},
+	{
+		"term" : "Region Hannover"
+	},
+	{
+		"term" : "Regionalverband Saarbrücken"
+	},
+	{
+		"term" : "Remscheid, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Rems-Murr-Kreis"
+	},
+	{
+		"term" : "Rendsburg-Eckernförde"
+	},
+	{
+		"term" : "Rethymni"
+	},
+	{
+		"term" : "Réunion"
+	},
+	{
+		"term" : "Reutlingen"
+	},
+	{
+		"term" : "Rhein-Erft-Kreis"
+	},
+	{
+		"term" : "Rheingau-Taunus-Kreis"
+	},
+	{
+		"term" : "Rhein-Hunsrück-Kreis"
+	},
+	{
+		"term" : "Rheinisch-Bergischer Kreis"
+	},
+	{
+		"term" : "Rhein-Kreis Neuss"
+	},
+	{
+		"term" : "Rhein-Lahn-Kreis"
+	},
+	{
+		"term" : "Rhein-Neckar-Kreis"
+	},
+	{
+		"term" : "Rhein-Pfalz-Kreis"
+	},
+	{
+		"term" : "Rhein-Sieg-Kreis"
+	},
+	{
+		"term" : "Rheintal-Bodenseegebiet"
+	},
+	{
+		"term" : "Rhône"
+	},
+	{
+		"term" : "Rhön-Grabfeld"
+	},
+	{
+		"term" : "Rieti"
+	},
+	{
+		"term" : "Rīga"
+	},
+	{
+		"term" : "Rimini"
+	},
+	{
+		"term" : "Rodopi"
+	},
+	{
+		"term" : "Rogaland"
+	},
+	{
+		"term" : "Roma"
+	},
+	{
+		"term" : "Rosenheim, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Rosenheim, Landkreis"
+	},
+	{
+		"term" : "Rostock, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Rotenburg (Wümme)"
+	},
+	{
+		"term" : "Roth"
+	},
+	{
+		"term" : "Rottal-Inn"
+	},
+	{
+		"term" : "Rottweil"
+	},
+	{
+		"term" : "Rovigo"
+	},
+	{
+		"term" : "Rügen"
+	},
+	{
+		"term" : "Ruse"
+	},
+	{
+		"term" : "Rybnicki"
+	},
+	{
+		"term" : "Rzeszowski"
+	},
+	{
+		"term" : "Saale-Holzland-Kreis"
+	},
+	{
+		"term" : "Saalekreis"
+	},
+	{
+		"term" : "Saale-Orla-Kreis"
+	},
+	{
+		"term" : "Saalfeld-Rudolstadt"
+	},
+	{
+		"term" : "Saarlouis"
+	},
+	{
+		"term" : "Saarpfalz-Kreis"
+	},
+	{
+		"term" : "Sächsische Schweiz-Osterzgebirge"
+	},
+	{
+		"term" : "Sălaj"
+	},
+	{
+		"term" : "Salamanca"
+	},
+	{
+		"term" : "Salerno"
+	},
+	{
+		"term" : "Salzburg und Umgebung"
+	},
+	{
+		"term" : "Salzgitter, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Salzlandkreis"
+	},
+	{
+		"term" : "Samos"
+	},
+	{
+		"term" : "Sandomiersko-jędrzejowski"
+	},
+	{
+		"term" : "Sandwell"
+	},
+	{
+		"term" : "Sankt Pölten"
+	},
+	{
+		"term" : "Saône-et-Loire"
+	},
+	{
+		"term" : "Sarthe"
+	},
+	{
+		"term" : "Sassari"
+	},
+	{
+		"term" : "Satakunta"
+	},
+	{
+		"term" : "Satu Mare"
+	},
+	{
+		"term" : "Savinjska"
+	},
+	{
+		"term" : "Savoie"
+	},
+	{
+		"term" : "Savona"
+	},
+	{
+		"term" : "Schaffhausen"
+	},
+	{
+		"term" : "Schaumburg"
+	},
+	{
+		"term" : "Schleswig-Flensburg"
+	},
+	{
+		"term" : "Schmalkalden-Meiningen"
+	},
+	{
+		"term" : "Schwabach, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Schwäbisch Hall"
+	},
+	{
+		"term" : "Schwalm-Eder-Kreis"
+	},
+	{
+		"term" : "Schwandorf"
+	},
+	{
+		"term" : "Schwarzwald-Baar-Kreis"
+	},
+	{
+		"term" : "Schweinfurt, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Schweinfurt, Landkreis"
+	},
+	{
+		"term" : "Schwerin, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Schwyz"
+	},
+	{
+		"term" : "Scottish Borders"
+	},
+	{
+		"term" : "Sefton"
+	},
+	{
+		"term" : "Segeberg"
+	},
+	{
+		"term" : "Segovia"
+	},
+	{
+		"term" : "Seine-et-Marne"
+	},
+	{
+		"term" : "Seine-Maritime"
+	},
+	{
+		"term" : "Seine-Saint-Denis"
+	},
+	{
+		"term" : "Serra da Estrela"
+	},
+	{
+		"term" : "Serres"
+	},
+	{
+		"term" : "Sevilla"
+	},
+	{
+		"term" : "Sheffield"
+	},
+	{
+		"term" : "Shetland Islands"
+	},
+	{
+		"term" : "Shropshire CC"
+	},
+	{
+		"term" : "Shumen"
+	},
+	{
+		"term" : "Šiaulių apskritis"
+	},
+	{
+		"term" : "Šibensko-kninska županija"
+	},
+	{
+		"term" : "Sibiu"
+	},
+	{
+		"term" : "Siegen-Wittgenstein"
+	},
+	{
+		"term" : "Siena"
+	},
+	{
+		"term" : "Sieradzki"
+	},
+	{
+		"term" : "Sigmaringen"
+	},
+	{
+		"term" : "Silistra"
+	},
+	{
+		"term" : "Siracusa"
+	},
+	{
+		"term" : "Sisačko-moslavačka županija"
+	},
+	{
+		"term" : "Skåne län"
+	},
+	{
+		"term" : "Skierniewicki"
+	},
+	{
+		"term" : "Sliven"
+	},
+	{
+		"term" : "Słupski"
+	},
+	{
+		"term" : "Smolyan"
+	},
+	{
+		"term" : "Södermanlands län"
+	},
+	{
+		"term" : "Soest"
+	},
+	{
+		"term" : "Sofia"
+	},
+	{
+		"term" : "Sofia (stolitsa)"
+	},
+	{
+		"term" : "Sogn og Fjordane"
+	},
+	{
+		"term" : "Solihull"
+	},
+	{
+		"term" : "Solingen, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Solothurn"
+	},
+	{
+		"term" : "Soltau-Fallingbostel"
+	},
+	{
+		"term" : "Somerset"
+	},
+	{
+		"term" : "Somme"
+	},
+	{
+		"term" : "Sömmerda"
+	},
+	{
+		"term" : "Somogy"
+	},
+	{
+		"term" : "Sondrio"
+	},
+	{
+		"term" : "Sonneberg"
+	},
+	{
+		"term" : "Sør- Trøndelag"
+	},
+	{
+		"term" : "Soria"
+	},
+	{
+		"term" : "Sosnowiecki"
+	},
+	{
+		"term" : "South and West Derbyshire"
+	},
+	{
+		"term" : "South Ayrshire"
+	},
+	{
+		"term" : "South Lanarkshire"
+	},
+	{
+		"term" : "South Nottinghamshire"
+	},
+	{
+		"term" : "South Teesside"
+	},
+	{
+		"term" : "South West Wales"
+	},
+	{
+		"term" : "Southampton"
+	},
+	{
+		"term" : "South-East (IE)"
+	},
+	{
+		"term" : "Southend-on-Sea"
+	},
+	{
+		"term" : "South-West (IE)"
+	},
+	{
+		"term" : "Speyer, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Splitsko-dalmatinska županija"
+	},
+	{
+		"term" : "Spodnjeposavska"
+	},
+	{
+		"term" : "Spree-Neiße"
+	},
+	{
+		"term" : "St. Gall"
+	},
+	{
+		"term" : "St. Wendel"
+	},
+	{
+		"term" : "Stade"
+	},
+	{
+		"term" : "Städteregion Aachen"
+	},
+	{
+		"term" : "Staffordshire CC"
+	},
+	{
+		"term" : "Stara Zagora"
+	},
+	{
+		"term" : "Stargardzki"
+	},
+	{
+		"term" : "Starnberg"
+	},
+	{
+		"term" : "Starogardzki"
+	},
+	{
+		"term" : "Steinburg"
+	},
+	{
+		"term" : "Steinfurt"
+	},
+	{
+		"term" : "Stendal"
+	},
+	{
+		"term" : "Steyr-Kirchdorf"
+	},
+	{
+		"term" : "Stockholms län"
+	},
+	{
+		"term" : "Stoke-on-Trent"
+	},
+	{
+		"term" : "Stormarn"
+	},
+	{
+		"term" : "Stralsund, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Straubing, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Straubing-Bogen"
+	},
+	{
+		"term" : "Středočeský kraj"
+	},
+	{
+		"term" : "Stuttgart, Stadtkreis"
+	},
+	{
+		"term" : "Suceava"
+	},
+	{
+		"term" : "Südburgenland"
+	},
+	{
+		"term" : "Südliche Weinstraße"
+	},
+	{
+		"term" : "Südwestpfalz"
+	},
+	{
+		"term" : "Suffolk"
+	},
+	{
+		"term" : "Suhl, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Sunderland"
+	},
+	{
+		"term" : "Surrey"
+	},
+	{
+		"term" : "Suwalski"
+	},
+	{
+		"term" : "Swansea"
+	},
+	{
+		"term" : "Swindon"
+	},
+	{
+		"term" : "Sydjylland"
+	},
+	{
+		"term" : "Szabolcs-Szatmár-Bereg"
+	},
+	{
+		"term" : "Szczeciński"
+	},
+	{
+		"term" : "Tâmega"
+	},
+	{
+		"term" : "Taranto"
+	},
+	{
+		"term" : "Targovishte"
+	},
+	{
+		"term" : "Tarn"
+	},
+	{
+		"term" : "Tarn-et-Garonne"
+	},
+	{
+		"term" : "Tarnobrzeski"
+	},
+	{
+		"term" : "Tarnowski"
+	},
+	{
+		"term" : "Tarragona"
+	},
+	{
+		"term" : "Tauragės apskritis"
+	},
+	{
+		"term" : "Telemark"
+	},
+	{
+		"term" : "Teleorman"
+	},
+	{
+		"term" : "Telford and Wrekin"
+	},
+	{
+		"term" : "Telšių apskritis"
+	},
+	{
+		"term" : "Teltow-Fläming"
+	},
+	{
+		"term" : "Tenerife"
+	},
+	{
+		"term" : "Teramo"
+	},
+	{
+		"term" : "Terni"
+	},
+	{
+		"term" : "Territoire de Belfort"
+	},
+	{
+		"term" : "Teruel"
+	},
+	{
+		"term" : "Thesprotia"
+	},
+	{
+		"term" : "Thessaloniki"
+	},
+	{
+		"term" : "Thurgovia \/ Thurgau"
+	},
+	{
+		"term" : "Thurrock"
+	},
+	{
+		"term" : "Ticino"
+	},
+	{
+		"term" : "Timiş"
+	},
+	{
+		"term" : "Tiroler Oberland"
+	},
+	{
+		"term" : "Tiroler Unterland"
+	},
+	{
+		"term" : "Tirschenreuth"
+	},
+	{
+		"term" : "Toledo"
+	},
+	{
+		"term" : "Tolna"
+	},
+	{
+		"term" : "Torbay"
+	},
+	{
+		"term" : "Torino"
+	},
+	{
+		"term" : "Trapani"
+	},
+	{
+		"term" : "Traunstein"
+	},
+	{
+		"term" : "Traunviertel"
+	},
+	{
+		"term" : "Trenčiansky kraj"
+	},
+	{
+		"term" : "Trento"
+	},
+	{
+		"term" : "Treviso"
+	},
+	{
+		"term" : "Trier, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Trier-Saarburg"
+	},
+	{
+		"term" : "Trieste"
+	},
+	{
+		"term" : "Trikala"
+	},
+	{
+		"term" : "Trnavský kraj"
+	},
+	{
+		"term" : "Trójmiejski"
+	},
+	{
+		"term" : "Troms"
+	},
+	{
+		"term" : "Tübingen, Landkreis"
+	},
+	{
+		"term" : "Tulcea"
+	},
+	{
+		"term" : "Tuttlingen"
+	},
+	{
+		"term" : "Twente"
+	},
+	{
+		"term" : "Tyneside"
+	},
+	{
+		"term" : "Tyski"
+	},
+	{
+		"term" : "Uckermark"
+	},
+	{
+		"term" : "Udine"
+	},
+	{
+		"term" : "Uecker-Randow"
+	},
+	{
+		"term" : "Uelzen"
+	},
+	{
+		"term" : "Ulm, Stadtkreis"
+	},
+	{
+		"term" : "Unna"
+	},
+	{
+		"term" : "Unstrut-Hainich-Kreis"
+	},
+	{
+		"term" : "Unterallgäu"
+	},
+	{
+		"term" : "Unterkärnten"
+	},
+	{
+		"term" : "Uppsala län"
+	},
+	{
+		"term" : "Uri"
+	},
+	{
+		"term" : "Ústecký kraj"
+	},
+	{
+		"term" : "Utenos apskritis"
+	},
+	{
+		"term" : "Utrecht"
+	},
+	{
+		"term" : "Valais"
+	},
+	{
+		"term" : "Vâlcea"
+	},
+	{
+		"term" : "Val-de-Marne"
+	},
+	{
+		"term" : "Val-d'Oise"
+	},
+	{
+		"term" : "Valencia \/ València"
+	},
+	{
+		"term" : "Valladolid"
+	},
+	{
+		"term" : "Valle d'Aosta\/Vallée d'Aoste"
+	},
+	{
+		"term" : "Var"
+	},
+	{
+		"term" : "Varaždinska županija"
+	},
+	{
+		"term" : "Varese"
+	},
+	{
+		"term" : "Värmlands län"
+	},
+	{
+		"term" : "Varna"
+	},
+	{
+		"term" : "Varsinais-Suomi"
+	},
+	{
+		"term" : "Vas"
+	},
+	{
+		"term" : "Vaslui"
+	},
+	{
+		"term" : "Västerbottens län"
+	},
+	{
+		"term" : "Västernorrlands län"
+	},
+	{
+		"term" : "Västmanlands län"
+	},
+	{
+		"term" : "Västra Götalands län"
+	},
+	{
+		"term" : "Vaucluse"
+	},
+	{
+		"term" : "Vaud"
+	},
+	{
+		"term" : "Vechta"
+	},
+	{
+		"term" : "Veliko Tarnovo"
+	},
+	{
+		"term" : "Veluwe"
+	},
+	{
+		"term" : "Vendée"
+	},
+	{
+		"term" : "Venezia"
+	},
+	{
+		"term" : "Verbano-Cusio-Ossola"
+	},
+	{
+		"term" : "Vercelli"
+	},
+	{
+		"term" : "Verden"
+	},
+	{
+		"term" : "Verona"
+	},
+	{
+		"term" : "Vest- og Sydsjælland"
+	},
+	{
+		"term" : "Vest-Agder"
+	},
+	{
+		"term" : "Vestfold"
+	},
+	{
+		"term" : "Vestjylland"
+	},
+	{
+		"term" : "Veszprém"
+	},
+	{
+		"term" : "Vibo Valentia"
+	},
+	{
+		"term" : "Vicenza"
+	},
+	{
+		"term" : "Vidin"
+	},
+	{
+		"term" : "Vidzeme"
+	},
+	{
+		"term" : "Vienne"
+	},
+	{
+		"term" : "Viersen"
+	},
+	{
+		"term" : "Vilniaus apskritis"
+	},
+	{
+		"term" : "Virovitičko-podravska županija"
+	},
+	{
+		"term" : "Viterbo"
+	},
+	{
+		"term" : "Vizcaya"
+	},
+	{
+		"term" : "Vogelsbergkreis"
+	},
+	{
+		"term" : "Vogtlandkreis"
+	},
+	{
+		"term" : "Voiotia"
+	},
+	{
+		"term" : "Vosges"
+	},
+	{
+		"term" : "Vrancea"
+	},
+	{
+		"term" : "Vratsa"
+	},
+	{
+		"term" : "Vukovarsko-srijemska županija"
+	},
+	{
+		"term" : "Vulkaneifel"
+	},
+	{
+		"term" : "Wakefield"
+	},
+	{
+		"term" : "Wałbrzyski"
+	},
+	{
+		"term" : "Waldeck-Frankenberg"
+	},
+	{
+		"term" : "Waldshut"
+	},
+	{
+		"term" : "Waldviertel"
+	},
+	{
+		"term" : "Walsall"
+	},
+	{
+		"term" : "Warendorf"
+	},
+	{
+		"term" : "Warrington"
+	},
+	{
+		"term" : "Warszawski-wschodni"
+	},
+	{
+		"term" : "Warszawski-zachodni"
+	},
+	{
+		"term" : "Wartburgkreis"
+	},
+	{
+		"term" : "Warwickshire"
+	},
+	{
+		"term" : "Weiden i. d. Opf, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Weilheim-Schongau"
+	},
+	{
+		"term" : "Weimar, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Weimarer Land"
+	},
+	{
+		"term" : "Weinviertel"
+	},
+	{
+		"term" : "Weißenburg-Gunzenhausen"
+	},
+	{
+		"term" : "Werra-Meißner-Kreis"
+	},
+	{
+		"term" : "Wesel"
+	},
+	{
+		"term" : "Wesermarsch"
+	},
+	{
+		"term" : "West"
+	},
+	{
+		"term" : "West and South of Northern Ireland"
+	},
+	{
+		"term" : "West Cumbria"
+	},
+	{
+		"term" : "West Lothian"
+	},
+	{
+		"term" : "West Northamptonshire"
+	},
+	{
+		"term" : "West Sussex"
+	},
+	{
+		"term" : "West- und Südsteiermark"
+	},
+	{
+		"term" : "Westerwaldkreis"
+	},
+	{
+		"term" : "Westliche Obersteiermark"
+	},
+	{
+		"term" : "West-Noord-Brabant"
+	},
+	{
+		"term" : "Wetteraukreis"
+	},
+	{
+		"term" : "Wien"
+	},
+	{
+		"term" : "Wiener Umland\/Nordteil"
+	},
+	{
+		"term" : "Wiener Umland\/Südteil"
+	},
+	{
+		"term" : "Wiesbaden, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Wilhelmshaven, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Wiltshire CC"
+	},
+	{
+		"term" : "Wirral"
+	},
+	{
+		"term" : "Wismar, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Wittenberg"
+	},
+	{
+		"term" : "Wittmund"
+	},
+	{
+		"term" : "Włocławski"
+	},
+	{
+		"term" : "Wolfenbüttel"
+	},
+	{
+		"term" : "Wolfsburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Wolverhampton"
+	},
+	{
+		"term" : "Worcestershire"
+	},
+	{
+		"term" : "Worms, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Wrocławski"
+	},
+	{
+		"term" : "Wunsiedel i. Fichtelgebirge"
+	},
+	{
+		"term" : "Wuppertal, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Würzburg, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Würzburg, Landkreis"
+	},
+	{
+		"term" : "Xanthi"
+	},
+	{
+		"term" : "Yambol"
+	},
+	{
+		"term" : "Yonne"
+	},
+	{
+		"term" : "York"
+	},
+	{
+		"term" : "Yvelines"
+	},
+	{
+		"term" : "Zaanstreek"
+	},
+	{
+		"term" : "Zadarska županija"
+	},
+	{
+		"term" : "Zagrebačka županija"
+	},
+	{
+		"term" : "Zakynthos"
+	},
+	{
+		"term" : "Zala"
+	},
+	{
+		"term" : "Zamora"
+	},
+	{
+		"term" : "Zaragoza"
+	},
+	{
+		"term" : "Zasavska"
+	},
+	{
+		"term" : "Zeeuwsch-Vlaanderen"
+	},
+	{
+		"term" : "Zemgale"
+	},
+	{
+		"term" : "Zielonogórski"
+	},
+	{
+		"term" : "Žilinský kraj"
+	},
+	{
+		"term" : "Zlínský kraj"
+	},
+	{
+		"term" : "Zollernalbkreis"
+	},
+	{
+		"term" : "Zug"
+	},
+	{
+		"term" : "Zuid-Limburg"
+	},
+	{
+		"term" : "Zuidoost-Drenthe"
+	},
+	{
+		"term" : "Zuidoost-Friesland"
+	},
+	{
+		"term" : "Zuidoost-Noord-Brabant"
+	},
+	{
+		"term" : "Zuidoost-Zuid-Holland"
+	},
+	{
+		"term" : "Zuidwest-Drenthe"
+	},
+	{
+		"term" : "Zuidwest-Friesland"
+	},
+	{
+		"term" : "Zuidwest-Gelderland"
+	},
+	{
+		"term" : "Zuidwest-Overijssel"
+	},
+	{
+		"term" : "Zurich"
+	},
+	{
+		"term" : "Zweibrücken, Kreisfreie Stadt"
+	},
+	{
+		"term" : "Zwickau"
+	}
+]

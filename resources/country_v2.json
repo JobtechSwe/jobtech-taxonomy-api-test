@@ -1,0 +1,752 @@
+[
+	{
+		"term" : "Afghanistan"
+	},
+	{
+		"term" : "Åland (tillhör Finland)"
+	},
+	{
+		"term" : "Albanien"
+	},
+	{
+		"term" : "Algeriet"
+	},
+	{
+		"term" : "Amerikanska Samoa"
+	},
+	{
+		"term" : "Amerikanska, mindre uteliggande öar"
+	},
+	{
+		"term" : "Andorra"
+	},
+	{
+		"term" : "Angola"
+	},
+	{
+		"term" : "Anguilla"
+	},
+	{
+		"term" : "Antarktis"
+	},
+	{
+		"term" : "Antigua och Barbuda"
+	},
+	{
+		"term" : "Argentina"
+	},
+	{
+		"term" : "Armenien"
+	},
+	{
+		"term" : "Aruba"
+	},
+	{
+		"term" : "Australien"
+	},
+	{
+		"term" : "Azerbajdzjan"
+	},
+	{
+		"term" : "Bahamas"
+	},
+	{
+		"term" : "Bahrain"
+	},
+	{
+		"term" : "Bangladesh"
+	},
+	{
+		"term" : "Barbados"
+	},
+	{
+		"term" : "Belgien"
+	},
+	{
+		"term" : "Belize"
+	},
+	{
+		"term" : "Benin"
+	},
+	{
+		"term" : "Bermuda"
+	},
+	{
+		"term" : "Bhutan"
+	},
+	{
+		"term" : "Bolivia"
+	},
+	{
+		"term" : "Bonaire, Sint Eustatius och Saba"
+	},
+	{
+		"term" : "Bosnien och Hercegovina"
+	},
+	{
+		"term" : "Botswana"
+	},
+	{
+		"term" : "Bouvetön"
+	},
+	{
+		"term" : "Brasilien"
+	},
+	{
+		"term" : "Brittiska Indiska Oceanöarna"
+	},
+	{
+		"term" : "Brunei Darussalam"
+	},
+	{
+		"term" : "Bulgarien"
+	},
+	{
+		"term" : "Burkina Faso"
+	},
+	{
+		"term" : "Burundi"
+	},
+	{
+		"term" : "Caymanöarna"
+	},
+	{
+		"term" : "Centralafrikanska republiken"
+	},
+	{
+		"term" : "Chile"
+	},
+	{
+		"term" : "Colombia"
+	},
+	{
+		"term" : "Comorerna"
+	},
+	{
+		"term" : "Cooköarna"
+	},
+	{
+		"term" : "Costa Rica"
+	},
+	{
+		"term" : "Curaçao"
+	},
+	{
+		"term" : "Cypern"
+	},
+	{
+		"term" : "Danmark"
+	},
+	{
+		"term" : "Djibouti"
+	},
+	{
+		"term" : "Dominica"
+	},
+	{
+		"term" : "Dominikanska republiken"
+	},
+	{
+		"term" : "Ecuador"
+	},
+	{
+		"term" : "Egypten"
+	},
+	{
+		"term" : "Ekvatorialguinea"
+	},
+	{
+		"term" : "El Salvador"
+	},
+	{
+		"term" : "Elfenbenskusten"
+	},
+	{
+		"term" : "Eritrea"
+	},
+	{
+		"term" : "Estland"
+	},
+	{
+		"term" : "Etiopien"
+	},
+	{
+		"term" : "Falklandsöarna"
+	},
+	{
+		"term" : "Färöarna"
+	},
+	{
+		"term" : "Fijiöarna"
+	},
+	{
+		"term" : "Filippinerna"
+	},
+	{
+		"term" : "Finland"
+	},
+	{
+		"term" : "Förenade arabemiraten"
+	},
+	{
+		"term" : "Förenta staterna (Amerikas förenta stater)"
+	},
+	{
+		"term" : "Frankrike"
+	},
+	{
+		"term" : "Franska Guyana"
+	},
+	{
+		"term" : "Franska Polynesien"
+	},
+	{
+		"term" : "Franska Sydterritorierna"
+	},
+	{
+		"term" : "Gabon"
+	},
+	{
+		"term" : "Gambia"
+	},
+	{
+		"term" : "Georgien"
+	},
+	{
+		"term" : "Ghana"
+	},
+	{
+		"term" : "Gibraltar"
+	},
+	{
+		"term" : "Grekland"
+	},
+	{
+		"term" : "Grenada"
+	},
+	{
+		"term" : "Grönland"
+	},
+	{
+		"term" : "Guadeloupe"
+	},
+	{
+		"term" : "Guam"
+	},
+	{
+		"term" : "Guatemala"
+	},
+	{
+		"term" : "Guernsey"
+	},
+	{
+		"term" : "Guinea"
+	},
+	{
+		"term" : "Guinea-Bissau"
+	},
+	{
+		"term" : "Guyana"
+	},
+	{
+		"term" : "Haiti"
+	},
+	{
+		"term" : "Heardön och McDonaldöarna"
+	},
+	{
+		"term" : "Heliga stolen (Vatikanstaten)"
+	},
+	{
+		"term" : "Honduras"
+	},
+	{
+		"term" : "Hongkong"
+	},
+	{
+		"term" : "Indien"
+	},
+	{
+		"term" : "Indonesien"
+	},
+	{
+		"term" : "Irak"
+	},
+	{
+		"term" : "Iran"
+	},
+	{
+		"term" : "Irland"
+	},
+	{
+		"term" : "Island"
+	},
+	{
+		"term" : "Isle of Man"
+	},
+	{
+		"term" : "Israel"
+	},
+	{
+		"term" : "Italien"
+	},
+	{
+		"term" : "Jamaica"
+	},
+	{
+		"term" : "Japan"
+	},
+	{
+		"term" : "Jemen"
+	},
+	{
+		"term" : "Jersey"
+	},
+	{
+		"term" : "Jordanien"
+	},
+	{
+		"term" : "Julön"
+	},
+	{
+		"term" : "Jungfruöarna, Brittiska"
+	},
+	{
+		"term" : "Jungfruöarna, Förenta Staternas"
+	},
+	{
+		"term" : "Kambodja"
+	},
+	{
+		"term" : "Kamerun"
+	},
+	{
+		"term" : "Kanada"
+	},
+	{
+		"term" : "Kap Verde"
+	},
+	{
+		"term" : "Kazakstan"
+	},
+	{
+		"term" : "Kenya"
+	},
+	{
+		"term" : "Kina"
+	},
+	{
+		"term" : "Kirgizistan"
+	},
+	{
+		"term" : "Kiribati"
+	},
+	{
+		"term" : "Kokosöarna"
+	},
+	{
+		"term" : "Kongo, demokratiska republiken"
+	},
+	{
+		"term" : "Kongo, republiken"
+	},
+	{
+		"term" : "Kosovo"
+	},
+	{
+		"term" : "Kroatien"
+	},
+	{
+		"term" : "Kuba"
+	},
+	{
+		"term" : "Kuwait"
+	},
+	{
+		"term" : "Laos"
+	},
+	{
+		"term" : "Lesotho"
+	},
+	{
+		"term" : "Lettland"
+	},
+	{
+		"term" : "Libanon"
+	},
+	{
+		"term" : "Liberia"
+	},
+	{
+		"term" : "Libyen"
+	},
+	{
+		"term" : "Liechtenstein"
+	},
+	{
+		"term" : "Litauen"
+	},
+	{
+		"term" : "Luxemburg"
+	},
+	{
+		"term" : "Macao"
+	},
+	{
+		"term" : "Madagaskar"
+	},
+	{
+		"term" : "Makedonien"
+	},
+	{
+		"term" : "Malawi"
+	},
+	{
+		"term" : "Malaysia"
+	},
+	{
+		"term" : "Maldiverna"
+	},
+	{
+		"term" : "Mali"
+	},
+	{
+		"term" : "Malta"
+	},
+	{
+		"term" : "Marocko"
+	},
+	{
+		"term" : "Marshallöarna"
+	},
+	{
+		"term" : "Martinique"
+	},
+	{
+		"term" : "Mauretanien"
+	},
+	{
+		"term" : "Mauritius"
+	},
+	{
+		"term" : "Mayotte"
+	},
+	{
+		"term" : "Mexiko\/Mexikos förenta stater"
+	},
+	{
+		"term" : "Mikronesiska federationen"
+	},
+	{
+		"term" : "Moçambique"
+	},
+	{
+		"term" : "Moldavien"
+	},
+	{
+		"term" : "Monaco"
+	},
+	{
+		"term" : "Mongoliet"
+	},
+	{
+		"term" : "Montenegro"
+	},
+	{
+		"term" : "Montserrat"
+	},
+	{
+		"term" : "Myanmar (Burma)"
+	},
+	{
+		"term" : "Namibia"
+	},
+	{
+		"term" : "Nauru"
+	},
+	{
+		"term" : "Nederländerna"
+	},
+	{
+		"term" : "Nepal"
+	},
+	{
+		"term" : "Nicaragua"
+	},
+	{
+		"term" : "Niger"
+	},
+	{
+		"term" : "Nigeria"
+	},
+	{
+		"term" : "Niue"
+	},
+	{
+		"term" : "Nordkorea"
+	},
+	{
+		"term" : "Norfolkön"
+	},
+	{
+		"term" : "Norge"
+	},
+	{
+		"term" : "Norra Marianaöarna"
+	},
+	{
+		"term" : "Nya Kaledonien"
+	},
+	{
+		"term" : "Nya Zeeland"
+	},
+	{
+		"term" : "Oman"
+	},
+	{
+		"term" : "Österrike"
+	},
+	{
+		"term" : "Östtimor"
+	},
+	{
+		"term" : "Pakistan"
+	},
+	{
+		"term" : "Palau"
+	},
+	{
+		"term" : "Palestina"
+	},
+	{
+		"term" : "Panama"
+	},
+	{
+		"term" : "Papua Nya Guinea"
+	},
+	{
+		"term" : "Paraguay"
+	},
+	{
+		"term" : "Peru"
+	},
+	{
+		"term" : "Pitcairn"
+	},
+	{
+		"term" : "Polen"
+	},
+	{
+		"term" : "Portugal"
+	},
+	{
+		"term" : "Puerto Rico"
+	},
+	{
+		"term" : "Qatar"
+	},
+	{
+		"term" : "Reunion"
+	},
+	{
+		"term" : "Rumänien"
+	},
+	{
+		"term" : "Rwanda"
+	},
+	{
+		"term" : "Ryssland\/Ryska Federationen"
+	},
+	{
+		"term" : "Saint Barthélemy"
+	},
+	{
+		"term" : "Saint Helena"
+	},
+	{
+		"term" : "Saint Kitts och Nevis"
+	},
+	{
+		"term" : "Saint Lucia"
+	},
+	{
+		"term" : "Saint Martin (franska delen)"
+	},
+	{
+		"term" : "Saint Pierre och Miquelon"
+	},
+	{
+		"term" : "Saint Vincent och Grenadinerna"
+	},
+	{
+		"term" : "Salomonöarna"
+	},
+	{
+		"term" : "Samoa"
+	},
+	{
+		"term" : "San Marino"
+	},
+	{
+		"term" : "São Tomé och Príncipe"
+	},
+	{
+		"term" : "Saudiarabien"
+	},
+	{
+		"term" : "Schweiz"
+	},
+	{
+		"term" : "Senegal"
+	},
+	{
+		"term" : "Serbien"
+	},
+	{
+		"term" : "Seychellerna"
+	},
+	{
+		"term" : "Sierra Leone"
+	},
+	{
+		"term" : "Singapore"
+	},
+	{
+		"term" : "Sint Maarten (nederländska delen)"
+	},
+	{
+		"term" : "Slovakien"
+	},
+	{
+		"term" : "Slovenien"
+	},
+	{
+		"term" : "Somalia"
+	},
+	{
+		"term" : "Spanien"
+	},
+	{
+		"term" : "Sri Lanka"
+	},
+	{
+		"term" : "Storbritannien och Nordirland"
+	},
+	{
+		"term" : "Sudan"
+	},
+	{
+		"term" : "Surinam"
+	},
+	{
+		"term" : "Svalbard och Jan Mayen"
+	},
+	{
+		"term" : "Sverige"
+	},
+	{
+		"term" : "Swaziland"
+	},
+	{
+		"term" : "Sydafrika"
+	},
+	{
+		"term" : "Sydgeorgien och Södra Sandwichöarna"
+	},
+	{
+		"term" : "Sydkorea"
+	},
+	{
+		"term" : "Sydsudan"
+	},
+	{
+		"term" : "Syrien"
+	},
+	{
+		"term" : "Tadzjikistan"
+	},
+	{
+		"term" : "Taiwan"
+	},
+	{
+		"term" : "Tanzania"
+	},
+	{
+		"term" : "Tchad"
+	},
+	{
+		"term" : "Thailand"
+	},
+	{
+		"term" : "Tjeckien"
+	},
+	{
+		"term" : "Togo"
+	},
+	{
+		"term" : "Tokelau"
+	},
+	{
+		"term" : "Tonga"
+	},
+	{
+		"term" : "Trinidad och Tobago"
+	},
+	{
+		"term" : "Tunisien"
+	},
+	{
+		"term" : "Turkiet"
+	},
+	{
+		"term" : "Turkmenistan"
+	},
+	{
+		"term" : "Turks- och Caicosöarna"
+	},
+	{
+		"term" : "Tuvalu"
+	},
+	{
+		"term" : "Tyskland"
+	},
+	{
+		"term" : "Uganda"
+	},
+	{
+		"term" : "Ukraina"
+	},
+	{
+		"term" : "Ungern"
+	},
+	{
+		"term" : "Uruguay"
+	},
+	{
+		"term" : "Uzbekistan"
+	},
+	{
+		"term" : "Vanuatu"
+	},
+	{
+		"term" : "Västsahara"
+	},
+	{
+		"term" : "Venezuela"
+	},
+	{
+		"term" : "Vietnam"
+	},
+	{
+		"term" : "Vitryssland"
+	},
+	{
+		"term" : "Wallis och Futuna"
+	},
+	{
+		"term" : "Zambia"
+	},
+	{
+		"term" : "Zimbabwe"
+	}
+]
