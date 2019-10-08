@@ -120,7 +120,7 @@
 
 (deftest test-all
   (do
-    (run-taxonomy-tests types-short develop-url)
-    (run-taxonomy-tests types-short production-url)
+    (run-taxonomy-tests types develop-url)
+    (run-taxonomy-tests types production-url)
     )
   )
