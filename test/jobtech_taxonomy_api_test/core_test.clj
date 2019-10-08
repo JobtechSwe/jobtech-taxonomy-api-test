@@ -42,17 +42,18 @@
 
 
 (defn get-remote-and-local-values [type local-preferred-labels url]
-  (apply map vector (map #(get-remote-preferredLabel % type url) local-preferred-labels))
+  (map #(get-remote-preferredLabel % type url) local-preferred-labels)
   )
 
 
 (defn is-local-equal-to-remote [type file url]
-  (let [[expected actual]
-        (get-remote-and-local-values type
-                                     (parse-local-preferred-labels file)
-                                     url
-                                     )]
-    (is (= expected actual))
+  (let [
+        result (get-remote-and-local-values type (parse-local-preferred-labels file) url)]
+
+
+    (doall (map (fn [[expected actual]]
+               (is (= expected actual))
+               )  result ))
     )
   )
 
@@ -119,7 +120,7 @@
 
 (deftest test-all
   (do
-    (run-taxonomy-tests types develop-url)
-    (run-taxonomy-tests types production-url)
+    (run-taxonomy-tests types-short develop-url)
+    (run-taxonomy-tests types-short production-url)
     )
   )
