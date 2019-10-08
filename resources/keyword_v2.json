@@ -60,6 +60,9 @@
 		"term" : "Barnkonsulent, församling"
 	},
 	{
+		"term" : "Barnombudsman"
+	},
+	{
 		"term" : "Båtsäljare"
 	},
 	{
@@ -67,6 +70,9 @@
 	},
 	{
 		"term" : "B-chaufför"
+	},
+	{
+		"term" : "Befolkningsstatistiker"
 	},
 	{
 		"term" : "Besöksnäring"
@@ -109,6 +115,9 @@
 	},
 	{
 		"term" : "Bitr. rektor"
+	},
+	{
+		"term" : "Biträdande förskolechef"
 	},
 	{
 		"term" : "Blommor"
@@ -252,6 +261,9 @@
 		"term" : "Databasarkitekt"
 	},
 	{
+		"term" : "Databastekniker"
+	},
+	{
 		"term" : "Dekoratör, inredning"
 	},
 	{
@@ -268,6 +280,9 @@
 	},
 	{
 		"term" : "Direktreklam"
+	},
+	{
+		"term" : "Diskrimineringsombudsman"
 	},
 	{
 		"term" : "DJ"
@@ -298,6 +313,9 @@
 	},
 	{
 		"term" : "ERPAS-pilot"
+	},
+	{
+		"term" : "Eventvärd\/Eventvärdinna"
 	},
 	{
 		"term" : "Fältmekaniker"
@@ -355,6 +373,9 @@
 	},
 	{
 		"term" : "Förskola"
+	},
+	{
+		"term" : "Förskolechef"
 	},
 	{
 		"term" : "Förskolelärare"
@@ -492,7 +513,13 @@
 		"term" : "Juridik"
 	},
 	{
+		"term" : "Juridisk ombudsman"
+	},
+	{
 		"term" : "Jurist"
+	},
+	{
+		"term" : "Justitieombudsman"
 	},
 	{
 		"term" : "Kabinpersonal"
@@ -532,6 +559,12 @@
 	},
 	{
 		"term" : "Konstnärlig ledare"
+	},
+	{
+		"term" : "Konsuemntombudsman"
+	},
+	{
+		"term" : "Konsumentombudsman"
 	},
 	{
 		"term" : "Kosmetik"
@@ -717,6 +750,9 @@
 		"term" : "Nanny"
 	},
 	{
+		"term" : "Näringsfrihetsombudsman"
+	},
+	{
 		"term" : "Narkossjuksköterska"
 	},
 	{
@@ -727,6 +763,9 @@
 	},
 	{
 		"term" : "Nutrition"
+	},
+	{
+		"term" : "Nyhetstextare"
 	},
 	{
 		"term" : "Ombordpersonal"
@@ -990,6 +1029,9 @@
 		"term" : "Stadsarkitekt"
 	},
 	{
+		"term" : "Stadsombudsman"
+	},
+	{
 		"term" : "Statoil"
 	},
 	{
@@ -1012,6 +1054,9 @@
 	},
 	{
 		"term" : "Svensklegitimerad läkare"
+	},
+	{
+		"term" : "Svensktextare"
 	},
 	{
 		"term" : "Svets"
@@ -1102,6 +1147,9 @@
 	},
 	{
 		"term" : "Underläkare"
+	},
+	{
+		"term" : "Undertextare"
 	},
 	{
 		"term" : "Upphandling"

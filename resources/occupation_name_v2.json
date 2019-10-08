@@ -96,7 +96,7 @@
 		"term" : "Aktiemäklare"
 	},
 	{
-		"term" : "Aktuarie"
+		"term" : "Aktuarie\/Försäkringsaktuarie\/Försäkringsmatematiker"
 	},
 	{
 		"term" : "Akupressör"
@@ -717,9 +717,6 @@
 		"term" : "Barnmorska, vårdavdelning\/BB-avdelning"
 	},
 	{
-		"term" : "Barnombudsman"
-	},
-	{
 		"term" : "Barnpsykolog"
 	},
 	{
@@ -796,9 +793,6 @@
 	},
 	{
 		"term" : "Befaren maskinpersonal, sjöfart"
-	},
-	{
-		"term" : "Befolkningsstatistiker"
 	},
 	{
 		"term" : "Befraktningsmäklare"
@@ -951,7 +945,7 @@
 		"term" : "Bibliotekskonsulent"
 	},
 	{
-		"term" : "Big data analyst\/Stordata-analytiker\/Big data analytiker"
+		"term" : "Big data analyst\/Stordata-analytiker"
 	},
 	{
 		"term" : "Bilbärgare"
@@ -1056,7 +1050,7 @@
 		"term" : "Biträdande butikschef\/Säljande butikschef"
 	},
 	{
-		"term" : "Biträdande förskolechef"
+		"term" : "Biträdande förskolerektor"
 	},
 	{
 		"term" : "Biträdande jurist"
@@ -1302,6 +1296,9 @@
 		"term" : "Butiksinspektör"
 	},
 	{
+		"term" : "Butikskock"
+	},
+	{
 		"term" : "Butikskommunikatör\/Visual merchandiser"
 	},
 	{
@@ -1348,9 +1345,6 @@
 	},
 	{
 		"term" : "Byggnadsplåtslagare"
-	},
-	{
-		"term" : "Byggnadsråd"
 	},
 	{
 		"term" : "Byggnadssmed"
@@ -1680,9 +1674,6 @@
 		"term" : "Databasdesigner"
 	},
 	{
-		"term" : "Databastekniker"
-	},
-	{
 		"term" : "Databasutvecklare"
 	},
 	{
@@ -1800,9 +1791,6 @@
 		"term" : "Diakon"
 	},
 	{
-		"term" : "Dietetiker"
-	},
-	{
 		"term" : "Dietist"
 	},
 	{
@@ -1825,9 +1813,6 @@
 	},
 	{
 		"term" : "Diskare"
-	},
-	{
-		"term" : "Diskrimineringsombudsman"
 	},
 	{
 		"term" : "Dispatcher"
@@ -1942,9 +1927,6 @@
 	},
 	{
 		"term" : "Domare"
-	},
-	{
-		"term" : "Domprost"
 	},
 	{
 		"term" : "Domstolsjurist"
@@ -2103,9 +2085,6 @@
 		"term" : "Ekonomikontorist"
 	},
 	{
-		"term" : "Ekonomiledare"
-	},
-	{
 		"term" : "Ekotoxikolog"
 	},
 	{
@@ -2253,6 +2232,12 @@
 		"term" : "Evangelist, resepastor"
 	},
 	{
+		"term" : "Eventkoordinator"
+	},
+	{
+		"term" : "Eventpersonal"
+	},
+	{
 		"term" : "Eventsäljare\/Eventförsäljare"
 	},
 	{
@@ -2308,6 +2293,9 @@
 	},
 	{
 		"term" : "Fältassistent"
+	},
+	{
+		"term" : "Fältgeotekniker"
 	},
 	{
 		"term" : "Fältskadereglerare"
@@ -2427,10 +2415,7 @@
 		"term" : "Fastighetsassistent"
 	},
 	{
-		"term" : "Fastighetschef"
-	},
-	{
-		"term" : "Fastighetsdirektör"
+		"term" : "Fastighetschef\/Fastighetsdirektör"
 	},
 	{
 		"term" : "Fastighetsekonom"
@@ -2652,9 +2637,6 @@
 		"term" : "Fogare, faner"
 	},
 	{
-		"term" : "Fögderidirektör"
-	},
-	{
 		"term" : "Folierare"
 	},
 	{
@@ -2760,9 +2742,6 @@
 		"term" : "Företagskonsult"
 	},
 	{
-		"term" : "Företagsledare"
-	},
-	{
 		"term" : "Företagspsykolog"
 	},
 	{
@@ -2775,13 +2754,10 @@
 		"term" : "Författare"
 	},
 	{
-		"term" : "Förhandlingschef, organisation"
+		"term" : "Förhandlingschef"
 	},
 	{
-		"term" : "Förhandlingschef, statlig"
-	},
-	{
-		"term" : "Förhandlingssekreterare, statlig"
+		"term" : "Förhandlingssekreterare"
 	},
 	{
 		"term" : "Förlagschef, bokförlag"
@@ -2829,9 +2805,6 @@
 		"term" : "Förrättningsassistent"
 	},
 	{
-		"term" : "Försäkringsaktuarie"
-	},
-	{
 		"term" : "Försäkringsförmedlarassistent"
 	},
 	{
@@ -2848,9 +2821,6 @@
 	},
 	{
 		"term" : "Försäkringskonsulent"
-	},
-	{
-		"term" : "Försäkringsmatematiker"
 	},
 	{
 		"term" : "Försäkringsombud"
@@ -3036,10 +3006,10 @@
 		"term" : "Forskningslaborant, kemi"
 	},
 	{
-		"term" : "Förskolechef"
+		"term" : "Förskolekonsulent"
 	},
 	{
-		"term" : "Förskolekonsulent"
+		"term" : "Förskolerektor"
 	},
 	{
 		"term" : "Försöksdjurskötare\/Försöksdjurstekniker"
@@ -3177,13 +3147,16 @@
 		"term" : "Fukttekniker"
 	},
 	{
+		"term" : "Fullstack-utvecklare"
+	},
+	{
 		"term" : "Funktionschef, offentlig förvaltning"
 	},
 	{
 		"term" : "Fysiker"
 	},
 	{
-		"term" : "Fysiolog, allmän"
+		"term" : "Fysiolog"
 	},
 	{
 		"term" : "Fysiologassistent, laborant"
@@ -3735,12 +3708,6 @@
 		"term" : "Hovrättslagman"
 	},
 	{
-		"term" : "Hovrättspresident"
-	},
-	{
-		"term" : "Hovrättsråd"
-	},
-	{
 		"term" : "Hovslagare"
 	},
 	{
@@ -4188,9 +4155,6 @@
 		"term" : "Jungman"
 	},
 	{
-		"term" : "Juridisk ombudsman"
-	},
-	{
 		"term" : "Jurist, allmän domstol"
 	},
 	{
@@ -4201,12 +4165,6 @@
 	},
 	{
 		"term" : "Juristassistent\/Paralegal"
-	},
-	{
-		"term" : "Justitiekansler"
-	},
-	{
-		"term" : "Justitieombudsman"
 	},
 	{
 		"term" : "Justitieråd"
@@ -4293,16 +4251,7 @@
 		"term" : "Kamrer"
 	},
 	{
-		"term" : "Kanslichef, kommun"
-	},
-	{
-		"term" : "Kanslichef, organisation"
-	},
-	{
-		"term" : "Kanslichef, statlig"
-	},
-	{
-		"term" : "Kanslichef\/verksamhetschef, församling"
+		"term" : "Kanslichef"
 	},
 	{
 		"term" : "Kanslijurist"
@@ -4503,10 +4452,7 @@
 		"term" : "Kommissarie, Polisen"
 	},
 	{
-		"term" : "Kommunchef"
-	},
-	{
-		"term" : "Kommundirektör"
+		"term" : "Kommunchef\/Kommundirektör\/Stadsdirektör"
 	},
 	{
 		"term" : "Kommunhandläggare"
@@ -4521,10 +4467,7 @@
 		"term" : "Kommunikationstekniker"
 	},
 	{
-		"term" : "Kommunjurist"
-	},
-	{
-		"term" : "Kommunrevisor"
+		"term" : "Kommunrevisor\/Landstingsrevisor"
 	},
 	{
 		"term" : "Kommunsekreterare"
@@ -4612,9 +4555,6 @@
 	},
 	{
 		"term" : "Konsulent på stifts-\/nationell nivå"
-	},
-	{
-		"term" : "Konsumentombudsman"
 	},
 	{
 		"term" : "Konsumentvägledare"
@@ -4833,9 +4773,6 @@
 		"term" : "Kronoassistent"
 	},
 	{
-		"term" : "Kronodirektör"
-	},
-	{
 		"term" : "Kronofogde"
 	},
 	{
@@ -4935,16 +4872,13 @@
 		"term" : "Kvalitetsingenjör\/-tekniker, metallurgi"
 	},
 	{
-		"term" : "Kvalitetskoordinator"
-	},
-	{
 		"term" : "Kvalitetsmätare, metallprodukter"
 	},
 	{
 		"term" : "Kvalitetsrevisor"
 	},
 	{
-		"term" : "Kvalitetssamordnare"
+		"term" : "Kvalitetssamordnare\/Kvalitetskoordinator"
 	},
 	{
 		"term" : "Kvarnarbetare"
@@ -5136,9 +5070,6 @@
 		"term" : "Landstingsjurist"
 	},
 	{
-		"term" : "Landstingsrevisor"
-	},
-	{
 		"term" : "Landstingssekreterare"
 	},
 	{
@@ -5152,9 +5083,6 @@
 	},
 	{
 		"term" : "Länsarkitekt"
-	},
-	{
-		"term" : "Länsassessor"
 	},
 	{
 		"term" : "Länsbibliotekarie"
@@ -5176,9 +5104,6 @@
 	},
 	{
 		"term" : "Länsjurist"
-	},
-	{
-		"term" : "Länspolismästare"
 	},
 	{
 		"term" : "Länsråd"
@@ -5229,7 +5154,7 @@
 		"term" : "Lantmätare\/Förrättningslantmätare"
 	},
 	{
-		"term" : "Lantmäteridirektör"
+		"term" : "Lantmäterichef"
 	},
 	{
 		"term" : "Lantmäteriingenjör"
@@ -5265,7 +5190,7 @@
 		"term" : "Lärare i gymnasieskolan - yrkesämnen"
 	},
 	{
-		"term" : "Lärare i musik- och kulturskolan"
+		"term" : "Lärare i kulturskolan"
 	},
 	{
 		"term" : "Lärare i praktiska och estetiska ämnen"
@@ -6012,7 +5937,7 @@
 		"term" : "Mediasäljare"
 	},
 	{
-		"term" : "Medicinalråd"
+		"term" : "Mediatextare"
 	},
 	{
 		"term" : "Medicinteknisk ingenjör"
@@ -6207,7 +6132,7 @@
 		"term" : "Modersmålslärare, förskola"
 	},
 	{
-		"term" : "Modersmålslärare\/Modersmålspedagog"
+		"term" : "Modersmålspedagog"
 	},
 	{
 		"term" : "Modist"
@@ -6345,12 +6270,6 @@
 		"term" : "Näringsforskare"
 	},
 	{
-		"term" : "Näringsfrihetsombudsman"
-	},
-	{
-		"term" : "Näringskonsulent"
-	},
-	{
 		"term" : "Näringslivschef"
 	},
 	{
@@ -6427,9 +6346,6 @@
 	},
 	{
 		"term" : "Nyhetsgrafiker"
-	},
-	{
-		"term" : "Nyhetstextare"
 	},
 	{
 		"term" : "OB-assistent"
@@ -6768,9 +6684,6 @@
 		"term" : "Personalansvarig"
 	},
 	{
-		"term" : "Personalintendent"
-	},
-	{
 		"term" : "Personalkontorist"
 	},
 	{
@@ -7036,6 +6949,9 @@
 	},
 	{
 		"term" : "PR-chef"
+	},
+	{
+		"term" : "Prefekt"
 	},
 	{
 		"term" : "Preparator"
@@ -7513,9 +7429,6 @@
 	},
 	{
 		"term" : "Reklamkonsulent"
-	},
-	{
-		"term" : "Reklamman"
 	},
 	{
 		"term" : "Reklamtextare"
@@ -8043,9 +7956,6 @@
 		"term" : "Skänkskötare"
 	},
 	{
-		"term" : "Skattedirektör"
-	},
-	{
 		"term" : "Skattehandläggare"
 	},
 	{
@@ -8142,10 +8052,7 @@
 		"term" : "Skolbibliotekarie"
 	},
 	{
-		"term" : "Skolchef"
-	},
-	{
-		"term" : "Skoldirektör"
+		"term" : "Skolchef\/Skoldirektör\/Skolledare"
 	},
 	{
 		"term" : "Skolinspektör"
@@ -8155,9 +8062,6 @@
 	},
 	{
 		"term" : "Skolkurator"
-	},
-	{
-		"term" : "Skolledare"
 	},
 	{
 		"term" : "Skolmåltidsföreståndare"
@@ -8322,10 +8226,7 @@
 		"term" : "Socialantropolog"
 	},
 	{
-		"term" : "Socialchef"
-	},
-	{
-		"term" : "Socialdirektör"
+		"term" : "Socialchef\/Socialdirektör"
 	},
 	{
 		"term" : "Socialkonsulent, Arbetsförmedlingen"
@@ -8350,6 +8251,9 @@
 	},
 	{
 		"term" : "Soldat\/Sjöman"
+	},
+	{
+		"term" : "Solenergiprojektör\/Solcellsprojektör"
 	},
 	{
 		"term" : "Soliditetsupplysare"
@@ -8484,25 +8388,13 @@
 		"term" : "Städchef"
 	},
 	{
-		"term" : "Stadsadvokat"
-	},
-	{
 		"term" : "Stadsarkivarie"
 	},
 	{
-		"term" : "Stadsbyggnadschef"
+		"term" : "Stadsbyggnadschef\/Stadsbyggnadsdirektör"
 	},
 	{
-		"term" : "Stadsbyggnadsdirektör"
-	},
-	{
-		"term" : "Stadsdirektör"
-	},
-	{
-		"term" : "Stadsjurist"
-	},
-	{
-		"term" : "Stadsombudsman"
+		"term" : "Stadsjurist\/Kommunjurist\/Stadsadvokat"
 	},
 	{
 		"term" : "Stadssekreterare"
@@ -8587,9 +8479,6 @@
 	},
 	{
 		"term" : "Statsåklagare"
-	},
-	{
-		"term" : "Statsheraldiker"
 	},
 	{
 		"term" : "Statssekreterare"
@@ -8721,9 +8610,6 @@
 		"term" : "Studieassistent"
 	},
 	{
-		"term" : "Studieinstruktör"
-	},
-	{
 		"term" : "Studiekonsulent"
 	},
 	{
@@ -8797,9 +8683,6 @@
 	},
 	{
 		"term" : "Svarvare"
-	},
-	{
-		"term" : "Svensktextare"
 	},
 	{
 		"term" : "Svetsare, manuell"
@@ -9013,9 +8896,6 @@
 	},
 	{
 		"term" : "Teleingenjör"
-	},
-	{
-		"term" : "Teleområdeschef"
 	},
 	{
 		"term" : "Teleskoptruckförare"
@@ -9315,9 +9195,6 @@
 		"term" : "Tulldeklarant"
 	},
 	{
-		"term" : "Tulldirektör"
-	},
-	{
 		"term" : "Tullkontorist"
 	},
 	{
@@ -9439,9 +9316,6 @@
 	},
 	{
 		"term" : "Undertaksmontör, utan yrkesbevis"
-	},
-	{
-		"term" : "Undertextare"
 	},
 	{
 		"term" : "Undervisningsråd"
@@ -9609,9 +9483,6 @@
 		"term" : "Väg- och vattenbyggnadsingenjör"
 	},
 	{
-		"term" : "Vägdirektör"
-	},
-	{
 		"term" : "Väghyvelförare"
 	},
 	{
@@ -9714,7 +9585,7 @@
 		"term" : "Varpare"
 	},
 	{
-		"term" : "Varumärkare"
+		"term" : "Varumärkare\/Prismärkare"
 	},
 	{
 		"term" : "Varumärkesjurist"
@@ -9907,6 +9778,9 @@
 	},
 	{
 		"term" : "Virolog"
+	},
+	{
+		"term" : "Visuell kommunikatör"
 	},
 	{
 		"term" : "Vitvarumontör"

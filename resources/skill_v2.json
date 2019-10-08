@@ -2502,6 +2502,12 @@
 		"term" : "Client\/server, programmering"
 	},
 	{
+		"term" : "Clojure, programmeringsspråk"
+	},
+	{
+		"term" : "Clojurescript, programmeringsspråk"
+	},
+	{
 		"term" : "Clowneri"
 	},
 	{
@@ -2815,6 +2821,9 @@
 	},
 	{
 		"term" : "Datakommunikation"
+	},
+	{
+		"term" : "Datalog, programmeringsspråk"
 	},
 	{
 		"term" : "Datamanipulering och analyser"
@@ -10668,6 +10677,9 @@
 		"term" : "Nyhetssändning"
 	},
 	{
+		"term" : "Nyhetstextning"
+	},
+	{
 		"term" : "Nyproduktion\/bygge"
 	},
 	{
@@ -14418,6 +14430,9 @@
 		"term" : "Svenskt medborgarskap"
 	},
 	{
+		"term" : "Svensktextning"
+	},
+	{
 		"term" : "Svets, konstnärlig"
 	},
 	{
@@ -15562,6 +15577,9 @@
 	},
 	{
 		"term" : "Undertaksmontering"
+	},
+	{
+		"term" : "Undertextning"
 	},
 	{
 		"term" : "Undervattenssprängning"

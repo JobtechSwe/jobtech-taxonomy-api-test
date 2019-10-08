@@ -156,7 +156,8 @@
            )
 
          )
-       (v67-file)
+      (filter (fn [[id con]]   (not (= "place" (:type con)))  ) (v67-file) )
+
        )
   )
 

@@ -13,5 +13,11 @@
         "label": "Kärnfysik2",
         "legacyAmsTaxonomyId": "3309",
         "type": "skill"
+    },
+
+    "151j_z3C_fzM": {
+        "label": "Oleby",
+        "legacyAmsTaxonomyId": "1737-oleby",
+        "type": "place"
     }
 }
