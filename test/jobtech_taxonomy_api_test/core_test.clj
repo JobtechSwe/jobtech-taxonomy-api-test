@@ -130,7 +130,7 @@
 
 
 (defn v67-file []
-  (parse-string (slurp "resources/concept_to_taxonomy_v1.json") true ))
+  (parse-string (slurp "resources/mini_concept_to_taxonomy_v1.json") true ))
 
 
 (defn call-api-with-concept-id [concept-id url]
@@ -147,6 +147,10 @@
   )
 
 
+(defn has-unwanted-type [type]
+  (contains? #{"place" "sun-education-field-3" "sun-education-field-2" "sun-education-field-1" "sun-education-level-3" "sun-education-level-2" "sun-education-level-1"} type)
+  )
+
 (defn call-api-with-v67-test-data [url]
   (map (fn [[concept-id concept]]
          (let [expected (:label concept)
@@ -156,7 +160,7 @@
            )
 
          )
-      (filter (fn [[id con]]   (not (= "place" (:type con)))  ) (v67-file) )
+       (filter (fn [[id con]]   (not (has-unwanted-type (:type con)))  ) (v67-file) )
 
        )
   )
