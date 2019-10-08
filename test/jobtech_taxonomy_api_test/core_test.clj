@@ -19,7 +19,7 @@
 (def production-url "http://jobtech-taxonomy-api.dev.services.jtech.se/v0/taxonomy/public/concepts")
 
 (defn parse-local-preferred-labels [filename]
-  (map :term  (parse-string (slurp filename) true )))
+  (map :term (parse-string (slurp filename) true )))
 
 
 (defn call-api [preferredLabel type url]
@@ -52,8 +52,8 @@
 
 
     (doall (map (fn [[expected actual]]
-               (is (= expected actual))
-               )  result ))
+                  (is (= expected actual))
+                  )  result ))
     )
   )
 
@@ -122,5 +122,60 @@
   (do
     (run-taxonomy-tests types develop-url)
     (run-taxonomy-tests types production-url)
+    )
+  )
+
+
+
+
+
+(defn v67-file []
+  (parse-string (slurp "resources/concept_to_taxonomy_v1.json") true ))
+
+
+(defn call-api-with-concept-id [concept-id url]
+  (client/get url {:accept :json
+                   :as :auto
+                   :headers {"api-key" api-key}
+                   :query-params {"id" concept-id
+                                  "version" 1
+                                  }})
+  )
+
+(defn preferred-label-from-api-call [concept-id url]
+  (:preferredLabel (first (:body (call-api-with-concept-id concept-id url))))
+  )
+
+
+(defn call-api-with-v67-test-data [url]
+  (map (fn [[concept-id concept]]
+         (let [expected (:label concept)
+               actual  (preferred-label-from-api-call (name concept-id) url)
+               ]
+           [expected actual]
+           )
+
+         )
+       (v67-file)
+       )
+  )
+
+(defn is-local-equal-to-remote-v67 [url]
+
+  (let [result (call-api-with-v67-test-data url)]
+
+    (doall (map (fn [[expected actual]]
+                  (is (= expected actual))
+                  )  result )))
+  )
+
+
+(deftest test-version-67
+  (testing "testing version 67 develop"
+    (is-local-equal-to-remote-v67 develop-url)
+    )
+
+  (testing "testing version 67 production"
+    (is-local-equal-to-remote-v67 production-url)
     )
   )
