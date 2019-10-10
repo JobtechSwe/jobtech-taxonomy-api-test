@@ -14,9 +14,10 @@
 
 
 
-(def develop-url "http://jobtech-taxonomy-api-develop.dev.services.jtech.se/v0/taxonomy/public/concepts")
+(def url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
+;; "http://jobtech-taxonomy-api-develop.dev.services.jtech.se/v0/taxonomy/public/concepts"
 
-(def production-url "http://jobtech-taxonomy-api.dev.services.jtech.se/v0/taxonomy/public/concepts")
+
 
 (defn parse-local-preferred-labels [filename]
   (map :term (parse-string (slurp filename) true )))
@@ -120,8 +121,8 @@
 
 (deftest test-all
   (do
-    (run-taxonomy-tests types develop-url)
-    (run-taxonomy-tests types production-url)
+    (run-taxonomy-tests types url)
+
     )
   )
 
@@ -177,10 +178,6 @@
 
 (deftest test-version-67
   (testing "testing version 67 develop"
-    (is-local-equal-to-remote-v67 develop-url)
-    )
-
-  (testing "testing version 67 production"
-    (is-local-equal-to-remote-v67 production-url)
+    (is-local-equal-to-remote-v67 url)
     )
   )
