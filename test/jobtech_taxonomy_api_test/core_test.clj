@@ -15,7 +15,7 @@
 
 
 (def url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
-;; "http://jobtech-taxonomy-api-develop.dev.services.jtech.se/v0/taxonomy/public/concepts"
+;;
 
 
 
