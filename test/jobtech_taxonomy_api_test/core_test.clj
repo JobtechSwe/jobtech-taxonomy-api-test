@@ -149,7 +149,17 @@
 
 
 (defn has-unwanted-type [type]
-  (contains? #{"place" "sun-education-field-3" "sun-education-field-2" "sun-education-field-1" "sun-education-level-3" "sun-education-level-2" "sun-education-level-1"} type)
+  (contains? #{"place"
+               "sun-education-field-3"
+               "sun-education-field-2"
+               "sun-education-field-1"
+               "sun-education-level-3"
+               "sun-education-level-2"
+               "sun-education-level-1"
+               "deprecated-education-field"
+               "deprecated-education-level"
+               "occupation-experience-years"
+               } type)
   )
 
 (defn call-api-with-v67-test-data [url]
