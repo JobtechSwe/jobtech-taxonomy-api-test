@@ -24,8 +24,7 @@
 
 
 (defn call-api [preferredLabel type url]
-  (client/get url {:accept :json
-                   :as :auto
+  (client/get url {:as :json-strict
                    :headers {"api-key" api-key}
                    :query-params {"preferredLabel" preferredLabel
                                   "type" type
