@@ -37,7 +37,7 @@
 
 
 (defn get-remote-preferredLabel [preferredLabelLocal type url]
-  [preferredLabelLocal (:preferredLabel (first (get-concept preferredLabelLocal type url)))]
+  [preferredLabelLocal (:taxonomy/preferredLabel (first (get-concept preferredLabelLocal type url)))]
   )
 
 
@@ -112,8 +112,7 @@
                 (test-taxonomy (str type "--" url)
                                type
                                (get-filename-v2-from-type type)
-                               url)
-                )
+                               url))
               types
               )))
 
@@ -143,7 +142,7 @@
   )
 
 (defn preferred-label-from-api-call [concept-id url]
-  (:preferredLabel (first (:body (call-api-with-concept-id concept-id url))))
+  (:taxonomy/preferredLabel (first (:body (call-api-with-concept-id concept-id url))))
   )
 
 
