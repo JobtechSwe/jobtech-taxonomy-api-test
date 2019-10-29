@@ -75,7 +75,7 @@
  ;;  "isco_level_4",
    "keyword",
    "language",
-   "language_level",
+   "language-level",
    "municipality",
 ;;   "occupation_collection",
    "occupation-field",
