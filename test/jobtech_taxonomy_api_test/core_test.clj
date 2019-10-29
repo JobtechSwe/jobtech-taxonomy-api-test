@@ -26,7 +26,7 @@
 (defn call-api [preferredLabel type url]
   (client/get url {:as :json-strict
                    :headers {"api-key" api-key}
-                   :query-params {"preferredLabel" preferredLabel
+                   :query-params {"preferred-label" preferredLabel
                                   "type" type
                                   }})
   )
@@ -37,7 +37,7 @@
 
 
 (defn get-remote-preferredLabel [preferredLabelLocal type url]
-  [preferredLabelLocal (:taxonomy/preferredLabel (first (get-concept preferredLabelLocal type url)))]
+  [preferredLabelLocal (:taxonomy/preferred-label (first (get-concept preferredLabelLocal type url)))]
   )
 
 
@@ -120,12 +120,8 @@
 (deftest test-all
   (do
     (run-taxonomy-tests types url)
-
     )
   )
-
-
-
 
 
 (defn v67-file []
@@ -142,7 +138,7 @@
   )
 
 (defn preferred-label-from-api-call [concept-id url]
-  (:taxonomy/preferredLabel (first (:body (call-api-with-concept-id concept-id url))))
+  (:taxonomy/preferred-label (first (:body (call-api-with-concept-id concept-id url))))
   )
 
 
