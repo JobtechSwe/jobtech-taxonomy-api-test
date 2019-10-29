@@ -68,7 +68,7 @@
   [
    "continent",
    "country",
-   "driving_licence",
+   "driving-licence",
  ;;  "employment_duration",
  ;;  "employment_type",
  ;;  "isco_level_1",
@@ -78,17 +78,17 @@
    "language_level",
    "municipality",
 ;;   "occupation_collection",
-   "occupation_field",
-   "occupation_name",
+   "occupation-field",
+   "occupation-name",
    "region",
    "skill",
-   "skill_headline",
+   "skill-headline",
 ;;   "sni_level_1",
 ;;  "sni_level_2",
-   "ssyk_level_1",
-   "ssyk_level_2",
-   "ssyk_level_3",
-   "ssyk_level_4",
+   "ssyk-level_1",
+   "ssyk-level_2",
+   "ssyk-level_3",
+   "ssyk-level_4",
 ;;   "sun_education_field_1",
 ;;   "sun_education_field_2",
 ;;   "sun_education_field_3",
@@ -102,8 +102,8 @@
   )
 
 (def types-short
-  ["driving_licence"
-   "language_level"
+  ["driving-licence"
+   "languagelevel"
    ]
   )
 
