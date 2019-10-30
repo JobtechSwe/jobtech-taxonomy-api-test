@@ -103,7 +103,7 @@
 
 (def types-short
   ["driving-licence"
-   "languagelevel"
+   "language-level"
    ]
   )
 
@@ -119,13 +119,13 @@
 
 (deftest test-all
   (do
-    (run-taxonomy-tests types url)
+    (run-taxonomy-tests types-short url)
     )
   )
 
 
 (defn v67-file []
-  (parse-string (slurp "resources/concept_to_taxonomy_v1.json") true ))
+  (parse-string (slurp "resources/mini_concept_to_taxonomy_v1.json") true ))
 
 
 (defn call-api-with-concept-id [concept-id url]
