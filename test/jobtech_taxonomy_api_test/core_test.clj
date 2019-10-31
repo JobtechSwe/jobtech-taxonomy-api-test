@@ -14,7 +14,7 @@
 
 
 (def url (str (System/getenv "JOBTECH_TAXONOMY_API_URL")  "v1/taxonomy/main/concepts") )
-;;
+
 
 
 
