@@ -185,3 +185,39 @@
 (defn test-region []
   (is (= "SE224" (:taxonomy/nuts-level-3-code-2013 (first (call-region)))))
   )
+
+
+(defn call-sni-level []
+  (call-api-specific "sni-level" {"sni-level-code-2007" "L"})
+  )
+
+(defn test-sni-level []
+  (is (= "L" (:taxonomy/sni-level-code-2007 (first (call-sni-level)))))
+  )
+
+
+(defn call-ssyk []
+  (call-api-specific "ssyk" {"ssyk-code-2012"  "5132"}))
+
+
+(defn test-ssyk []
+  (is (= "Bartendrar" (:taxonomy/preferred-label (first (call-ssyk))) ))
+  )
+
+
+(defn call-sun-education-field []
+  (call-api-specific "sun-education-field" {"sun-education-field-code-2020"  "622b"})
+  )
+
+(defn test-sun-education-field []
+  (is (= "622b" (:taxonomy/sun-education-field-code-2020 (first (call-sun-education-field)))))
+  )
+
+
+(defn call-sun-education-level []
+  (call-api-specific "sun-education-level" {"sun-education-level-code-2020" "537"})
+  )
+
+(defn test-sun-education-level []
+  (is (= "537"  (:taxonomy/sun-education-level-code-2020 (first (call-sun-education-level)))))
+  )
