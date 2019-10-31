@@ -56,7 +56,7 @@
   )
 
 
-#_(defn test-taxonomy [name type file url]
+(defn test-taxonomy [name type file url]
   (testing name
     (is-local-equal-to-remote type file url)
     )
@@ -180,7 +180,7 @@
   )
 
 
-(deftest test-version-67
+#_(deftest test-version-67
   (testing "testing version 67 develop"
     (is-local-equal-to-remote-v67 url)
     )
