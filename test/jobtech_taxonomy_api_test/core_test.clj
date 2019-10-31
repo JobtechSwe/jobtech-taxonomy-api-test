@@ -117,7 +117,7 @@
               )))
 
 
-#_(deftest test-all
+(deftest test-all
   (do
     (run-taxonomy-tests types url)
     )
@@ -180,7 +180,7 @@
   )
 
 
-#_(deftest test-version-67
+(deftest test-version-67
   (testing "testing version 67 develop"
     (is-local-equal-to-remote-v67 url)
     )
