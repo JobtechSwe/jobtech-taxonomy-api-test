@@ -6,6 +6,8 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [clj-http "3.10.0"]
                  [cheshire "5.9.0"]
+                 [martian "0.1.10"]
+                 [martian-clj-http "0.1.10"]
                  ]
   :main ^:skip-aot jobtech-taxonomy-api-test.core
   :target-path "target/%s"
