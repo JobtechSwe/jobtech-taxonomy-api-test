@@ -139,7 +139,7 @@
   )
 
 
-(defn test-call-driving-licence []
+(defn test-driving-licence []
   (is (contains?  (set (:taxonomy/implicit-driving-licences (first (call-driving-licence))))  #:taxonomy{:id "4HpY_e2U_TUH", :driving-licence-code-2013 "AM"} ))
   )
 
@@ -151,4 +151,37 @@
 
 (defn test-employment-duration []
   (is (= "TF" (:taxonomy/eures-code-2014 (first (call-employment-duration)))))
+  )
+
+
+(defn call-isco []
+  (call-api-specific "isco" {"isco-code-08" "7544"})
+  )
+
+(defn test-isco []
+  (is (= "7544" (:taxonomy/isco-code-08 (first (call-isco)))))
+  )
+
+(defn call-language []
+  (call-api-specific "language" {"iso-639-3-alpha-2-2007" "SD"})
+  )
+
+(defn test-language []
+  (is (= "SND" (:taxonomy/iso-639-3-alpha-3-2007 (first (call-language)))))
+  )
+
+(defn call-region-norway []
+  (call-api-specific "region" {"related-ids" "QJgN_Zge_BzJ" "relation" "narrower" })
+  )
+
+(defn test-region-norway []
+  (= 19 (count (call-region-norway)))
+  )
+
+(defn call-region []
+  (call-api-specific "region" {"national-nuts-level-3-code-2019" 12})
+  )
+
+(defn test-region []
+  (is (= "SE224" (:taxonomy/nuts-level-3-code-2013 (first (call-region)))))
   )
