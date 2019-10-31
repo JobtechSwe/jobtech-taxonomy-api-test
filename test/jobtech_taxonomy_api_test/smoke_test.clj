@@ -10,11 +10,12 @@
 
 
 
-;;(def api-key (System/getenv "JOBTECH_TAXONOMY_API_KEY"))
-;;(def base-url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
+(def api-key (System/getenv "JOBTECH_TAXONOMY_API_KEY"))
+(def base-url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
 
-(def api-key "111")
-(def base-url "http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/")
+
+;;(def base-url "http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/")
+
 (def main-base-url (str base-url "v1/taxonomy/main/"))
 (def specific-base-url (str base-url "v1/taxonomy/specific/concepts/"))
 (def suggesters-base-url (str base-url "v1/taxonomy/suggesters/"))
@@ -72,7 +73,7 @@
   (is (contains?  (set (call-concept-types)) "skill"))
   )
 
-(deftest test-concept-types-test
+#_(deftest test-concept-types-test
   (test-concept-types)
   )
 
@@ -88,7 +89,7 @@
   (is (= "dwm2_1V3_MpP" (:taxonomy/id (first (call-concepts-animering))) ))
   )
 
-(deftest test-concept-animinering-test
+#_(deftest test-concept-animinering-test
   (test-concepts-animering)
   )
 
@@ -101,7 +102,7 @@
   (is (= 2 (:taxonomy/version (first (call-changes)))))
   )
 
-(deftest test-changes-test
+#_(deftest test-changes-test
   (call-changes)
   )
 
@@ -250,4 +251,32 @@
 
 (defn test-autocomplete-konduktor []
   (is (= "Konduktör" (:taxonomy/preferred-label (first (call-autocomplete-konduktor)))))
+  )
+
+
+(deftest main-tests
+  (testing "Main"
+    (test-changes)
+    (test-versions)
+    (test-concept-types)
+    (test-concepts-animering)
+    (test-relation-types)
+    (test-replaced-by-changes)
+    )
+  )
+
+(deftest specifik-tests
+  (testing "Specific tests"
+    (test-country)
+    (test-driving-licence)
+    (test-employment-duration)
+    (test-isco)
+    (test-language)
+    (test-region)
+    (test-region-norway)
+    (test-sni-level)
+    (test-ssyk)
+    (test-sun-education-field)
+    (test-sun-education-level)
+    )
   )
