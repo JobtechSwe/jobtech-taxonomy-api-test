@@ -102,8 +102,10 @@
   )
 
 (def types-short
-  ["driving-licence"
-   "language-level"
+  [
+   ;;"driving-licence"
+   ;;"language-level"
+   "country"
    ]
   )
 
