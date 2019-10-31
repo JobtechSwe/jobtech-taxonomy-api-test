@@ -13,7 +13,7 @@
 ;;(def api-key (System/getenv "JOBTECH_TAXONOMY_API_KEY"))
 ;;(def base-url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
 
-
+(def api-key "111")
 (def base-url "http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/")
 (def main-base-url (str base-url "v1/taxonomy/main/"))
 (def specific-base-url (str base-url "v1/taxonomy/specific/concepts/"))
@@ -141,4 +141,14 @@
 
 (defn test-call-driving-licence []
   (is (contains?  (set (:taxonomy/implicit-driving-licences (first (call-driving-licence))))  #:taxonomy{:id "4HpY_e2U_TUH", :driving-licence-code-2013 "AM"} ))
+  )
+
+
+
+(defn call-employment-duration []
+  (call-api-specific "employment-duration" {"eures-code-2014" "TF" "limit" 1})
+  )
+
+(defn test-employment-duration []
+  (is (= "TF" (:taxonomy/eures-code-2014 (first (call-employment-duration)))))
   )
