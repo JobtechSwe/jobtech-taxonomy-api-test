@@ -17,7 +17,7 @@
 (def base-url "http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/")
 (def main-base-url (str base-url "v1/taxonomy/main/"))
 (def specific-base-url (str base-url "v1/taxonomy/specific/concepts/"))
-
+(def suggesters-base-url (str base-url "v1/taxonomy/suggesters/"))
 
 (defn call-api
   ([url query-params]
@@ -53,6 +53,15 @@
    (call-api (str specific-base-url endpoint))
    )
   )
+
+(defn call-api-suggesters
+  ([endpoint query-params]
+   (call-api (str suggesters-base-url endpoint) query-params))
+  ([endpoint]
+   (call-api (str suggesters-base-url endpoint))
+   )
+  )
+
 
 
 (defn call-concept-types []
@@ -220,4 +229,25 @@
 
 (defn test-sun-education-level []
   (is (= "537"  (:taxonomy/sun-education-level-code-2020 (first (call-sun-education-level)))))
+  )
+
+
+
+
+(defn call-autocomplete-aland []
+  (call-api-suggesters "autocomplete" {"query-string" "åland ("})
+  )
+
+(defn test-autocomplete-aland []
+  (is (= "Åland (tillhör Finland)" (:taxonomy/preferred-label (first (call-autocomplete-aland)))))
+  )
+
+
+
+(defn call-autocomplete-konduktor []
+  (call-api-suggesters "autocomplete" {"query-string" "konduktö" "version" 1 "type"  "occupation-name"})
+  )
+
+(defn test-autocomplete-konduktor []
+  (is (= "Konduktör" (:taxonomy/preferred-label (first (call-autocomplete-konduktor)))))
   )
