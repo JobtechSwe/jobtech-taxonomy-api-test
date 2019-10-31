@@ -13,8 +13,7 @@
   )
 
 
-
-(def url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
+(def url (str (System/getenv "JOBTECH_TAXONOMY_API_URL")  "v1/taxonomy/main/concepts") )
 ;;
 
 
@@ -26,6 +25,7 @@
 (defn call-api [preferredLabel type url]
   (client/get url {:as :json-strict
                    :headers {"api-key" api-key}
+   ;;                :debug true
                    :query-params {"preferred-label" preferredLabel
                                   "type" type
                                   }})
