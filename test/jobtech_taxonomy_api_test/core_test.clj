@@ -16,8 +16,6 @@
 (def url (str (System/getenv "JOBTECH_TAXONOMY_API_URL")  "v1/taxonomy/main/concepts") )
 
 
-
-
 (defn parse-local-preferred-labels [filename]
   (map :term (parse-string (slurp filename) true )))
 
@@ -58,7 +56,7 @@
   )
 
 
-(defn test-taxonomy [name type file url]
+#_(defn test-taxonomy [name type file url]
   (testing name
     (is-local-equal-to-remote type file url)
     )
@@ -119,7 +117,7 @@
               )))
 
 
-(deftest test-all
+#_(deftest test-all
   (do
     (run-taxonomy-tests types url)
     )
