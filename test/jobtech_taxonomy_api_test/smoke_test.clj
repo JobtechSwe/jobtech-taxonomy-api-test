@@ -254,6 +254,25 @@
   )
 
 
+
+
+
+
+(defn call-autocomplete-relation-substitutability []
+
+  (call-api-suggesters "autocomplete" {"query-string" "it" "related-ids" "Jus5_Fsv_LTi" "relation" "substitutability-to" })
+  )
+
+(defn test-autocomplete-relation-substitutability []
+  (is (=  "IT-forensiker"  (:taxonomy/preferred-label  (first (call-autocomplete-relation-substitability)))))
+  )
+
+
+
+
+
+
+
 (deftest main-tests
   (testing "Main"
     (test-changes)
