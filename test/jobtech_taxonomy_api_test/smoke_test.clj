@@ -23,12 +23,12 @@
 (defn call-api
   ([url query-params]
 ;;   (println url)
-;;   (println query-params)
+;;   (Println query-params)
    (:body (client/get url
                       (cond->
                           {:as :json-strict
                            :headers {"api-key" api-key}
-                           ;; :debug true
+                            :debug false
                            }
 
                         query-params
@@ -255,22 +255,30 @@
 
 
 
-
-
-
 (defn call-autocomplete-relation-substitutability []
 
   (call-api-suggesters "autocomplete" {"query-string" "it" "related-ids" "Jus5_Fsv_LTi" "relation" "substitutability-to" })
   )
 
 (defn test-autocomplete-relation-substitutability []
-  (is (=  "IT-forensiker"  (:taxonomy/preferred-label  (first (call-autocomplete-relation-substitability)))))
+  (is (=  "IT-forensiker"  (:taxonomy/preferred-label  (first (call-autocomplete-relation-substitutability)))))
   )
 
+(defn call-graph-substitutability []
+  (call-api-main "graph" {"edge-relation-type" "substitutability"
+                          "source-concept-type" "occupation-name"
+                          "target-concept-type" "occupation-name"
+                          "limit" 1})
+  )
 
-
-
-
+(defn test-graph-substitutability []
+  (let [sp (get-in (call-graph-substitutability)  [:taxonomy/graph
+                                                   :taxonomy/edges
+                                                   0
+                                                   :taxonomy/substitutability-percentage])]
+    (is (or (= 25 sp) (= 75 sp)))
+    )
+  )
 
 
 (deftest main-tests
