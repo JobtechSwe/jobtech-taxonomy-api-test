@@ -95,7 +95,7 @@
 
 
 (defn call-changes []
-  (call-api-main "changes" {"from-version" 1 "limit" 1})
+  (call-api-main "changes" {"after-version" 1 "limit" 1})
   )
 
 (defn test-changes []
@@ -117,7 +117,7 @@
   )
 
 (defn call-replaced-by-changes []
-  (call-api-main "replaced-by-changes" {"from-version" 1})
+  (call-api-main "replaced-by-changes" {"after-version" 1})
   )
 
 (defn test-replaced-by-changes []
