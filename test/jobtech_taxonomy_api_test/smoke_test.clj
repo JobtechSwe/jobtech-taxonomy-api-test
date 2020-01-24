@@ -296,7 +296,6 @@
   (testing "Specific tests"
     (test-country)
     (test-driving-licence)
-    (test-employment-duration)
     (test-isco)
     (test-language)
     (test-region)
