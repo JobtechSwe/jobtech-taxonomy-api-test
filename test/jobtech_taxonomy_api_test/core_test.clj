@@ -40,7 +40,7 @@
 
 
 (defn get-remote-and-local-values [type local-preferred-labels url]
-  (map #(get-remote-preferredLabel % type url) local-preferred-labels)
+  (pmap #(get-remote-preferredLabel % type url) local-preferred-labels)
   )
 
 
@@ -49,7 +49,7 @@
         result (get-remote-and-local-values type (parse-local-preferred-labels file) url)]
 
 
-    (doall (map (fn [[expected actual]]
+    (doall (pmap (fn [[expected actual]]
                   (is (= expected actual))
                   )  result ))
     )
@@ -108,7 +108,7 @@
   )
 
 (defn run-taxonomy-tests [types url]
-  (doall (map (fn [type]
+  (doall (pmap (fn [type]
                 (test-taxonomy (str type "--" url)
                                type
                                (get-filename-v2-from-type type)
@@ -157,7 +157,7 @@
   )
 
 (defn call-api-with-v67-test-data [url]
-  (map (fn [[concept-id concept]]
+  (pmap (fn [[concept-id concept]]
          (let [expected (:label concept)
                actual  (preferred-label-from-api-call (name concept-id) url)
                ]
@@ -174,7 +174,7 @@
 
   (let [result (call-api-with-v67-test-data url)]
 
-    (doall (map (fn [[expected actual]]
+    (doall (pmap (fn [[expected actual]]
                   (is (= expected actual))
                   )  result )))
   )
