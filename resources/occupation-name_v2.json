@@ -1,4 +1,4 @@
-[
+ [
 	{
 		"term" : "1:e Fartygsingenjör\/1:e Maskinist"
 	},
@@ -27,9 +27,6 @@
 		"term" : "AD-assistent"
 	},
 	{
-		"term" : "Ädelstensslipare"
-	},
-	{
 		"term" : "Administrativ chef"
 	},
 	{
@@ -46,6 +43,9 @@
 	},
 	{
 		"term" : "Advokatsekreterare"
+	},
+	{
+		"term" : "Affischör\/Affischuppsättare"
 	},
 	{
 		"term" : "Affärsarkitekt"
@@ -66,22 +66,13 @@
 		"term" : "Affärsutvecklare"
 	},
 	{
-		"term" : "Affischör\/Affischuppsättare"
-	},
-	{
-		"term" : "Äggplockare"
+		"term" : "Agil coach\/Agile coach"
 	},
 	{
 		"term" : "Agronom"
 	},
 	{
 		"term" : "Akademisekreterare"
-	},
-	{
-		"term" : "Åklagarassistent"
-	},
-	{
-		"term" : "Åklagare"
 	},
 	{
 		"term" : "Akrobat"
@@ -111,25 +102,16 @@
 		"term" : "Akvariefiskuppfödare"
 	},
 	{
-		"term" : "Äldreomsorgschef"
-	},
-	{
-		"term" : "Äldrepedagog"
-	},
-	{
 		"term" : "Alkohol- och drogterapeut"
-	},
-	{
-		"term" : "Allmän åklagare"
-	},
-	{
-		"term" : "Ambassadör"
 	},
 	{
 		"term" : "Ambassadråd"
 	},
 	{
 		"term" : "Ambassadsekreterare"
+	},
+	{
+		"term" : "Ambassadör"
 	},
 	{
 		"term" : "Ambulanssjuksköterska"
@@ -144,22 +126,16 @@
 		"term" : "Analytisk kemist"
 	},
 	{
-		"term" : "Anbudsansvarig\/Bid Manager"
+		"term" : "Anaplastolog"
 	},
 	{
-		"term" : "Ändringsskräddare"
+		"term" : "Anbudsansvarig\/Bid Manager"
 	},
 	{
 		"term" : "Anestesisjuksköterska"
 	},
 	{
 		"term" : "Anfångare"
-	},
-	{
-		"term" : "Ångmaskinist"
-	},
-	{
-		"term" : "Ångpanneeldare"
 	},
 	{
 		"term" : "Anhörigkonsulent"
@@ -201,6 +177,9 @@
 		"term" : "Anrikningsarbetare, malm"
 	},
 	{
+		"term" : "Ansvarig reklamutgivare\/ARU"
+	},
+	{
 		"term" : "Antagningschef, utbildning"
 	},
 	{
@@ -211,6 +190,9 @@
 	},
 	{
 		"term" : "Antropolog"
+	},
+	{
+		"term" : "Apotekare, farmaceut"
 	},
 	{
 		"term" : "Apoteksassistent"
@@ -249,16 +231,22 @@
 		"term" : "Arbetsledare, husbyggnad"
 	},
 	{
-		"term" : "Arbetsledare, lager"
+		"term" : "Arbetsledare, kontorspersonal\/Gruppledare, kontorspersonal"
 	},
 	{
-		"term" : "Arbetsledare, måleri"
+		"term" : "Arbetsledare, kundservice\/Gruppledare, kundservice"
+	},
+	{
+		"term" : "Arbetsledare, lager"
 	},
 	{
 		"term" : "Arbetsledare, maskintillverkning, verkstadsprodukter"
 	},
 	{
-		"term" : "Arbetsledare, mureri"
+		"term" : "Arbetsledare, murning"
+	},
+	{
+		"term" : "Arbetsledare, måleri"
 	},
 	{
 		"term" : "Arbetsledare, rivning"
@@ -267,7 +255,10 @@
 		"term" : "Arbetsledare, skogsbruk"
 	},
 	{
-		"term" : "Arbetsledare, städ\/Städledare"
+		"term" : "Arbetsledare, städ\/Husfru\/Städledare"
+	},
+	{
+		"term" : "Arbetsledare, säkerhetsarbete\/Gruppledare, säkerhetsarbete"
 	},
 	{
 		"term" : "Arbetsledare, terminal"
@@ -285,10 +276,10 @@
 		"term" : "Arbetsledare, tillverkning, textil- och träprodukter"
 	},
 	{
-		"term" : "Arbetsledare, trädgård\/Trädgårdsanläggningsförman"
+		"term" : "Arbetsledare, tryckeri"
 	},
 	{
-		"term" : "Arbetsledare, tryckeri"
+		"term" : "Arbetsledare, trädgård\/Trädgårdsanläggningsförman"
 	},
 	{
 		"term" : "Arbetsledare, ventilation"
@@ -297,19 +288,13 @@
 		"term" : "Arbetsledare, VVS"
 	},
 	{
-		"term" : "Arbetsledare\/Gruppledare, kontorspersonal"
-	},
-	{
-		"term" : "Arbetsledare\/Gruppledare, kundservice"
-	},
-	{
 		"term" : "Arbetsmiljöingenjör"
 	},
 	{
 		"term" : "Arbetsmiljöinspektör"
 	},
 	{
-		"term" : "Arbetspsykolog"
+		"term" : "Arbetspsykolog\/Organisationspsykolog"
 	},
 	{
 		"term" : "Arbetsrättsjurist"
@@ -325,9 +310,6 @@
 	},
 	{
 		"term" : "Arborrare"
-	},
-	{
-		"term" : "Ärftlighetsforskare"
 	},
 	{
 		"term" : "Arkare"
@@ -387,16 +369,7 @@
 		"term" : "Art Director\/AD"
 	},
 	{
-		"term" : "Artistagent"
-	},
-	{
-		"term" : "Artistbokare"
-	},
-	{
-		"term" : "Artistförmedlare"
-	},
-	{
-		"term" : "ARU, ansvarig reklamutgivare"
+		"term" : "Artistagent\/Artistbokare\/Artistförmedlare"
 	},
 	{
 		"term" : "Asbestsanerare"
@@ -423,9 +396,6 @@
 		"term" : "Assistent, bostadsförmedling"
 	},
 	{
-		"term" : "Assistentåklagare"
-	},
-	{
 		"term" : "Astronom"
 	},
 	{
@@ -445,9 +415,6 @@
 	},
 	{
 		"term" : "Attaché"
-	},
-	{
-		"term" : "Ättiksberedare"
 	},
 	{
 		"term" : "Attraktionsförare"
@@ -543,10 +510,10 @@
 		"term" : "Avisningsmaskinförare"
 	},
 	{
-		"term" : "Avlöningskontorist"
+		"term" : "Avloppstekniker"
 	},
 	{
-		"term" : "Avloppstekniker"
+		"term" : "Avlöningskontorist"
 	},
 	{
 		"term" : "Avplockare, keramikbränning"
@@ -600,19 +567,13 @@
 		"term" : "Backofficepersonal"
 	},
 	{
-		"term" : "Badbevakare"
-	},
-	{
 		"term" : "Baderska, sjukhem"
 	},
 	{
-		"term" : "Badföreståndare"
+		"term" : "Badföreståndare\/Simhallsföreståndare"
 	},
 	{
-		"term" : "Badmästare"
-	},
-	{
-		"term" : "Badvakt"
+		"term" : "Badmästare\/Badbevakare\/Badvakt\/Simhallsvakt\/Strandvakt"
 	},
 	{
 		"term" : "Badvaktmästare"
@@ -642,6 +603,9 @@
 		"term" : "Bandlastarförare"
 	},
 	{
+		"term" : "Bandschaktarförare"
+	},
+	{
 		"term" : "Bandsågare"
 	},
 	{
@@ -651,16 +615,10 @@
 		"term" : "Bandsågare, träfiberskivor"
 	},
 	{
-		"term" : "Bandschaktarförare"
-	},
-	{
 		"term" : "Bandvävare"
 	},
 	{
 		"term" : "Bangårdsoperatör"
-	},
-	{
-		"term" : "Bänkarbetare"
 	},
 	{
 		"term" : "Bankdirektör"
@@ -684,16 +642,13 @@
 		"term" : "Barchef"
 	},
 	{
-		"term" : "Bärgningsdykare"
-	},
-	{
 		"term" : "Barista\/Kaffebartender"
 	},
 	{
-		"term" : "Barkmaskinskötare, sågverk"
+		"term" : "Barkmaskinskötare, skogsbruk"
 	},
 	{
-		"term" : "Barkmaskinskötare, skogsbruk"
+		"term" : "Barkmaskinskötare, sågverk"
 	},
 	{
 		"term" : "Barmästare"
@@ -708,13 +663,13 @@
 		"term" : "Barnmorska, förlossning"
 	},
 	{
-		"term" : "Barnmorska, öppen vård\/mödravård"
-	},
-	{
 		"term" : "Barnmorska, ungdomsmottagning"
 	},
 	{
-		"term" : "Barnmorska, vårdavdelning\/BB-avdelning"
+		"term" : "Barnmorska, vårdavdelning\/Barnmorska, BB-avdelning"
+	},
+	{
+		"term" : "Barnmorska, öppen vård\/Barnmorska, mödravård"
 	},
 	{
 		"term" : "Barnpsykolog"
@@ -726,7 +681,7 @@
 		"term" : "Barnsjuksköterska, akutmottagning"
 	},
 	{
-		"term" : "Barnsjuksköterska, mottagning\/vårdcentral"
+		"term" : "Barnsjuksköterska, mottagning\/Barnsjuksköterska, vårdcentral"
 	},
 	{
 		"term" : "Barnsjuksköterska, vårdavdelning"
@@ -744,40 +699,10 @@
 		"term" : "Barntimmeledare"
 	},
 	{
-		"term" : "Bärodlare"
-	},
-	{
-		"term" : "Bärplockare"
-	},
-	{
 		"term" : "Bartender"
 	},
 	{
-		"term" : "Båtbesiktningsman"
-	},
-	{
-		"term" : "Båtbyggare"
-	},
-	{
-		"term" : "Båtförsäljare"
-	},
-	{
-		"term" : "Båtinredare"
-	},
-	{
-		"term" : "Båtman, Sjöfartsverket"
-	},
-	{
-		"term" : "Båtskadeinspektör"
-	},
-	{
-		"term" : "Båtsman\/Bås"
-	},
-	{
 		"term" : "Batteriarbetare\/Ackumulatorarbetare"
-	},
-	{
-		"term" : "Båtvärdinna"
 	},
 	{
 		"term" : "Baxare"
@@ -786,16 +711,16 @@
 		"term" : "Bebyggelseantikvarie"
 	},
 	{
-		"term" : "Befälhavare, fartyg"
-	},
-	{
-		"term" : "Befälhavare, kustbevakningen"
-	},
-	{
 		"term" : "Befaren maskinpersonal, sjöfart"
 	},
 	{
 		"term" : "Befraktningsmäklare"
+	},
+	{
+		"term" : "Befälhavare, fartyg"
+	},
+	{
+		"term" : "Befälhavare, Kustbevakningen"
 	},
 	{
 		"term" : "Begravningsassistent"
@@ -813,6 +738,12 @@
 		"term" : "Behandlingsassistent\/Socialpedagog"
 	},
 	{
+		"term" : "Belysningsmästare"
+	},
+	{
+		"term" : "Belysningstekniker"
+	},
+	{
 		"term" : "Beläggningsarbetare"
 	},
 	{
@@ -820,12 +751,6 @@
 	},
 	{
 		"term" : "Beläggningsmaskinförare"
-	},
-	{
-		"term" : "Belysningsmästare"
-	},
-	{
-		"term" : "Belysningstekniker"
 	},
 	{
 		"term" : "Ben- och fotanfångare"
@@ -840,13 +765,10 @@
 		"term" : "Bensinstationsföreståndare\/Stationschef"
 	},
 	{
-		"term" : "Beräkningsingenjör, elkraft"
-	},
-	{
-		"term" : "Beräkningsingenjör, el-tele"
-	},
-	{
 		"term" : "Beredningssekreterare\/Domstolssekreterare\/Domstolshandläggare"
+	},
+	{
+		"term" : "Beredskapssamordnare\/Krisberedskapssamordnare"
 	},
 	{
 		"term" : "Bergarbetare"
@@ -873,6 +795,12 @@
 		"term" : "Bergsprängare"
 	},
 	{
+		"term" : "Beräkningsingenjör, elkraft"
+	},
+	{
+		"term" : "Beräkningsingenjör, el-tele"
+	},
+	{
 		"term" : "Besiktningsassistent"
 	},
 	{
@@ -891,19 +819,19 @@
 		"term" : "Besiktningsingenjör, försäkring"
 	},
 	{
-		"term" : "Besiktningsman\/Skadeinspektör, försäkring"
+		"term" : "Besiktningsman, försäkring\/Skadeinspektör, försäkring"
 	},
 	{
 		"term" : "Besiktningstekniker, bilprovning"
-	},
-	{
-		"term" : "Besöksbokare\/Kundbokare"
 	},
 	{
 		"term" : "Beställningsfaktor"
 	},
 	{
 		"term" : "Beställningskontorist"
+	},
+	{
+		"term" : "Besöksbokare\/Kundbokare"
 	},
 	{
 		"term" : "Betjänt"
@@ -933,6 +861,9 @@
 		"term" : "Betongvaruarbetare"
 	},
 	{
+		"term" : "B-fotograf\/Focus puller"
+	},
+	{
 		"term" : "Bibliotekarie"
 	},
 	{
@@ -951,22 +882,22 @@
 		"term" : "Bilbärgare"
 	},
 	{
-		"term" : "Bild- och reprografiker"
-	},
-	{
 		"term" : "Bildarkivarie"
 	},
 	{
 		"term" : "Bildemontör"
 	},
 	{
-		"term" : "Bildingenjör"
+		"term" : "Bildingenjör\/BING, film\/BING, TV"
 	},
 	{
 		"term" : "Bildmixer"
 	},
 	{
 		"term" : "Bildpedagog"
+	},
+	{
+		"term" : "Bildproducent"
 	},
 	{
 		"term" : "Bildredaktör"
@@ -1009,9 +940,6 @@
 	},
 	{
 		"term" : "Bilvårdare\/Garagearbetare"
-	},
-	{
-		"term" : "BING, film\/TV"
 	},
 	{
 		"term" : "Bingofunktionär\/Bingovärd\/Bingovärdinna"
@@ -1071,6 +999,15 @@
 		"term" : "Blanksticksgravör"
 	},
 	{
+		"term" : "Blockgjutare"
+	},
+	{
+		"term" : "Blomsterodlare"
+	},
+	{
+		"term" : "Blysättare, tryckeri"
+	},
+	{
 		"term" : "Blåsare, stålverk"
 	},
 	{
@@ -1083,16 +1020,7 @@
 		"term" : "Blästrare, glas"
 	},
 	{
-		"term" : "Blockgjutare"
-	},
-	{
 		"term" : "Blöjmaskinskötare"
-	},
-	{
-		"term" : "Blomsterodlare"
-	},
-	{
-		"term" : "Blysättare, tryckeri"
 	},
 	{
 		"term" : "Boendechef, kommun"
@@ -1146,9 +1074,6 @@
 		"term" : "Borrtekniker"
 	},
 	{
-		"term" : "Bössmakare"
-	},
-	{
 		"term" : "Bostadsförmedlare"
 	},
 	{
@@ -1200,15 +1125,6 @@
 		"term" : "Brandtekniker"
 	},
 	{
-		"term" : "Brännare, glas, keramik"
-	},
-	{
-		"term" : "Brännmästare"
-	},
-	{
-		"term" : "Brännvinsbrännare"
-	},
-	{
 		"term" : "Braskaminmontör"
 	},
 	{
@@ -1246,6 +1162,15 @@
 	},
 	{
 		"term" : "Brytare, stenbrott"
+	},
+	{
+		"term" : "Brännare, glas, keramik"
+	},
+	{
+		"term" : "Brännmästare"
+	},
+	{
+		"term" : "Brännvinsbrännare"
 	},
 	{
 		"term" : "Budbilsförare"
@@ -1308,10 +1233,10 @@
 		"term" : "Butikskontrollant"
 	},
 	{
-		"term" : "Butikssäljare, fackhandel"
+		"term" : "Butikssäljare, dagligvaror\/Medarbetare, dagligvaror"
 	},
 	{
-		"term" : "Butikssäljare\/Medarbetare, dagligvaror"
+		"term" : "Butikssäljare, fackhandel"
 	},
 	{
 		"term" : "Bygg- och anläggningsförare"
@@ -1356,6 +1281,45 @@
 		"term" : "Byråchef"
 	},
 	{
+		"term" : "Båtbesiktningsman"
+	},
+	{
+		"term" : "Båtbyggare"
+	},
+	{
+		"term" : "Båtförsäljare"
+	},
+	{
+		"term" : "Båtinredare"
+	},
+	{
+		"term" : "Båtman, Sjöfartsverket"
+	},
+	{
+		"term" : "Båtskadeinspektör"
+	},
+	{
+		"term" : "Båtsman\/Bås"
+	},
+	{
+		"term" : "Båtvärdinna"
+	},
+	{
+		"term" : "Bänkarbetare"
+	},
+	{
+		"term" : "Bärgningsdykare"
+	},
+	{
+		"term" : "Bärodlare"
+	},
+	{
+		"term" : "Bärplockare"
+	},
+	{
+		"term" : "Bössmakare"
+	},
+	{
 		"term" : "Cabin stewardess\/Hyttvärdinna"
 	},
 	{
@@ -1374,12 +1338,6 @@
 		"term" : "Cateringarbetare"
 	},
 	{
-		"term" : "CDO, Chief Data Officer"
-	},
-	{
-		"term" : "CDO, Chief Digital Officer"
-	},
-	{
 		"term" : "Cementbrännare"
 	},
 	{
@@ -1390,6 +1348,9 @@
 	},
 	{
 		"term" : "Centrumutvecklare\/Handelsutvecklare"
+	},
+	{
+		"term" : "Character artist"
 	},
 	{
 		"term" : "Charkuteriarbetare, butik"
@@ -1416,9 +1377,6 @@
 		"term" : "Chefredaktör"
 	},
 	{
-		"term" : "Chefsåklagare"
-	},
-	{
 		"term" : "Chefsarbetsterapeut"
 	},
 	{
@@ -1434,7 +1392,13 @@
 		"term" : "Chefssjuksköterska"
 	},
 	{
-		"term" : "CIO, Chief Information Officer\/IT-chef"
+		"term" : "Chief Data Officer\/CDO"
+	},
+	{
+		"term" : "Chief Digital Officer\/CDO"
+	},
+	{
+		"term" : "Chief Information Officer\/CIO\/IT-chef"
 	},
 	{
 		"term" : "Cirkelledare\/Studiecirkelledare"
@@ -1491,10 +1455,10 @@
 		"term" : "Civilingenjör, farkostteknik"
 	},
 	{
-		"term" : "Civilingenjör, forskning inom bygg\/anläggning"
+		"term" : "Civilingenjör, forskning inom bygg och anläggning"
 	},
 	{
-		"term" : "Civilingenjör, forskning\/utveckling, kemi"
+		"term" : "Civilingenjör, forskning och utveckling, kemi"
 	},
 	{
 		"term" : "Civilingenjör, hamn"
@@ -1572,13 +1536,13 @@
 		"term" : "Civilingenjör, trafik"
 	},
 	{
+		"term" : "Civilingenjör, VVS"
+	},
+	{
 		"term" : "Civilingenjör, väg"
 	},
 	{
 		"term" : "Civilingenjör, väg- och vattenbyggnad"
-	},
-	{
-		"term" : "Civilingenjör, VVS"
 	},
 	{
 		"term" : "Civilskadeinspektör"
@@ -1602,7 +1566,13 @@
 		"term" : "Colorist"
 	},
 	{
+		"term" : "Concept artist"
+	},
+	{
 		"term" : "Configuration Manager\/CM"
+	},
+	{
+		"term" : "Containerkranförare\/Portalkranförare"
 	},
 	{
 		"term" : "Controller"
@@ -1630,12 +1600,6 @@
 	},
 	{
 		"term" : "Cytodiagnostiker"
-	},
-	{
-		"term" : "Däckmontör\/Däck- och hjulmekaniker"
-	},
-	{
-		"term" : "Däcksbyggare"
 	},
 	{
 		"term" : "Dagbarnvårdare"
@@ -1692,10 +1656,10 @@
 		"term" : "Dataregistrerare\/Registrerare"
 	},
 	{
-		"term" : "Datasäkerhetsansvarig"
+		"term" : "Dataskyddsombud"
 	},
 	{
-		"term" : "Dataskyddsombud"
+		"term" : "Datasäkerhetsansvarig"
 	},
 	{
 		"term" : "Datorlingvist\/Datalingvist"
@@ -1725,9 +1689,6 @@
 		"term" : "Dekorationsmålare, skyltning"
 	},
 	{
-		"term" : "Dekoratör"
-	},
-	{
 		"term" : "Dekoratör, keramik, glas"
 	},
 	{
@@ -1752,13 +1713,7 @@
 		"term" : "Demontör\/Återvinningsarbetare"
 	},
 	{
-		"term" : "Dentaltekniker"
-	},
-	{
-		"term" : "Depåförare, spårburen trafik"
-	},
-	{
-		"term" : "Depåman\/Depåtekniker"
+		"term" : "Dentaltekniker\/Dentalutrustningstekniker"
 	},
 	{
 		"term" : "Departementschef"
@@ -1770,10 +1725,16 @@
 		"term" : "Departementssekreterare"
 	},
 	{
-		"term" : "Depåtekniker, prospektering"
+		"term" : "Deponiarbetare"
 	},
 	{
-		"term" : "Deponiarbetare"
+		"term" : "Depåförare, spårburen trafik"
+	},
+	{
+		"term" : "Depåman\/Depåtekniker"
+	},
+	{
+		"term" : "Depåtekniker, prospektering"
 	},
 	{
 		"term" : "Designassistent"
@@ -1797,7 +1758,13 @@
 		"term" : "Dietkock\/Dietkokerska"
 	},
 	{
+		"term" : "Digital Imaging Technician\/DIT\/Loggare"
+	},
+	{
 		"term" : "Digitaltryckare"
+	},
+	{
+		"term" : "Director of photography\/DoP\/Filmfotograf"
 	},
 	{
 		"term" : "Direktionssekreterare"
@@ -1833,9 +1800,6 @@
 		"term" : "Distributionsförare"
 	},
 	{
-		"term" : "Distriktsåklagare"
-	},
-	{
 		"term" : "Distriktsbarnmorska"
 	},
 	{
@@ -1860,9 +1824,6 @@
 		"term" : "Distriktsveterinär"
 	},
 	{
-		"term" : "DIT (Digital Imaging Technician)\/Loggare"
-	},
-	{
 		"term" : "Diversearbetare"
 	},
 	{
@@ -1881,16 +1842,19 @@
 		"term" : "Djursjukskötare"
 	},
 	{
+		"term" : "Djurskyddsinspektör"
+	},
+	{
 		"term" : "Djurskötare, djurpark"
 	},
 	{
 		"term" : "Djurskötare, djuruppfödning"
 	},
 	{
-		"term" : "Djurskötare, får"
+		"term" : "Djurskötare, fjäderfä"
 	},
 	{
-		"term" : "Djurskötare, fjäderfä"
+		"term" : "Djurskötare, får"
 	},
 	{
 		"term" : "Djurskötare, gris"
@@ -1900,9 +1864,6 @@
 	},
 	{
 		"term" : "Djurskötare, mjölk"
-	},
-	{
-		"term" : "Djurskyddsinspektör"
 	},
 	{
 		"term" : "Djurtransportförare"
@@ -1933,15 +1894,6 @@
 	},
 	{
 		"term" : "Dopplackerare"
-	},
-	{
-		"term" : "Dörrvakt"
-	},
-	{
-		"term" : "Dövblindkonsulent"
-	},
-	{
-		"term" : "Dövkonsulent"
 	},
 	{
 		"term" : "Dragspelsbyggare"
@@ -2004,10 +1956,10 @@
 		"term" : "Driftingenjör, reningsverk"
 	},
 	{
-		"term" : "Driftingenjör, värmeverk"
+		"term" : "Driftingenjör, vattenverk"
 	},
 	{
-		"term" : "Driftingenjör, vattenverk"
+		"term" : "Driftingenjör, värmeverk"
 	},
 	{
 		"term" : "Driftledare, IT"
@@ -2046,6 +1998,21 @@
 		"term" : "Dykinstruktör"
 	},
 	{
+		"term" : "Däckmontör\/Däck- och hjulmekaniker"
+	},
+	{
+		"term" : "Däcksbyggare"
+	},
+	{
+		"term" : "Dörrvakt"
+	},
+	{
+		"term" : "Dövblindkonsulent"
+	},
+	{
+		"term" : "Dövkonsulent"
+	},
+	{
 		"term" : "E-commerce manager"
 	},
 	{
@@ -2056,9 +2023,6 @@
 	},
 	{
 		"term" : "Ekologisk hudvårdsterapeut"
-	},
-	{
-		"term" : "Ekonometriker"
 	},
 	{
 		"term" : "Ekonomiassistent"
@@ -2091,10 +2055,10 @@
 		"term" : "Eldare"
 	},
 	{
-		"term" : "Elektriker, film\/TV"
+		"term" : "Elektriker, film\/Elektriker, TV"
 	},
 	{
-		"term" : "Elektrikerassistent, film\/TV"
+		"term" : "Elektrikerassistent, film\/Elektrikerassistent, TV"
 	},
 	{
 		"term" : "Elektrodskötare"
@@ -2187,10 +2151,10 @@
 		"term" : "Enhetschef inom socialtjänst"
 	},
 	{
-		"term" : "Enhetschef, hälso- och sjukvård"
+		"term" : "Enhetschef, hemtjänst\/Områdeschef, hemtjänst"
 	},
 	{
-		"term" : "Enhetschef, hemtjänst\/Områdeschef, hemtjänst"
+		"term" : "Enhetschef, hälso- och sjukvård"
 	},
 	{
 		"term" : "Enhetschef, offentlig förvaltning"
@@ -2203,6 +2167,9 @@
 	},
 	{
 		"term" : "Entreprenadingenjör"
+	},
+	{
+		"term" : "Environment artist"
 	},
 	{
 		"term" : "Epizootolog"
@@ -2229,7 +2196,7 @@
 		"term" : "Eurytmist"
 	},
 	{
-		"term" : "Evangelist, resepastor"
+		"term" : "Evangelist\/Resepastor"
 	},
 	{
 		"term" : "Eventkoordinator"
@@ -2248,9 +2215,6 @@
 	},
 	{
 		"term" : "Expeditionschef, departement"
-	},
-	{
-		"term" : "Expeditionsföreståndare, sjukvård"
 	},
 	{
 		"term" : "Expeditionsvakt"
@@ -2277,9 +2241,6 @@
 		"term" : "Fabrikselektriker"
 	},
 	{
-		"term" : "FAD (First assistant director)"
-	},
-	{
 		"term" : "Fakir"
 	},
 	{
@@ -2292,28 +2253,10 @@
 		"term" : "Falsare, bokbinderi"
 	},
 	{
-		"term" : "Fältassistent"
-	},
-	{
-		"term" : "Fältgeotekniker"
-	},
-	{
-		"term" : "Fältskadereglerare"
-	},
-	{
-		"term" : "Fälttekniker, geologi"
-	},
-	{
-		"term" : "Fälttjänsteman, försäkringar"
-	},
-	{
-		"term" : "Familjebehandlare"
+		"term" : "Familjebehandlare\/Familjepedagog"
 	},
 	{
 		"term" : "Familjehemssekreterare"
-	},
-	{
-		"term" : "Familjepedagog"
 	},
 	{
 		"term" : "Familjerådgivare\/Familjeterapeut"
@@ -2338,36 +2281,6 @@
 	},
 	{
 		"term" : "Fanerskärare"
-	},
-	{
-		"term" : "Färdigmatlagare"
-	},
-	{
-		"term" : "Färdledare\/Turledare"
-	},
-	{
-		"term" : "Färdtjänstbussförare"
-	},
-	{
-		"term" : "Färdtjänstförare"
-	},
-	{
-		"term" : "Färgare"
-	},
-	{
-		"term" : "Färgblandare, tryckeri"
-	},
-	{
-		"term" : "Färgkonsulent"
-	},
-	{
-		"term" : "Färgtryckspåläggare, porslin"
-	},
-	{
-		"term" : "Farmaceut\/Apotekare"
-	},
-	{
-		"term" : "Farmaceut\/Receptarie"
 	},
 	{
 		"term" : "Fartygsagent\/Fartygsklarerare"
@@ -2460,9 +2373,6 @@
 		"term" : "Fastighetstekniker\/Drifttekniker, fastighet"
 	},
 	{
-		"term" : "FDO (Flight Data Operator)"
-	},
-	{
 		"term" : "Featurechef"
 	},
 	{
@@ -2472,9 +2382,6 @@
 		"term" : "Filmarkivarie"
 	},
 	{
-		"term" : "Filmfotograf"
-	},
-	{
 		"term" : "Filmklippare"
 	},
 	{
@@ -2482,9 +2389,6 @@
 	},
 	{
 		"term" : "Filmpassare"
-	},
-	{
-		"term" : "Filmredigerare"
 	},
 	{
 		"term" : "Filmtekniker"
@@ -2506,6 +2410,9 @@
 	},
 	{
 		"term" : "Fiolbyggare"
+	},
+	{
+		"term" : "First assistant director\/FAD"
 	},
 	{
 		"term" : "Fiskal"
@@ -2553,10 +2460,10 @@
 		"term" : "Flexotryckare"
 	},
 	{
-		"term" : "Flismaskinförare, skogsbruk"
+		"term" : "Flight Data Operator\/FDO"
 	},
 	{
-		"term" : "Flödesoperatör"
+		"term" : "Flismaskinförare, skogsbruk"
 	},
 	{
 		"term" : "Floormanager"
@@ -2583,10 +2490,10 @@
 		"term" : "Flygledare"
 	},
 	{
-		"term" : "Flygmäklare"
+		"term" : "Flygmekaniker"
 	},
 	{
-		"term" : "Flygmekaniker"
+		"term" : "Flygmäklare"
 	},
 	{
 		"term" : "Flygplanselektriker"
@@ -2619,13 +2526,10 @@
 		"term" : "Flygvärd\/Flygvärdinna\/Flygsteward"
 	},
 	{
-		"term" : "Flyktingassistent"
-	},
-	{
-		"term" : "Flyktingsamordnare\/Flyktingkonsulent"
-	},
-	{
 		"term" : "Flyttkarl\/Stadsbud"
+	},
+	{
+		"term" : "Flödesoperatör"
 	},
 	{
 		"term" : "Foajépersonal"
@@ -2661,30 +2565,6 @@
 		"term" : "Fondförvaltare\/Portföljförvaltare"
 	},
 	{
-		"term" : "Fönsterputsare"
-	},
-	{
-		"term" : "Förbundschef"
-	},
-	{
-		"term" : "Förbundsdirektör"
-	},
-	{
-		"term" : "Förbundsjurist"
-	},
-	{
-		"term" : "Förbundskassör"
-	},
-	{
-		"term" : "Förbundsordförande"
-	},
-	{
-		"term" : "Förbundssekreterare"
-	},
-	{
-		"term" : "Förbundstränare"
-	},
-	{
 		"term" : "Fordonselektriker"
 	},
 	{
@@ -2703,15 +2583,6 @@
 		"term" : "Fordonstekniker\/Bilmekaniker\/Personbilsmekaniker"
 	},
 	{
-		"term" : "Föredragande\/Beredningsjurist"
-	},
-	{
-		"term" : "Föreningsinstruktör"
-	},
-	{
-		"term" : "Föreningskonsulent"
-	},
-	{
 		"term" : "Forensiker, biologi"
 	},
 	{
@@ -2722,54 +2593,6 @@
 	},
 	{
 		"term" : "Forensiker, kemist"
-	},
-	{
-		"term" : "Föreståndare, äldreboende"
-	},
-	{
-		"term" : "Föreståndare, stugby"
-	},
-	{
-		"term" : "Företagsguide"
-	},
-	{
-		"term" : "Företagsjurist"
-	},
-	{
-		"term" : "Företagskonsulent"
-	},
-	{
-		"term" : "Företagskonsult"
-	},
-	{
-		"term" : "Företagspsykolog"
-	},
-	{
-		"term" : "Företagsrådgivare"
-	},
-	{
-		"term" : "Företagssjuksköterska\/Företagssköterska"
-	},
-	{
-		"term" : "Författare"
-	},
-	{
-		"term" : "Förhandlingschef"
-	},
-	{
-		"term" : "Förhandlingssekreterare"
-	},
-	{
-		"term" : "Förlagschef, bokförlag"
-	},
-	{
-		"term" : "Förlagschef, tidning"
-	},
-	{
-		"term" : "Förlagsredaktör"
-	},
-	{
-		"term" : "Förman, snickeri"
 	},
 	{
 		"term" : "Formare, gipsplattor"
@@ -2794,72 +2617,6 @@
 	},
 	{
 		"term" : "Formsättare"
-	},
-	{
-		"term" : "Förrådsarbetare, bygg"
-	},
-	{
-		"term" : "Förrådschef"
-	},
-	{
-		"term" : "Förrättningsassistent"
-	},
-	{
-		"term" : "Försäkringsförmedlarassistent"
-	},
-	{
-		"term" : "Försäkringsförmedlare\/Försäkringsmäklare"
-	},
-	{
-		"term" : "Försäkringshandläggare"
-	},
-	{
-		"term" : "Försäkringshandläggare, försäkringskassa"
-	},
-	{
-		"term" : "Försäkringsjurist"
-	},
-	{
-		"term" : "Försäkringskonsulent"
-	},
-	{
-		"term" : "Försäkringsombud"
-	},
-	{
-		"term" : "Försäkringsrådgivare\/Försäkringssäljare"
-	},
-	{
-		"term" : "Försäkringsspecialist"
-	},
-	{
-		"term" : "Försäkringstjänsteman"
-	},
-	{
-		"term" : "Försäkringsutredare"
-	},
-	{
-		"term" : "Försäkringsutredare, försäkringskassa"
-	},
-	{
-		"term" : "Försäljningsassistent\/Försäljningssekreterare"
-	},
-	{
-		"term" : "Försäljningschef"
-	},
-	{
-		"term" : "Församlingsdiakon"
-	},
-	{
-		"term" : "Församlingsföreståndare, Frälsningsarmén"
-	},
-	{
-		"term" : "Församlingsföreståndare, frikyrka"
-	},
-	{
-		"term" : "Församlingspedagog"
-	},
-	{
-		"term" : "Församlingspräst med specialuppgifter"
 	},
 	{
 		"term" : "Forskarassistent"
@@ -2964,16 +2721,16 @@
 		"term" : "Forskare, teologi"
 	},
 	{
-		"term" : "Forskare, trädgårdsvetenskap"
-	},
-	{
 		"term" : "Forskare, trafiksäkerhet"
 	},
 	{
-		"term" : "Forskare, växt- och djurbiologi"
+		"term" : "Forskare, trädgårdsvetenskap"
 	},
 	{
 		"term" : "Forskare, virologi"
+	},
+	{
+		"term" : "Forskare, växt- och djurbiologi"
 	},
 	{
 		"term" : "Forskare, zoologi"
@@ -3006,46 +2763,10 @@
 		"term" : "Forskningslaborant, kemi"
 	},
 	{
-		"term" : "Förskolekonsulent"
-	},
-	{
-		"term" : "Förskolerektor"
-	},
-	{
-		"term" : "Försöksdjurskötare\/Försöksdjurstekniker"
-	},
-	{
-		"term" : "Försvarsmeteorolog"
-	},
-	{
 		"term" : "Fortbildningskonsulent"
 	},
 	{
 		"term" : "Fortbildningssekreterare"
-	},
-	{
-		"term" : "Förvalsare"
-	},
-	{
-		"term" : "Förvaltare, skogsbruk"
-	},
-	{
-		"term" : "Förvaltningsassistent"
-	},
-	{
-		"term" : "Förvaltningschef, kommun"
-	},
-	{
-		"term" : "Förvaltningschef, landsting"
-	},
-	{
-		"term" : "Förvaltningsdirektör, statlig"
-	},
-	{
-		"term" : "Förvaltningsekonom"
-	},
-	{
-		"term" : "Förvaltningsjurist"
 	},
 	{
 		"term" : "Fotoetsare"
@@ -3078,12 +2799,6 @@
 		"term" : "Fransstylist\/Frans- och brynstylist"
 	},
 	{
-		"term" : "Fräsare"
-	},
-	{
-		"term" : "Fräsare, trä"
-	},
-	{
 		"term" : "Fredsforskare"
 	},
 	{
@@ -3114,7 +2829,7 @@
 		"term" : "Fritidsledare"
 	},
 	{
-		"term" : "Fritidsledare\/Ungdomsledare, församling"
+		"term" : "Fritidsledare, församling\/Ungdomsledare, församling"
 	},
 	{
 		"term" : "Fritidsombud, försäkringar"
@@ -3144,6 +2859,12 @@
 		"term" : "Fruktodlingsrådgivare\/Fruktodlingskonsulent"
 	},
 	{
+		"term" : "Fräsare"
+	},
+	{
+		"term" : "Fräsare, trä"
+	},
+	{
 		"term" : "Fukttekniker"
 	},
 	{
@@ -3168,6 +2889,231 @@
 		"term" : "Fytoterapeut\/Örtterapeut"
 	},
 	{
+		"term" : "Fältassistent"
+	},
+	{
+		"term" : "Fältgeotekniker"
+	},
+	{
+		"term" : "Fältskadereglerare"
+	},
+	{
+		"term" : "Fälttekniker, geologi"
+	},
+	{
+		"term" : "Fälttjänsteman, försäkringar"
+	},
+	{
+		"term" : "Färdigmatlagare"
+	},
+	{
+		"term" : "Färdledare\/Turledare"
+	},
+	{
+		"term" : "Färdmekaniker, helikopter"
+	},
+	{
+		"term" : "Färdtjänstbussförare"
+	},
+	{
+		"term" : "Färdtjänstförare"
+	},
+	{
+		"term" : "Färgare"
+	},
+	{
+		"term" : "Färgblandare, tryckeri"
+	},
+	{
+		"term" : "Färgkonsulent"
+	},
+	{
+		"term" : "Färgtryckspåläggare, porslin"
+	},
+	{
+		"term" : "Fönsterputsare"
+	},
+	{
+		"term" : "Förbundschef"
+	},
+	{
+		"term" : "Förbundsdirektör"
+	},
+	{
+		"term" : "Förbundsjurist"
+	},
+	{
+		"term" : "Förbundskassör"
+	},
+	{
+		"term" : "Förbundsordförande"
+	},
+	{
+		"term" : "Förbundssekreterare"
+	},
+	{
+		"term" : "Förbundstränare"
+	},
+	{
+		"term" : "Föredragande\/Beredningsjurist"
+	},
+	{
+		"term" : "Föreningsinstruktör"
+	},
+	{
+		"term" : "Föreningskonsulent"
+	},
+	{
+		"term" : "Föreståndare, stugby"
+	},
+	{
+		"term" : "Föreståndare, äldreboende"
+	},
+	{
+		"term" : "Företagsguide"
+	},
+	{
+		"term" : "Företagsjurist"
+	},
+	{
+		"term" : "Företagskonsulent"
+	},
+	{
+		"term" : "Företagskonsult"
+	},
+	{
+		"term" : "Företagspsykolog"
+	},
+	{
+		"term" : "Företagsrådgivare"
+	},
+	{
+		"term" : "Företagssjuksköterska\/Företagssköterska"
+	},
+	{
+		"term" : "Författare"
+	},
+	{
+		"term" : "Förhandlingschef"
+	},
+	{
+		"term" : "Förhandlingssekreterare"
+	},
+	{
+		"term" : "Förlagschef, bokförlag"
+	},
+	{
+		"term" : "Förlagschef, tidning"
+	},
+	{
+		"term" : "Förlagsredaktör"
+	},
+	{
+		"term" : "Förman, snickeri"
+	},
+	{
+		"term" : "Förrådsarbetare, bygg"
+	},
+	{
+		"term" : "Förrådschef"
+	},
+	{
+		"term" : "Förrättningsassistent"
+	},
+	{
+		"term" : "Församlingsdiakon"
+	},
+	{
+		"term" : "Församlingsföreståndare, frikyrka"
+	},
+	{
+		"term" : "Församlingsföreståndare, Frälsningsarmén"
+	},
+	{
+		"term" : "Församlingspedagog"
+	},
+	{
+		"term" : "Församlingspräst med specialuppgifter"
+	},
+	{
+		"term" : "Förskolekonsulent"
+	},
+	{
+		"term" : "Förskolerektor"
+	},
+	{
+		"term" : "Försvarsmeteorolog"
+	},
+	{
+		"term" : "Försäkringsförmedlarassistent"
+	},
+	{
+		"term" : "Försäkringsförmedlare\/Försäkringsmäklare"
+	},
+	{
+		"term" : "Försäkringshandläggare"
+	},
+	{
+		"term" : "Försäkringshandläggare, försäkringskassa"
+	},
+	{
+		"term" : "Försäkringsjurist"
+	},
+	{
+		"term" : "Försäkringskonsulent"
+	},
+	{
+		"term" : "Försäkringsombud"
+	},
+	{
+		"term" : "Försäkringsrådgivare\/Försäkringssäljare"
+	},
+	{
+		"term" : "Försäkringsspecialist"
+	},
+	{
+		"term" : "Försäkringstjänsteman"
+	},
+	{
+		"term" : "Försäkringsutredare"
+	},
+	{
+		"term" : "Försäkringsutredare, försäkringskassa"
+	},
+	{
+		"term" : "Försäljningsassistent\/Försäljningssekreterare"
+	},
+	{
+		"term" : "Försäljningschef"
+	},
+	{
+		"term" : "Försöksdjurskötare\/Försöksdjurstekniker"
+	},
+	{
+		"term" : "Förvalsare"
+	},
+	{
+		"term" : "Förvaltare, skogsbruk"
+	},
+	{
+		"term" : "Förvaltningsassistent"
+	},
+	{
+		"term" : "Förvaltningschef, kommun"
+	},
+	{
+		"term" : "Förvaltningschef, landsting"
+	},
+	{
+		"term" : "Förvaltningsdirektör, statlig"
+	},
+	{
+		"term" : "Förvaltningsekonom"
+	},
+	{
+		"term" : "Förvaltningsjurist"
+	},
+	{
 		"term" : "Game designer\/Speldesigner"
 	},
 	{
@@ -3187,12 +3133,6 @@
 	},
 	{
 		"term" : "Gardinmakare"
-	},
-	{
-		"term" : "Gårdsmästare, blandad drift\/Rättare, blandad drift"
-	},
-	{
-		"term" : "Gårdsmästare, växtodling\/Rättare, växtodling"
 	},
 	{
 		"term" : "Garvare\/Skinnberedare"
@@ -3330,13 +3270,10 @@
 		"term" : "Glashärdare"
 	},
 	{
-		"term" : "Glasmålare"
-	},
-	{
 		"term" : "Glasmaskinskötare"
 	},
 	{
-		"term" : "Glasögonslipare"
+		"term" : "Glasmålare"
 	},
 	{
 		"term" : "Glaspolerare"
@@ -3363,6 +3300,9 @@
 		"term" : "Glasverksarbetare"
 	},
 	{
+		"term" : "Glasögonslipare"
+	},
+	{
 		"term" : "Gnistare"
 	},
 	{
@@ -3378,7 +3318,7 @@
 		"term" : "Golfinstruktör\/Golftränare"
 	},
 	{
-		"term" : "Golvbeläggningsarbetare, industri"
+		"term" : "Golvbeläggningsarbetare, industrigolv"
 	},
 	{
 		"term" : "Golvläggare"
@@ -3387,7 +3327,7 @@
 		"term" : "Golvläggare, utan yrkesbevis"
 	},
 	{
-		"term" : "Golvslipare\/trä"
+		"term" : "Golvslipare, trä"
 	},
 	{
 		"term" : "Gradare"
@@ -3408,22 +3348,10 @@
 		"term" : "Granskningsman"
 	},
 	{
-		"term" : "Gränskontrollant\/Passkontrollant"
-	},
-	{
-		"term" : "Grävlastarförare, anläggning"
-	},
-	{
-		"term" : "Grävmaskinförare"
-	},
-	{
-		"term" : "Grävmaskinförare, skogsbruk"
+		"term" : "Gravstenhuggare"
 	},
 	{
 		"term" : "Gravör"
-	},
-	{
-		"term" : "Gravör, ädelmetall"
 	},
 	{
 		"term" : "Gravör, metall"
@@ -3432,7 +3360,7 @@
 		"term" : "Gravör, tryckmedier"
 	},
 	{
-		"term" : "Gravstenhuggare"
+		"term" : "Gravör, ädelmetall"
 	},
 	{
 		"term" : "Greenkeeper"
@@ -3445,12 +3373,6 @@
 	},
 	{
 		"term" : "Grillkock, snabbmat"
-	},
-	{
-		"term" : "Grönsaksodlare"
-	},
-	{
-		"term" : "Grönsaksodling, förman"
 	},
 	{
 		"term" : "Grovarbetare, bygg och anläggning"
@@ -3471,12 +3393,6 @@
 		"term" : "Gruppledare inom socialtjänst"
 	},
 	{
-		"term" : "Gruppledare\/arbetsledare, säkerhetsarbete"
-	},
-	{
-		"term" : "Gruppterapeut"
-	},
-	{
 		"term" : "Gruvbyggare"
 	},
 	{
@@ -3484,6 +3400,24 @@
 	},
 	{
 		"term" : "Gruvmätare"
+	},
+	{
+		"term" : "Gränskontrollant\/Passkontrollant"
+	},
+	{
+		"term" : "Grävlastarförare, anläggning"
+	},
+	{
+		"term" : "Grävmaskinförare"
+	},
+	{
+		"term" : "Grävmaskinförare, skogsbruk"
+	},
+	{
+		"term" : "Grönsaksodlare"
+	},
+	{
+		"term" : "Grönsaksodling, förman"
 	},
 	{
 		"term" : "Guide"
@@ -3495,43 +3429,22 @@
 		"term" : "Gyminstruktör"
 	},
 	{
+		"term" : "Gårdsmästare, blandad drift\/Rättare, blandad drift"
+	},
+	{
+		"term" : "Gårdsmästare, växtodling\/Rättare, växtodling"
+	},
+	{
 		"term" : "Habiliteringsassistent"
 	},
 	{
 		"term" : "Habiliteringspedagog"
 	},
 	{
-		"term" : "Hållbarhetschef"
-	},
-	{
-		"term" : "Hållbarhetsutvecklare"
-	},
-	{
 		"term" : "Hallföreståndare"
 	},
 	{
 		"term" : "Halmvaruarbetare"
-	},
-	{
-		"term" : "Hälso- och sjukvårdskurator"
-	},
-	{
-		"term" : "Hälsocoach"
-	},
-	{
-		"term" : "Hälsoekonom"
-	},
-	{
-		"term" : "Hälsoinformatör"
-	},
-	{
-		"term" : "Hälsopedagog"
-	},
-	{
-		"term" : "Hälsoplanerare"
-	},
-	{
-		"term" : "Hälsovårdsinspektör"
 	},
 	{
 		"term" : "Hammarsmed"
@@ -3561,13 +3474,13 @@
 		"term" : "Handikappkonsulent"
 	},
 	{
-		"term" : "Handläggare, utredare, arbetslöshetskassa"
-	},
-	{
-		"term" : "Handläggare\/Utredare, offentlig förvaltning"
-	},
-	{
 		"term" : "Handlingskoordinator"
+	},
+	{
+		"term" : "Handläggare, arbetslöshetskassa\/Utredare, arbetslöshetskassa"
+	},
+	{
+		"term" : "Handläggare, offentlig förvaltning\/Utredare, offentlig förvaltning"
 	},
 	{
 		"term" : "Handpaketerare"
@@ -3579,34 +3492,19 @@
 		"term" : "Handstickare"
 	},
 	{
-		"term" : "Handvävare"
-	},
-	{
 		"term" : "Handvirkare"
 	},
 	{
+		"term" : "Handvävare"
+	},
+	{
 		"term" : "Hantverkspedagog"
-	},
-	{
-		"term" : "Härdare, plast"
-	},
-	{
-		"term" : "Hårdlödare"
-	},
-	{
-		"term" : "Hårdvarukonstruktör"
-	},
-	{
-		"term" : "Hårdvarutestare"
 	},
 	{
 		"term" : "Hattmakare"
 	},
 	{
 		"term" : "Heatsettryckare"
-	},
-	{
-		"term" : "Helikopter, färdmekaniker"
 	},
 	{
 		"term" : "Helikopterförare\/Helikopterpilot"
@@ -3657,34 +3555,22 @@
 		"term" : "Hissmontör"
 	},
 	{
+		"term" : "Hjullastarförare, godshantering"
+	},
+	{
 		"term" : "Hjälpmedelskonsulent"
 	},
 	{
 		"term" : "Hjälpmedelstekniker"
 	},
 	{
-		"term" : "Hjullastarförare, godshantering"
-	},
-	{
 		"term" : "Homeopat"
-	},
-	{
-		"term" : "Hörselvårdsingenjör\/Hörselingenjör"
-	},
-	{
-		"term" : "Hörselvårdskonsulent"
-	},
-	{
-		"term" : "Hörselvårdstekniker"
 	},
 	{
 		"term" : "Hortonom"
 	},
 	{
 		"term" : "Hotellchef"
-	},
-	{
-		"term" : "Hotellhusfru"
 	},
 	{
 		"term" : "Hotellreceptionist"
@@ -3708,6 +3594,12 @@
 		"term" : "Hovrättslagman"
 	},
 	{
+		"term" : "Hovrättspresident"
+	},
+	{
+		"term" : "Hovrättsråd"
+	},
+	{
 		"term" : "Hovslagare"
 	},
 	{
@@ -3720,7 +3612,7 @@
 		"term" : "HR-konsult\/PA-konsult"
 	},
 	{
-		"term" : "HR-specialist\/HR-adviser"
+		"term" : "HR-specialist\/HR-advisor"
 	},
 	{
 		"term" : "HSEQ Manager\/KMA-samordnare"
@@ -3816,6 +3708,54 @@
 		"term" : "Hyvlare, trä"
 	},
 	{
+		"term" : "Hållbarhetschef"
+	},
+	{
+		"term" : "Hållbarhetsutvecklare"
+	},
+	{
+		"term" : "Hårdlödare"
+	},
+	{
+		"term" : "Hårdvarukonstruktör"
+	},
+	{
+		"term" : "Hårdvarutestare"
+	},
+	{
+		"term" : "Hälso- och sjukvårdskurator"
+	},
+	{
+		"term" : "Hälsocoach"
+	},
+	{
+		"term" : "Hälsoekonom"
+	},
+	{
+		"term" : "Hälsoinformatör"
+	},
+	{
+		"term" : "Hälsopedagog"
+	},
+	{
+		"term" : "Hälsoplanerare"
+	},
+	{
+		"term" : "Hälsovårdsinspektör"
+	},
+	{
+		"term" : "Härdare, plast"
+	},
+	{
+		"term" : "Hörselvårdsingenjör\/Hörselingenjör"
+	},
+	{
+		"term" : "Hörselvårdskonsulent"
+	},
+	{
+		"term" : "Hörselvårdstekniker"
+	},
+	{
 		"term" : "Idéhistoriker"
 	},
 	{
@@ -3829,9 +3769,6 @@
 	},
 	{
 		"term" : "Idrottskonsulent"
-	},
-	{
-		"term" : "Idrottspedagog"
 	},
 	{
 		"term" : "Idrottsplatschef"
@@ -3891,10 +3828,13 @@
 		"term" : "Industrisanerare"
 	},
 	{
+		"term" : "Industristädare"
+	},
+	{
 		"term" : "Industrisömmerska"
 	},
 	{
-		"term" : "Industristädare"
+		"term" : "Infografiker\/Nyhetsgrafiker"
 	},
 	{
 		"term" : "Informatiker"
@@ -4026,7 +3966,7 @@
 		"term" : "Instruktionsstädare"
 	},
 	{
-		"term" : "Instruktör\/Tränare inom specialidrott"
+		"term" : "Instruktör inom specialidrott\/Tränare inom specialidrott"
 	},
 	{
 		"term" : "Instrumentelektriker\/Instrumenttekniker"
@@ -4077,9 +4017,6 @@
 		"term" : "Invandrarkonsulent"
 	},
 	{
-		"term" : "Invandrarsekreterare"
-	},
-	{
 		"term" : "Ismaskinförare"
 	},
 	{
@@ -4098,13 +4035,7 @@
 		"term" : "IT-jurist"
 	},
 	{
-		"term" : "IT-producent"
-	},
-	{
 		"term" : "IT-revisor"
-	},
-	{
-		"term" : "IT-säkerhetschef\/IT security manager"
 	},
 	{
 		"term" : "IT-samordnare"
@@ -4113,16 +4044,13 @@
 		"term" : "IT-strateg"
 	},
 	{
+		"term" : "IT-säkerhetschef\/IT security manager"
+	},
+	{
 		"term" : "IT-tekniker\/Datatekniker"
 	},
 	{
 		"term" : "IT-utredare"
-	},
-	{
-		"term" : "Jägare"
-	},
-	{
-		"term" : "Jägmästare"
 	},
 	{
 		"term" : "Jaktkonsulent\/Viltkonsulent"
@@ -4132,9 +4060,6 @@
 	},
 	{
 		"term" : "Jaktvårdskonsulent\/Jaktvårdsrådgivare"
-	},
-	{
-		"term" : "Järnvägsingenjör"
 	},
 	{
 		"term" : "Jobbcoach\/Utbildningscoach"
@@ -4176,6 +4101,15 @@
 		"term" : "Juvelfattare"
 	},
 	{
+		"term" : "Jägare"
+	},
+	{
+		"term" : "Jägmästare"
+	},
+	{
+		"term" : "Järnvägsingenjör"
+	},
+	{
 		"term" : "Kabelmaskinoperatör"
 	},
 	{
@@ -4215,9 +4149,6 @@
 		"term" : "Kalkhusarbetare, garveri"
 	},
 	{
-		"term" : "Kallsågare, metall"
-	},
-	{
 		"term" : "Kallskänka"
 	},
 	{
@@ -4227,10 +4158,10 @@
 		"term" : "Kallslagare"
 	},
 	{
-		"term" : "Kameraassistent"
+		"term" : "Kallsågare, metall"
 	},
 	{
-		"term" : "Kammaråklagare"
+		"term" : "Kameraassistent"
 	},
 	{
 		"term" : "Kammarrättsassessor"
@@ -4266,31 +4197,16 @@
 		"term" : "Kantpressare"
 	},
 	{
-		"term" : "Kantsågare"
+		"term" : "Kantslipare, glas"
 	},
 	{
-		"term" : "Kantslipare, glas"
+		"term" : "Kantsågare"
 	},
 	{
 		"term" : "Kapellmästare"
 	},
 	{
 		"term" : "Kapellvaktmästare"
-	},
-	{
-		"term" : "Kaplan"
-	},
-	{
-		"term" : "Kärnborrare"
-	},
-	{
-		"term" : "Kärnfysiker"
-	},
-	{
-		"term" : "Kärnkraftsanerare"
-	},
-	{
-		"term" : "Kärnmakare"
 	},
 	{
 		"term" : "Karosserisnickare"
@@ -4368,9 +4284,6 @@
 		"term" : "Kiropraktor"
 	},
 	{
-		"term" : "Klänningssömmerska"
-	},
-	{
 		"term" : "Klensmed"
 	},
 	{
@@ -4404,6 +4317,9 @@
 		"term" : "Klubbvärdinna"
 	},
 	{
+		"term" : "Klänningssömmerska"
+	},
+	{
 		"term" : "Kock, à la carte"
 	},
 	{
@@ -4420,21 +4336,6 @@
 	},
 	{
 		"term" : "Kokillskötare"
-	},
-	{
-		"term" : "Köksarkitekt"
-	},
-	{
-		"term" : "Köksbiträde"
-	},
-	{
-		"term" : "Kökschef"
-	},
-	{
-		"term" : "Köksföreståndare"
-	},
-	{
-		"term" : "Köksmästare"
 	},
 	{
 		"term" : "Kolare"
@@ -4638,10 +4539,7 @@
 		"term" : "Konverteringsarbetare, papper"
 	},
 	{
-		"term" : "Koordinator: kultur, media, film"
-	},
-	{
-		"term" : "Köp- och försäljningsmäklare, fartyg"
+		"term" : "Koordinator: kultur, media, film, dataspel"
 	},
 	{
 		"term" : "Kopieringsmaskinskötare"
@@ -4671,16 +4569,10 @@
 		"term" : "Korgmöbelmakare"
 	},
 	{
-		"term" : "Körledare"
-	},
-	{
 		"term" : "Korrekturläsare"
 	},
 	{
-		"term" : "Körsnär\/Pälsmodellör"
-	},
-	{
-		"term" : "Korsordsmakare\/korsordskonstruktör"
+		"term" : "Korsordsmakare\/Korsordskonstruktör"
 	},
 	{
 		"term" : "Kostchef"
@@ -4701,16 +4593,10 @@
 		"term" : "Kostymmästare"
 	},
 	{
-		"term" : "Kostymör"
-	},
-	{
 		"term" : "Kostymtekniker\/Påklädare"
 	},
 	{
-		"term" : "Köttklassificerare"
-	},
-	{
-		"term" : "Köttmästare"
+		"term" : "Kostymör"
 	},
 	{
 		"term" : "Kraftstationsmaskinist"
@@ -4803,10 +4689,10 @@
 		"term" : "Kultursekreterare"
 	},
 	{
-		"term" : "Kundmäklare"
+		"term" : "Kundmottagare, bilverkstad\/Verkmästare, bilverkstad"
 	},
 	{
-		"term" : "Kundmottagare\/Verkmästare, bilverkstad"
+		"term" : "Kundmäklare"
 	},
 	{
 		"term" : "Kundserviceingenjör, tillverkningsindustri"
@@ -4851,25 +4737,25 @@
 		"term" : "Kvalitetschef"
 	},
 	{
+		"term" : "Kvalitetsingenjör, elektronik\/Kvalitetstekniker, elektronik"
+	},
+	{
+		"term" : "Kvalitetsingenjör, elkraft\/Kvalitetstekniker, elkraft"
+	},
+	{
 		"term" : "Kvalitetsingenjör, el-tele"
 	},
 	{
+		"term" : "Kvalitetsingenjör, kemiteknik\/Kvalitetstekniker, kemiteknik"
+	},
+	{
+		"term" : "Kvalitetsingenjör, maskin\/Kvalitetstekniker, maskin"
+	},
+	{
+		"term" : "Kvalitetsingenjör, metallurgi\/Kvalitetstekniker, metallurgi"
+	},
+	{
 		"term" : "Kvalitetsingenjör, textil, trä, glas, förpackningar"
-	},
-	{
-		"term" : "Kvalitetsingenjör\/-tekniker, elektronik"
-	},
-	{
-		"term" : "Kvalitetsingenjör\/-tekniker, elkraft"
-	},
-	{
-		"term" : "Kvalitetsingenjör\/-tekniker, kemiteknik"
-	},
-	{
-		"term" : "Kvalitetsingenjör\/-tekniker, maskin"
-	},
-	{
-		"term" : "Kvalitetsingenjör\/-tekniker, metallurgi"
 	},
 	{
 		"term" : "Kvalitetsmätare, metallprodukter"
@@ -4923,6 +4809,48 @@
 		"term" : "Kyrkvaktmästare"
 	},
 	{
+		"term" : "Kärnborrare"
+	},
+	{
+		"term" : "Kärnfysiker"
+	},
+	{
+		"term" : "Kärnkraftsanerare"
+	},
+	{
+		"term" : "Kärnmakare"
+	},
+	{
+		"term" : "Köksarkitekt"
+	},
+	{
+		"term" : "Köksbiträde"
+	},
+	{
+		"term" : "Kökschef"
+	},
+	{
+		"term" : "Köksföreståndare"
+	},
+	{
+		"term" : "Köksmästare"
+	},
+	{
+		"term" : "Köp- och försäljningsmäklare, fartyg"
+	},
+	{
+		"term" : "Körledare"
+	},
+	{
+		"term" : "Körsnär\/Pälsmodellör"
+	},
+	{
+		"term" : "Köttklassificerare"
+	},
+	{
+		"term" : "Köttmästare"
+	},
+	{
 		"term" : "Laborant, biologi"
 	},
 	{
@@ -4938,15 +4866,6 @@
 		"term" : "Laboratoriebiträde"
 	},
 	{
-		"term" : "Laboratoriebiträde, fys.lab."
-	},
-	{
-		"term" : "Laboratoriebiträde, kem.lab."
-	},
-	{
-		"term" : "Laboratoriebiträde, sjukhus"
-	},
-	{
 		"term" : "Laboratoriechef"
 	},
 	{
@@ -4960,9 +4879,6 @@
 	},
 	{
 		"term" : "Laboratorieingenjör, metallurgi"
-	},
-	{
-		"term" : "Laboratorietandtekniker"
 	},
 	{
 		"term" : "Laboratorietekniker, fysik"
@@ -4981,12 +4897,6 @@
 	},
 	{
 		"term" : "Laddare, gruva"
-	},
-	{
-		"term" : "Läderfärgare"
-	},
-	{
-		"term" : "Lädervaruarbetare"
 	},
 	{
 		"term" : "Ladugårdsföreståndare\/Ladugårdsförman, djuruppfödning"
@@ -5011,30 +4921,6 @@
 	},
 	{
 		"term" : "Lagman"
-	},
-	{
-		"term" : "Läkare"
-	},
-	{
-		"term" : "Läkarsekreterare\/Vårdadministratör\/Medicinsk sekreterare"
-	},
-	{
-		"term" : "Läkeeurytmist"
-	},
-	{
-		"term" : "Läkemedelsansvarig, apotekare"
-	},
-	{
-		"term" : "Läkemedelsansvarig, receptarie"
-	},
-	{
-		"term" : "Läkemedelsinspektör"
-	},
-	{
-		"term" : "Läkemedelskonsulent"
-	},
-	{
-		"term" : "Läkepedagog"
 	},
 	{
 		"term" : "Laminatpressare"
@@ -5071,48 +4957,6 @@
 	},
 	{
 		"term" : "Landstingssekreterare"
-	},
-	{
-		"term" : "Lånechef"
-	},
-	{
-		"term" : "Länsåklagare"
-	},
-	{
-		"term" : "Länsantikvarie\/1:e antikvarie"
-	},
-	{
-		"term" : "Länsarkitekt"
-	},
-	{
-		"term" : "Länsbibliotekarie"
-	},
-	{
-		"term" : "Länsbostadsdirektör"
-	},
-	{
-		"term" : "Länshemslöjdskonsulent"
-	},
-	{
-		"term" : "Länsjägmästare"
-	},
-	{
-		"term" : "Länsjaktvårdare"
-	},
-	{
-		"term" : "Länsjaktvårdskonsulent"
-	},
-	{
-		"term" : "Länsjurist"
-	},
-	{
-		"term" : "Länsråd"
-	},
-	{
-		"term" : "Länsskattechef"
-	},
-	{
-		"term" : "Länsveterinär"
 	},
 	{
 		"term" : "Lantbrevbärare"
@@ -5160,172 +5004,13 @@
 		"term" : "Lantmäteriingenjör"
 	},
 	{
-		"term" : "Lärarassistent"
-	},
-	{
-		"term" : "Lärare i förskola\/Förskollärare"
-	},
-	{
-		"term" : "Lärare i förskoleklass"
-	},
-	{
-		"term" : "Lärare i fritidshem\/Fritidspedagog"
-	},
-	{
-		"term" : "Lärare i grundskolan, årskurs 1-3"
-	},
-	{
-		"term" : "Lärare i grundskolan, årskurs 1-6"
-	},
-	{
-		"term" : "Lärare i grundskolan, årskurs 4-6"
-	},
-	{
-		"term" : "Lärare i grundskolan, årskurs 7-9"
-	},
-	{
-		"term" : "Lärare i gymnasieskolan"
-	},
-	{
-		"term" : "Lärare i gymnasieskolan - yrkesämnen"
-	},
-	{
-		"term" : "Lärare i kulturskolan"
-	},
-	{
-		"term" : "Lärare i praktiska och estetiska ämnen"
-	},
-	{
-		"term" : "Lärare i praktiskt\/estetiskt och annat ämne"
-	},
-	{
-		"term" : "Lärling, anläggningsdykare"
-	},
-	{
-		"term" : "Lärling, bandlastarförare"
-	},
-	{
-		"term" : "Lärling, bandschaktarförare"
-	},
-	{
-		"term" : "Lärling, beläggningsarbete"
-	},
-	{
-		"term" : "Lärling, beläggningsmaskinförare"
-	},
-	{
-		"term" : "Lärling, bergarbetare"
-	},
-	{
-		"term" : "Lärling, betongarbetare"
-	},
-	{
-		"term" : "Lärling, betonghåltagare"
-	},
-	{
-		"term" : "Lärling, byggnadsplåtslagare"
-	},
-	{
-		"term" : "Lärling, glastekniker"
-	},
-	{
-		"term" : "Lärling, golvläggare"
-	},
-	{
-		"term" : "Lärling, grävlastare"
-	},
-	{
-		"term" : "Lärling, grävmaskinförare"
-	},
-	{
-		"term" : "Lärling, hissmontör"
-	},
-	{
-		"term" : "Lärling, industrielektriker"
-	},
-	{
-		"term" : "Lärling, installationselektriker"
-	},
-	{
-		"term" : "Lärling, isoleringsplåtslagare"
-	},
-	{
-		"term" : "Lärling, lastmaskinförare"
-	},
-	{
-		"term" : "Lärling, målare"
-	},
-	{
-		"term" : "Lärling, mobilkranförare"
-	},
-	{
-		"term" : "Lärling, motorschaktvagnförare"
-	},
-	{
-		"term" : "Lärling, murare"
-	},
-	{
-		"term" : "Lärling, pålmaskinförare"
-	},
-	{
-		"term" : "Lärling, plattsättare"
-	},
-	{
-		"term" : "Lärling, ställningsbyggare"
-	},
-	{
-		"term" : "Lärling, stenmontör"
-	},
-	{
-		"term" : "Lärling, tak- och tätskiktsmontör"
-	},
-	{
-		"term" : "Lärling, teleskoptruckförare"
-	},
-	{
-		"term" : "Lärling, tornkranförare"
-	},
-	{
-		"term" : "Lärling, träarbetare"
-	},
-	{
-		"term" : "Lärling, undertaksmontör"
-	},
-	{
-		"term" : "Lärling, väg- och anläggningsarbetare"
-	},
-	{
-		"term" : "Lärling, väghyvelförare"
-	},
-	{
-		"term" : "Lärling, ventilationsplåtslagare"
-	},
-	{
-		"term" : "Lärling, VVS-isolerare"
-	},
-	{
-		"term" : "Lärling, VVS-montör"
-	},
-	{
 		"term" : "Larminstallatör\/Larmtekniker"
 	},
 	{
 		"term" : "Larmoperatör"
 	},
 	{
-		"term" : "Läromedelsassistent"
-	},
-	{
-		"term" : "Läromedelsintendent"
-	},
-	{
 		"term" : "Laseroperatör\/Laserskärare"
-	},
-	{
-		"term" : "Läskedrycksberedare"
-	},
-	{
-		"term" : "Låssmed\/Låstekniker"
 	},
 	{
 		"term" : "Lastare"
@@ -5340,16 +5025,7 @@
 		"term" : "Lastmaskinförare"
 	},
 	{
-		"term" : "Lästmodellör"
-	},
-	{
 		"term" : "Lastningsförman\/Load master"
-	},
-	{
-		"term" : "Lättbetongarbetare"
-	},
-	{
-		"term" : "Lättmatros"
 	},
 	{
 		"term" : "Layoutare"
@@ -5478,12 +5154,6 @@
 		"term" : "Ljudassistent"
 	},
 	{
-		"term" : "Ljudbandstekniker"
-	},
-	{
-		"term" : "Ljuddatatekniker"
-	},
-	{
 		"term" : "Ljuddesigner"
 	},
 	{
@@ -5505,10 +5175,10 @@
 		"term" : "Ljusformare"
 	},
 	{
-		"term" : "Ljussättare"
+		"term" : "Ljusstöpare"
 	},
 	{
-		"term" : "Ljusstöpare"
+		"term" : "Ljussättare"
 	},
 	{
 		"term" : "Ljustekniker"
@@ -5541,16 +5211,10 @@
 		"term" : "Lokreparatör"
 	},
 	{
-		"term" : "Löneadministratör"
-	},
-	{
-		"term" : "Löneassistent\/Lönekontorist"
-	},
-	{
-		"term" : "Lösullsinstallatör"
-	},
-	{
 		"term" : "Lots, fartyg"
+	},
+	{
+		"term" : "Lotsoperatör"
 	},
 	{
 		"term" : "LSS-handläggare"
@@ -5559,16 +5223,256 @@
 		"term" : "Lunchkock"
 	},
 	{
+		"term" : "Lånechef"
+	},
+	{
+		"term" : "Låssmed\/Låstekniker"
+	},
+	{
+		"term" : "Läderfärgare"
+	},
+	{
+		"term" : "Lädervaruarbetare"
+	},
+	{
+		"term" : "Läkare"
+	},
+	{
+		"term" : "Läkarsekreterare\/Vårdadministratör\/Medicinsk sekreterare"
+	},
+	{
+		"term" : "Läkeeurytmist"
+	},
+	{
+		"term" : "Läkemedelsansvarig apotekare"
+	},
+	{
+		"term" : "Läkemedelsansvarig receptarie"
+	},
+	{
+		"term" : "Läkemedelsinspektör"
+	},
+	{
+		"term" : "Läkemedelskonsulent"
+	},
+	{
+		"term" : "Läkepedagog"
+	},
+	{
+		"term" : "Länsantikvarie\/1:e antikvarie"
+	},
+	{
+		"term" : "Länsarkitekt"
+	},
+	{
+		"term" : "Länsbibliotekarie"
+	},
+	{
+		"term" : "Länsbostadsdirektör"
+	},
+	{
+		"term" : "Länshemslöjdskonsulent"
+	},
+	{
+		"term" : "Länsjaktvårdare"
+	},
+	{
+		"term" : "Länsjaktvårdskonsulent"
+	},
+	{
+		"term" : "Länsjurist"
+	},
+	{
+		"term" : "Länsjägmästare"
+	},
+	{
+		"term" : "Länsråd"
+	},
+	{
+		"term" : "Länsskattechef"
+	},
+	{
+		"term" : "Länsveterinär"
+	},
+	{
+		"term" : "Lärarassistent"
+	},
+	{
+		"term" : "Lärare i fritidshem\/Fritidspedagog"
+	},
+	{
+		"term" : "Lärare i förskola\/Förskollärare"
+	},
+	{
+		"term" : "Lärare i förskoleklass"
+	},
+	{
+		"term" : "Lärare i grundskolan, årskurs 1-3"
+	},
+	{
+		"term" : "Lärare i grundskolan, årskurs 1-6"
+	},
+	{
+		"term" : "Lärare i grundskolan, årskurs 4-6"
+	},
+	{
+		"term" : "Lärare i grundskolan, årskurs 7-9"
+	},
+	{
+		"term" : "Lärare i gymnasieskolan"
+	},
+	{
+		"term" : "Lärare i gymnasieskolan - yrkesämnen"
+	},
+	{
+		"term" : "Lärare i kulturskolan"
+	},
+	{
+		"term" : "Lärare i praktiska och estetiska ämnen"
+	},
+	{
+		"term" : "Lärare i praktiskt\/estetiskt och annat ämne"
+	},
+	{
+		"term" : "Lärling, anläggningsdykare"
+	},
+	{
+		"term" : "Lärling, bandlastarförare"
+	},
+	{
+		"term" : "Lärling, bandschaktarförare"
+	},
+	{
+		"term" : "Lärling, beläggningsarbete"
+	},
+	{
+		"term" : "Lärling, beläggningsmaskinförare"
+	},
+	{
+		"term" : "Lärling, bergarbetare"
+	},
+	{
+		"term" : "Lärling, betongarbetare"
+	},
+	{
+		"term" : "Lärling, betonghåltagare"
+	},
+	{
+		"term" : "Lärling, byggnadsplåtslagare"
+	},
+	{
+		"term" : "Lärling, glastekniker"
+	},
+	{
+		"term" : "Lärling, golvläggare"
+	},
+	{
+		"term" : "Lärling, grävlastare"
+	},
+	{
+		"term" : "Lärling, grävmaskinförare"
+	},
+	{
+		"term" : "Lärling, hissmontör"
+	},
+	{
+		"term" : "Lärling, industrielektriker"
+	},
+	{
+		"term" : "Lärling, installationselektriker"
+	},
+	{
+		"term" : "Lärling, isoleringsplåtslagare"
+	},
+	{
+		"term" : "Lärling, lastmaskinförare"
+	},
+	{
+		"term" : "Lärling, mobilkranförare"
+	},
+	{
+		"term" : "Lärling, motorschaktvagnförare"
+	},
+	{
+		"term" : "Lärling, murare"
+	},
+	{
+		"term" : "Lärling, målare"
+	},
+	{
+		"term" : "Lärling, plattsättare"
+	},
+	{
+		"term" : "Lärling, pålmaskinförare"
+	},
+	{
+		"term" : "Lärling, stenmontör"
+	},
+	{
+		"term" : "Lärling, ställningsbyggare"
+	},
+	{
+		"term" : "Lärling, tak- och tätskiktsmontör"
+	},
+	{
+		"term" : "Lärling, teleskoptruckförare"
+	},
+	{
+		"term" : "Lärling, tornkranförare"
+	},
+	{
+		"term" : "Lärling, träarbetare"
+	},
+	{
+		"term" : "Lärling, undertaksmontör"
+	},
+	{
+		"term" : "Lärling, ventilationsplåtslagare"
+	},
+	{
+		"term" : "Lärling, VVS-isolerare"
+	},
+	{
+		"term" : "Lärling, VVS-montör"
+	},
+	{
+		"term" : "Lärling, väg- och anläggningsarbetare"
+	},
+	{
+		"term" : "Lärling, väghyvelförare"
+	},
+	{
+		"term" : "Läromedelsassistent"
+	},
+	{
+		"term" : "Läromedelsintendent"
+	},
+	{
+		"term" : "Läskedrycksberedare"
+	},
+	{
+		"term" : "Lästmodellör"
+	},
+	{
+		"term" : "Lättbetongarbetare"
+	},
+	{
+		"term" : "Lättmatros"
+	},
+	{
+		"term" : "Löneadminstratör\/Lönekonsult"
+	},
+	{
+		"term" : "Löneassistent\/Lönekontorist"
+	},
+	{
+		"term" : "Lösullsinstallatör"
+	},
+	{
 		"term" : "Make-up artist"
 	},
 	{
 		"term" : "Makroanalytiker"
-	},
-	{
-		"term" : "Målare"
-	},
-	{
-		"term" : "Måleri, servicearbetare"
 	},
 	{
 		"term" : "Malmanrikare"
@@ -5592,16 +5496,7 @@
 		"term" : "Malmvägare"
 	},
 	{
-		"term" : "Mältare"
-	},
-	{
-		"term" : "Måltidsbiträde"
-	},
-	{
 		"term" : "Manager"
-	},
-	{
-		"term" : "Mängberedare"
 	},
 	{
 		"term" : "Manikyrist\/Manikurist"
@@ -5661,9 +5556,6 @@
 		"term" : "Marknadsundersökare"
 	},
 	{
-		"term" : "MAS, medicinskt ansvarig sjuksköterska"
-	},
-	{
 		"term" : "Maskinbefäl, fartyg"
 	},
 	{
@@ -5679,13 +5571,13 @@
 		"term" : "Maskinelektriker"
 	},
 	{
+		"term" : "Maskinformare, gjuteri"
+	},
+	{
 		"term" : "Maskinförare, lantbruk\/Traktorförare, lantbruk"
 	},
 	{
 		"term" : "Maskinförare, träfiberskivor"
-	},
-	{
-		"term" : "Maskinformare, gjuteri"
 	},
 	{
 		"term" : "Maskingravör, metall"
@@ -5697,22 +5589,22 @@
 		"term" : "Maskinist, energi"
 	},
 	{
-		"term" : "Maskinkärnmakare"
-	},
-	{
 		"term" : "Maskinkonstruktör"
 	},
 	{
-		"term" : "Maskinmästare"
+		"term" : "Maskinkärnmakare"
 	},
 	{
-		"term" : "Maskinmekaniker, industri\/varvsindustri"
+		"term" : "Maskinmekaniker, industri\/Maskinmekaniker, varvsindustri"
 	},
 	{
 		"term" : "Maskinmekaniker\/Skogsmaskinmekaniker"
 	},
 	{
 		"term" : "Maskinmontör"
+	},
+	{
+		"term" : "Maskinmästare"
 	},
 	{
 		"term" : "Maskinoperatör, bageri"
@@ -5736,10 +5628,10 @@
 		"term" : "Maskinoperatör, gummiindustri"
 	},
 	{
-		"term" : "Maskinoperatör, hårdband"
+		"term" : "Maskinoperatör, hygienteknik"
 	},
 	{
-		"term" : "Maskinoperatör, hygienteknik"
+		"term" : "Maskinoperatör, hårdband"
 	},
 	{
 		"term" : "Maskinoperatör, juice, frukt, grönsaker och vegetabilisk olja"
@@ -5784,13 +5676,10 @@
 		"term" : "Maskinoperatör, tryckeri"
 	},
 	{
-		"term" : "Maskinoperatör, ytbehandling"
+		"term" : "Maskinoperatör, ytbehandling, metall"
 	},
 	{
 		"term" : "Maskinoperatör, ytbehandling, trä"
-	},
-	{
-		"term" : "Maskinrådgivare\/Maskinkonsulent"
 	},
 	{
 		"term" : "Maskinreparatör"
@@ -5799,7 +5688,7 @@
 		"term" : "Maskinreparatör, stationära"
 	},
 	{
-		"term" : "Maskinsäljare, entreprenad"
+		"term" : "Maskinrådgivare\/Maskinkonsulent"
 	},
 	{
 		"term" : "Maskinskärare"
@@ -5820,16 +5709,19 @@
 		"term" : "Maskinskötare, tegelbruk"
 	},
 	{
-		"term" : "Maskinsnickare\/Operatör, snickeri, inredning"
+		"term" : "Maskinsnickare, snickeri\/Operatör, snickeri\/Operatör, inredning"
 	},
 	{
-		"term" : "Maskinsnickare\/Operatör, trävaruindustri"
+		"term" : "Maskinsnickare, trävaruindustri\/Operatör, trävaruindustri"
 	},
 	{
 		"term" : "Maskinställare"
 	},
 	{
 		"term" : "Maskinställare, textil"
+	},
+	{
+		"term" : "Maskinsäljare, entreprenad"
 	},
 	{
 		"term" : "Maskintekniker, vattenverk"
@@ -5841,7 +5733,7 @@
 		"term" : "Maskör"
 	},
 	{
-		"term" : "Massaberedare, keramik, tegel"
+		"term" : "Massaberedare, keramik\/Massaberedare, tegel"
 	},
 	{
 		"term" : "Massaberedare, papper"
@@ -5856,22 +5748,10 @@
 		"term" : "Massamaskinförare"
 	},
 	{
-		"term" : "Mässman, fartyg"
-	},
-	{
 		"term" : "Massör\/Massageterapeut"
 	},
 	{
-		"term" : "Mästare, glasbruk"
-	},
-	{
 		"term" : "Masugnsarbetare"
-	},
-	{
-		"term" : "Mätaravläsare"
-	},
-	{
-		"term" : "Mätarjusterare"
 	},
 	{
 		"term" : "Matematiker"
@@ -5895,31 +5775,10 @@
 		"term" : "Materialstyrare"
 	},
 	{
-		"term" : "Mätningschef, virkesmätning"
-	},
-	{
-		"term" : "Mätningsingenjör\/MBK-ingenjör"
-	},
-	{
-		"term" : "Mätningstekniker, bygg"
-	},
-	{
 		"term" : "Matros"
 	},
 	{
 		"term" : "Matros, inre fart"
-	},
-	{
-		"term" : "Mättekniker, fysik"
-	},
-	{
-		"term" : "Mättekniker, geologi"
-	},
-	{
-		"term" : "Mättekniker, kemi"
-	},
-	{
-		"term" : "Mättekniker, metallprodukter"
 	},
 	{
 		"term" : "Mattvättare"
@@ -5938,6 +5797,9 @@
 	},
 	{
 		"term" : "Mediatextare"
+	},
+	{
+		"term" : "Medicinskt ansvarig sjuksköterska\/MAS"
 	},
 	{
 		"term" : "Medicinteknisk ingenjör"
@@ -6066,12 +5928,6 @@
 		"term" : "Mixare, ljudtekniker"
 	},
 	{
-		"term" : "Mjölkbedömare"
-	},
-	{
-		"term" : "Mjölnare"
-	},
-	{
 		"term" : "Mjuklödare"
 	},
 	{
@@ -6081,25 +5937,16 @@
 		"term" : "Mjukvaruutvecklare"
 	},
 	{
-		"term" : "Möbellackerare"
+		"term" : "Mjölkbedömare"
 	},
 	{
-		"term" : "Möbelmontör\/Inredningsmontör"
-	},
-	{
-		"term" : "Möbelrenoverare\/Möbelrestauratör"
-	},
-	{
-		"term" : "Möbelsnickare"
+		"term" : "Mjölnare"
 	},
 	{
 		"term" : "Mobilkranförare"
 	},
 	{
 		"term" : "Mobilutvecklare\/Apputvecklare"
-	},
-	{
-		"term" : "Modell"
 	},
 	{
 		"term" : "Modellbyggare"
@@ -6114,10 +5961,10 @@
 		"term" : "Modellmakare, metall"
 	},
 	{
-		"term" : "Modellör, keramik"
+		"term" : "Modellsnickare"
 	},
 	{
-		"term" : "Modellsnickare"
+		"term" : "Modellör, keramik"
 	},
 	{
 		"term" : "Moderator"
@@ -6139,15 +5986,6 @@
 	},
 	{
 		"term" : "Molekylärbiolog"
-	},
-	{
-		"term" : "Mönsterkonstruktionsassistent"
-	},
-	{
-		"term" : "Mönsterritare, tyger"
-	},
-	{
-		"term" : "Mönsterslipare, glas"
 	},
 	{
 		"term" : "Montör, el- och teleutrustning"
@@ -6258,25 +6096,79 @@
 		"term" : "Mykolog"
 	},
 	{
+		"term" : "Målare"
+	},
+	{
+		"term" : "Måleri, servicearbetare"
+	},
+	{
+		"term" : "Måltidsbiträde"
+	},
+	{
+		"term" : "Mältare"
+	},
+	{
+		"term" : "Mängberedare"
+	},
+	{
+		"term" : "Mässman, fartyg"
+	},
+	{
+		"term" : "Mästare, glasbruk"
+	},
+	{
+		"term" : "Mätaravläsare"
+	},
+	{
+		"term" : "Mätarjusterare"
+	},
+	{
+		"term" : "Mätningschef, virkesmätning"
+	},
+	{
+		"term" : "Mätningsingenjör\/MBK-ingenjör"
+	},
+	{
+		"term" : "Mätningstekniker, bygg"
+	},
+	{
+		"term" : "Mättekniker, fysik"
+	},
+	{
+		"term" : "Mättekniker, geologi"
+	},
+	{
+		"term" : "Mättekniker, kemi"
+	},
+	{
+		"term" : "Mättekniker, metallprodukter"
+	},
+	{
+		"term" : "Möbellackerare"
+	},
+	{
+		"term" : "Möbelmontör\/Inredningsmontör"
+	},
+	{
+		"term" : "Möbelrenoverare\/Möbelrestauratör"
+	},
+	{
+		"term" : "Möbelsnickare"
+	},
+	{
+		"term" : "Mönsterkonstruktionsassistent"
+	},
+	{
+		"term" : "Mönsterritare, tyger"
+	},
+	{
+		"term" : "Mönsterslipare, glas"
+	},
+	{
 		"term" : "Nagelterapeut\/Nagelteknolog"
 	},
 	{
-		"term" : "Nämndsekreterare"
-	},
-	{
 		"term" : "Naprapat"
-	},
-	{
-		"term" : "Näringsforskare"
-	},
-	{
-		"term" : "Näringslivschef"
-	},
-	{
-		"term" : "Näringslivssekreterare\/Näringslivsutvecklare"
-	},
-	{
-		"term" : "Näringsterapeut"
 	},
 	{
 		"term" : "Nationalekonom"
@@ -6285,13 +6177,7 @@
 		"term" : "Nationalparkschef"
 	},
 	{
-		"term" : "Nätplanerare"
-	},
-	{
 		"term" : "Nattchef, redaktion"
-	},
-	{
-		"term" : "Nättillverkare"
 	},
 	{
 		"term" : "Nattreceptionist\/Nattportier"
@@ -6315,21 +6201,6 @@
 		"term" : "Naturvårdsingenjör"
 	},
 	{
-		"term" : "Nätverksadministratör"
-	},
-	{
-		"term" : "Nätverksansvarig"
-	},
-	{
-		"term" : "Nätverkskonstruktör"
-	},
-	{
-		"term" : "Nätverksoperatör"
-	},
-	{
-		"term" : "Nätverkstekniker"
-	},
-	{
 		"term" : "Neuropsykolog"
 	},
 	{
@@ -6345,7 +6216,40 @@
 		"term" : "Nutritionist\/Näringsfysiolog"
 	},
 	{
-		"term" : "Nyhetsgrafiker"
+		"term" : "Nämndsekreterare"
+	},
+	{
+		"term" : "Näringsforskare"
+	},
+	{
+		"term" : "Näringslivschef"
+	},
+	{
+		"term" : "Näringslivssekreterare\/Näringslivsutvecklare"
+	},
+	{
+		"term" : "Näringsterapeut"
+	},
+	{
+		"term" : "Nätplanerare"
+	},
+	{
+		"term" : "Nättillverkare"
+	},
+	{
+		"term" : "Nätverksadministratör"
+	},
+	{
+		"term" : "Nätverksansvarig"
+	},
+	{
+		"term" : "Nätverkskonstruktör"
+	},
+	{
+		"term" : "Nätverksoperatör"
+	},
+	{
+		"term" : "Nätverkstekniker"
 	},
 	{
 		"term" : "OB-assistent"
@@ -6390,9 +6294,6 @@
 		"term" : "Offsettryckare"
 	},
 	{
-		"term" : "Ögonsjuksköterska\/Oftalmologassistent"
-	},
-	{
 		"term" : "Oljesanerare"
 	},
 	{
@@ -6405,16 +6306,16 @@
 		"term" : "Omprövningshandläggare, arbetslöshetskassa"
 	},
 	{
-		"term" : "Områdeschef, äldre- och handikappomsorg"
-	},
-	{
 		"term" : "Områdeschef, barnomsorg"
 	},
 	{
 		"term" : "Områdeschef, skogsbruk"
 	},
 	{
-		"term" : "Områdesförvaltare"
+		"term" : "Områdeschef, äldre- och handikappomsorg"
+	},
+	{
+		"term" : "Områdesförvaltare, fastighet"
 	},
 	{
 		"term" : "Omsorgschef"
@@ -6540,24 +6441,6 @@
 		"term" : "Ostmästare"
 	},
 	{
-		"term" : "Överåklagare"
-	},
-	{
-		"term" : "Överbibliotekarie"
-	},
-	{
-		"term" : "Överdirektör"
-	},
-	{
-		"term" : "Översättare"
-	},
-	{
-		"term" : "Överspelningstekniker"
-	},
-	{
-		"term" : "Överstyrman"
-	},
-	{
 		"term" : "Packare"
 	},
 	{
@@ -6571,21 +6454,6 @@
 	},
 	{
 		"term" : "Paleontolog"
-	},
-	{
-		"term" : "Pålmaskinförare"
-	},
-	{
-		"term" : "Pälsdjursskötare"
-	},
-	{
-		"term" : "Pälsdjursuppfödare"
-	},
-	{
-		"term" : "Pälsskinnberedare"
-	},
-	{
-		"term" : "Pälssömmerska"
 	},
 	{
 		"term" : "Pannplåtslagare"
@@ -6612,7 +6480,7 @@
 		"term" : "Parkchef"
 	},
 	{
-		"term" : "Parkeringsvakt"
+		"term" : "Parkeringsvakt\/Trafikövervakare"
 	},
 	{
 		"term" : "Parkettarbetare"
@@ -6628,9 +6496,6 @@
 	},
 	{
 		"term" : "Partikelfysiker"
-	},
-	{
-		"term" : "Påsmaskinskötare"
 	},
 	{
 		"term" : "Passagerarkoordinator"
@@ -6649,12 +6514,6 @@
 	},
 	{
 		"term" : "Patinerare"
-	},
-	{
-		"term" : "PC-koordinator"
-	},
-	{
-		"term" : "PC-samordnare"
 	},
 	{
 		"term" : "Pedagogassistent"
@@ -6703,9 +6562,6 @@
 	},
 	{
 		"term" : "Personlig assistent"
-	},
-	{
-		"term" : "Personlig handläggare, försäkringskassa"
 	},
 	{
 		"term" : "Personlig tränare\/PT"
@@ -6810,13 +6666,13 @@
 		"term" : "Planslipare, glas"
 	},
 	{
-		"term" : "Plantör"
-	},
-	{
 		"term" : "Plantskolearbetare, skog"
 	},
 	{
 		"term" : "Plantskolechef"
+	},
+	{
+		"term" : "Plantör"
 	},
 	{
 		"term" : "Plasmafysiker"
@@ -6840,9 +6696,6 @@
 		"term" : "Plastmaskinoperatör"
 	},
 	{
-		"term" : "Plastmontör"
-	},
-	{
 		"term" : "Plastreparatör"
 	},
 	{
@@ -6850,12 +6703,6 @@
 	},
 	{
 		"term" : "Plastvaruarbetare"
-	},
-	{
-		"term" : "Plåtbearbetare"
-	},
-	{
-		"term" : "Plåtriktare"
 	},
 	{
 		"term" : "Platschef, anläggning"
@@ -6867,13 +6714,13 @@
 		"term" : "Platschef, bygg"
 	},
 	{
-		"term" : "Platschef, film\/TV"
+		"term" : "Platschef, film\/Platschef, TV"
+	},
+	{
+		"term" : "Platschef, försäkringskassa\/Områdeschef, försäkringskassa"
 	},
 	{
 		"term" : "Platschef, reseföretag"
-	},
-	{
-		"term" : "Platschef\/Områdeschef, försäkringskassa"
 	},
 	{
 		"term" : "Plattsättare"
@@ -6886,6 +6733,12 @@
 	},
 	{
 		"term" : "Plywoodarbetare"
+	},
+	{
+		"term" : "Plåtbearbetare"
+	},
+	{
+		"term" : "Plåtriktare"
 	},
 	{
 		"term" : "Podiater\/Podiatriker"
@@ -6927,25 +6780,10 @@
 		"term" : "Porslinsslipare"
 	},
 	{
-		"term" : "Portalkranförare"
-	},
-	{
 		"term" : "Postdoktor\/Postdoc"
 	},
 	{
 		"term" : "Postterminalarbetare"
-	},
-	{
-		"term" : "Präglare, metall"
-	},
-	{
-		"term" : "Präst, annat trossamfund"
-	},
-	{
-		"term" : "Präst, grekisk-ortodox kyrka"
-	},
-	{
-		"term" : "Präst, romersk-katolsk kyrka"
 	},
 	{
 		"term" : "PR-chef"
@@ -6954,7 +6792,7 @@
 		"term" : "Prefekt"
 	},
 	{
-		"term" : "Preparator"
+		"term" : "Preparator\/Taxidermist"
 	},
 	{
 		"term" : "Prepressoperatör"
@@ -7089,7 +6927,10 @@
 		"term" : "Processutvecklare, kemi"
 	},
 	{
-		"term" : "Producent: kultur, media, film"
+		"term" : "Producent: kultur, media, film, dataspel"
+	},
+	{
+		"term" : "Production designer\/Produktionsdesigner"
 	},
 	{
 		"term" : "Produktchef, marknadsföring"
@@ -7104,7 +6945,7 @@
 		"term" : "Produktionschef, bygg"
 	},
 	{
-		"term" : "Produktionschef, logistik och transporter"
+		"term" : "Produktionschef, logistik\/Produktionschef, transporter"
 	},
 	{
 		"term" : "Produktionschef, tillverkning"
@@ -7158,7 +6999,7 @@
 		"term" : "Produktionssekreterare"
 	},
 	{
-		"term" : "Produktionstekniker, maskin\/verkstad"
+		"term" : "Produktionstekniker, maskin\/Produktionstekniker, verkstad"
 	},
 	{
 		"term" : "Produktionstekniker, petroleumutvinning"
@@ -7251,10 +7092,22 @@
 		"term" : "Prydnadsväxtodlare"
 	},
 	{
-		"term" : "Psykoanalytiker"
+		"term" : "Präglare, metall"
+	},
+	{
+		"term" : "Präst, annat trossamfund"
+	},
+	{
+		"term" : "Präst, grekisk-ortodox kyrka"
+	},
+	{
+		"term" : "Präst, romersk-katolsk kyrka"
 	},
 	{
 		"term" : "Psykolog"
+	},
+	{
+		"term" : "Psykologiskt ledningsansvarig psykolog\/PLA"
 	},
 	{
 		"term" : "Psykoterapeut"
@@ -7278,22 +7131,28 @@
 		"term" : "Pumpreparatör"
 	},
 	{
-		"term" : "Punktskriftskontorist"
-	},
-	{
 		"term" : "Punktsvetsare"
 	},
 	{
+		"term" : "Pålmaskinförare"
+	},
+	{
+		"term" : "Påsmaskinskötare"
+	},
+	{
+		"term" : "Pälsdjursskötare"
+	},
+	{
+		"term" : "Pälsdjursuppfödare"
+	},
+	{
+		"term" : "Pälsskinnberedare"
+	},
+	{
+		"term" : "Pälssömmerska"
+	},
+	{
 		"term" : "Rabbin"
-	},
-	{
-		"term" : "Räddningschef"
-	},
-	{
-		"term" : "Räddningsledare, statlig räddningstjänst"
-	},
-	{
-		"term" : "Radio Officer"
 	},
 	{
 		"term" : "Radioexpeditör"
@@ -7308,31 +7167,19 @@
 		"term" : "Radioloksoperatör"
 	},
 	{
-		"term" : "Rådman"
-	},
-	{
-		"term" : "Råhudsarbetare"
-	},
-	{
 		"term" : "Rampagent"
 	},
 	{
 		"term" : "Rampförman, flygplats"
 	},
 	{
-		"term" : "Ränteanalytiker"
-	},
-	{
 		"term" : "Raslastare"
 	},
 	{
-		"term" : "Rättssociolog"
-	},
-	{
-		"term" : "Rättstolk"
-	},
-	{
 		"term" : "Recensent"
+	},
+	{
+		"term" : "Receptarie, farmaceut"
 	},
 	{
 		"term" : "Receptionist, telefonist"
@@ -7354,6 +7201,9 @@
 	},
 	{
 		"term" : "Redigerare"
+	},
+	{
+		"term" : "Redigerare, rörlig bild"
 	},
 	{
 		"term" : "Redovisningsassistent"
@@ -7530,9 +7380,6 @@
 		"term" : "Riggare, verktygsmaskiner"
 	},
 	{
-		"term" : "Riksåklagare"
-	},
-	{
 		"term" : "Riksantikvarie"
 	},
 	{
@@ -7590,28 +7437,7 @@
 		"term" : "Roddare\/Roadie"
 	},
 	{
-		"term" : "Röntgensjuksköterska"
-	},
-	{
-		"term" : "Röntgentekniker"
-	},
-	{
-		"term" : "Rörbockare"
-	},
-	{
-		"term" : "Rördragare"
-	},
-	{
-		"term" : "Rörinfodrare"
-	},
-	{
-		"term" : "Rörriktare"
-	},
-	{
 		"term" : "Rosenterapeut"
-	},
-	{
-		"term" : "Röstpedagog"
 	},
 	{
 		"term" : "Rostskyddsbehandlare"
@@ -7635,58 +7461,49 @@
 		"term" : "Rymdingenjör"
 	},
 	{
-		"term" : "Säckmaskinskötare"
+		"term" : "Rådman"
 	},
 	{
-		"term" : "SAD (Second assistant director)"
+		"term" : "Råhudsarbetare"
+	},
+	{
+		"term" : "Räddningschef"
+	},
+	{
+		"term" : "Räddningsledare, statlig räddningstjänst"
+	},
+	{
+		"term" : "Ränteanalytiker"
+	},
+	{
+		"term" : "Rättssociolog"
+	},
+	{
+		"term" : "Rättstolk"
+	},
+	{
+		"term" : "Röntgensjuksköterska"
+	},
+	{
+		"term" : "Röntgentekniker"
+	},
+	{
+		"term" : "Rörbockare"
+	},
+	{
+		"term" : "Rördragare"
+	},
+	{
+		"term" : "Rörinfodrare"
+	},
+	{
+		"term" : "Rörriktare"
+	},
+	{
+		"term" : "Röstpedagog"
 	},
 	{
 		"term" : "Sadelmakare"
-	},
-	{
-		"term" : "Sågare"
-	},
-	{
-		"term" : "Sågoperatör"
-	},
-	{
-		"term" : "Sågverksarbetare"
-	},
-	{
-		"term" : "Sågverksoperatör"
-	},
-	{
-		"term" : "Säkerhetsadministratör, IT"
-	},
-	{
-		"term" : "Säkerhetsanalytiker, IT"
-	},
-	{
-		"term" : "Säkerhetsansvarig, IT"
-	},
-	{
-		"term" : "Säkerhetschef"
-	},
-	{
-		"term" : "Säkerhetsingenjör"
-	},
-	{
-		"term" : "Säkerhetsmontör"
-	},
-	{
-		"term" : "Säkerhetsrådgivare"
-	},
-	{
-		"term" : "Säkerhetsvakt"
-	},
-	{
-		"term" : "Säljkonsulent"
-	},
-	{
-		"term" : "Säljledare"
-	},
-	{
-		"term" : "Säljledare, resebyrå"
 	},
 	{
 		"term" : "Samhällsekonom"
@@ -7707,19 +7524,10 @@
 		"term" : "Sandberedare, gjuteri"
 	},
 	{
-		"term" : "Sändningstekniker"
-	},
-	{
 		"term" : "Sandwichman"
 	},
 	{
 		"term" : "Saneringsarbetare"
-	},
-	{
-		"term" : "Sångare"
-	},
-	{
-		"term" : "Sångpedagog"
 	},
 	{
 		"term" : "Satellitoperatör"
@@ -7728,13 +7536,10 @@
 		"term" : "Scannertekniker\/Scanneroperatör"
 	},
 	{
-		"term" : "Scenförman"
-	},
-	{
-		"term" : "Scenmästare"
-	},
-	{
 		"term" : "Scenograf"
+	},
+	{
+		"term" : "Scenografassistent"
 	},
 	{
 		"term" : "Scentekniker"
@@ -7750,6 +7555,12 @@
 	},
 	{
 		"term" : "Scripta"
+	},
+	{
+		"term" : "Scrum master"
+	},
+	{
+		"term" : "Second assistant director\/SAD"
 	},
 	{
 		"term" : "Segelmakare"
@@ -7821,13 +7632,13 @@
 		"term" : "Servicetekniker, tåg"
 	},
 	{
+		"term" : "Servitör, fartyg\/Servitris, fartyg"
+	},
+	{
+		"term" : "Servitör, kafé och konditori\/Servitris, kafé och konditori"
+	},
+	{
 		"term" : "Servitör\/Servitris"
-	},
-	{
-		"term" : "Servitör\/Servitris, fartyg"
-	},
-	{
-		"term" : "Servitör\/Servitris, kafé och konditori"
 	},
 	{
 		"term" : "SFI-lärare"
@@ -7857,12 +7668,6 @@
 		"term" : "Silversmed"
 	},
 	{
-		"term" : "Simhallsföreståndare"
-	},
-	{
-		"term" : "Simhallsvakt"
-	},
-	{
 		"term" : "Sintare"
 	},
 	{
@@ -7870,12 +7675,6 @@
 	},
 	{
 		"term" : "SIUS-konsulent"
-	},
-	{
-		"term" : "Sjöbevakningsassistent"
-	},
-	{
-		"term" : "Sjöfartskontrollant\/Hamnskyddskontrollant"
 	},
 	{
 		"term" : "Sjukhusdiakon"
@@ -7887,9 +7686,6 @@
 		"term" : "Sjukhusfysiker"
 	},
 	{
-		"term" : "Sjukhusingenjör"
-	},
-	{
 		"term" : "Sjukhuskemist"
 	},
 	{
@@ -7899,25 +7695,13 @@
 		"term" : "Sjukhusstädare"
 	},
 	{
-		"term" : "Sjukhustandtekniker"
-	},
-	{
-		"term" : "Sjukhustekniker"
-	},
-	{
 		"term" : "Sjukhusvaktmästare"
-	},
-	{
-		"term" : "Sjuksköterska, äldreomsorg och -vård\/geriatrik"
 	},
 	{
 		"term" : "Sjuksköterska, barnavårdscentral"
 	},
 	{
-		"term" : "Sjuksköterska, diagnostisk radiologi"
-	},
-	{
-		"term" : "Sjuksköterska, geriatrisk vård"
+		"term" : "Sjuksköterska, geriatrik\/Sjuksköterska, äldreomsorg och äldrevård"
 	},
 	{
 		"term" : "Sjuksköterska, grundutbildad"
@@ -7938,6 +7722,12 @@
 		"term" : "Sjukvårdstolk"
 	},
 	{
+		"term" : "Sjöbevakningsassistent"
+	},
+	{
+		"term" : "Sjöfartskontrollant\/Hamnskyddskontrollant"
+	},
+	{
 		"term" : "Skadedjurstekniker"
 	},
 	{
@@ -7947,13 +7737,7 @@
 		"term" : "Skadereglerare"
 	},
 	{
-		"term" : "Skådespelare"
-	},
-	{
 		"term" : "Skadetekniker"
-	},
-	{
-		"term" : "Skänkskötare"
 	},
 	{
 		"term" : "Skattehandläggare"
@@ -8040,10 +7824,10 @@
 		"term" : "Skogstransportförare"
 	},
 	{
-		"term" : "Skogsvärderare"
+		"term" : "Skogsvårdschef"
 	},
 	{
-		"term" : "Skogsvårdschef"
+		"term" : "Skogsvärderare"
 	},
 	{
 		"term" : "Skolassistent"
@@ -8088,12 +7872,6 @@
 		"term" : "Skoputsare"
 	},
 	{
-		"term" : "Skördarförare, skogsbruk"
-	},
-	{
-		"term" : "Skördearbetare"
-	},
-	{
 		"term" : "Skorstensfejare\/Sotare"
 	},
 	{
@@ -8106,13 +7884,7 @@
 		"term" : "Skorstenstätare"
 	},
 	{
-		"term" : "Skötare"
-	},
-	{
 		"term" : "Skotarförare, skogsbruk"
-	},
-	{
-		"term" : "Skräddare"
 	},
 	{
 		"term" : "Skrivtolk\/Vuxendövtolk"
@@ -8122,6 +7894,9 @@
 	},
 	{
 		"term" : "Skrovbyggare, trä"
+	},
+	{
+		"term" : "Skräddare"
 	},
 	{
 		"term" : "Skulptör"
@@ -8143,6 +7918,21 @@
 	},
 	{
 		"term" : "Skylttillverkare"
+	},
+	{
+		"term" : "Skådespelare"
+	},
+	{
+		"term" : "Skänkskötare"
+	},
+	{
+		"term" : "Skördarförare, skogsbruk"
+	},
+	{
+		"term" : "Skördearbetare"
+	},
+	{
+		"term" : "Skötare"
 	},
 	{
 		"term" : "Slaktare"
@@ -8175,28 +7965,10 @@
 		"term" : "Slipverktygstillverkare"
 	},
 	{
-		"term" : "Slöjdare"
-	},
-	{
 		"term" : "Slussvakt"
 	},
 	{
-		"term" : "Smådjursskötare"
-	},
-	{
-		"term" : "Smältare, glas"
-	},
-	{
-		"term" : "Smältare\/Smältverksoperatör"
-	},
-	{
-		"term" : "Småmaskinsmekaniker"
-	},
-	{
-		"term" : "Smärgelduksarbetare"
-	},
-	{
-		"term" : "Smärtsjuksköterska"
+		"term" : "Slöjdare"
 	},
 	{
 		"term" : "Smed"
@@ -8209,6 +7981,24 @@
 	},
 	{
 		"term" : "Sminkör"
+	},
+	{
+		"term" : "Smådjursskötare"
+	},
+	{
+		"term" : "Småmaskinsmekaniker"
+	},
+	{
+		"term" : "Smältare, glas"
+	},
+	{
+		"term" : "Smältare\/Smältverksoperatör"
+	},
+	{
+		"term" : "Smärgelduksarbetare"
+	},
+	{
+		"term" : "Smärtsjuksköterska"
 	},
 	{
 		"term" : "Snickerimaskinskötare"
@@ -8268,9 +8058,6 @@
 		"term" : "Sommelier"
 	},
 	{
-		"term" : "Sömmerska, möbeltillverkning"
-	},
-	{
 		"term" : "Sorteringsverksskötare, stenkross"
 	},
 	{
@@ -8292,22 +8079,19 @@
 		"term" : "Spannramsförare"
 	},
 	{
-		"term" : "Spärrexpeditör\/Spärrvakt"
-	},
-	{
-		"term" : "Spårsvetsare"
-	},
-	{
-		"term" : "Spårvagnsförare"
-	},
-	{
 		"term" : "Spa-terapeut"
+	},
+	{
+		"term" : "Special Effects Artist\/SFX Artist"
 	},
 	{
 		"term" : "Specialistläkare"
 	},
 	{
 		"term" : "Specialistofficer"
+	},
+	{
+		"term" : "Specialistpsykolog"
 	},
 	{
 		"term" : "Specialisttandläkare"
@@ -8343,6 +8127,9 @@
 		"term" : "Speltestare"
 	},
 	{
+		"term" : "Speltestare\/QA"
+	},
+	{
 		"term" : "Spikmaskinskötare"
 	},
 	{
@@ -8352,7 +8139,13 @@
 		"term" : "Sporthallsvaktmästare"
 	},
 	{
-		"term" : "Sportledare"
+		"term" : "Sprayare"
+	},
+	{
+		"term" : "Sprinklermontör"
+	},
+	{
+		"term" : "Spritberedare"
 	},
 	{
 		"term" : "Språkkonsult"
@@ -8367,25 +8160,19 @@
 		"term" : "Sprängämnesarbetare"
 	},
 	{
-		"term" : "Sprayare"
+		"term" : "Spårsvetsare"
 	},
 	{
-		"term" : "Sprinklermontör"
+		"term" : "Spårvagnsförare"
 	},
 	{
-		"term" : "Spritberedare"
+		"term" : "Spärrexpeditör\/Spärrvakt"
 	},
 	{
 		"term" : "SQE Supplier Quality Engineer"
 	},
 	{
 		"term" : "SSA-sekreterare"
-	},
-	{
-		"term" : "Städare\/Lokalvårdare"
-	},
-	{
-		"term" : "Städchef"
 	},
 	{
 		"term" : "Stadsarkivarie"
@@ -8406,28 +8193,7 @@
 		"term" : "Stadsutvecklare\/Samhällsstrateg"
 	},
 	{
-		"term" : "Stålbyggare"
-	},
-	{
-		"term" : "Stålgravör"
-	},
-	{
 		"term" : "Stallchef\/Stallförman"
-	},
-	{
-		"term" : "Ställningsbyggare"
-	},
-	{
-		"term" : "Ställningsbyggare, utan yrkesbevis"
-	},
-	{
-		"term" : "Ställverksmontör"
-	},
-	{
-		"term" : "Stålsticksgravör"
-	},
-	{
-		"term" : "Stämningsman"
 	},
 	{
 		"term" : "Standardiseringsingenjör"
@@ -8439,9 +8205,6 @@
 		"term" : "Stand-up-komiker"
 	},
 	{
-		"term" : "Stängselmontör"
-	},
-	{
 		"term" : "Stansare, skor"
 	},
 	{
@@ -8449,9 +8212,6 @@
 	},
 	{
 		"term" : "Stansgravör"
-	},
-	{
-		"term" : "Stationär väktare\/Receptionsväktare"
 	},
 	{
 		"term" : "Stationsarbetare"
@@ -8469,6 +8229,9 @@
 		"term" : "Stationsvärd"
 	},
 	{
+		"term" : "Stationär väktare\/Receptionsväktare"
+	},
+	{
 		"term" : "Statist"
 	},
 	{
@@ -8476,9 +8239,6 @@
 	},
 	{
 		"term" : "Statistikkontorist"
-	},
-	{
-		"term" : "Statsåklagare"
 	},
 	{
 		"term" : "Statssekreterare"
@@ -8529,16 +8289,16 @@
 		"term" : "Stenograf"
 	},
 	{
-		"term" : "Stensågare"
-	},
-	{
-		"term" : "Stensättare"
-	},
-	{
 		"term" : "Stenslipare"
 	},
 	{
 		"term" : "Stensvarvare"
+	},
+	{
+		"term" : "Stensågare"
+	},
+	{
+		"term" : "Stensättare"
 	},
 	{
 		"term" : "Steriltekniker\/Undersköterska, sterilcentral"
@@ -8559,25 +8319,19 @@
 		"term" : "ST-läkare"
 	},
 	{
-		"term" : "Stödassistent"
-	},
-	{
-		"term" : "Stödpedagog"
-	},
-	{
 		"term" : "Stomiterapeut"
 	},
 	{
 		"term" : "Storhushållsföreståndare"
 	},
 	{
+		"term" : "Strukturkemist"
+	},
+	{
 		"term" : "Strålningsfysiker"
 	},
 	{
 		"term" : "Strålskyddstekniker"
-	},
-	{
-		"term" : "Strandvakt"
 	},
 	{
 		"term" : "Stränggjutare, stålverk"
@@ -8590,9 +8344,6 @@
 	},
 	{
 		"term" : "Strängsprutare"
-	},
-	{
-		"term" : "Strukturkemist"
 	},
 	{
 		"term" : "ST-tandläkare"
@@ -8662,6 +8413,42 @@
 	},
 	{
 		"term" : "Styr- och reglertekniker"
+	},
+	{
+		"term" : "Stålbyggare"
+	},
+	{
+		"term" : "Stålgravör"
+	},
+	{
+		"term" : "Stålsticksgravör"
+	},
+	{
+		"term" : "Städare\/Lokalvårdare"
+	},
+	{
+		"term" : "Städchef"
+	},
+	{
+		"term" : "Ställningsbyggare"
+	},
+	{
+		"term" : "Ställningsbyggare, utan yrkesbevis"
+	},
+	{
+		"term" : "Ställverksmontör"
+	},
+	{
+		"term" : "Stämningsman"
+	},
+	{
+		"term" : "Stängselmontör"
+	},
+	{
+		"term" : "Stödassistent"
+	},
+	{
+		"term" : "Stödpedagog"
 	},
 	{
 		"term" : "Sufflör"
@@ -8736,16 +8523,64 @@
 		"term" : "Systemutvecklare\/Programmerare"
 	},
 	{
-		"term" : "Tågklarerare"
+		"term" : "Sågare"
 	},
 	{
-		"term" : "Tågledare"
+		"term" : "Sågoperatör"
 	},
 	{
-		"term" : "Tågvärd\/Tågvärdinna"
+		"term" : "Sågverksarbetare"
 	},
 	{
-		"term" : "Tågvarnare"
+		"term" : "Sågverksoperatör"
+	},
+	{
+		"term" : "Sångare"
+	},
+	{
+		"term" : "Sångpedagog"
+	},
+	{
+		"term" : "Säckmaskinskötare"
+	},
+	{
+		"term" : "Säkerhetsadministratör, IT"
+	},
+	{
+		"term" : "Säkerhetsanalytiker, IT"
+	},
+	{
+		"term" : "Säkerhetsansvarig, IT"
+	},
+	{
+		"term" : "Säkerhetschef"
+	},
+	{
+		"term" : "Säkerhetsingenjör"
+	},
+	{
+		"term" : "Säkerhetsmontör"
+	},
+	{
+		"term" : "Säkerhetsrådgivare"
+	},
+	{
+		"term" : "Säkerhetsvakt"
+	},
+	{
+		"term" : "Säljkonsulent"
+	},
+	{
+		"term" : "Säljledare"
+	},
+	{
+		"term" : "Säljledare, resebyrå"
+	},
+	{
+		"term" : "Sändningstekniker"
+	},
+	{
+		"term" : "Sömmerska, möbeltillverkning"
 	},
 	{
 		"term" : "Tak- och tätskiktsmontör"
@@ -8823,13 +8658,7 @@
 		"term" : "Tarmförädlingsarbetare"
 	},
 	{
-		"term" : "Tårtmakare"
-	},
-	{
 		"term" : "Tatuerare"
-	},
-	{
-		"term" : "Tävlingsryttare"
 	},
 	{
 		"term" : "Taxiförare\/Taxichaufför"
@@ -8859,7 +8688,13 @@
 		"term" : "Teatertekniker"
 	},
 	{
+		"term" : "Tech and Tools programmer"
+	},
+	{
 		"term" : "Technical artist"
+	},
+	{
+		"term" : "Technical Operation Manager\/TOM"
 	},
 	{
 		"term" : "Teckenspråkslärare"
@@ -8877,10 +8712,10 @@
 		"term" : "Teknikpedagog"
 	},
 	{
-		"term" : "Teknisk chef, kommun"
+		"term" : "Teknisk chef, fartyg\/Maskinchef, fartyg"
 	},
 	{
-		"term" : "Teknisk chef\/Maskinchef, fartyg"
+		"term" : "Teknisk chef, kommun"
 	},
 	{
 		"term" : "Teknisk redaktör"
@@ -8970,13 +8805,10 @@
 		"term" : "Tjärkokare"
 	},
 	{
-		"term" : "TMP\/CTMP-operatör"
+		"term" : "TMP-operatör\/CTMP-operatör"
 	},
 	{
 		"term" : "Tolk"
-	},
-	{
-		"term" : "TOM, Technical Operation Manager"
 	},
 	{
 		"term" : "Tonsättare"
@@ -9003,49 +8835,7 @@
 		"term" : "Toxikolog"
 	},
 	{
-		"term" : "Träarbetare, gruva"
-	},
-	{
-		"term" : "Träarbetare\/Snickare"
-	},
-	{
-		"term" : "Träarbetare\/Snickare, utan yrkesbevis"
-	},
-	{
-		"term" : "Träbildhuggare"
-	},
-	{
-		"term" : "Tråddragare"
-	},
-	{
 		"term" : "Trader"
-	},
-	{
-		"term" : "Trädgårdsanläggare\/Trädgårdsanläggningsarbetare"
-	},
-	{
-		"term" : "Trädgårdsarbetare\/Plantskolearbetare, trädgård"
-	},
-	{
-		"term" : "Trädgårdsförman"
-	},
-	{
-		"term" : "Trädgårdsingenjör\/Trädgårdstekniker"
-	},
-	{
-		"term" : "Trädgårdsmästare, anläggning"
-	},
-	{
-		"term" : "Trädgårdsmästare, odling"
-	},
-	{
-		"term" : "Trädgårdsrådgivare\/Trädgårdskonsulent"
-	},
-	{
-		"term" : "Trådspolare, metall"
-	},
-	{
-		"term" : "Träfiberskivarbetare"
 	},
 	{
 		"term" : "Trafikassistent"
@@ -9069,9 +8859,6 @@
 		"term" : "Trafikkoordinator"
 	},
 	{
-		"term" : "Trafiklärare"
-	},
-	{
 		"term" : "Trafikledare, spårburen trafik"
 	},
 	{
@@ -9081,13 +8868,10 @@
 		"term" : "Trafiklots"
 	},
 	{
+		"term" : "Trafiklärare"
+	},
+	{
 		"term" : "Trafiknykterhetskontrollant"
-	},
-	{
-		"term" : "Trafikövervakare"
-	},
-	{
-		"term" : "Trafikpedagog"
 	},
 	{
 		"term" : "Trafikplanerare, offentlig förvaltning"
@@ -9106,12 +8890,6 @@
 	},
 	{
 		"term" : "Trafikvärd\/Taxivärd"
-	},
-	{
-		"term" : "Träförgyllare"
-	},
-	{
-		"term" : "Trähusarbetare\/Spikare"
 	},
 	{
 		"term" : "Trailerreparatör"
@@ -9147,18 +8925,6 @@
 		"term" : "Trappstädare"
 	},
 	{
-		"term" : "Träslöjdare"
-	},
-	{
-		"term" : "Träsnidare"
-	},
-	{
-		"term" : "Träsvarvare"
-	},
-	{
-		"term" : "Träullsarbetare"
-	},
-	{
 		"term" : "Travbaneföreståndare"
 	},
 	{
@@ -9190,6 +8956,66 @@
 	},
 	{
 		"term" : "Trycksvarvare"
+	},
+	{
+		"term" : "Tråddragare"
+	},
+	{
+		"term" : "Trådspolare, metall"
+	},
+	{
+		"term" : "Träarbetare, gruva"
+	},
+	{
+		"term" : "Träarbetare, utan yrkesbevis\/Snickare, utan yrkesbevis"
+	},
+	{
+		"term" : "Träarbetare\/Snickare"
+	},
+	{
+		"term" : "Träbildhuggare"
+	},
+	{
+		"term" : "Trädgårdsanläggare\/Trädgårdsanläggningsarbetare"
+	},
+	{
+		"term" : "Trädgårdsarbetare\/Plantskolearbetare, trädgård"
+	},
+	{
+		"term" : "Trädgårdsförman"
+	},
+	{
+		"term" : "Trädgårdsingenjör\/Trädgårdstekniker"
+	},
+	{
+		"term" : "Trädgårdsmästare, anläggning"
+	},
+	{
+		"term" : "Trädgårdsmästare, odling"
+	},
+	{
+		"term" : "Trädgårdsrådgivare\/Trädgårdskonsulent"
+	},
+	{
+		"term" : "Träfiberskivarbetare"
+	},
+	{
+		"term" : "Träförgyllare"
+	},
+	{
+		"term" : "Trähusarbetare\/Spikare"
+	},
+	{
+		"term" : "Träslöjdare"
+	},
+	{
+		"term" : "Träsnidare"
+	},
+	{
+		"term" : "Träsvarvare"
+	},
+	{
+		"term" : "Träullsarbetare"
 	},
 	{
 		"term" : "Tulldeklarant"
@@ -9246,19 +9072,13 @@
 		"term" : "Turistvärd\/Turistvärdinna"
 	},
 	{
-		"term" : "Turnéläggare"
-	},
-	{
 		"term" : "Turnéledare"
 	},
 	{
+		"term" : "Turnéläggare"
+	},
+	{
 		"term" : "Turnétekniker"
-	},
-	{
-		"term" : "Tvättchef"
-	},
-	{
-		"term" : "Tvätteriarbetare\/Tvättbiträde"
 	},
 	{
 		"term" : "TV-chef"
@@ -9270,10 +9090,31 @@
 		"term" : "Tvistemålsadvokat"
 	},
 	{
-		"term" : "TV-redigerare"
+		"term" : "TV-tekniker\/Hemelektroniktekniker"
 	},
 	{
-		"term" : "TV-tekniker\/Hemelektroniktekniker"
+		"term" : "Tvättchef"
+	},
+	{
+		"term" : "Tvätteriarbetare\/Tvättbiträde"
+	},
+	{
+		"term" : "Tågklarerare"
+	},
+	{
+		"term" : "Tågledare"
+	},
+	{
+		"term" : "Tågvarnare"
+	},
+	{
+		"term" : "Tågvärd\/Tågvärdinna"
+	},
+	{
+		"term" : "Tårtmakare"
+	},
+	{
+		"term" : "Tävlingsryttare"
 	},
 	{
 		"term" : "Ugnsmurare"
@@ -9289,6 +9130,9 @@
 	},
 	{
 		"term" : "Ugnsuppsättare, keramik"
+	},
+	{
+		"term" : "UI-designer"
 	},
 	{
 		"term" : "Underhållsarbetare, bygg och anläggning"
@@ -9468,25 +9312,7 @@
 		"term" : "Utvecklingsingenjör, tillverkningsindustri"
 	},
 	{
-		"term" : "UX-designer\/UI-designer"
-	},
-	{
-		"term" : "Väderobservatör"
-	},
-	{
-		"term" : "Väg- och anläggningsarbetare"
-	},
-	{
-		"term" : "Väg- och anläggningsarbetare, utan yrkesbevis"
-	},
-	{
-		"term" : "Väg- och vattenbyggnadsingenjör"
-	},
-	{
-		"term" : "Väghyvelförare"
-	},
-	{
-		"term" : "Vägingenjör"
+		"term" : "UX-designer"
 	},
 	{
 		"term" : "Vagnmakare"
@@ -9498,16 +9324,7 @@
 		"term" : "Vagnsstädare"
 	},
 	{
-		"term" : "Vågskötare"
-	},
-	{
-		"term" : "Vägvakt"
-	},
-	{
 		"term" : "VA-ingenjör"
-	},
-	{
-		"term" : "Väktare"
 	},
 	{
 		"term" : "Vaktgående maskinpersonal, sjöfart"
@@ -9543,43 +9360,7 @@
 		"term" : "Vapentekniker"
 	},
 	{
-		"term" : "Vårdare\/Arbetshandledare\/Boendestödjare"
-	},
-	{
-		"term" : "Vårdbiträde"
-	},
-	{
-		"term" : "Värderingsassistent"
-	},
-	{
-		"term" : "Värderingsman"
-	},
-	{
-		"term" : "Värdetransportör"
-	},
-	{
-		"term" : "Vårdkoordinator\/Vårdplatskoordinator"
-	},
-	{
-		"term" : "Vårdnadsutredare"
-	},
-	{
-		"term" : "Vårdutvecklare"
-	},
-	{
 		"term" : "Varietéartist"
-	},
-	{
-		"term" : "Värmare, glas"
-	},
-	{
-		"term" : "Värmare, valsverk"
-	},
-	{
-		"term" : "Värmepumpsmontör"
-	},
-	{
-		"term" : "Värmeverkschef"
 	},
 	{
 		"term" : "Varpare"
@@ -9594,40 +9375,37 @@
 		"term" : "Varvssnickare"
 	},
 	{
-		"term" : "Väskmakare"
-	},
-	{
 		"term" : "Vattenbrukare"
 	},
 	{
 		"term" : "Vattenverkschef"
 	},
 	{
-		"term" : "Vävare"
-	},
-	{
-		"term" : "Vävlagare"
-	},
-	{
-		"term" : "Växeltelefonist"
-	},
-	{
 		"term" : "Vaxgjutare"
 	},
 	{
-		"term" : "Växthusodling, förman"
-	},
-	{
-		"term" : "Växtodlingsrådgivare\/Växtodlingskonsulent"
-	},
-	{
-		"term" : "Växtskötare"
-	},
-	{
-		"term" : "Växtskyddsspecialist"
-	},
-	{
 		"term" : "VD-sekreterare"
+	},
+	{
+		"term" : "Webbanalytiker"
+	},
+	{
+		"term" : "Webbansvarig\/Webbstrateg"
+	},
+	{
+		"term" : "Webbdesigner"
+	},
+	{
+		"term" : "Webbredaktör"
+	},
+	{
+		"term" : "Webbtekniker"
+	},
+	{
+		"term" : "Webmaster"
+	},
+	{
+		"term" : "Wellpappmaskinförare"
 	},
 	{
 		"term" : "Ventilationsingenjör"
@@ -9717,16 +9495,7 @@
 		"term" : "Veterinärinspektör"
 	},
 	{
-		"term" : "VFX Artist (Visual Effects Artist)"
-	},
-	{
-		"term" : "Videografiker"
-	},
-	{
 		"term" : "Videojournalist\/Videoreporter"
-	},
-	{
-		"term" : "Videoredigerare"
 	},
 	{
 		"term" : "Videotekniker\/VB-tekniker"
@@ -9780,13 +9549,16 @@
 		"term" : "Virolog"
 	},
 	{
+		"term" : "Visual Effects Artist\/VFX Artist"
+	},
+	{
 		"term" : "Visuell kommunikatör"
 	},
 	{
 		"term" : "Vitvarumontör"
 	},
 	{
-		"term" : "VTS- och lotsoperatör"
+		"term" : "VTS-operatör"
 	},
 	{
 		"term" : "VVS-ingenjör"
@@ -9801,25 +9573,88 @@
 		"term" : "VVS-tekniker"
 	},
 	{
-		"term" : "Webbanalytiker"
+		"term" : "Vågskötare"
 	},
 	{
-		"term" : "Webbansvarig\/Webbstrateg"
+		"term" : "Vårdare\/Arbetshandledare\/Boendestödjare"
 	},
 	{
-		"term" : "Webbdesigner"
+		"term" : "Vårdbiträde"
 	},
 	{
-		"term" : "Webbredaktör"
+		"term" : "Vårdkoordinator\/Vårdplatskoordinator"
 	},
 	{
-		"term" : "Webbtekniker"
+		"term" : "Vårdutvecklare"
 	},
 	{
-		"term" : "Webmaster"
+		"term" : "Väderobservatör"
 	},
 	{
-		"term" : "Wellpappmaskinförare"
+		"term" : "Väg- och anläggningsarbetare"
+	},
+	{
+		"term" : "Väg- och anläggningsarbetare, utan yrkesbevis"
+	},
+	{
+		"term" : "Väg- och vattenbyggnadsingenjör"
+	},
+	{
+		"term" : "Väghyvelförare"
+	},
+	{
+		"term" : "Vägingenjör"
+	},
+	{
+		"term" : "Vägvakt"
+	},
+	{
+		"term" : "Väktare"
+	},
+	{
+		"term" : "Värderingsassistent"
+	},
+	{
+		"term" : "Värderingsman"
+	},
+	{
+		"term" : "Värdetransportör"
+	},
+	{
+		"term" : "Värmare, glas"
+	},
+	{
+		"term" : "Värmare, valsverk"
+	},
+	{
+		"term" : "Värmepumpsmontör"
+	},
+	{
+		"term" : "Värmeverkschef"
+	},
+	{
+		"term" : "Väskmakare"
+	},
+	{
+		"term" : "Vävare"
+	},
+	{
+		"term" : "Vävlagare"
+	},
+	{
+		"term" : "Växeltelefonist"
+	},
+	{
+		"term" : "Växthusodling, förman"
+	},
+	{
+		"term" : "Växtodlingsrådgivare\/Växtodlingskonsulent"
+	},
+	{
+		"term" : "Växtskyddsspecialist"
+	},
+	{
+		"term" : "Växtskötare"
 	},
 	{
 		"term" : "Yogainstruktör\/Yogalärare"
@@ -9834,7 +9669,7 @@
 		"term" : "Yrkesjägare"
 	},
 	{
-		"term" : "Ytbehandlare\/Sprutlackerare, manuell, trä"
+		"term" : "Ytbehandlare manuell, trä\/Sprutlackerare, manuell, trä"
 	},
 	{
 		"term" : "Ytkemist"
@@ -9844,5 +9679,53 @@
 	},
 	{
 		"term" : "Zoolog"
+	},
+	{
+		"term" : "Åklagaraspirant"
+	},
+	{
+		"term" : "Åklagare"
+	},
+	{
+		"term" : "Ångmaskinist"
+	},
+	{
+		"term" : "Ångpanneeldare"
+	},
+	{
+		"term" : "Ädelstensslipare"
+	},
+	{
+		"term" : "Äggplockare"
+	},
+	{
+		"term" : "Äldreomsorgschef"
+	},
+	{
+		"term" : "Äldrepedagog"
+	},
+	{
+		"term" : "Ändringsskräddare"
+	},
+	{
+		"term" : "Ärftlighetsforskare"
+	},
+	{
+		"term" : "Ättiksberedare"
+	},
+	{
+		"term" : "Ögonsjuksköterska\/Oftalmologassistent"
+	},
+	{
+		"term" : "Överbibliotekarie"
+	},
+	{
+		"term" : "Överdirektör"
+	},
+	{
+		"term" : "Överstyrman"
+	},
+	{
+		"term" : "Översättare"
 	}
 ]
