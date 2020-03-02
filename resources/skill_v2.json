@@ -1,18 +1,15 @@
-[
+ [
 	{
 		"term" : "16 mm film"
-	},
-	{
-		"term" : "1-års montör"
 	},
 	{
 		"term" : "1-färgstryck"
 	},
 	{
-		"term" : "24Seven Office, affärssystem"
+		"term" : "1-års montör"
 	},
 	{
-		"term" : "2-års montör"
+		"term" : "24Seven Office, affärssystem"
 	},
 	{
 		"term" : "2D-animation-Toon Boom Studio"
@@ -45,10 +42,10 @@
 		"term" : "2-färgstryck"
 	},
 	{
-		"term" : "35 mm film"
+		"term" : "2-års montör"
 	},
 	{
-		"term" : "3-års montör"
+		"term" : "35 mm film"
 	},
 	{
 		"term" : "3D-grafik-Autodesk 3ds Max"
@@ -114,6 +111,9 @@
 		"term" : "3G-teknik"
 	},
 	{
+		"term" : "3-års montör"
+	},
+	{
 		"term" : "4-färgsseparering"
 	},
 	{
@@ -121,12 +121,6 @@
 	},
 	{
 		"term" : "4G-teknik"
-	},
-	{
-		"term" : "7QC (The Seven Quality Control Tools)"
-	},
-	{
-		"term" : "7QM (The Seven Quality Management Tools)"
 	},
 	{
 		"term" : "A - Fullständig auktorisation"
@@ -150,6 +144,9 @@
 		"term" : "Acceleratorfysik"
 	},
 	{
+		"term" : "Acceptance and Commitment Therapy\/ACT"
+	},
+	{
 		"term" : "Acceptanstestning"
 	},
 	{
@@ -157,6 +154,9 @@
 	},
 	{
 		"term" : "Accessnät, installation och underhåll"
+	},
+	{
+		"term" : "Accessoarer\/Bijouterier"
 	},
 	{
 		"term" : "A-certifikat, dykning, 40 m."
@@ -174,9 +174,6 @@
 		"term" : "Acryl, specialisering tandteknik"
 	},
 	{
-		"term" : "ACSE (Apple Certified Service Engineer)"
-	},
-	{
 		"term" : "ActionScript, programmeringsspråk"
 	},
 	{
@@ -189,16 +186,7 @@
 		"term" : "Ada, programmeringsspråk"
 	},
 	{
-		"term" : "Å-data, redovisningssystem"
-	},
-	{
 		"term" : "Adeko, redovisningssystem"
-	},
-	{
-		"term" : "Ädelmetallgravyr"
-	},
-	{
-		"term" : "Ädelstensslipning"
 	},
 	{
 		"term" : "ADHD, specialpedagogik"
@@ -222,7 +210,10 @@
 		"term" : "Adobe Acrobat"
 	},
 	{
-		"term" : "Adobe Analytics (SiteCatalyst)"
+		"term" : "Adobe Analytics\/SiteCatalyst"
+	},
+	{
+		"term" : "Adobe Captivate, LMS (Learning management system)"
 	},
 	{
 		"term" : "Adobe Dreamweaver"
@@ -264,10 +255,22 @@
 		"term" : "Advanced fire fighting"
 	},
 	{
-		"term" : "Aerobic, instruktör\/tränare"
+		"term" : "Advanced SAR"
+	},
+	{
+		"term" : "Advanced-MIRG"
+	},
+	{
+		"term" : "Aerobic, instruktör\/Aerobic, tränare"
 	},
 	{
 		"term" : "Afasi, omsorgserfarenhet"
+	},
+	{
+		"term" : "Affischer, design"
+	},
+	{
+		"term" : "Affischklistring"
 	},
 	{
 		"term" : "Affärs- och redovisningssystem, undervisning"
@@ -276,22 +279,16 @@
 		"term" : "Affärsjuridik"
 	},
 	{
-		"term" : "Affärsrätt"
+		"term" : "Affärsreseförsäljning"
 	},
 	{
-		"term" : "Affärsreseförsäljning"
+		"term" : "Affärsrätt"
 	},
 	{
 		"term" : "Affärssystem, produktkunskap"
 	},
 	{
 		"term" : "Affärsutveckling"
-	},
-	{
-		"term" : "Affischer, design"
-	},
-	{
-		"term" : "Affischklistring"
 	},
 	{
 		"term" : "AFIS, fortbildning"
@@ -318,12 +315,6 @@
 		"term" : "After effects"
 	},
 	{
-		"term" : "Äger godkänd tjänstehund"
-	},
-	{
-		"term" : "Äggsortering"
-	},
-	{
 		"term" : "Agila arbetsmetoder"
 	},
 	{
@@ -333,7 +324,7 @@
 		"term" : "Agronomexamen"
 	},
 	{
-		"term" : "AI, Artificial Intelligence\/Artificiell intelligens"
+		"term" : "Airline Transport Pilot License\/ATPL"
 	},
 	{
 		"term" : "AIS"
@@ -346,9 +337,6 @@
 	},
 	{
 		"term" : "Akelius skatt, redovisningssystem"
-	},
-	{
-		"term" : "AKK - alternativ o kompletterande kommunikation"
 	},
 	{
 		"term" : "Aktieadministration"
@@ -378,7 +366,7 @@
 		"term" : "Akutsjukvård, läkare"
 	},
 	{
-		"term" : "Akutsjukvård\/sjukhus"
+		"term" : "Akutsjukvård, sjukhus"
 	},
 	{
 		"term" : "Akvarell, cirkelledning"
@@ -391,12 +379,6 @@
 	},
 	{
 		"term" : "Alcatel, telefonväxel"
-	},
-	{
-		"term" : "Äldreboende"
-	},
-	{
-		"term" : "Äldreomsorg"
 	},
 	{
 		"term" : "Alfabetisk dataregistrering"
@@ -456,6 +438,9 @@
 		"term" : "Alt"
 	},
 	{
+		"term" : "Alternativ och kompletterande kommunikation\/AKK"
+	},
+	{
 		"term" : "Altfiol"
 	},
 	{
@@ -489,7 +474,7 @@
 		"term" : "Ambulanssjukvårdsutbildning"
 	},
 	{
-		"term" : "Amerikansk fotboll, instruktör\/tränare"
+		"term" : "Amerikansk fotboll, instruktör\/Amerikansk fotboll, tränare"
 	},
 	{
 		"term" : "Ammoniakkylning"
@@ -499,9 +484,6 @@
 	},
 	{
 		"term" : "Ammunitionskunskap"
-	},
-	{
-		"term" : "Ämneslärarexamen"
 	},
 	{
 		"term" : "AMPS-system"
@@ -540,10 +522,10 @@
 		"term" : "Analys\/Beräkning-Robot Millenium"
 	},
 	{
-		"term" : "Analys\/Beräkning-VIP-Energy"
+		"term" : "Analys\/Beräkning-WIN-Statik"
 	},
 	{
-		"term" : "Analys\/Beräkning-WIN-Statik"
+		"term" : "Analys\/Beräkning-VIP-Energy"
 	},
 	{
 		"term" : "Analysteknik"
@@ -556,12 +538,6 @@
 	},
 	{
 		"term" : "Andlig repertoar"
-	},
-	{
-		"term" : "Ändringsarbeten, pälsar"
-	},
-	{
-		"term" : "Ändringsarbeten, skrädderi"
 	},
 	{
 		"term" : "Android studio, programmeringsverktyg"
@@ -580,15 +556,6 @@
 	},
 	{
 		"term" : "Anfångning"
-	},
-	{
-		"term" : "Ångfartyg"
-	},
-	{
-		"term" : "Ångkraftanläggning, underhåll"
-	},
-	{
-		"term" : "Ångloksreparationer"
 	},
 	{
 		"term" : "Anhörigstöd"
@@ -648,6 +615,9 @@
 		"term" : "Annonstjänster, produktkunskap"
 	},
 	{
+		"term" : "Anorexi, behandlingserfarenhet\/Bulimi, behandlingserfarenhet"
+	},
+	{
 		"term" : "Anrikning"
 	},
 	{
@@ -666,10 +636,10 @@
 		"term" : "Antikens arkeologi"
 	},
 	{
-		"term" : "Antikviteter och konst"
+		"term" : "Antikviteter, värdering"
 	},
 	{
-		"term" : "Antikviteter, värdering"
+		"term" : "Antikviteter\/Konst"
 	},
 	{
 		"term" : "Användarsupport, hårdvara"
@@ -681,7 +651,7 @@
 		"term" : "Användbarhet"
 	},
 	{
-		"term" : "Användbarhetstest\/användartest\/user test"
+		"term" : "Användbarhetstest\/Användartest\/User test"
 	},
 	{
 		"term" : "Apache Ant, programmeringsverktyg"
@@ -711,6 +681,9 @@
 		"term" : "Appium, systemutvecklingsberktyg"
 	},
 	{
+		"term" : "Apple Certified Service Engineer\/ACSE"
+	},
+	{
 		"term" : "Apple iWork MAC"
 	},
 	{
@@ -724,9 +697,6 @@
 	},
 	{
 		"term" : "Aptering"
-	},
-	{
-		"term" : "AR, Augmented reality"
 	},
 	{
 		"term" : "Arabiska, cirkelledning"
@@ -873,6 +843,12 @@
 		"term" : "ARPA"
 	},
 	{
+		"term" : "Articulate Storyline 360, LMS (Learning management system)"
+	},
+	{
+		"term" : "Artificial Intelligence\/Artificiell intelligens\/AI"
+	},
+	{
 		"term" : "Artificiella naglar"
 	},
 	{
@@ -933,7 +909,7 @@
 		"term" : "ASW, affärssystem"
 	},
 	{
-		"term" : "Asyl- och utlänningsrätt"
+		"term" : "Asylrätt\/Utlänningsrätt"
 	},
 	{
 		"term" : "Ateljéfotografering\/Studiofotografering"
@@ -942,31 +918,19 @@
 		"term" : "Ateljésnickeri"
 	},
 	{
-		"term" : "Återvinning, konstnärlig"
-	},
-	{
-		"term" : "Återvinningsteknik"
-	},
-	{
 		"term" : "ATI Vision, analysverktyg"
 	},
 	{
 		"term" : "ATM, teletransmission"
 	},
 	{
-		"term" : "Atom- och molekylfysik"
+		"term" : "Atomfysik\/Molekylfysik"
 	},
 	{
 		"term" : "Atp-besiktning"
 	},
 	{
-		"term" : "ATPL Airline Transport Pilot License"
-	},
-	{
 		"term" : "A-truckar"
-	},
-	{
-		"term" : "Ätstörningar\/anorexi\/bulimi, psykoterapi"
 	},
 	{
 		"term" : "Attributmakeri"
@@ -976,6 +940,9 @@
 	},
 	{
 		"term" : "Audionomexamen"
+	},
+	{
+		"term" : "Augmented reality\/AR"
 	},
 	{
 		"term" : "Auktoriserad besiktningsman, fartyg"
@@ -993,25 +960,13 @@
 		"term" : "Auktoriserad jaktguide"
 	},
 	{
+		"term" : "Auktoriserad Lönekonsult"
+	},
+	{
 		"term" : "Auktoriserad patentingenjör"
 	},
 	{
 		"term" : "Auktoriserad revisor"
-	},
-	{
-		"term" : "Auktoriserad specialist, arbetslivets psykologi"
-	},
-	{
-		"term" : "Auktoriserad specialist, handikappsykologi"
-	},
-	{
-		"term" : "Auktoriserad specialist, klinisk psykologi"
-	},
-	{
-		"term" : "Auktoriserad specialist, neuropsykologi"
-	},
-	{
-		"term" : "Auktoriserad specialist, pedagogisk psykologi"
 	},
 	{
 		"term" : "Auktoriserad teckenspråkstolk"
@@ -1065,9 +1020,6 @@
 		"term" : "Avfuktning"
 	},
 	{
-		"term" : "Avgångssignalering"
-	},
-	{
 		"term" : "Avgasrening, bensinmotorer"
 	},
 	{
@@ -1077,25 +1029,34 @@
 		"term" : "Avgiftskontroll"
 	},
 	{
+		"term" : "Avgångssignalering"
+	},
+	{
 		"term" : "AV-hjälpmedel"
 	},
 	{
-		"term" : "Avlopps- och vattenreningsteknik"
+		"term" : "AWK, programmeringsspråk"
 	},
 	{
 		"term" : "Avloppsreningsanläggning, underhåll"
 	},
 	{
+		"term" : "Avloppsteknik\/Vattenreningsteknik"
+	},
+	{
 		"term" : "Avslappningsövningar, ledarerfarenhet"
+	},
+	{
+		"term" : "Avsnitt\/Dramaserier"
+	},
+	{
+		"term" : "Avsnittsregi"
 	},
 	{
 		"term" : "Avstämningar"
 	},
 	{
 		"term" : "Avsyning"
-	},
-	{
-		"term" : "Avtals- och kontraktsutformning"
 	},
 	{
 		"term" : "Avtalsförsäkringar"
@@ -1107,6 +1068,9 @@
 		"term" : "Avtalsrätt"
 	},
 	{
+		"term" : "Avtalsutformning\/Kontraktsutformning"
+	},
+	{
 		"term" : "AV-teknik"
 	},
 	{
@@ -1114,9 +1078,6 @@
 	},
 	{
 		"term" : "Avverkningsplanering"
-	},
-	{
-		"term" : "AWK, programmeringsspråk"
 	},
 	{
 		"term" : "AXE-växlar, installation och underhåll"
@@ -1140,19 +1101,16 @@
 		"term" : "Badbevakareutbildning"
 	},
 	{
-		"term" : "Badmästarutbildning"
+		"term" : "Badminton, instruktör\/Badminton, tränare"
 	},
 	{
-		"term" : "Badminton, instruktör\/tränare"
+		"term" : "Badmästarutbildning"
 	},
 	{
 		"term" : "Badvaktsutbildning (steg 1)"
 	},
 	{
 		"term" : "Bageriarbete"
-	},
-	{
-		"term" : "Bågskytte, instruktör\/tränare"
 	},
 	{
 		"term" : "Bake-off bakning"
@@ -1200,10 +1158,10 @@
 		"term" : "Bandvalsning"
 	},
 	{
-		"term" : "Bandy, instruktör\/tränare"
+		"term" : "Bandy, instruktör\/Bandy, tränare"
 	},
 	{
-		"term" : "Bangolf, instruktör\/tränare"
+		"term" : "Bangolf, instruktör\/Bangolf, tränare"
 	},
 	{
 		"term" : "Baninspektion"
@@ -1213,9 +1171,6 @@
 	},
 	{
 		"term" : "Banjo, undervisning musikskola"
-	},
-	{
-		"term" : "Bänkarbete"
 	},
 	{
 		"term" : "Bankrätt"
@@ -1231,9 +1186,6 @@
 	},
 	{
 		"term" : "Barbershop"
-	},
-	{
-		"term" : "Bärgningsdykning"
 	},
 	{
 		"term" : "Barn med särskilda behov"
@@ -1270,9 +1222,6 @@
 	},
 	{
 		"term" : "Barn- och ungdomspedagogisk examen med inriktning fritidspedagogik"
-	},
-	{
-		"term" : "Barn- och ungdomspsykiatri"
 	},
 	{
 		"term" : "Barn- och ungdomspsykiatri, läkare"
@@ -1314,6 +1263,9 @@
 		"term" : "Barnonkologi"
 	},
 	{
+		"term" : "Barnpsykiatri\/Ungdomspsykiatri"
+	},
+	{
 		"term" : "Barnpsykologi"
 	},
 	{
@@ -1323,16 +1275,10 @@
 		"term" : "Barntillsyn, erfarenhet"
 	},
 	{
-		"term" : "Barnvagnar och bilbarnstolar"
+		"term" : "Barnvagnar\/Bilbarnstolar"
 	},
 	{
 		"term" : "Barock"
-	},
-	{
-		"term" : "Bärodling"
-	},
-	{
-		"term" : "Bårtransporter, körning"
 	},
 	{
 		"term" : "Baryton"
@@ -1344,13 +1290,10 @@
 		"term" : "Bas"
 	},
 	{
-		"term" : "BASÄVISTA (Trafikverkets säkerhetskurs)"
-	},
-	{
 		"term" : "Base Maintenance"
 	},
 	{
-		"term" : "Baseboll\/softboll, instruktör\/tränare"
+		"term" : "Baseboll, instruktör\/Baseboll, tränare"
 	},
 	{
 		"term" : "Basetthorn"
@@ -1368,7 +1311,13 @@
 		"term" : "BASIC, programmeringsspråk"
 	},
 	{
-		"term" : "Basket, instruktör\/tränare"
+		"term" : "Basic-MIRG"
+	},
+	{
+		"term" : "Basic-SAR"
+	},
+	{
+		"term" : "Basket, instruktör\/Basket, tränare"
 	},
 	{
 		"term" : "Basket, professionell utövning"
@@ -1386,25 +1335,10 @@
 		"term" : "Basun"
 	},
 	{
-		"term" : "Båtar, produktkunskap"
-	},
-	{
-		"term" : "Båtbyggeri"
-	},
-	{
-		"term" : "Båtinredning, tillverknings- och monteringsvana"
-	},
-	{
-		"term" : "Båtmotorer, installationsvana"
-	},
-	{
-		"term" : "Båtmotorer, reparationsvana"
+		"term" : "BASÄVISTA (Trafikverkets säkerhetskurs)"
 	},
 	{
 		"term" : "Batteriladdning"
-	},
-	{
-		"term" : "Båttillbehör"
 	},
 	{
 		"term" : "BBedit, HTML-editor"
@@ -1425,13 +1359,16 @@
 		"term" : "Bebop"
 	},
 	{
-		"term" : "Begränsat fartygsbefäl klass VIII, inre fart"
+		"term" : "Begravningsmusik\/Sorgemusik"
 	},
 	{
 		"term" : "Begravningstjänster"
 	},
 	{
 		"term" : "Begreppsanalys"
+	},
+	{
+		"term" : "Begränsat fartygsbefäl klass VIII, inre fart"
 	},
 	{
 		"term" : "Behandlingshem"
@@ -1458,12 +1395,6 @@
 		"term" : "Behörighet som psykoanalytiker"
 	},
 	{
-		"term" : "Bekämpning av smittoämnen"
-	},
-	{
-		"term" : "Bekämpningsmetoder"
-	},
-	{
 		"term" : "Beklädnad, innervägg"
 	},
 	{
@@ -1473,10 +1404,16 @@
 		"term" : "Beklädnad, träfasad"
 	},
 	{
-		"term" : "Beläggningsarbete"
+		"term" : "Bekämpning av smittoämnen"
+	},
+	{
+		"term" : "Bekämpningsmetoder"
 	},
 	{
 		"term" : "Belysningsteknik"
+	},
+	{
+		"term" : "Beläggningsarbete"
 	},
 	{
 		"term" : "Ben- och fotanfångning"
@@ -1486,9 +1423,6 @@
 	},
 	{
 		"term" : "Bensinmotorrenovering"
-	},
-	{
-		"term" : "Beräkningsprogram"
 	},
 	{
 		"term" : "Beredning, verkstadsmaskiner"
@@ -1506,10 +1440,10 @@
 		"term" : "Bergmekanik"
 	},
 	{
-		"term" : "Bergsäkring"
+		"term" : "Bergslagsmål"
 	},
 	{
-		"term" : "Bergslagsmål"
+		"term" : "Bergsäkring"
 	},
 	{
 		"term" : "Bergteknik"
@@ -1521,10 +1455,16 @@
 		"term" : "Beridardiplom"
 	},
 	{
+		"term" : "Beräkningsprogram"
+	},
+	{
 		"term" : "Besiktning, specialbyggda fordon"
 	},
 	{
 		"term" : "Besiktningar av linjenät"
+	},
+	{
+		"term" : "Besiktningsbehörighet för ventilation\/OVK"
 	},
 	{
 		"term" : "Besiktningserfarenhet"
@@ -1533,13 +1473,13 @@
 		"term" : "Besiktningsman, järnväg (certifikat)"
 	},
 	{
-		"term" : "Besöksbokning"
-	},
-	{
-		"term" : "Besprutningscertifikat\/ kunskapsbevis"
+		"term" : "Besprutningscertifikat"
 	},
 	{
 		"term" : "Beståndsvård"
+	},
+	{
+		"term" : "Besöksbokning"
 	},
 	{
 		"term" : "Betalsystem\/Betalningssystem"
@@ -1572,10 +1512,10 @@
 		"term" : "Betongskulptur"
 	},
 	{
-		"term" : "Betongsprängning"
+		"term" : "Betongsprutning"
 	},
 	{
-		"term" : "Betongsprutning"
+		"term" : "Betongsprängning"
 	},
 	{
 		"term" : "Betongteknik"
@@ -1597,9 +1537,6 @@
 	},
 	{
 		"term" : "Bibbo, hotellbokningssystem"
-	},
-	{
-		"term" : "Bijouterier och accessoarer"
 	},
 	{
 		"term" : "Bikefit\/Bikefitting"
@@ -1707,13 +1644,13 @@
 		"term" : "Biomedicin"
 	},
 	{
-		"term" : "Biomedicin\/molekylär biofysik (biologiskt mtrl.)"
+		"term" : "Biomedicin\/Molekylär biofysik"
 	},
 	{
 		"term" : "Biomedicinsk analytikerexamen"
 	},
 	{
-		"term" : "Biometri\/biostatistik"
+		"term" : "Biometri\/Biostatistik"
 	},
 	{
 		"term" : "Bioorganisk kemi"
@@ -1743,13 +1680,10 @@
 		"term" : "Blandteknik"
 	},
 	{
-		"term" : "Blått certifikat, CNC"
-	},
-	{
 		"term" : "Blekingska"
 	},
 	{
-		"term" : "Blekning\/borttagning av tatueringar"
+		"term" : "Blekning av tatueringar\/Borttagning av tatueringar"
 	},
 	{
 		"term" : "Blinda, handikappfrågor"
@@ -1773,7 +1707,7 @@
 		"term" : "Blodtrycksmottagning"
 	},
 	{
-		"term" : "Blomsterbindning och dekoration"
+		"term" : "Blomsterbindning"
 	},
 	{
 		"term" : "Blues"
@@ -1785,10 +1719,7 @@
 		"term" : "Blyinfattning"
 	},
 	{
-		"term" : "Böcker och författare"
-	},
-	{
-		"term" : "Böcker och tidskrifter"
+		"term" : "Blått certifikat, CNC"
 	},
 	{
 		"term" : "Bockning CNC"
@@ -1848,7 +1779,7 @@
 		"term" : "Bordsservering"
 	},
 	{
-		"term" : "Bordtennis, instruktör\/tränare"
+		"term" : "Bordtennis, instruktör\/Bordtennis, tränare"
 	},
 	{
 		"term" : "Borlands OWL, programbibliotek"
@@ -1878,10 +1809,10 @@
 		"term" : "Bostad med särskild service"
 	},
 	{
-		"term" : "Bostadsförmedling"
+		"term" : "Bostadsfotografering"
 	},
 	{
-		"term" : "Bostadsfotografering"
+		"term" : "Bostadsförmedling"
 	},
 	{
 		"term" : "Bostadsjournalistik"
@@ -1908,10 +1839,10 @@
 		"term" : "Bower, pakethanterare"
 	},
 	{
-		"term" : "Bowling, instruktör\/tränare"
+		"term" : "Bowling, instruktör\/Bowling, tränare"
 	},
 	{
-		"term" : "Boxning, instruktör\/tränare"
+		"term" : "Boxning, instruktör\/Boxning, tränare"
 	},
 	{
 		"term" : "Brandbevakning"
@@ -1974,9 +1905,6 @@
 		"term" : "Brobyggnad"
 	},
 	{
-		"term" : "Bröd och konditorivaror, produktkunskap"
-	},
-	{
 		"term" : "Broderi"
 	},
 	{
@@ -1986,16 +1914,13 @@
 		"term" : "Brokkmaskin"
 	},
 	{
-		"term" : "Bröllopsmusik"
-	},
-	{
-		"term" : "Bromålning"
-	},
-	{
 		"term" : "Bromssystem, installation och underhåll"
 	},
 	{
 		"term" : "Bromssystem, utveckling och konstruktion"
+	},
+	{
+		"term" : "Bromålning"
 	},
 	{
 		"term" : "Bronsålderns arkeologi"
@@ -2007,7 +1932,7 @@
 		"term" : "Brotschning"
 	},
 	{
-		"term" : "Brottning, instruktör\/tränare"
+		"term" : "Brottning, instruktör\/Brottning, tränare"
 	},
 	{
 		"term" : "Brottning, professionell utövning"
@@ -2031,6 +1956,12 @@
 		"term" : "Brynförlängning"
 	},
 	{
+		"term" : "Bröd, produktkunskap\/Konditorivaror, produktkunskap"
+	},
+	{
+		"term" : "Bröllopsmusik"
+	},
+	{
 		"term" : "B-truckar"
 	},
 	{
@@ -2046,7 +1977,7 @@
 		"term" : "Budgetuppföljning"
 	},
 	{
-		"term" : "Budo, instruktör\/tränare"
+		"term" : "Budo, instruktör\/Budo, tränare"
 	},
 	{
 		"term" : "Budtransporter"
@@ -2059,6 +1990,9 @@
 	},
 	{
 		"term" : "Bunkerfartyg"
+	},
+	{
+		"term" : "Business Intelligence\/Omvärldsanalys"
 	},
 	{
 		"term" : "Bussar, produktkunskap"
@@ -2103,12 +2037,6 @@
 		"term" : "BWR-teknik (kärnkraft)"
 	},
 	{
-		"term" : "Bygg- och anläggningsmaskiner"
-	},
-	{
-		"term" : "Bygg- och anläggningstransporter, körvana"
-	},
-	{
 		"term" : "Bygg- och fastighetsekonomi"
 	},
 	{
@@ -2121,10 +2049,10 @@
 		"term" : "Bygginriktning-husbyggnad, undervisning"
 	},
 	{
-		"term" : "Bygginriktning-måleri, undervisning"
+		"term" : "Bygginriktning-mark och anläggning, undervisning"
 	},
 	{
-		"term" : "Bygginriktning-mark och anläggning, undervisning"
+		"term" : "Bygginriktning-måleri, undervisning"
 	},
 	{
 		"term" : "Bygginriktning-plåtslageri, undervisning"
@@ -2166,6 +2094,9 @@
 		"term" : "Bygglov"
 	},
 	{
+		"term" : "Byggmaskiner\/Anläggningsmaskiner"
+	},
+	{
 		"term" : "Byggnadsgeologi"
 	},
 	{
@@ -2190,6 +2121,12 @@
 		"term" : "Byggnadsunderhåll, lantbruk"
 	},
 	{
+		"term" : "Byggnadsvaror"
+	},
+	{
+		"term" : "Byggnadsvård, antikvarie"
+	},
+	{
 		"term" : "Byggnadsvård, äldre byggnadsteknik murning"
 	},
 	{
@@ -2197,12 +2134,6 @@
 	},
 	{
 		"term" : "Byggnadsvård, äldre stuckmetoder"
-	},
-	{
-		"term" : "Byggnadsvård, antikvarie"
-	},
-	{
-		"term" : "Byggnadsvaror"
 	},
 	{
 		"term" : "Byggnation av orgelhus"
@@ -2217,10 +2148,49 @@
 		"term" : "Byggstädning"
 	},
 	{
+		"term" : "Byggtransporter, körvana\/Anläggningstransporter, körvana"
+	},
+	{
 		"term" : "Bytomter, arkeologisk kunskap"
 	},
 	{
-		"term" : "C#.NET, programmeringsspråk"
+		"term" : "Bågskytte, instruktör\/Bågskytte, tränare"
+	},
+	{
+		"term" : "Bårtransporter, körning"
+	},
+	{
+		"term" : "Båtar, produktkunskap"
+	},
+	{
+		"term" : "Båtbyggeri"
+	},
+	{
+		"term" : "Båtinredning, tillverknings- och monteringsvana"
+	},
+	{
+		"term" : "Båtmotorer, installationsvana"
+	},
+	{
+		"term" : "Båtmotorer, reparationsvana"
+	},
+	{
+		"term" : "Båttillbehör"
+	},
+	{
+		"term" : "Bänkarbete"
+	},
+	{
+		"term" : "Bärgningsdykning"
+	},
+	{
+		"term" : "Bärodling"
+	},
+	{
+		"term" : "Böcker\/Tidskrifter"
+	},
+	{
+		"term" : "C#, programmeringsspråk"
 	},
 	{
 		"term" : "C, programmeringsspråk"
@@ -2268,34 +2238,16 @@
 		"term" : "Cash management"
 	},
 	{
-		"term" : "Casting, rollsättning"
+		"term" : "Casting\/Rollsättning"
 	},
 	{
 		"term" : "Cateringverksamhet"
-	},
-	{
-		"term" : "CAT-verktyg (Computer Aided Translation)"
-	},
-	{
-		"term" : "CCDA (Cisco Certified Design Associate)"
-	},
-	{
-		"term" : "CCDP (Cisco Certified Design Professional)"
 	},
 	{
 		"term" : "C-certifikat, dykning, blandgas"
 	},
 	{
 		"term" : "C-checker, flyg"
-	},
-	{
-		"term" : "CCIE (Cisco Certified Internetwork Expert)"
-	},
-	{
-		"term" : "CCNA (Cisco Certified Network Associate)"
-	},
-	{
-		"term" : "CCNP (Cisco Certified Network Professional)"
 	},
 	{
 		"term" : "CDI, hotellbokningssystem"
@@ -2352,6 +2304,15 @@
 		"term" : "Certified International Investment Analyst CIIA"
 	},
 	{
+		"term" : "Certified Lotus Instructor\/CLI"
+	},
+	{
+		"term" : "Certified Lotus Professional\/CLP"
+	},
+	{
+		"term" : "Certified Lotus Specialist\/CLS"
+	},
+	{
 		"term" : "Certifierad Arkoffsettryckare"
 	},
 	{
@@ -2364,7 +2325,7 @@
 		"term" : "Certifierad inkassohandläggare"
 	},
 	{
-		"term" : "Certifierad Inköpare\/upphandlare"
+		"term" : "Certifierad Inköpare\/Certifierad Upphandlare"
 	},
 	{
 		"term" : "Certifierad medicinteknisk ingenjör"
@@ -2394,7 +2355,7 @@
 		"term" : "Certifikat nålepilation"
 	},
 	{
-		"term" : "Certifikat spec. hudterapeut"
+		"term" : "Certifikat Specialicerad Hudterapeut"
 	},
 	{
 		"term" : "Certifikat, brandtätningsteknik"
@@ -2427,13 +2388,16 @@
 		"term" : "Certifikat, pappersmaskinförare"
 	},
 	{
-		"term" : "Certifikat, säkerhetsrådgivare"
-	},
-	{
 		"term" : "Certifikat, sodahusoperatör"
 	},
 	{
+		"term" : "Certifikat, säkerhetsrådgivare"
+	},
+	{
 		"term" : "C-foto"
+	},
+	{
+		"term" : "cGXP"
 	},
 	{
 		"term" : "Character modelling"
@@ -2454,9 +2418,6 @@
 		"term" : "Chassiteknik"
 	},
 	{
-		"term" : "CI, continuous integration"
-	},
-	{
 		"term" : "CICS, programmeringsverktyg"
 	},
 	{
@@ -2464,6 +2425,21 @@
 	},
 	{
 		"term" : "Cirkusmusik"
+	},
+	{
+		"term" : "Cisco Certified Design Associate\/CCDA"
+	},
+	{
+		"term" : "Cisco Certified Design Professional\/CCDP"
+	},
+	{
+		"term" : "Cisco Certified Internetwork Expert\/CCIE"
+	},
+	{
+		"term" : "Cisco Certified Network Associate\/CCNA"
+	},
+	{
+		"term" : "Cisco Certified Network Professional\/CCNP"
 	},
 	{
 		"term" : "Cisco technologies"
@@ -2493,13 +2469,13 @@
 		"term" : "Civilingenjörsexamen"
 	},
 	{
+		"term" : "Class Rating\/CR"
+	},
+	{
 		"term" : "Clearing"
 	},
 	{
-		"term" : "CLI (Certified Lotus Instructor)"
-	},
-	{
-		"term" : "Client\/server, programmering"
+		"term" : "Client, programmering\/Server, programmering"
 	},
 	{
 		"term" : "Clojure, programmeringsspråk"
@@ -2511,16 +2487,7 @@
 		"term" : "Clowneri"
 	},
 	{
-		"term" : "CLP (Certified Lotus Professional)"
-	},
-	{
 		"term" : "CLP-Principal"
-	},
-	{
-		"term" : "CLS (Certified Lotus Specialist)"
-	},
-	{
-		"term" : "CM, Configuration Management"
 	},
 	{
 		"term" : "CNC-programmering"
@@ -2562,9 +2529,6 @@
 		"term" : "CNC-styrsystem, underhåll"
 	},
 	{
-		"term" : "CNI (Novell Certified NetWare Instructor)"
-	},
-	{
 		"term" : "Coaching\/Coachning"
 	},
 	{
@@ -2572,6 +2536,9 @@
 	},
 	{
 		"term" : "Cobolt-krom, specialisering tandteknik"
+	},
+	{
+		"term" : "Cocktails\/Drinkar"
 	},
 	{
 		"term" : "Coda, redovisningssystem"
@@ -2586,10 +2553,7 @@
 		"term" : "ColdFusion, programmeringsspråk"
 	},
 	{
-		"term" : "COM (Object Component Model)"
-	},
-	{
-		"term" : "COM\/DCOM, distribuerad objektteknik"
+		"term" : "COM, distribuerad objektteknik\/DCOM, distribuerad objektteknik"
 	},
 	{
 		"term" : "ComActivity, affärssystem"
@@ -2601,10 +2565,16 @@
 		"term" : "Commedia dell'arte"
 	},
 	{
+		"term" : "Commercial Pilot License\/CPL"
+	},
+	{
 		"term" : "Community management"
 	},
 	{
 		"term" : "Compiere, affärssystem"
+	},
+	{
+		"term" : "Computer Aided Translation\/CAT-verktyg"
 	},
 	{
 		"term" : "Concept art"
@@ -2619,7 +2589,13 @@
 		"term" : "Concorde, redovisningssystem"
 	},
 	{
+		"term" : "Configuration Management\/CM"
+	},
+	{
 		"term" : "Content marketing"
+	},
+	{
+		"term" : "Continuous integration\/CI"
 	},
 	{
 		"term" : "Cool jazz"
@@ -2652,16 +2628,7 @@
 		"term" : "Cover"
 	},
 	{
-		"term" : "CPL Commercial Pilot License"
-	},
-	{
 		"term" : "CPLD, programmerbar krets"
-	},
-	{
-		"term" : "CR Class Rating"
-	},
-	{
-		"term" : "CRM, Customer Relationship Management"
 	},
 	{
 		"term" : "CROM, redovisningssystem"
@@ -2673,10 +2640,7 @@
 		"term" : "Cross over"
 	},
 	{
-		"term" : "Cross-cutting (sköta utrustn., verifiera)"
-	},
-	{
-		"term" : "CSA (Sun Certified System Administrator)"
+		"term" : "Cross-cutting (sköta och underhålla utrustning)"
 	},
 	{
 		"term" : "CSS, programmeringsspråk"
@@ -2688,22 +2652,22 @@
 		"term" : "C-truckar"
 	},
 	{
-		"term" : "Cuboid (handha utrustn.\/t.ex.inställn.av ram)"
-	},
-	{
 		"term" : "CUDA, programmeringsspråk"
 	},
 	{
-		"term" : "Curling, instruktör\/tränare"
+		"term" : "Curling, instruktör\/Curling, tränare"
 	},
 	{
 		"term" : "Custody"
 	},
 	{
+		"term" : "Customer Relationship Management\/CRM"
+	},
+	{
 		"term" : "Cyklar"
 	},
 	{
-		"term" : "Cykling, instruktör\/tränare"
+		"term" : "Cykling, instruktör\/Cykling, tränare"
 	},
 	{
 		"term" : "Cykling, professionell utövning"
@@ -2725,15 +2689,6 @@
 	},
 	{
 		"term" : "D, programmeringsspråk"
-	},
-	{
-		"term" : "Däckbyten"
-	},
-	{
-		"term" : "Däcksbyggnad"
-	},
-	{
-		"term" : "Daghems-\/skolstädning"
 	},
 	{
 		"term" : "Daglig verksamhet"
@@ -2775,7 +2730,7 @@
 		"term" : "Danskunskap"
 	},
 	{
-		"term" : "Danssport, instruktör\/tränare"
+		"term" : "Danssport, instruktör\/Danssport, tränare"
 	},
 	{
 		"term" : "Dansterapi"
@@ -2877,10 +2832,10 @@
 		"term" : "Datortillbehör"
 	},
 	{
-		"term" : "DB2, databashanterare"
+		"term" : "Datortomografi\/DT"
 	},
 	{
-		"term" : "DBO (Oracle Certified Database Operator)"
+		"term" : "DB2, databashanterare"
 	},
 	{
 		"term" : "Debattstenografi"
@@ -2913,9 +2868,6 @@
 		"term" : "Dekorsnickeri"
 	},
 	{
-		"term" : "Delårsbokslut"
-	},
-	{
 		"term" : "Delgivningsarbete"
 	},
 	{
@@ -2923,6 +2875,9 @@
 	},
 	{
 		"term" : "Delphi, programmeringsverktyg"
+	},
+	{
+		"term" : "Delårsbokslut"
 	},
 	{
 		"term" : "Demensvård"
@@ -2940,10 +2895,10 @@
 		"term" : "Demontering"
 	},
 	{
-		"term" : "Depåförarbevis inom SL"
+		"term" : "Depressionsbehandling"
 	},
 	{
-		"term" : "Depressionsbehandling"
+		"term" : "Depåförarbevis inom SL"
 	},
 	{
 		"term" : "Derivat"
@@ -2991,6 +2946,9 @@
 		"term" : "Diakonvigd"
 	},
 	{
+		"term" : "Dialektisk beteendeterapi\/DBT"
+	},
+	{
 		"term" : "Dialys"
 	},
 	{
@@ -3003,7 +2961,7 @@
 		"term" : "Diarieföringsvana"
 	},
 	{
-		"term" : "Diatermi\/Epilering, hårborttagning"
+		"term" : "Diatermi\/Epilering\/Hårborttagning"
 	},
 	{
 		"term" : "Dieselelektrisk framdrift"
@@ -3057,6 +3015,9 @@
 		"term" : "Digital tryckning"
 	},
 	{
+		"term" : "Digital Video Effekt\/DVE"
+	},
+	{
 		"term" : "Digital videokamerateknik"
 	},
 	{
@@ -3090,16 +3051,16 @@
 		"term" : "Diplomerad stylist"
 	},
 	{
-		"term" : "Diplommålning (utbildning inom järnmålning)"
+		"term" : "Diplommålning, utbildning inom järnmålning"
 	},
 	{
 		"term" : "Diplomutbildning för försäkringsförmedlare"
 	},
 	{
-		"term" : "Direktmarknadsföring, design"
+		"term" : "Direktmarknadsföring"
 	},
 	{
-		"term" : "Direktmarknadsföring, projektutformning"
+		"term" : "Direktmarknadsföring, design"
 	},
 	{
 		"term" : "Direktreklam"
@@ -3171,10 +3132,10 @@
 		"term" : "Djurslagsspecialicering, svin"
 	},
 	{
-		"term" : "Djurslagsspecialisering, häst"
+		"term" : "Djurslagsspecialisering, hund\/Djurslagsspecialisering, katt"
 	},
 	{
-		"term" : "Djurslagsspecialisering, hund\/katt"
+		"term" : "Djurslagsspecialisering, häst"
 	},
 	{
 		"term" : "Djurslagsspecialisering, nötkreatur"
@@ -3205,15 +3166,6 @@
 	},
 	{
 		"term" : "Dockspel, stavdockor"
-	},
-	{
-		"term" : "Dödsbon med fastighetsbestånd"
-	},
-	{
-		"term" : "Dödsbon med företagsbestånd"
-	},
-	{
-		"term" : "Dödsbon med lantbruk"
 	},
 	{
 		"term" : "Doktorsexamen, biblioteksvetenskap"
@@ -3273,13 +3225,13 @@
 		"term" : "Doktorsexamen, vårdvetenskap och omvårdnadsämnen"
 	},
 	{
+		"term" : "Dokumentation, processindustri"
+	},
+	{
 		"term" : "Dokumentärfilm"
 	},
 	{
 		"term" : "Dokumentärfotografering"
-	},
-	{
-		"term" : "Dokumentation, processindustri"
 	},
 	{
 		"term" : "Domarebehörighet"
@@ -3288,19 +3240,7 @@
 		"term" : "Doro, telefonväxel"
 	},
 	{
-		"term" : "Dörrautomatik, låsteknik"
-	},
-	{
 		"term" : "Dos, operativsystem"
-	},
-	{
-		"term" : "Döva, handikappfrågor"
-	},
-	{
-		"term" : "Dövblinda, handikappfrågor"
-	},
-	{
-		"term" : "Dövblindtolkning"
 	},
 	{
 		"term" : "DP Operator's certificates"
@@ -3315,10 +3255,10 @@
 		"term" : "Drag show"
 	},
 	{
-		"term" : "Dragbänk"
+		"term" : "Dragbil, körvana\/Trailer, körvana"
 	},
 	{
-		"term" : "Dragbil\/Trailer, körvana"
+		"term" : "Dragbänk"
 	},
 	{
 		"term" : "Dragpressning"
@@ -3333,7 +3273,7 @@
 		"term" : "Dragverktyg, tillverkning"
 	},
 	{
-		"term" : "Dräktighetsundersökningar, husdjur"
+		"term" : "Drama, undervisning\/Teater, undervisning"
 	},
 	{
 		"term" : "Dramaturgi"
@@ -3369,9 +3309,6 @@
 		"term" : "Driftledning, lantbruk"
 	},
 	{
-		"term" : "Driftövervakning"
-	},
-	{
 		"term" : "Driftplanering, data"
 	},
 	{
@@ -3381,10 +3318,16 @@
 		"term" : "Driftplanering, maskin"
 	},
 	{
-		"term" : "Drinkar\/cocktails"
+		"term" : "Driftövervakning"
 	},
 	{
 		"term" : "Drivning, ädelmetaller"
+	},
+	{
+		"term" : "Drupal, publicerings- och portalverktyg"
+	},
+	{
+		"term" : "Dräktighetsundersökningar, husdjur"
 	},
 	{
 		"term" : "Drömgrupp"
@@ -3393,16 +3336,10 @@
 		"term" : "Drönarjournalistik"
 	},
 	{
-		"term" : "Drupal, publicerings- och portalverktyg"
-	},
-	{
 		"term" : "DSB-godkännande"
 	},
 	{
 		"term" : "DSP, digitala signalprocessorer"
-	},
-	{
-		"term" : "DT, datortomografi"
 	},
 	{
 		"term" : "D-truckar"
@@ -3414,10 +3351,7 @@
 		"term" : "Dumper, körvana"
 	},
 	{
-		"term" : "DVD\/kassetter\/videofilmer"
-	},
-	{
-		"term" : "DVE (Digital Video Effekt)"
+		"term" : "DVD\/Kassetter\/Videofilmer"
 	},
 	{
 		"term" : "DWDM, teletransmission"
@@ -3441,6 +3375,33 @@
 		"term" : "Dyslexi, specialpedagogik"
 	},
 	{
+		"term" : "Däckbyten"
+	},
+	{
+		"term" : "Däcksbyggnad"
+	},
+	{
+		"term" : "Dödsbon med fastighetsbestånd"
+	},
+	{
+		"term" : "Dödsbon med företagsbestånd"
+	},
+	{
+		"term" : "Dödsbon med lantbruk"
+	},
+	{
+		"term" : "Dörrautomatik, låsteknik"
+	},
+	{
+		"term" : "Döva, handikappfrågor"
+	},
+	{
+		"term" : "Dövblinda, handikappfrågor"
+	},
+	{
+		"term" : "Dövblindtolkning"
+	},
+	{
 		"term" : "EAC-certifierad European Treeworker"
 	},
 	{
@@ -3456,9 +3417,6 @@
 		"term" : "ECDIS"
 	},
 	{
-		"term" : "ECDL, europeiskt datakörkort"
-	},
-	{
 		"term" : "Eclipse, programmeringsverktyg"
 	},
 	{
@@ -3471,9 +3429,6 @@
 		"term" : "EDGE-system"
 	},
 	{
-		"term" : "EFP (Electronic Field Production)"
-	},
-	{
 		"term" : "EFS (Evangeliska Fosterlandsstiftelsen)"
 	},
 	{
@@ -3481,6 +3436,12 @@
 	},
 	{
 		"term" : "Efterrätter"
+	},
+	{
+		"term" : "Eftersynk"
+	},
+	{
+		"term" : "Egen spelmotor"
 	},
 	{
 		"term" : "Egendoms- och avbrottsförsäkringar"
@@ -3495,13 +3456,13 @@
 		"term" : "Eget företagande, bygg"
 	},
 	{
-		"term" : "E-handel\/Elektronisk handel, juridisk tilllämpning"
+		"term" : "E-handel, juridisk tillämpning\/Elektronisk handel, juridisk tillämpning"
 	},
 	{
-		"term" : "E-handel\/Elektronisk handel, sårbarhetsanalys"
+		"term" : "E-handel, sårbarhetsanalys\/Elektronisk handel, sårbarhetsanalys"
 	},
 	{
-		"term" : "E-handel\/Elektronisk handel, undervisning"
+		"term" : "E-handel, undervisning\/Elektronisk handel, undervisning"
 	},
 	{
 		"term" : "EHFA-diplom"
@@ -3511,9 +3472,6 @@
 	},
 	{
 		"term" : "EIGRP, routingprotokoll"
-	},
-	{
-		"term" : "EJB, Enterprise JavaBeans, ramverk"
 	},
 	{
 		"term" : "Eko, redovisningssystem"
@@ -3555,10 +3513,10 @@
 		"term" : "Ekonomisk historia"
 	},
 	{
-		"term" : "Ekonomisk rådgivning"
+		"term" : "Ekonomisk rapportering"
 	},
 	{
-		"term" : "Ekonomisk rapportering"
+		"term" : "Ekonomisk rådgivning"
 	},
 	{
 		"term" : "Ekonomisk sociologi"
@@ -3582,10 +3540,7 @@
 		"term" : "El, strömavtagare, nedbindare"
 	},
 	{
-		"term" : "El-, tele- o elektronikprodukter"
-	},
-	{
-		"term" : "El, växelvärme\/underhåll"
+		"term" : "El, växelvärme, underhåll"
 	},
 	{
 		"term" : "Elarbeten, servicevana"
@@ -3607,6 +3562,12 @@
 	},
 	{
 		"term" : "Eldslukning"
+	},
+	{
+		"term" : "Electronic Field Production\/EFP"
+	},
+	{
+		"term" : "Electronic News Gathering\/ENG"
 	},
 	{
 		"term" : "Electronica"
@@ -3658,6 +3619,12 @@
 	},
 	{
 		"term" : "Elever med funktionsnedsättning, vana vid"
+	},
+	{
+		"term" : "Elevhälsa"
+	},
+	{
+		"term" : "Elevvård\/Skolpsykologi"
 	},
 	{
 		"term" : "Elgenererings- och distributionssystem"
@@ -3717,6 +3684,9 @@
 		"term" : "Elorgel"
 	},
 	{
+		"term" : "Elprodukter\/Teleprodukter\/Elektronikprodukter"
+	},
+	{
 		"term" : "Elschema-AutoCAD Electrical"
 	},
 	{
@@ -3768,6 +3738,9 @@
 		"term" : "EMAS (miljösystem)"
 	},
 	{
+		"term" : "Emballage\/Förpackningar"
+	},
+	{
 		"term" : "Embryologi"
 	},
 	{
@@ -3816,7 +3789,7 @@
 		"term" : "EN 287-1, 311 Gassvetsning\/ISO 9606-1"
 	},
 	{
-		"term" : "Endodonti (rotbehandling)"
+		"term" : "Endodonti\/Rotbehandling"
 	},
 	{
 		"term" : "Endokrinologi och diabetologi"
@@ -3843,9 +3816,6 @@
 		"term" : "Energiteknik"
 	},
 	{
-		"term" : "ENG (Electronic News Gathering)"
-	},
-	{
 		"term" : "Engelska, cirkelledning"
 	},
 	{
@@ -3856,9 +3826,6 @@
 	},
 	{
 		"term" : "Engelskt horn"
-	},
-	{
-		"term" : "Enkätundersökning"
 	},
 	{
 		"term" : "Enklare bakningskunskaper"
@@ -3873,7 +3840,13 @@
 		"term" : "Enklare sömnadskunskaper"
 	},
 	{
+		"term" : "Enkätundersökning"
+	},
+	{
 		"term" : "Enterprise IT infrastructure"
+	},
+	{
+		"term" : "Enterprise JavaBeans, ramverk\/EJB, ramverk"
 	},
 	{
 		"term" : "Entertainerprogram"
@@ -3903,6 +3876,9 @@
 		"term" : "E-post, sårbarhetsanalys"
 	},
 	{
+		"term" : "Epoxy-utbildning\/Härdplastutbildning"
+	},
+	{
 		"term" : "Ergonomi"
 	},
 	{
@@ -3930,10 +3906,7 @@
 		"term" : "Estetik"
 	},
 	{
-		"term" : "Estetiska programmet\/Dans o teater, undervisning"
-	},
-	{
-		"term" : "Estetiska programmet\/Musik, undervisning"
+		"term" : "Estetiska programmet, undervisning"
 	},
 	{
 		"term" : "Estniska, cirkelledning"
@@ -3978,6 +3951,9 @@
 		"term" : "Europas arkeologi"
 	},
 	{
+		"term" : "European Computer Driving Licence\/ECDL"
+	},
+	{
 		"term" : "Europ-klassificering"
 	},
 	{
@@ -4005,7 +3981,7 @@
 		"term" : "Exploratory testing\/Utforskande testning"
 	},
 	{
-		"term" : "Export- och importdokument"
+		"term" : "Exportdokument\/Importdokument"
 	},
 	{
 		"term" : "Exportförsäljning"
@@ -4014,7 +3990,7 @@
 		"term" : "Externredovisning"
 	},
 	{
-		"term" : "Extrudering\/strängpressning"
+		"term" : "Extrudering\/Strängpressning"
 	},
 	{
 		"term" : "Eyelashdesign"
@@ -4041,25 +4017,16 @@
 		"term" : "Factoring"
 	},
 	{
-		"term" : "Fågelsanering"
-	},
-	{
-		"term" : "Fåglar, konservering"
-	},
-	{
 		"term" : "Fagott"
 	},
 	{
 		"term" : "Fagott, undervisning musikskola"
 	},
 	{
+		"term" : "Fail Mode, Eff Analys or Critical Analys\/FMEA"
+	},
+	{
 		"term" : "Faktalitteratur"
-	},
-	{
-		"term" : "Fäktning"
-	},
-	{
-		"term" : "Fäktning, instruktör\/tränare"
 	},
 	{
 		"term" : "Faktureringsvana"
@@ -4074,22 +4041,16 @@
 		"term" : "Falsning, plåt"
 	},
 	{
-		"term" : "Fältstudier"
-	},
-	{
-		"term" : "Fälttävlan, instruktör\/tränare"
-	},
-	{
-		"term" : "Familjebehandling\/nätverksarbete"
+		"term" : "Familjebehandling\/Nätverksarbete"
 	},
 	{
 		"term" : "Familjepsykologi"
 	},
 	{
-		"term" : "Familjerätt"
+		"term" : "Familjeredaktion"
 	},
 	{
-		"term" : "Familjeredaktion"
+		"term" : "Familjerätt"
 	},
 	{
 		"term" : "Familjeterapiutbildning"
@@ -4099,24 +4060,6 @@
 	},
 	{
 		"term" : "FaR (Fysisk aktivitet på recept)"
-	},
-	{
-		"term" : "Färdtjänstkörning"
-	},
-	{
-		"term" : "Färganalys"
-	},
-	{
-		"term" : "Färgbalans"
-	},
-	{
-		"term" : "Färgborttagning"
-	},
-	{
-		"term" : "Färgpassning"
-	},
-	{
-		"term" : "Färgsättning, konstnärlig"
 	},
 	{
 		"term" : "Farkostteknik"
@@ -4129,12 +4072,6 @@
 	},
 	{
 		"term" : "Farmakologi"
-	},
-	{
-		"term" : "Fårskötsel"
-	},
-	{
-		"term" : "Fårstyckning"
 	},
 	{
 		"term" : "Fartygsbefäl klass II (behörighet)"
@@ -4287,9 +4224,6 @@
 		"term" : "Festkläder, produktkunskap"
 	},
 	{
-		"term" : "FI Flight Instructor"
-	},
-	{
 		"term" : "Fiberkemi"
 	},
 	{
@@ -4314,7 +4248,7 @@
 		"term" : "FileMaker, databashanterare"
 	},
 	{
-		"term" : "Fileteringsvana, kött och fisk"
+		"term" : "Fileteringsvana, fisk\/Fileteringsvana, kött"
 	},
 	{
 		"term" : "Filhuggning"
@@ -4359,6 +4293,9 @@
 		"term" : "Film\/redigering-Avid Media Composer"
 	},
 	{
+		"term" : "Film\/redigering-DaVinci Resolve"
+	},
+	{
 		"term" : "Film\/redigering-Lightworks"
 	},
 	{
@@ -4375,9 +4312,6 @@
 	},
 	{
 		"term" : "Filmblåsning"
-	},
-	{
-		"term" : "Filmhantering"
 	},
 	{
 		"term" : "Filminspelning"
@@ -4401,16 +4335,10 @@
 		"term" : "Filmning, TV-produktion"
 	},
 	{
-		"term" : "Filmning, videoproduktion"
-	},
-	{
 		"term" : "Filmproduktion"
 	},
 	{
 		"term" : "Filmteckning"
-	},
-	{
-		"term" : "Filmteknik"
 	},
 	{
 		"term" : "Filmvetenskap"
@@ -4524,10 +4452,10 @@
 		"term" : "Fjärrstyrningssystem"
 	},
 	{
-		"term" : "Fjärrtågklarerarutbildning"
+		"term" : "Fjärrtransporter, körvana"
 	},
 	{
-		"term" : "Fjärrtransporter, körvana"
+		"term" : "Fjärrtågklarerarutbildning"
 	},
 	{
 		"term" : "Fjärrvärmekonstruktion"
@@ -4563,10 +4491,10 @@
 		"term" : "FlexRay, kommunikationsprotokoll"
 	},
 	{
-		"term" : "Flistransporter, körvana"
+		"term" : "Flight Instructor\/FI"
 	},
 	{
-		"term" : "Flöjt"
+		"term" : "Flistransporter, körvana"
 	},
 	{
 		"term" : "Flotation, malm"
@@ -4629,13 +4557,13 @@
 		"term" : "Flyttpackningsvana"
 	},
 	{
-		"term" : "FMEA (Fail Mode, Eff Analys or Critical Analys)"
+		"term" : "Flödesekonomi\/Supply chain management\/SCM"
+	},
+	{
+		"term" : "Flöjt"
 	},
 	{
 		"term" : "Foderväxtodling"
-	},
-	{
-		"term" : "Födoämnesallergi, kunskap om"
 	},
 	{
 		"term" : "Fogbandsmontering"
@@ -4648,12 +4576,6 @@
 	},
 	{
 		"term" : "Folievalsning"
-	},
-	{
-		"term" : "Följdverktyg, tillverkning"
-	},
-	{
-		"term" : "Följespott"
 	},
 	{
 		"term" : "Folkbildningsarbete"
@@ -4680,70 +4602,19 @@
 		"term" : "Folkmusik, undervisningsvana"
 	},
 	{
-		"term" : "Folkrätt"
+		"term" : "Folkrock"
 	},
 	{
-		"term" : "Folkrock"
+		"term" : "Folkrätt"
 	},
 	{
 		"term" : "Folkrörelsearbete"
 	},
 	{
-		"term" : "Fönstermontage\/Fönstermontering"
-	},
-	{
-		"term" : "Fönsterputsning"
-	},
-	{
-		"term" : "Fönsterrenovering"
-	},
-	{
-		"term" : "Fönstertillverkning"
-	},
-	{
-		"term" : "Föräldrakooperativ, erfarenhet"
-	},
-	{
-		"term" : "Föräldrautbildning"
-	},
-	{
-		"term" : "Förarbevis (inkl Klass I)"
-	},
-	{
-		"term" : "Förarbevis för skylift"
-	},
-	{
-		"term" : "Förarbevis för snöskoter"
-	},
-	{
-		"term" : "Förarbevis för tunneltåg"
-	},
-	{
-		"term" : "Förarbevis, skördare"
-	},
-	{
-		"term" : "Förarbevis, skotare"
-	},
-	{
-		"term" : "Förare arbetsfordon, järnväg"
-	},
-	{
-		"term" : "Förarkort för digital färdskrivare"
-	},
-	{
-		"term" : "Förarutbildning, tåg"
-	},
-	{
-		"term" : "Förbränningsanläggning, underhåll"
-	},
-	{
-		"term" : "Förbränningsteknik"
-	},
-	{
 		"term" : "Fordon, specialisering för officer"
 	},
 	{
-		"term" : "Fordonselektronik, felsöknings-\/reparationsvana"
+		"term" : "Fordonselektronik, felsökningsvana\/Fordonselektronik, reparationsvana"
 	},
 	{
 		"term" : "Fordonsglasning"
@@ -4785,73 +4656,16 @@
 		"term" : "Fordonsvärdering"
 	},
 	{
-		"term" : "Förebyggande brandskydd"
-	},
-	{
-		"term" : "Förebyggande djurhälsovård"
-	},
-	{
-		"term" : "Föredragande i kvalitetsråd"
-	},
-	{
-		"term" : "Föreläsningsvana"
-	},
-	{
-		"term" : "Företagsanalys"
-	},
-	{
-		"term" : "Företagsbiblioteksinriktning"
-	},
-	{
-		"term" : "Företagsekonomi"
-	},
-	{
-		"term" : "Företagsekonomi, undervisning"
-	},
-	{
-		"term" : "Företagshälsovård"
-	},
-	{
-		"term" : "Företagsöverlåtelser"
-	},
-	{
-		"term" : "Företagsrekonstruktioner"
-	},
-	{
-		"term" : "Företagssköterskeutbildning"
-	},
-	{
-		"term" : "Företagsvärdering"
-	},
-	{
-		"term" : "Förgyllning av trä"
-	},
-	{
-		"term" : "Förhandlingsvana"
-	},
-	{
-		"term" : "Förkromning"
-	},
-	{
-		"term" : "Förläggning av optisk fiberkabel"
-	},
-	{
-		"term" : "Förlagskunskap"
-	},
-	{
 		"term" : "Formblåsning"
 	},
 	{
 		"term" : "Formelementmontering"
 	},
 	{
-		"term" : "Formgjutning, keramik\/porslin"
+		"term" : "Formgjutning, keramik\/Formgjutning, porslin"
 	},
 	{
 		"term" : "Formpressning"
-	},
-	{
-		"term" : "Formsättning"
 	},
 	{
 		"term" : "Formslipning"
@@ -4863,6 +4677,9 @@
 		"term" : "Formställning"
 	},
 	{
+		"term" : "Formsättning"
+	},
+	{
 		"term" : "Formtillverkning"
 	},
 	{
@@ -4872,76 +4689,10 @@
 		"term" : "Formverktyg, tillverkning"
 	},
 	{
-		"term" : "Förmyndarrätt"
-	},
-	{
-		"term" : "Förnickling"
-	},
-	{
 		"term" : "Fornminnesinventering"
 	},
 	{
 		"term" : "Fornminnesregister"
-	},
-	{
-		"term" : "Förordnad besiktningsman"
-	},
-	{
-		"term" : "Förpackningar och emballage"
-	},
-	{
-		"term" : "Förrådshantering"
-	},
-	{
-		"term" : "Förrätter"
-	},
-	{
-		"term" : "Försäkringar, personaladministration"
-	},
-	{
-		"term" : "Försäkringsjuridik"
-	},
-	{
-		"term" : "Försäkringsmatematik"
-	},
-	{
-		"term" : "Försäkringsrätt"
-	},
-	{
-		"term" : "Försäkringstjänster, produktkunskap"
-	},
-	{
-		"term" : "Försäljningsstatistik"
-	},
-	{
-		"term" : "Försäljningsvana, auktionsförsäljning"
-	},
-	{
-		"term" : "Försäljningsvana, direktförsäljning konsument"
-	},
-	{
-		"term" : "Försäljningsvana, exportförsäljning"
-	},
-	{
-		"term" : "Försäljningsvana, hemförsäljning (homeparties)"
-	},
-	{
-		"term" : "Försäljningsvana, telefonförsäljning"
-	},
-	{
-		"term" : "Försäljningsvana, torg- och marknadsförsäljning"
-	},
-	{
-		"term" : "Försäljningsvana, uppsökande försäljning företag"
-	},
-	{
-		"term" : "Församlingsadministration"
-	},
-	{
-		"term" : "Församlingsarbete"
-	},
-	{
-		"term" : "Försiktig sprängning"
 	},
 	{
 		"term" : "Forskning, erfarenhet"
@@ -4950,37 +4701,7 @@
 		"term" : "Forskningsbiblioteksinriktning"
 	},
 	{
-		"term" : "Förskollärarexamen"
-	},
-	{
-		"term" : "Förskollärarlegitimation"
-	},
-	{
-		"term" : "Försöksdjur, skötselvana"
-	},
-	{
-		"term" : "Försöksdjurskunskap, utbildning"
-	},
-	{
-		"term" : "Försöksdjursmetodik"
-	},
-	{
-		"term" : "Försöksplanering"
-	},
-	{
 		"term" : "Forsränning, instruktör"
-	},
-	{
-		"term" : "Första hjälpen - HLR-intyg"
-	},
-	{
-		"term" : "Första hjälpen i skidbacken"
-	},
-	{
-		"term" : "Första hjälpen offshore"
-	},
-	{
-		"term" : "Första hjälpen vid olycksfall"
 	},
 	{
 		"term" : "Fortnox, affärssystem"
@@ -4989,31 +4710,19 @@
 		"term" : "Fortran, programmeringsspråk"
 	},
 	{
-		"term" : "Forumspel\/värderingsövningar"
+		"term" : "Forumspel\/Värderingsövningar"
 	},
 	{
-		"term" : "Förvalsning"
-	},
-	{
-		"term" : "Förvaltningsekonomi"
-	},
-	{
-		"term" : "Förvaltningslagen"
-	},
-	{
-		"term" : "Förvaltningsrätt"
-	},
-	{
-		"term" : "Förzinkning"
-	},
-	{
-		"term" : "Fotboll, instruktör\/tränare"
+		"term" : "Fotboll, instruktör\/Fotboll, tränare"
 	},
 	{
 		"term" : "Fotboll, professionell utövning"
 	},
 	{
 		"term" : "Foto, cirkelledning"
+	},
+	{
+		"term" : "Fotoartiklar\/Kameror"
 	},
 	{
 		"term" : "Fotoetsning"
@@ -5043,7 +4752,7 @@
 		"term" : "Fotsjukvård"
 	},
 	{
-		"term" : "Fotvård (pedikyr)"
+		"term" : "Fotvård\/Pedikyr"
 	},
 	{
 		"term" : "FoxPro\/xBase, programmeringsspråk"
@@ -5053,9 +4762,6 @@
 	},
 	{
 		"term" : "FPR\/MSA"
-	},
-	{
-		"term" : "Frälsningsarméns officersskola"
 	},
 	{
 		"term" : "Framtagande av utbildningsmaterial"
@@ -5079,12 +4785,6 @@
 		"term" : "Franskt kök"
 	},
 	{
-		"term" : "Fräsning, CNC"
-	},
-	{
-		"term" : "Fräsning, konventionell maskin"
-	},
-	{
 		"term" : "Freds- och försvarsfrågor"
 	},
 	{
@@ -5106,7 +4806,7 @@
 		"term" : "Frihandsteckning"
 	},
 	{
-		"term" : "Friidrott, instruktör\/tränare"
+		"term" : "Friidrott, instruktör\/Friidrott, tränare"
 	},
 	{
 		"term" : "Friidrott, professionell utövning"
@@ -5121,7 +4821,7 @@
 		"term" : "Frilansuppdrag"
 	},
 	{
-		"term" : "Friluftsdaghem, erfarenhet"
+		"term" : "Friluftsförskola, erfarenhet"
 	},
 	{
 		"term" : "Friskvård, professionell rådgivning"
@@ -5130,10 +4830,13 @@
 		"term" : "Friskvårdsfrågor, personalarbete"
 	},
 	{
+		"term" : "Fristråleblästring"
+	},
+	{
 		"term" : "Frisörsalong"
 	},
 	{
-		"term" : "Fristråleblästring"
+		"term" : "Fritidsartiklar\/Sportartiklar"
 	},
 	{
 		"term" : "Fritidsgård"
@@ -5161,6 +4864,15 @@
 	},
 	{
 		"term" : "Fruktodling"
+	},
+	{
+		"term" : "Frälsningsarméns officersskola"
+	},
+	{
+		"term" : "Fräsning, CNC"
+	},
+	{
+		"term" : "Fräsning, konventionell maskin"
 	},
 	{
 		"term" : "Fullbetald elektriker"
@@ -5235,6 +4947,273 @@
 		"term" : "FYSS"
 	},
 	{
+		"term" : "Fågelsanering"
+	},
+	{
+		"term" : "Fåglar, konservering"
+	},
+	{
+		"term" : "Fårskötsel"
+	},
+	{
+		"term" : "Fårstyckning"
+	},
+	{
+		"term" : "Fäktning"
+	},
+	{
+		"term" : "Fäktning, instruktör\/Fäktning, tränare"
+	},
+	{
+		"term" : "Fältstudier"
+	},
+	{
+		"term" : "Fälttävlan, instruktör\/Fälttävlan, tränare"
+	},
+	{
+		"term" : "Färdtjänstkörning"
+	},
+	{
+		"term" : "Färg\/Kemikalieprodukter\/Tapeter"
+	},
+	{
+		"term" : "Färganalys"
+	},
+	{
+		"term" : "Färgbalans"
+	},
+	{
+		"term" : "Färgborttagning"
+	},
+	{
+		"term" : "Färgpassning"
+	},
+	{
+		"term" : "Färgsättning, konstnärlig"
+	},
+	{
+		"term" : "Födoämnesallergi, kunskap om"
+	},
+	{
+		"term" : "Följdverktyg, tillverkning"
+	},
+	{
+		"term" : "Följespott"
+	},
+	{
+		"term" : "Fönstermontage\/Fönstermontering"
+	},
+	{
+		"term" : "Fönsterputsning"
+	},
+	{
+		"term" : "Fönsterrenovering"
+	},
+	{
+		"term" : "Fönstertillverkning"
+	},
+	{
+		"term" : "Förarbevis (inkl Klass I)"
+	},
+	{
+		"term" : "Förarbevis för skylift"
+	},
+	{
+		"term" : "Förarbevis för snöskoter"
+	},
+	{
+		"term" : "Förarbevis för tunneltåg"
+	},
+	{
+		"term" : "Förarbevis, skotare"
+	},
+	{
+		"term" : "Förarbevis, skördare"
+	},
+	{
+		"term" : "Förare arbetsfordon, järnväg"
+	},
+	{
+		"term" : "Förarkort för digital färdskrivare"
+	},
+	{
+		"term" : "Förarutbildning, tåg"
+	},
+	{
+		"term" : "Förbränningsanläggning, underhåll"
+	},
+	{
+		"term" : "Förbränningsteknik"
+	},
+	{
+		"term" : "Förebyggande brandskydd"
+	},
+	{
+		"term" : "Förebyggande djurhälsovård"
+	},
+	{
+		"term" : "Föredragande i kvalitetsråd"
+	},
+	{
+		"term" : "Föreläsningsvana"
+	},
+	{
+		"term" : "Företagsanalys"
+	},
+	{
+		"term" : "Företagsbiblioteksinriktning"
+	},
+	{
+		"term" : "Företagsekonomi"
+	},
+	{
+		"term" : "Företagsekonomi, undervisning"
+	},
+	{
+		"term" : "Företagshälsovård"
+	},
+	{
+		"term" : "Företagsrekonstruktioner"
+	},
+	{
+		"term" : "Företagssköterskeutbildning"
+	},
+	{
+		"term" : "Företagsvärdering"
+	},
+	{
+		"term" : "Företagsöverlåtelser"
+	},
+	{
+		"term" : "Förgyllning av trä"
+	},
+	{
+		"term" : "Förhandlingsvana"
+	},
+	{
+		"term" : "Förkromning"
+	},
+	{
+		"term" : "Förlagskunskap"
+	},
+	{
+		"term" : "Förläggning av optisk fiberkabel"
+	},
+	{
+		"term" : "Förmyndarrätt"
+	},
+	{
+		"term" : "Förnickling"
+	},
+	{
+		"term" : "Förordnad besiktningsman"
+	},
+	{
+		"term" : "Förrådshantering"
+	},
+	{
+		"term" : "Förrätter"
+	},
+	{
+		"term" : "Församlingsadministration"
+	},
+	{
+		"term" : "Församlingsarbete"
+	},
+	{
+		"term" : "Försiktig sprängning"
+	},
+	{
+		"term" : "Förskollärarexamen"
+	},
+	{
+		"term" : "Förskollärarlegitimation"
+	},
+	{
+		"term" : "Första hjälpen - HLR-intyg"
+	},
+	{
+		"term" : "Första hjälpen i skidbacken"
+	},
+	{
+		"term" : "Första hjälpen offshore"
+	},
+	{
+		"term" : "Första hjälpen vid olycksfall"
+	},
+	{
+		"term" : "Försäkringar, personaladministration"
+	},
+	{
+		"term" : "Försäkringsjuridik"
+	},
+	{
+		"term" : "Försäkringsmatematik"
+	},
+	{
+		"term" : "Försäkringsrätt"
+	},
+	{
+		"term" : "Försäkringstjänster, produktkunskap"
+	},
+	{
+		"term" : "Försäljningsstatistik"
+	},
+	{
+		"term" : "Försäljningsvana, auktionsförsäljning"
+	},
+	{
+		"term" : "Försäljningsvana, direktförsäljning konsument"
+	},
+	{
+		"term" : "Försäljningsvana, exportförsäljning"
+	},
+	{
+		"term" : "Försäljningsvana, hemförsäljning (homeparties)"
+	},
+	{
+		"term" : "Försäljningsvana, telefonförsäljning"
+	},
+	{
+		"term" : "Försäljningsvana, torg- och marknadsförsäljning"
+	},
+	{
+		"term" : "Försäljningsvana, uppsökande försäljning företag"
+	},
+	{
+		"term" : "Försöksdjur, skötselvana"
+	},
+	{
+		"term" : "Försöksdjurskunskap, utbildning"
+	},
+	{
+		"term" : "Försöksdjursmetodik"
+	},
+	{
+		"term" : "Försöksplanering"
+	},
+	{
+		"term" : "Förvalsning"
+	},
+	{
+		"term" : "Förvaltningsekonomi"
+	},
+	{
+		"term" : "Förvaltningslagen"
+	},
+	{
+		"term" : "Förvaltningsrätt"
+	},
+	{
+		"term" : "Förzinkning"
+	},
+	{
+		"term" : "Föräldrakooperativ, erfarenhet"
+	},
+	{
+		"term" : "Föräldrautbildning"
+	},
+	{
 		"term" : "Gaffeltruck"
 	},
 	{
@@ -5244,7 +5223,7 @@
 		"term" : "Galler, låsteknik"
 	},
 	{
-		"term" : "Galopp, instruktör\/tränare"
+		"term" : "Galopp, instruktör\/Galopp, tränare"
 	},
 	{
 		"term" : "Galopp, professionell utövning"
@@ -5259,16 +5238,13 @@
 		"term" : "Game concept art"
 	},
 	{
-		"term" : "Gång och vandring, instruktör"
-	},
-	{
 		"term" : "Gardinuppsättningar"
 	},
 	{
-		"term" : "Garnfärgning"
+		"term" : "Garnfiske"
 	},
 	{
-		"term" : "Garnfiske"
+		"term" : "Garnfärgning"
 	},
 	{
 		"term" : "Garntillverkning"
@@ -5289,13 +5265,13 @@
 		"term" : "Gaspåfyllning"
 	},
 	{
-		"term" : "Gassäkring"
-	},
-	{
 		"term" : "Gasskärning"
 	},
 	{
 		"term" : "Gassvetsning"
+	},
+	{
+		"term" : "Gassäkring"
 	},
 	{
 		"term" : "Gasturbinanläggning, underhåll"
@@ -5337,6 +5313,12 @@
 		"term" : "Geografi, undervisning gymnasienivå"
 	},
 	{
+		"term" : "Geografiskt informationssystem\/GIS"
+	},
+	{
+		"term" : "Geografiskt positionssystem\/GPS"
+	},
+	{
 		"term" : "Geokemi"
 	},
 	{
@@ -5361,13 +5343,13 @@
 		"term" : "Geropsykologi"
 	},
 	{
+		"term" : "Gestaltterapi"
+	},
+	{
 		"term" : "Gesällbrev, bagare och konditor"
 	},
 	{
 		"term" : "Gesällbrev, barberare"
-	},
-	{
-		"term" : "Gesällbrev, båtbyggare"
 	},
 	{
 		"term" : "Gesällbrev, billackerare"
@@ -5386,6 +5368,9 @@
 	},
 	{
 		"term" : "Gesällbrev, byggnadsplåtslagare"
+	},
+	{
+		"term" : "Gesällbrev, båtbyggare"
 	},
 	{
 		"term" : "Gesällbrev, charkuterist"
@@ -5463,16 +5448,22 @@
 		"term" : "Gesällbrev, konstinramare"
 	},
 	{
-		"term" : "Gesällbrev, köttyrket i detaljhandeln\/köttmästare"
+		"term" : "Gesällbrev, krukmakare"
 	},
 	{
-		"term" : "Gesällbrev, krukmakare"
+		"term" : "Gesällbrev, köttyrket i detaljhandeln\/köttmästare"
 	},
 	{
 		"term" : "Gesällbrev, låssmed"
 	},
 	{
 		"term" : "Gesällbrev, make-up artist"
+	},
+	{
+		"term" : "Gesällbrev, modist"
+	},
+	{
+		"term" : "Gesällbrev, mur och puts"
 	},
 	{
 		"term" : "Gesällbrev, målare"
@@ -5484,19 +5475,13 @@
 		"term" : "Gesällbrev, möbelsnickare"
 	},
 	{
-		"term" : "Gesällbrev, modist"
-	},
-	{
-		"term" : "Gesällbrev, mur och puts"
-	},
-	{
 		"term" : "Gesällbrev, nagelterapeut"
 	},
 	{
-		"term" : "Gesällbrev, pälssömmare"
+		"term" : "Gesällbrev, pianotekniker"
 	},
 	{
-		"term" : "Gesällbrev, pianotekniker"
+		"term" : "Gesällbrev, pälssömmare"
 	},
 	{
 		"term" : "Gesällbrev, reception"
@@ -5556,13 +5541,10 @@
 		"term" : "Gesällbrev, urmakare"
 	},
 	{
-		"term" : "Gesällbrev, väskmakare"
-	},
-	{
 		"term" : "Gesällbrev, violinbyggare"
 	},
 	{
-		"term" : "Gestaltterapi"
+		"term" : "Gesällbrev, väskmakare"
 	},
 	{
 		"term" : "Gips, specialisering tandteknik"
@@ -5572,9 +5554,6 @@
 	},
 	{
 		"term" : "Gipskonst"
-	},
-	{
-		"term" : "GIS (Geografiskt informationssystem)"
 	},
 	{
 		"term" : "Git, versionshanteringssystem"
@@ -5646,9 +5625,6 @@
 		"term" : "Glasmålning"
 	},
 	{
-		"term" : "Glasögonslipning"
-	},
-	{
 		"term" : "Glaspolering"
 	},
 	{
@@ -5665,6 +5641,9 @@
 	},
 	{
 		"term" : "Glasyrberedning"
+	},
+	{
+		"term" : "Glasögonslipning"
 	},
 	{
 		"term" : "Glidform"
@@ -5691,7 +5670,7 @@
 		"term" : "God fysik (tunga lyft)"
 	},
 	{
-		"term" : "Godis och konfektyr"
+		"term" : "Godis\/Konfektyr"
 	},
 	{
 		"term" : "Godkänd badvakt, SLS"
@@ -5724,13 +5703,10 @@
 		"term" : "Godkänd VVS-utbildning"
 	},
 	{
-		"term" : "Gödslingsmaskin"
-	},
-	{
 		"term" : "GoldStar, telefonväxel"
 	},
 	{
-		"term" : "Golf, instruktör\/tränare"
+		"term" : "Golf, instruktör\/Golf, tränare"
 	},
 	{
 		"term" : "Golf, professionell utövning"
@@ -5778,9 +5754,6 @@
 		"term" : "Gospel"
 	},
 	{
-		"term" : "Göteborgska"
-	},
-	{
 		"term" : "Gotländska"
 	},
 	{
@@ -5790,10 +5763,7 @@
 		"term" : "Gourmetmat, cirkelledning"
 	},
 	{
-		"term" : "GPGPU, Grafikkortsprogrammering"
-	},
-	{
-		"term" : "GPS (Geografiskt positionssystem)"
+		"term" : "GPGPU, grafikkortsprogrammering"
 	},
 	{
 		"term" : "Grading"
@@ -5814,7 +5784,7 @@
 		"term" : "Grafisk design"
 	},
 	{
-		"term" : "Grafiska gränssnitt, GUI"
+		"term" : "Grafiska gränssnitt\/GUI"
 	},
 	{
 		"term" : "Grafitarbete"
@@ -5829,22 +5799,7 @@
 		"term" : "Granskning av bokslut"
 	},
 	{
-		"term" : "Gränsskydd"
-	},
-	{
-		"term" : "Gränssnittsdesign, undervisning"
-	},
-	{
-		"term" : "Gråstensmurning"
-	},
-	{
 		"term" : "Gravar, arkeologisk kunskap"
-	},
-	{
-		"term" : "Grävlastare"
-	},
-	{
-		"term" : "Grävmaskin"
 	},
 	{
 		"term" : "Gravstenstillverkning"
@@ -5854,6 +5809,102 @@
 	},
 	{
 		"term" : "Grekiskt kök"
+	},
+	{
+		"term" : "Grovarbete, bygg"
+	},
+	{
+		"term" : "Grovdisk"
+	},
+	{
+		"term" : "Grovkrossning av malm"
+	},
+	{
+		"term" : "Grovslipning"
+	},
+	{
+		"term" : "Grovstyckningsvana"
+	},
+	{
+		"term" : "Grundförstärkning"
+	},
+	{
+		"term" : "Grundläggande ATS-kurs"
+	},
+	{
+		"term" : "Grundläggande polartjänstgöring"
+	},
+	{
+		"term" : "Grundläggande psykoterapiutbildning"
+	},
+	{
+		"term" : "Grundläggande tjänstgöring på fartyg\/IGF-koden"
+	},
+	{
+		"term" : "Grundlärarexamen mot fritidshem"
+	},
+	{
+		"term" : "Grundlärarexamen årskurs 1-3"
+	},
+	{
+		"term" : "Grundlärarexamen årskurs 4-6"
+	},
+	{
+		"term" : "Grundskollärarexamen inr 1-7"
+	},
+	{
+		"term" : "Grundskollärarexamen inr 4-9"
+	},
+	{
+		"term" : "Grunt, systemutvecklingsverktyg"
+	},
+	{
+		"term" : "Grupp- och konferensresor, reseproduktion"
+	},
+	{
+		"term" : "Gruppaktiviteter, ledarerfarenhet"
+	},
+	{
+		"term" : "Gruppbostad"
+	},
+	{
+		"term" : "Gruppreseförsäljning\/Konferensreseförsäljning"
+	},
+	{
+		"term" : "Gruppsykologi"
+	},
+	{
+		"term" : "Gruppterapi"
+	},
+	{
+		"term" : "Gruppvägledning, ledarerfarenhet"
+	},
+	{
+		"term" : "Grusbil, körvana"
+	},
+	{
+		"term" : "Grusfilterborrning"
+	},
+	{
+		"term" : "Gruvbyggnad"
+	},
+	{
+		"term" : "Gruvgeologi"
+	},
+	{
+		"term" : "Gråstensmurning"
+	},
+	{
+		"term" : "Gränsskydd"
+	},
+	{
+		"term" : "Gränssnittsdesign, undervisning"
+	},
+	{
+		"term" : "Grävlastare"
+	},
+	{
+		"term" : "Grävmaskin"
 	},
 	{
 		"term" : "Grönsaksodling, friland"
@@ -5898,87 +5949,6 @@
 		"term" : "Grönytemaskiner, service och underhåll"
 	},
 	{
-		"term" : "Grovarbete\/bygg"
-	},
-	{
-		"term" : "Grovdisk"
-	},
-	{
-		"term" : "Grovkrossning av malm"
-	},
-	{
-		"term" : "Grovslipning"
-	},
-	{
-		"term" : "Grovstyckningsvana"
-	},
-	{
-		"term" : "Grundförstärkning"
-	},
-	{
-		"term" : "Grundläggande ATS-kurs"
-	},
-	{
-		"term" : "Grundläggande polartjänstgöring"
-	},
-	{
-		"term" : "Grundläggande psykoterapiutbildning"
-	},
-	{
-		"term" : "Grundläggande tjänstgöring på fartyg\/IGF-koden"
-	},
-	{
-		"term" : "Grundlärarexamen årskurs 1-3"
-	},
-	{
-		"term" : "Grundlärarexamen årskurs 4-6"
-	},
-	{
-		"term" : "Grundlärarexamen mot fritidshem"
-	},
-	{
-		"term" : "Grundskollärarexamen inr 1-7"
-	},
-	{
-		"term" : "Grundskollärarexamen inr 4-9"
-	},
-	{
-		"term" : "Grunt, systemutvecklingsverktyg"
-	},
-	{
-		"term" : "Grupp- och konferensreseförsäljning"
-	},
-	{
-		"term" : "Grupp- och konferensresor, reseproduktion"
-	},
-	{
-		"term" : "Gruppaktiviteter, ledarerfarenhet"
-	},
-	{
-		"term" : "Gruppbostad"
-	},
-	{
-		"term" : "Gruppsykologi"
-	},
-	{
-		"term" : "Gruppterapi"
-	},
-	{
-		"term" : "Gruppvägledning, ledarerfarenhet"
-	},
-	{
-		"term" : "Grusbil, körvana"
-	},
-	{
-		"term" : "Grusfilterborrning"
-	},
-	{
-		"term" : "Gruvbyggnad"
-	},
-	{
-		"term" : "Gruvgeologi"
-	},
-	{
 		"term" : "Guidning, museum"
 	},
 	{
@@ -5988,10 +5958,10 @@
 		"term" : "Guld, specialisering tandteknik"
 	},
 	{
-		"term" : "Guldsmedsvaror och smycken"
+		"term" : "Guldsmedsvaror och smycken, värdering"
 	},
 	{
-		"term" : "Guldsmedsvaror och smycken, värdering"
+		"term" : "Guldsmedsvaror\/Smycken"
 	},
 	{
 		"term" : "Guldsmide"
@@ -6006,7 +5976,7 @@
 		"term" : "Gymnasielärarexamen"
 	},
 	{
-		"term" : "Gymnastik, instruktör\/tränare"
+		"term" : "Gymnastik, instruktör\/Gymnastik, tränare"
 	},
 	{
 		"term" : "Gymnastik, professionell utövning"
@@ -6015,61 +5985,25 @@
 		"term" : "Gynekologisk onkologi"
 	},
 	{
+		"term" : "Gång och vandring, instruktör"
+	},
+	{
+		"term" : "Gödslingsmaskin"
+	},
+	{
+		"term" : "Göteborgska"
+	},
+	{
 		"term" : "Habilitering"
 	},
 	{
 		"term" : "Habiliteringspsykologi"
 	},
 	{
-		"term" : "Häftning, bokbinderi"
-	},
-	{
 		"term" : "Halländska"
 	},
 	{
-		"term" : "Hållfasthetsanalyser"
-	},
-	{
-		"term" : "Hållfasthetsberäkningar"
-	},
-	{
 		"term" : "Halmvaruarbete"
-	},
-	{
-		"term" : "Hålslipning"
-	},
-	{
-		"term" : "Hälso- och sjukvård, områdeskunskap"
-	},
-	{
-		"term" : "Hälso- och sjukvård, undervisning högskolenivå"
-	},
-	{
-		"term" : "Hälso- och sjukvårdskuratorsexamen"
-	},
-	{
-		"term" : "Hälsoekonomi"
-	},
-	{
-		"term" : "Hälsojournalistik\/Skönhetsjournalistik"
-	},
-	{
-		"term" : "Hälsokost"
-	},
-	{
-		"term" : "Hälsokrav vid livsmedelshantering"
-	},
-	{
-		"term" : "Hälsoprofilbedömning"
-	},
-	{
-		"term" : "Hälsopsykologi"
-	},
-	{
-		"term" : "Hälsoskydd (inomhusmiljö)"
-	},
-	{
-		"term" : "Hälsovägledningsmetoder"
 	},
 	{
 		"term" : "Halvledarteknik"
@@ -6081,7 +6015,7 @@
 		"term" : "Hamn- och stuveriarbete"
 	},
 	{
-		"term" : "Handboll, instruktör\/tränare"
+		"term" : "Handboll, instruktör\/Handboll, tränare"
 	},
 	{
 		"term" : "Handboll, professionell utövning"
@@ -6123,7 +6057,7 @@
 		"term" : "Handskrifttolkning"
 	},
 	{
-		"term" : "Handvård (manikyr)"
+		"term" : "Handvård\/Manikyr"
 	},
 	{
 		"term" : "Hansa, redovisningssystem"
@@ -6138,67 +6072,13 @@
 		"term" : "HappyBooking, hotellbokningssystem"
 	},
 	{
-		"term" : "Härdfysik (reaktorteknik)"
-	},
-	{
-		"term" : "Hårdlödning"
-	},
-	{
-		"term" : "Härdning, glas\/keramik"
-	},
-	{
-		"term" : "Härdning, stål\/metall"
-	},
-	{
-		"term" : "Härdplaster\/Isocyanater, materialkunskap"
-	},
-	{
-		"term" : "Hårdplastutbildning"
-	},
-	{
-		"term" : "Härdplastutbildning (Epoxy-utbildning)"
-	},
-	{
-		"term" : "Hårdrock"
-	},
-	{
-		"term" : "Hårdslöjd, konsulenterfarenhet"
-	},
-	{
-		"term" : "Hårdvarukonstruktion"
-	},
-	{
-		"term" : "Hårdvarunära programmering"
-	},
-	{
-		"term" : "Hårdvaruutveckling"
-	},
-	{
 		"term" : "Harpa"
 	},
 	{
 		"term" : "Harpa, undervisning musikskola"
 	},
 	{
-		"term" : "Håruppsättningar"
-	},
-	{
-		"term" : "Hårvårdsprodukter"
-	},
-	{
 		"term" : "Haskell, programmeringsspråk"
-	},
-	{
-		"term" : "Hästdressyr, instruktör\/tränare"
-	},
-	{
-		"term" : "Hästhoppning, instruktör\/tränare"
-	},
-	{
-		"term" : "Hästmassage"
-	},
-	{
-		"term" : "Hästskötsel"
 	},
 	{
 		"term" : "Hattar, renoveringsvana"
@@ -6252,7 +6132,10 @@
 		"term" : "Hetvattencentral, underhåll"
 	},
 	{
-		"term" : "Hibernate (Java), ramverk"
+		"term" : "Hibernate, ramverk\/Java, ramverk"
+	},
+	{
+		"term" : "Hi-fi\/Radio\/Video\/TV"
 	},
 	{
 		"term" : "Hip hop"
@@ -6282,6 +6165,12 @@
 		"term" : "Historia, undervisning gymnasienivå"
 	},
 	{
+		"term" : "Hjulbyten"
+	},
+	{
+		"term" : "Hjulinställning"
+	},
+	{
 		"term" : "Hjälp på väg (Trafikverkets kravkurs)"
 	},
 	{
@@ -6294,18 +6183,6 @@
 		"term" : "Hjärt- och lungräddning"
 	},
 	{
-		"term" : "Hjulbyten"
-	},
-	{
-		"term" : "Hjulinställning"
-	},
-	{
-		"term" : "Högfrekvensteknik"
-	},
-	{
-		"term" : "Höghöjdsarbete"
-	},
-	{
 		"term" : "Hogia Art, redovisningssystem"
 	},
 	{
@@ -6313,24 +6190,6 @@
 	},
 	{
 		"term" : "Hogia, redovisningssystem"
-	},
-	{
-		"term" : "Högre Certifikat inom inköp och logistik"
-	},
-	{
-		"term" : "Högskoleingenjörsexamen"
-	},
-	{
-		"term" : "Högspänningsbrytare, underhåll"
-	},
-	{
-		"term" : "Högspänningsteknik"
-	},
-	{
-		"term" : "Högtryck"
-	},
-	{
-		"term" : "Högtrycksrengöring"
 	},
 	{
 		"term" : "Homesite, HTML-editor"
@@ -6360,25 +6219,7 @@
 		"term" : "Hopsömnad, trikåsöm"
 	},
 	{
-		"term" : "Hörhjälpmedel, utprovning och träning"
-	},
-	{
 		"term" : "Horn"
-	},
-	{
-		"term" : "Hörselmätningar"
-	},
-	{
-		"term" : "Hörselrubbningar"
-	},
-	{
-		"term" : "Hörselskadade, handikappfrågor"
-	},
-	{
-		"term" : "Hörselskadade\/döva, arbetslivsinriktad rehab."
-	},
-	{
-		"term" : "Hörselvård, medicintekniskt område ingenjör"
 	},
 	{
 		"term" : "Hortonomexamen"
@@ -6471,6 +6312,9 @@
 		"term" : "Hushållsmaskiner, servicevana"
 	},
 	{
+		"term" : "Hushållsmaskiner\/Vitvaror"
+	},
+	{
 		"term" : "Husmanskost"
 	},
 	{
@@ -6535,6 +6379,147 @@
 	},
 	{
 		"term" : "Hyvling, konventionell maskin"
+	},
+	{
+		"term" : "Hållfasthetsanalyser"
+	},
+	{
+		"term" : "Hållfasthetsberäkningar"
+	},
+	{
+		"term" : "Hålslipning"
+	},
+	{
+		"term" : "Hårdlödning"
+	},
+	{
+		"term" : "Hårdplastutbildning"
+	},
+	{
+		"term" : "Hårdrock"
+	},
+	{
+		"term" : "Hårdslöjd, konsulenterfarenhet"
+	},
+	{
+		"term" : "Hårdvarukonstruktion"
+	},
+	{
+		"term" : "Hårdvarunära programmering"
+	},
+	{
+		"term" : "Hårdvaruutveckling"
+	},
+	{
+		"term" : "Håruppsättningar"
+	},
+	{
+		"term" : "Hårvårdsprodukter"
+	},
+	{
+		"term" : "Häftning, bokbinderi"
+	},
+	{
+		"term" : "Hälso- och sjukvård, områdeskunskap"
+	},
+	{
+		"term" : "Hälso- och sjukvård, undervisning högskolenivå"
+	},
+	{
+		"term" : "Hälso- och sjukvårdskuratorsexamen"
+	},
+	{
+		"term" : "Hälsoekonomi"
+	},
+	{
+		"term" : "Hälsojournalistik\/Skönhetsjournalistik"
+	},
+	{
+		"term" : "Hälsokost"
+	},
+	{
+		"term" : "Hälsokrav vid livsmedelshantering"
+	},
+	{
+		"term" : "Hälsoprofilbedömning"
+	},
+	{
+		"term" : "Hälsopsykologi"
+	},
+	{
+		"term" : "Hälsoskydd (inomhusmiljö)"
+	},
+	{
+		"term" : "Hälsovägledningsmetoder"
+	},
+	{
+		"term" : "Härdfysik\/Reaktorteknik"
+	},
+	{
+		"term" : "Härdning, glas\/Härdning, keramik"
+	},
+	{
+		"term" : "Härdning, stål\/Härdning, metall"
+	},
+	{
+		"term" : "Härdplaster, materialkunskap\/Isocyanater, materialkunskap"
+	},
+	{
+		"term" : "Hästdressyr, instruktör\/Hästdressyr, tränare"
+	},
+	{
+		"term" : "Hästhoppning, instruktör\/Hästhoppning, tränare"
+	},
+	{
+		"term" : "Hästmassage"
+	},
+	{
+		"term" : "Hästskötsel"
+	},
+	{
+		"term" : "Högfrekvensteknik"
+	},
+	{
+		"term" : "Höghöjdsarbete"
+	},
+	{
+		"term" : "Högre Certifikat inom inköp och logistik"
+	},
+	{
+		"term" : "Högskoleingenjörsexamen"
+	},
+	{
+		"term" : "Högspänningsbrytare, underhåll"
+	},
+	{
+		"term" : "Högspänningsteknik"
+	},
+	{
+		"term" : "Högtemperaturfysik\/Plasmafysik"
+	},
+	{
+		"term" : "Högtryck"
+	},
+	{
+		"term" : "Högtrycksrengöring"
+	},
+	{
+		"term" : "Hörhjälpmedel, utprovning och träning"
+	},
+	{
+		"term" : "Hörselmätningar"
+	},
+	{
+		"term" : "Hörselrubbningar"
+	},
+	{
+		"term" : "Hörselskadade, arbetslivsinriktad rehab\/Döva, arbetslivsinriktad rehab"
+	},
+	{
+		"term" : "Hörselskadade, handikappfrågor"
+	},
+	{
+		"term" : "Hörselvård, medicintekniskt område ingenjör"
 	},
 	{
 		"term" : "IATA-certifikat"
@@ -6609,7 +6594,7 @@
 		"term" : "Ikonmålning"
 	},
 	{
-		"term" : "Illusionsnummer\/trolleri"
+		"term" : "Illusionsnummer\/Trolleri"
 	},
 	{
 		"term" : "Illustration"
@@ -6684,10 +6669,10 @@
 		"term" : "Industriella styrsystem"
 	},
 	{
-		"term" : "Industriförsäljning"
+		"term" : "Industrifotografering"
 	},
 	{
-		"term" : "Industrifotografering"
+		"term" : "Industriförsäljning"
 	},
 	{
 		"term" : "Industriisolering"
@@ -6759,7 +6744,7 @@
 		"term" : "Inmax, hotellbokningssystem"
 	},
 	{
-		"term" : "Innebandy, instruktör\/tränare"
+		"term" : "Innebandy, instruktör\/Innebandy, tränare"
 	},
 	{
 		"term" : "Innershield, Bågsvetsning"
@@ -6840,6 +6825,9 @@
 		"term" : "Instruktörsutbildning"
 	},
 	{
+		"term" : "Instrument Rating\/IR"
+	},
+	{
 		"term" : "Instrumentoptik"
 	},
 	{
@@ -6867,10 +6855,10 @@
 		"term" : "Intellektuell funktionsnedsättn, handikappfrågor"
 	},
 	{
-		"term" : "Intellektuell funktionsnedsättning, arbetsrehab."
+		"term" : "Intellektuell funktionsnedsättning, arbetsrehabilitering"
 	},
 	{
-		"term" : "Intellektuell funktionsnedsättning, omsorgserf."
+		"term" : "Intellektuell funktionsnedsättning, omsorgserfarenhet"
 	},
 	{
 		"term" : "IntelliJ, programmeringsverktyg"
@@ -6915,7 +6903,10 @@
 		"term" : "Internatskola"
 	},
 	{
-		"term" : "Internet\/Intranet, informationssökning"
+		"term" : "Internet of things\/IoT"
+	},
+	{
+		"term" : "Internet, informationssökning\/Intranet, informationssökning"
 	},
 	{
 		"term" : "Internetanvändning, undervisning"
@@ -6927,7 +6918,7 @@
 		"term" : "Internrevision (skyddsföreskrifter)"
 	},
 	{
-		"term" : "Interventionell röntgen\/radiologi"
+		"term" : "Interventionell röntgen\/Radiologi"
 	},
 	{
 		"term" : "Intervjutekniker"
@@ -6945,22 +6936,13 @@
 		"term" : "Intrastatredovisning"
 	},
 	{
-		"term" : "Invandrarpsykologi"
-	},
-	{
 		"term" : "IOS, operativsystem"
-	},
-	{
-		"term" : "IoT, Internet of things"
 	},
 	{
 		"term" : "IP-telefoniteknik"
 	},
 	{
 		"term" : "IPX, kommunikationsprotokoll"
-	},
-	{
-		"term" : "IR Instrument Rating"
 	},
 	{
 		"term" : "Irisdiagnostik"
@@ -6990,7 +6972,7 @@
 		"term" : "ISDN-standard för digital telefoni"
 	},
 	{
-		"term" : "Ishockey, instruktör\/tränare"
+		"term" : "Ishockey, instruktör\/Ishockey, tränare"
 	},
 	{
 		"term" : "Ishockey, professionell utövning"
@@ -7059,16 +7041,13 @@
 		"term" : "IT-konsultuppdrag, erfarenhet"
 	},
 	{
-		"term" : "IT-rätt"
-	},
-	{
 		"term" : "IT-revision"
 	},
 	{
-		"term" : "ITS (internationell spedition)"
+		"term" : "IT-rätt"
 	},
 	{
-		"term" : "IVF-behandling"
+		"term" : "ITS (internationell spedition)"
 	},
 	{
 		"term" : "IW (International Welder), certifikat"
@@ -7077,16 +7056,13 @@
 		"term" : "IWE (International Welding Engineer), certifikat"
 	},
 	{
+		"term" : "IVF-behandling"
+	},
+	{
 		"term" : "IWS (International Welding Specialist), certifikat"
 	},
 	{
 		"term" : "IWT (International Welding Technician), certifikat"
-	},
-	{
-		"term" : "Jägarexamen"
-	},
-	{
-		"term" : "Jägmästarexamen"
 	},
 	{
 		"term" : "Jaktkontroll"
@@ -7095,28 +7071,7 @@
 		"term" : "Jaktturism"
 	},
 	{
-		"term" : "Jämställdhetsarbete"
-	},
-	{
-		"term" : "Jämställdhetsfrågor"
-	},
-	{
-		"term" : "Jämställdhetsfrågor, personalarbete"
-	},
-	{
 		"term" : "Japanskt kök"
-	},
-	{
-		"term" : "Järnålderns arkeologi"
-	},
-	{
-		"term" : "Järnkonstruktionsmontage"
-	},
-	{
-		"term" : "Järnvägsfrakt"
-	},
-	{
-		"term" : "Järnvägsteknik"
 	},
 	{
 		"term" : "Java Builder, programmeringsverktyg"
@@ -7125,7 +7080,7 @@
 		"term" : "Java Enterprise Edition, programmeringsspråk"
 	},
 	{
-		"term" : "Java Micro Edition (JME)"
+		"term" : "Java Micro Edition\/JME"
 	},
 	{
 		"term" : "Java Server Pages (JSP), programmeringsspråk"
@@ -7212,10 +7167,7 @@
 		"term" : "JPA, Java Persistence API, ramverk"
 	},
 	{
-		"term" : "JTF, trafikföreskrifter för järnväg"
-	},
-	{
-		"term" : "Judo, instruktör\/tränare"
+		"term" : "Judo, instruktör\/Judo, tränare"
 	},
 	{
 		"term" : "Juridik, undervisning gymnasienivå"
@@ -7230,13 +7182,43 @@
 		"term" : "Juristexamen"
 	},
 	{
-		"term" : "Kabaré\/revy"
+		"term" : "Jägarexamen"
+	},
+	{
+		"term" : "Jägmästarexamen"
+	},
+	{
+		"term" : "Jämställdhetsarbete"
+	},
+	{
+		"term" : "Jämställdhetsfrågor"
+	},
+	{
+		"term" : "Jämställdhetsfrågor, personalarbete"
+	},
+	{
+		"term" : "Järnkonstruktionsmontage"
+	},
+	{
+		"term" : "Järnvägsfrakt"
+	},
+	{
+		"term" : "Järnvägsteknik"
+	},
+	{
+		"term" : "Järnålderns arkeologi"
+	},
+	{
+		"term" : "Kabaré\/Revy"
 	},
 	{
 		"term" : "Kabel- och vajermontering"
 	},
 	{
 		"term" : "Kabelinstallationer"
+	},
+	{
+		"term" : "Kabel-TV\/Satellit-TV"
 	},
 	{
 		"term" : "Kabel-TV-nät, installationsvana"
@@ -7272,16 +7254,10 @@
 		"term" : "Kallkök"
 	},
 	{
-		"term" : "Källsortering"
-	},
-	{
 		"term" : "Kallvalsning"
 	},
 	{
 		"term" : "Kalvslakt"
-	},
-	{
-		"term" : "Kamera- och fotoartiklar"
 	},
 	{
 		"term" : "Kammarmusik"
@@ -7293,10 +7269,7 @@
 		"term" : "Kanban, systemutvecklingsverktyg"
 	},
 	{
-		"term" : "Kännedom om hästars anatomi"
-	},
-	{
-		"term" : "Kanot, instruktör\/tränare"
+		"term" : "Kanot, instruktör\/Kanot, tränare"
 	},
 	{
 		"term" : "Kantavtagning"
@@ -7333,36 +7306,6 @@
 	},
 	{
 		"term" : "Karikatyrteckning"
-	},
-	{
-		"term" : "Kärlkirurgi"
-	},
-	{
-		"term" : "Kärnavfallshantering"
-	},
-	{
-		"term" : "Kärnborrning"
-	},
-	{
-		"term" : "Kärnbränslehantering"
-	},
-	{
-		"term" : "Kärnfysik"
-	},
-	{
-		"term" : "Kärnkemi"
-	},
-	{
-		"term" : "Kärnkraftanläggning, underhåll"
-	},
-	{
-		"term" : "Kärnkraftsanering"
-	},
-	{
-		"term" : "Kärnkraftteknik"
-	},
-	{
-		"term" : "Kärntillverkning"
 	},
 	{
 		"term" : "Karosseriteknik"
@@ -7414,6 +7357,9 @@
 	},
 	{
 		"term" : "Kem. lab.arb., medicintekniskt område ingenjör"
+	},
+	{
+		"term" : "Kemdykning\/Rökdykning"
 	},
 	{
 		"term" : "Kemi, undervisning grundskolenivå"
@@ -7488,9 +7434,6 @@
 		"term" : "Kirurgisk vård"
 	},
 	{
-		"term" : "Kläder och mode"
-	},
-	{
 		"term" : "Klarinett"
 	},
 	{
@@ -7519,9 +7462,6 @@
 	},
 	{
 		"term" : "Klassisk musik"
-	},
-	{
-		"term" : "Klättring, instruktör"
 	},
 	{
 		"term" : "Klavecin"
@@ -7599,6 +7539,12 @@
 		"term" : "Klottersanering"
 	},
 	{
+		"term" : "Kläder\/Mode"
+	},
+	{
+		"term" : "Klättring, instruktör"
+	},
+	{
 		"term" : "Klövvårdskunskap"
 	},
 	{
@@ -7623,22 +7569,10 @@
 		"term" : "Kognitiv psykoterapi"
 	},
 	{
-		"term" : "Kognitiv terapi"
-	},
-	{
 		"term" : "Kokillgjutning"
 	},
 	{
 		"term" : "Kokontroll"
-	},
-	{
-		"term" : "Köksinredning"
-	},
-	{
-		"term" : "Köksvana, fartygserfarenhet"
-	},
-	{
-		"term" : "Köldmedieteknisk kurs"
 	},
 	{
 		"term" : "Kollektivavtal"
@@ -7683,10 +7617,10 @@
 		"term" : "Kommunikationsprotokoll, övervakning"
 	},
 	{
-		"term" : "Kommunikationsstörningar, behandling"
+		"term" : "Kommunikationsstrategi"
 	},
 	{
-		"term" : "Kommunikationsstrategi"
+		"term" : "Kommunikationsstörningar, behandling"
 	},
 	{
 		"term" : "Kompetensbevis, djurtransporter"
@@ -7726,6 +7660,9 @@
 	},
 	{
 		"term" : "Kompressionsteknik"
+	},
+	{
+		"term" : "Konceptuerande regi"
 	},
 	{
 		"term" : "Konceptutveckling"
@@ -7770,9 +7707,6 @@
 		"term" : "Konkursförvaltning"
 	},
 	{
-		"term" : "Könsbestämning, kycklingar"
-	},
-	{
 		"term" : "Konsekutivtolkning"
 	},
 	{
@@ -7782,19 +7716,16 @@
 		"term" : "Konst"
 	},
 	{
-		"term" : "Konst- och föremålsfotografering"
-	},
-	{
 		"term" : "Konst, undervisning högskolenivå"
-	},
-	{
-		"term" : "Konståkning, instruktör\/tränare"
 	},
 	{
 		"term" : "Konstbedömning"
 	},
 	{
 		"term" : "Konstcykling"
+	},
+	{
+		"term" : "Konstfotografering\/Föremålsfotografering"
 	},
 	{
 		"term" : "Konstgjutning"
@@ -7824,6 +7755,9 @@
 		"term" : "Konstnärlig rådgivning\/Konstnärlig konsultation"
 	},
 	{
+		"term" : "Konstnärsmaterial\/Tavelramar"
+	},
+	{
 		"term" : "Konstpedagogik"
 	},
 	{
@@ -7845,10 +7779,13 @@
 		"term" : "Konststoppning"
 	},
 	{
+		"term" : "Konstvetenskap"
+	},
+	{
 		"term" : "Konstvärdering"
 	},
 	{
-		"term" : "Konstvetenskap"
+		"term" : "Konståkning, instruktör\/Konståkning, tränare"
 	},
 	{
 		"term" : "Konsumentekonomi"
@@ -7867,6 +7804,9 @@
 	},
 	{
 		"term" : "Konteringsvana"
+	},
+	{
+		"term" : "Kontorsartiklar"
 	},
 	{
 		"term" : "Kontorsflyttning"
@@ -7938,9 +7878,6 @@
 		"term" : "Kopplingsteknik, utland"
 	},
 	{
-		"term" : "Köprätt"
-	},
-	{
 		"term" : "Koreanskt kök"
 	},
 	{
@@ -7971,13 +7908,7 @@
 		"term" : "Korgmakeri"
 	},
 	{
-		"term" : "Körkunskap, travhästar"
-	},
-	{
 		"term" : "Korkvaruarbete"
-	},
-	{
-		"term" : "Körledning"
 	},
 	{
 		"term" : "Kornett"
@@ -7986,22 +7917,7 @@
 		"term" : "Kornett, undervisning musikskola"
 	},
 	{
-		"term" : "Körning av bestrykare"
-	},
-	{
-		"term" : "Körning av kalander"
-	},
-	{
-		"term" : "Körning av kartongmaskin"
-	},
-	{
-		"term" : "Körning av pappersmaskin"
-	},
-	{
 		"term" : "Korrekturläsning"
-	},
-	{
-		"term" : "Körsång"
 	},
 	{
 		"term" : "Korsordsredigering"
@@ -8019,10 +7935,10 @@
 		"term" : "Kosmologi"
 	},
 	{
-		"term" : "Kost- och näringsrådgivning"
+		"term" : "Kost- och nutritionsbehandling"
 	},
 	{
-		"term" : "Kost- och nutritionsbehandling"
+		"term" : "Kost- och näringsrådgivning"
 	},
 	{
 		"term" : "Kostekonomexamen"
@@ -8046,7 +7962,7 @@
 		"term" : "Kostrådgivning"
 	},
 	{
-		"term" : "Kostymer, film\/TV"
+		"term" : "Kostymer, film\/Kostymer, TV"
 	},
 	{
 		"term" : "Kostymer, teater"
@@ -8058,19 +7974,10 @@
 		"term" : "Kotlin, programmeringsspråk"
 	},
 	{
-		"term" : "Kött, fileteringsvana"
-	},
-	{
-		"term" : "Kött, styckningsvana"
-	},
-	{
 		"term" : "Kraftelektronik"
 	},
 	{
 		"term" : "Kraftförsörjning, omformarstationer"
-	},
-	{
-		"term" : "Kräftodling"
 	},
 	{
 		"term" : "Kraftsystemberäkningar"
@@ -8094,10 +8001,10 @@
 		"term" : "Kreditbedömning"
 	},
 	{
-		"term" : "Krediträtt"
+		"term" : "Kreditrisker"
 	},
 	{
-		"term" : "Kreditrisker"
+		"term" : "Krediträtt"
 	},
 	{
 		"term" : "Krematorieteknisk utbildning"
@@ -8172,7 +8079,10 @@
 		"term" : "Kryptoteknik"
 	},
 	{
-		"term" : "Kryssningsfartyg\/fjärrfart"
+		"term" : "Kryssningsfartyg\/Fjärrfart"
+	},
+	{
+		"term" : "Kräftodling"
 	},
 	{
 		"term" : "Kuggfräsning"
@@ -8202,7 +8112,7 @@
 		"term" : "Kultursociologi"
 	},
 	{
-		"term" : "Kulturverksamhet, samordnings- o planeringsvana"
+		"term" : "Kulturverksamhet, samordnings- och planeringsvana"
 	},
 	{
 		"term" : "Kulturvetenskap"
@@ -8211,7 +8121,7 @@
 		"term" : "Kundanalys"
 	},
 	{
-		"term" : "Kundresor\/customer journey"
+		"term" : "Kundresor\/Customer journey"
 	},
 	{
 		"term" : "Kundtjänst"
@@ -8244,10 +8154,10 @@
 		"term" : "Kvalitetsrevisor, utbildad"
 	},
 	{
-		"term" : "Kvalitetssäkring"
+		"term" : "Kvalitetssamordning"
 	},
 	{
-		"term" : "Kvalitetssamordning"
+		"term" : "Kvalitetssäkring"
 	},
 	{
 		"term" : "Kvalitetsutveckling, omsorg"
@@ -8262,10 +8172,10 @@
 		"term" : "Kvarnskötsel, kemisk industri"
 	},
 	{
-		"term" : "Kvartärgeologi (grus, sand, lösa avlagringar)"
+		"term" : "Kvartoverk"
 	},
 	{
-		"term" : "Kvartoverk"
+		"term" : "Kvartärgeologi (grus, sand, lösa avlagringar)"
 	},
 	{
 		"term" : "Kvinnojoursarbete"
@@ -8310,6 +8220,84 @@
 		"term" : "Kyrkorätt"
 	},
 	{
+		"term" : "Källsortering"
+	},
+	{
+		"term" : "Kännedom om hästars anatomi"
+	},
+	{
+		"term" : "Kärlkirurgi"
+	},
+	{
+		"term" : "Kärnavfallshantering"
+	},
+	{
+		"term" : "Kärnborrning"
+	},
+	{
+		"term" : "Kärnbränslehantering"
+	},
+	{
+		"term" : "Kärnfysik"
+	},
+	{
+		"term" : "Kärnkemi"
+	},
+	{
+		"term" : "Kärnkraftanläggning, underhåll"
+	},
+	{
+		"term" : "Kärnkraftsanering"
+	},
+	{
+		"term" : "Kärnkraftteknik"
+	},
+	{
+		"term" : "Kärntillverkning"
+	},
+	{
+		"term" : "Köksinredning"
+	},
+	{
+		"term" : "Köksvana, fartygserfarenhet"
+	},
+	{
+		"term" : "Köldmedieteknisk kurs"
+	},
+	{
+		"term" : "Könsbestämning, kycklingar"
+	},
+	{
+		"term" : "Köprätt"
+	},
+	{
+		"term" : "Körkunskap, travhästar"
+	},
+	{
+		"term" : "Körledning"
+	},
+	{
+		"term" : "Körning av bestrykare"
+	},
+	{
+		"term" : "Körning av kalander"
+	},
+	{
+		"term" : "Körning av kartongmaskin"
+	},
+	{
+		"term" : "Körning av pappersmaskin"
+	},
+	{
+		"term" : "Körsång"
+	},
+	{
+		"term" : "Kött, fileteringsvana"
+	},
+	{
+		"term" : "Kött, styckningsvana"
+	},
+	{
 		"term" : "Laboratorieanalyser"
 	},
 	{
@@ -8322,16 +8310,7 @@
 		"term" : "Lackbränning"
 	},
 	{
-		"term" : "Läder- och skinnsömnad"
-	},
-	{
-		"term" : "Lådtillverkning"
-	},
-	{
 		"term" : "Lagbaserfarenhet"
-	},
-	{
-		"term" : "Lägenhetsreparationer"
 	},
 	{
 		"term" : "Lagerhanteringsprogram"
@@ -8340,49 +8319,7 @@
 		"term" : "Lagerstyrning"
 	},
 	{
-		"term" : "Lågspänningsteknik"
-	},
-	{
-		"term" : "Lågstadielärarexamen"
-	},
-	{
-		"term" : "Lågtrycksgjutning"
-	},
-	{
-		"term" : "Läkarexamen"
-	},
-	{
-		"term" : "Läkarintyg för sjöfolk"
-	},
-	{
-		"term" : "Läkarsekreterarutbildning"
-	},
-	{
-		"term" : "Läkemedel och sjukvårdsprodukter"
-	},
-	{
-		"term" : "Läkemedelsindustri"
-	},
-	{
-		"term" : "Läkemedelsinformation"
-	},
-	{
-		"term" : "Läkemedelskemi"
-	},
-	{
-		"term" : "Läkemedelskontroll"
-	},
-	{
-		"term" : "Läkemedelsrådgivning"
-	},
-	{
-		"term" : "Läkemedelssanering"
-	},
-	{
-		"term" : "Läkemedelsteknik"
-	},
-	{
-		"term" : "Läkemedelsutveckling"
+		"term" : "Lajvpedagogik"
 	},
 	{
 		"term" : "Laminatgolv"
@@ -8403,10 +8340,7 @@
 		"term" : "LAN"
 	},
 	{
-		"term" : "Länderbevakning"
-	},
-	{
-		"term" : "Landhockey, instruktör\/tränare"
+		"term" : "Landhockey, instruktör\/Landhockey, tränare"
 	},
 	{
 		"term" : "Landningsställ, underhåll"
@@ -8427,18 +8361,6 @@
 		"term" : "Landstingskommunal förvaltning"
 	},
 	{
-		"term" : "Låneexpediering"
-	},
-	{
-		"term" : "Längdskidåkning, instruktör\/tränare"
-	},
-	{
-		"term" : "Långhårsteknik"
-	},
-	{
-		"term" : "Länsveterinärverksamhet"
-	},
-	{
 		"term" : "Lantbrevbäring"
 	},
 	{
@@ -8457,58 +8379,13 @@
 		"term" : "Lantmäteriteknik"
 	},
 	{
-		"term" : "Läppning"
-	},
-	{
 		"term" : "LAR\/MSA"
-	},
-	{
-		"term" : "Lärarexamen"
-	},
-	{
-		"term" : "Lärarexamen inr senare år"
-	},
-	{
-		"term" : "Lärarexamen inr tidigare år"
-	},
-	{
-		"term" : "Lärarexamen mot fritidshem"
-	},
-	{
-		"term" : "Lärarexamen, grundskolans senare år och gymnasieskolan"
-	},
-	{
-		"term" : "Lärarexamen-förskola och grundskolans tidigare år"
-	},
-	{
-		"term" : "Lärarexamen-förskola, förskoleklass tidigare år"
-	},
-	{
-		"term" : "Lärarexamen-förskola, förskoleklass, fritidshem"
-	},
-	{
-		"term" : "Lärarexamen-förskola, fritidshem, grundskolans tidigare år"
-	},
-	{
-		"term" : "Lärarexamen-fritidshem, grundskolans tidigare år"
-	},
-	{
-		"term" : "Lärarlegitimation"
-	},
-	{
-		"term" : "Larm- och säkerhetsprodukter"
 	},
 	{
 		"term" : "Larminstallation"
 	},
 	{
-		"term" : "Läromedel"
-	},
-	{
-		"term" : "Lås- och säkerhetssystem"
-	},
-	{
-		"term" : "Läs- och skrivsvårigheter\/dyslexi"
+		"term" : "Larmprodukter\/Säkerhetsprodukter"
 	},
 	{
 		"term" : "Laserfysik"
@@ -8518,12 +8395,6 @@
 	},
 	{
 		"term" : "Lasersvetsning"
-	},
-	{
-		"term" : "Låsmontering i dörr"
-	},
-	{
-		"term" : "Låssmide"
 	},
 	{
 		"term" : "Lastbilar, produktkunskap"
@@ -8559,9 +8430,6 @@
 		"term" : "Latinamerikansk dans, undervisning"
 	},
 	{
-		"term" : "Lättmatros (behörighet)"
-	},
-	{
 		"term" : "Layout"
 	},
 	{
@@ -8580,13 +8448,7 @@
 		"term" : "Layout-QuarkXpress"
 	},
 	{
-		"term" : "LCC (Life Cycle Cost)"
-	},
-	{
 		"term" : "LD-process"
-	},
-	{
-		"term" : "Lean\/Ständiga förbättringar"
 	},
 	{
 		"term" : "Ledarskapsutveckling"
@@ -8631,10 +8493,10 @@
 		"term" : "Legitimation som kiropraktor"
 	},
 	{
-		"term" : "Legitimation som läkare"
+		"term" : "Legitimation som logoped"
 	},
 	{
-		"term" : "Legitimation som logoped"
+		"term" : "Legitimation som läkare"
 	},
 	{
 		"term" : "Legitimation som naprapat"
@@ -8713,6 +8575,9 @@
 	},
 	{
 		"term" : "Liedersång"
+	},
+	{
+		"term" : "Life Cycle Cost\/LCC"
 	},
 	{
 		"term" : "Liftkörning efter husvägg"
@@ -8841,9 +8706,6 @@
 		"term" : "Ljud- och vibrationsteknik"
 	},
 	{
-		"term" : "Ljud-\/videoredigeringsprogram, undervisning"
-	},
-	{
 		"term" : "Ljud-Apple Logic Pro"
 	},
 	{
@@ -8853,10 +8715,10 @@
 		"term" : "Ljud-Audition"
 	},
 	{
-		"term" : "Ljudböcker"
+		"term" : "Ljudboksinläsning"
 	},
 	{
-		"term" : "Ljudboksinläsning"
+		"term" : "Ljudböcker"
 	},
 	{
 		"term" : "Ljuddesign"
@@ -8872,6 +8734,9 @@
 	},
 	{
 		"term" : "Ljudredigering"
+	},
+	{
+		"term" : "Ljudredigeringsprogram, undervisning\/Videoredigeringsprogram, undervisning"
 	},
 	{
 		"term" : "Ljud-Sonar"
@@ -8913,9 +8778,6 @@
 		"term" : "Ljudteknik, TV-produktion"
 	},
 	{
-		"term" : "Ljudteknik, videoproduktion"
-	},
-	{
 		"term" : "Ljusbordsprogrammering"
 	},
 	{
@@ -8937,13 +8799,7 @@
 		"term" : "Ljussättning, TV-produktion"
 	},
 	{
-		"term" : "Ljussättning, videoproduktion"
-	},
-	{
 		"term" : "Local Interconnect Network, LIN"
-	},
-	{
-		"term" : "Lödcertifikat"
 	},
 	{
 		"term" : "Lodgistix, hotellbokningssystem"
@@ -8967,37 +8823,7 @@
 		"term" : "Lokförarbevis"
 	},
 	{
-		"term" : "Löneadministration"
-	},
-	{
-		"term" : "Löneförhandlingar"
-	},
-	{
-		"term" : "Lönerevision"
-	},
-	{
-		"term" : "Lönestatistik"
-	},
-	{
-		"term" : "Lönesystem"
-	},
-	{
-		"term" : "Long beam (byte skärhuvud, skärhjul etc.)"
-	},
-	{
-		"term" : "Lönsamhetsberäkningar"
-	},
-	{
-		"term" : "Lös mask"
-	},
-	{
-		"term" : "Lösningsfokuserat arbetssätt"
-	},
-	{
-		"term" : "Lösningsmedel"
-	},
-	{
-		"term" : "Lösvirke"
+		"term" : "Long beam (byte skärhuvud, skärhjul)"
 	},
 	{
 		"term" : "Lotsning"
@@ -9057,6 +8883,162 @@
 		"term" : "Lysrörsproduktion"
 	},
 	{
+		"term" : "Lådtillverkning"
+	},
+	{
+		"term" : "Lågspänningsteknik"
+	},
+	{
+		"term" : "Lågstadielärarexamen"
+	},
+	{
+		"term" : "Lågtrycksgjutning"
+	},
+	{
+		"term" : "Låneexpediering"
+	},
+	{
+		"term" : "Långhårsteknik"
+	},
+	{
+		"term" : "Lås- och säkerhetssystem"
+	},
+	{
+		"term" : "Låsmontering i dörr"
+	},
+	{
+		"term" : "Låssmide"
+	},
+	{
+		"term" : "Läder- och skinnsömnad"
+	},
+	{
+		"term" : "Lägenhetsreparationer"
+	},
+	{
+		"term" : "Läkarexamen"
+	},
+	{
+		"term" : "Läkarintyg för sjöfolk"
+	},
+	{
+		"term" : "Läkarsekreterarutbildning"
+	},
+	{
+		"term" : "Läkemedel\/Sjukvårdsprodukter"
+	},
+	{
+		"term" : "Läkemedelsindustri"
+	},
+	{
+		"term" : "Läkemedelsinformation"
+	},
+	{
+		"term" : "Läkemedelskemi"
+	},
+	{
+		"term" : "Läkemedelskontroll"
+	},
+	{
+		"term" : "Läkemedelsrådgivning"
+	},
+	{
+		"term" : "Läkemedelssanering"
+	},
+	{
+		"term" : "Läkemedelsteknik"
+	},
+	{
+		"term" : "Läkemedelsutveckling"
+	},
+	{
+		"term" : "Länderbevakning"
+	},
+	{
+		"term" : "Längdskidåkning, instruktör\/Längdskidåkning, tränare"
+	},
+	{
+		"term" : "Länsveterinärverksamhet"
+	},
+	{
+		"term" : "Läppning"
+	},
+	{
+		"term" : "Lärarexamen"
+	},
+	{
+		"term" : "Lärarexamen inr senare år"
+	},
+	{
+		"term" : "Lärarexamen inr tidigare år"
+	},
+	{
+		"term" : "Lärarexamen mot fritidshem"
+	},
+	{
+		"term" : "Lärarexamen, grundskolans senare år och gymnasieskolan"
+	},
+	{
+		"term" : "Lärarexamen-fritidshem, grundskolans tidigare år"
+	},
+	{
+		"term" : "Lärarexamen-förskola och grundskolans tidigare år"
+	},
+	{
+		"term" : "Lärarexamen-förskola, fritidshem, grundskolans tidigare år"
+	},
+	{
+		"term" : "Lärarexamen-förskola, förskoleklass tidigare år"
+	},
+	{
+		"term" : "Lärarexamen-förskola, förskoleklass, fritidshem"
+	},
+	{
+		"term" : "Lärarlegitimation"
+	},
+	{
+		"term" : "Läromedel"
+	},
+	{
+		"term" : "Läs- och skrivsvårigheter, behandling\/Dyslexi, behandling"
+	},
+	{
+		"term" : "Lättmatros (behörighet)"
+	},
+	{
+		"term" : "Lödcertifikat"
+	},
+	{
+		"term" : "Löneadministration"
+	},
+	{
+		"term" : "Löneförhandlingar"
+	},
+	{
+		"term" : "Lönerevision"
+	},
+	{
+		"term" : "Lönestatistik"
+	},
+	{
+		"term" : "Lönesystem"
+	},
+	{
+		"term" : "Lönsamhetsberäkningar"
+	},
+	{
+		"term" : "Lös mask"
+	},
+	{
+		"term" : "Lösningsfokuserat arbetssätt"
+	},
+	{
+		"term" : "Lösningsmedel"
+	},
+	{
+		"term" : "Lösvirke"
+	},
+	{
 		"term" : "Mac OS X, operativsystem"
 	},
 	{
@@ -9075,6 +9057,9 @@
 		"term" : "Magenta, redovisningssystem"
 	},
 	{
+		"term" : "Magnetisk resonanstomografi\/MRT"
+	},
+	{
 		"term" : "Magnetkontroll av metallprodukter"
 	},
 	{
@@ -9090,21 +9075,6 @@
 		"term" : "Makroekonomi"
 	},
 	{
-		"term" : "Mäldberedning"
-	},
-	{
-		"term" : "Måleri"
-	},
-	{
-		"term" : "Måleri, konstkonservering"
-	},
-	{
-		"term" : "Måleriarbete, bygg"
-	},
-	{
-		"term" : "Målning av byggnadsplåt"
-	},
-	{
 		"term" : "Malning av malm"
 	},
 	{
@@ -9117,10 +9087,7 @@
 		"term" : "MAN"
 	},
 	{
-		"term" : "Månadsrapporter"
-	},
-	{
-		"term" : "Management\/organisation"
+		"term" : "Management, organisation"
 	},
 	{
 		"term" : "Mandolin"
@@ -9129,22 +9096,7 @@
 		"term" : "Mandolin, undervisning musikskola"
 	},
 	{
-		"term" : "Mängberedning"
-	},
-	{
-		"term" : "Mängdantagning"
-	},
-	{
-		"term" : "Mångkulturell förskola\/skola, erfarenhet"
-	},
-	{
 		"term" : "Mangling"
-	},
-	{
-		"term" : "Människa-datorinteraktion, MDI"
-	},
-	{
-		"term" : "Mänskliga rättigheter, områdeskunskap"
 	},
 	{
 		"term" : "Mansroll"
@@ -9154,6 +9106,15 @@
 	},
 	{
 		"term" : "Manus"
+	},
+	{
+		"term" : "Manusprogram-Celtx"
+	},
+	{
+		"term" : "Manusprogram-Final Draft"
+	},
+	{
+		"term" : "Manusprogram-Screenwriter"
 	},
 	{
 		"term" : "Mapics, affärssystem"
@@ -9231,10 +9192,10 @@
 		"term" : "Marknadsrätt"
 	},
 	{
-		"term" : "Marknadsundersökningar, resultatanalys"
+		"term" : "Marknadsundersökningar, statistisk analys"
 	},
 	{
-		"term" : "Marknadsundersökningar, statistisk analys"
+		"term" : "Marknadsundersökningar\/Resultatanalys"
 	},
 	{
 		"term" : "Markprojektering"
@@ -9255,10 +9216,10 @@
 		"term" : "Marvin, hänvisningssystem"
 	},
 	{
-		"term" : "Mask- och perukdesign"
+		"term" : "Maskdesign\/Perukdesign"
 	},
 	{
-		"term" : "Masker (tillverka och spela med masker)"
+		"term" : "Masker, tillverkning\/Masker, spelning med"
 	},
 	{
 		"term" : "Maskinbefäl klass II (behörighet)"
@@ -9291,7 +9252,7 @@
 		"term" : "Maskinbokbindning"
 	},
 	{
-		"term" : "Maskinelektronik, felsöknings- o reparationsvana"
+		"term" : "Maskinelektronik, felsökningsvana\/Maskinelektronik, reparationsvana"
 	},
 	{
 		"term" : "Maskinelement"
@@ -9315,10 +9276,10 @@
 		"term" : "Maskinkonstruktion"
 	},
 	{
-		"term" : "Maskinkörkort, träindustrin"
+		"term" : "Maskinkunskaper, fartyg"
 	},
 	{
-		"term" : "Maskinkunskaper, fartyg"
+		"term" : "Maskinkörkort, träindustrin"
 	},
 	{
 		"term" : "Maskinmontage"
@@ -9327,7 +9288,7 @@
 		"term" : "Maskinskötsel, glasindustri"
 	},
 	{
-		"term" : "Maskinskötsel, grafisk o. pappervaruindustri"
+		"term" : "Maskinskötsel, grafisk industri\/Maskinskötsel, pappervaruindustri"
 	},
 	{
 		"term" : "Maskinskötsel, gummi- och plastindustri"
@@ -9351,7 +9312,7 @@
 		"term" : "Maskinskötsel, skinn- och läderindustri"
 	},
 	{
-		"term" : "Maskinskötsel, stål- och metallverk"
+		"term" : "Maskinskötsel, stålverk\/Maskinskötsel, metallverk"
 	},
 	{
 		"term" : "Maskinskötsel, tobaksindustri"
@@ -9384,211 +9345,10 @@
 		"term" : "Massakokning"
 	},
 	{
-		"term" : "Mässdekoration"
-	},
-	{
-		"term" : "Mässförsäljning"
-	},
-	{
-		"term" : "Mästarbrev, bagare och konditor"
-	},
-	{
-		"term" : "Mästarbrev, båtbyggare"
-	},
-	{
-		"term" : "Mästarbrev, billackerare"
-	},
-	{
-		"term" : "Mästarbrev, bilsadelmakare"
-	},
-	{
-		"term" : "Mästarbrev, biodlare"
-	},
-	{
-		"term" : "Mästarbrev, bokbindare"
-	},
-	{
-		"term" : "Mästarbrev, broderi\/konstbroderi"
-	},
-	{
-		"term" : "Mästarbrev, byggnadsplåtslagare"
-	},
-	{
-		"term" : "Mästarbrev, charkuterist"
-	},
-	{
-		"term" : "Mästarbrev, dekopör (intarsia – möbelsnickeri)"
-	},
-	{
-		"term" : "Mästarbrev, duodji"
-	},
-	{
-		"term" : "Mästarbrev, florist"
-	},
-	{
-		"term" : "Mästarbrev, fotograf"
-	},
-	{
-		"term" : "Mästarbrev, frisör"
-	},
-	{
-		"term" : "Mästarbrev, gardinmakare"
-	},
-	{
-		"term" : "Mästarbrev, gjutare"
-	},
-	{
-		"term" : "Mästarbrev, glashantverksyrken"
-	},
-	{
-		"term" : "Mästarbrev, glasmästare"
-	},
-	{
-		"term" : "Mästarbrev, glasmästaryrket"
-	},
-	{
-		"term" : "Mästarbrev, golvläggaryrket"
-	},
-	{
-		"term" : "Mästarbrev, gravör (blankstick\/silver\/skylt-stans och stämpelgravör)"
-	},
-	{
-		"term" : "Mästarbrev, guldsmed"
-	},
-	{
-		"term" : "Mästarbrev, handskmakare"
-	},
-	{
-		"term" : "Mästarbrev, handvävare"
-	},
-	{
-		"term" : "Mästarbrev, hattmakare"
-	},
-	{
-		"term" : "Mästarbrev, hudterapeut"
-	},
-	{
-		"term" : "Mästarbrev, inredningssadelmakare"
-	},
-	{
-		"term" : "Mästarbrev, installatör - inbrottslarm"
-	},
-	{
-		"term" : "Mästarbrev, juvelfattare"
-	},
-	{
-		"term" : "Mästarbrev, kakelugnsmakare"
-	},
-	{
-		"term" : "Mästarbrev, kock"
-	},
-	{
-		"term" : "Mästarbrev, konstgjutare"
-	},
-	{
-		"term" : "Mästarbrev, köttyrket i detaljhandeln\/köttmästare"
-	},
-	{
-		"term" : "Mästarbrev, krukmakare"
-	},
-	{
-		"term" : "Mästarbrev, låssmed"
-	},
-	{
-		"term" : "Mästarbrev, make-up artist"
-	},
-	{
-		"term" : "Mästarbrev, målare"
-	},
-	{
-		"term" : "Mästarbrev, möbelrenoverare"
-	},
-	{
-		"term" : "Mästarbrev, möbelsnickare"
-	},
-	{
-		"term" : "Mästarbrev, modist"
-	},
-	{
-		"term" : "Mästarbrev, mur och puts"
-	},
-	{
-		"term" : "Mästarbrev, oljeeldningsinstallatör"
-	},
-	{
-		"term" : "Mästarbrev, pälssömmare"
-	},
-	{
-		"term" : "Mästarbrev, pianotekniker"
-	},
-	{
-		"term" : "Mästarbrev, riggare"
-	},
-	{
-		"term" : "Mästarbrev, rörinstallatör"
-	},
-	{
-		"term" : "Mästarbrev, sadelmakare"
-	},
-	{
-		"term" : "Mästarbrev, silversmed"
-	},
-	{
-		"term" : "Mästarbrev, skomakare (beställning\/nytillverkning)"
-	},
-	{
-		"term" : "Mästarbrev, skomakare (ortoped)"
-	},
-	{
-		"term" : "Mästarbrev, skomakare (reparation)"
-	},
-	{
-		"term" : "Mästarbrev, skorstensfejare"
-	},
-	{
-		"term" : "Mästarbrev, skräddare"
-	},
-	{
-		"term" : "Mästarbrev, slöjdaryrket - trä"
-	},
-	{
-		"term" : "Mästarbrev, smides-\/konstsmidesyrket"
-	},
-	{
-		"term" : "Mästarbrev, stenhuggare"
-	},
-	{
-		"term" : "Mästarbrev, stickningsyrket"
-	},
-	{
-		"term" : "Mästarbrev, tapetserare"
-	},
-	{
-		"term" : "Mästarbrev, timrare"
-	},
-	{
-		"term" : "Mästarbrev, träbildhuggare"
-	},
-	{
-		"term" : "Mästarbrev, trädgårdsanläggare"
-	},
-	{
-		"term" : "Mästarbrev, urmakare"
-	},
-	{
-		"term" : "Mästarbrev, väskmakare"
-	},
-	{
-		"term" : "Mästarbrev, violinbyggare"
-	},
-	{
 		"term" : "MasterCAM, tillverkningsprogram"
 	},
 	{
-		"term" : "Mätaravläsning"
-	},
-	{
-		"term" : "Mätarmontering"
+		"term" : "Masterdata"
 	},
 	{
 		"term" : "Matbröd"
@@ -9600,16 +9360,16 @@
 		"term" : "Matematik, undervisning gymnasienivå"
 	},
 	{
-		"term" : "Matematiksvårigheter\/dyskalkyli, specialpedagogik"
+		"term" : "Matematiksvårigheter, specialpedagogik\/Dyskalkyli, specialpedagogik"
 	},
 	{
-		"term" : "Matematisk fysik (teoretisk fysik)"
+		"term" : "Matematisk fysik\/Teoretisk fysik"
 	},
 	{
 		"term" : "Matematisk statistik"
 	},
 	{
-		"term" : "Materialadministration, MA"
+		"term" : "Materialadministration\/MA"
 	},
 	{
 		"term" : "Materialflöde"
@@ -9633,9 +9393,6 @@
 		"term" : "Matjournalistik"
 	},
 	{
-		"term" : "MATLAB (tekniska beräkningar)"
-	},
-	{
 		"term" : "Matlagning, cirkelledning"
 	},
 	{
@@ -9648,40 +9405,10 @@
 		"term" : "Matsedelsplanering"
 	},
 	{
-		"term" : "Mätteknik"
-	},
-	{
 		"term" : "Mattläggning"
 	},
 	{
 		"term" : "Mattvätt"
-	},
-	{
-		"term" : "MCAD (Microsoft Certified Application Developer)"
-	},
-	{
-		"term" : "MCC Multicrew Cooperation"
-	},
-	{
-		"term" : "MCDBA (Microsoft Certified Database Administrator)"
-	},
-	{
-		"term" : "MCP (Microsoft Certified Professional)"
-	},
-	{
-		"term" : "MCP + I (Microsoft Certified Professional + Internet)"
-	},
-	{
-		"term" : "MCSD (Microsoft Certified Solution Developer)"
-	},
-	{
-		"term" : "MCSE (Microsoft Certified System Engineer)"
-	},
-	{
-		"term" : "MCSE + I (Microsoft Certified System Engineer + Internet)"
-	},
-	{
-		"term" : "MCT (Microsoft Certified Trainer)"
 	},
 	{
 		"term" : "MD 110, telefonväxel"
@@ -9711,7 +9438,7 @@
 		"term" : "Medicinsk elektronik"
 	},
 	{
-		"term" : "Medicinsk fotvård (ex. vid diabetes)"
+		"term" : "Medicinsk fotvård"
 	},
 	{
 		"term" : "Medicinsk fysik"
@@ -9801,6 +9528,9 @@
 		"term" : "Mental träning"
 	},
 	{
+		"term" : "Mentaliseringsbaserad terapi\/MBT"
+	},
+	{
 		"term" : "Meridian, telefonväxel"
 	},
 	{
@@ -9822,10 +9552,10 @@
 		"term" : "Metallpolering"
 	},
 	{
-		"term" : "Metallsågning"
+		"term" : "Metallskulptur"
 	},
 	{
-		"term" : "Metallskulptur"
+		"term" : "Metallsågning"
 	},
 	{
 		"term" : "Metalltryckning"
@@ -9862,6 +9592,30 @@
 	},
 	{
 		"term" : "Microsoft Biztalk, integrationsplattform"
+	},
+	{
+		"term" : "Microsoft Certified Application Developer\/MCAD"
+	},
+	{
+		"term" : "Microsoft Certified Database Administrator\/MCDBA"
+	},
+	{
+		"term" : "Microsoft Certified Professional + Internet\/MCP + I"
+	},
+	{
+		"term" : "Microsoft Certified Professional\/MCP"
+	},
+	{
+		"term" : "Microsoft Certified Solution Developer\/MCSD"
+	},
+	{
+		"term" : "Microsoft Certified System Engineer + Internet\/MCSE + I"
+	},
+	{
+		"term" : "Microsoft Certified System Engineer\/MCSE"
+	},
+	{
+		"term" : "Microsoft Certified Trainer\/MCT"
 	},
 	{
 		"term" : "Microsoft Dynamics AX, affärssystem"
@@ -9906,7 +9660,7 @@
 		"term" : "Militär vädertjänst"
 	},
 	{
-		"term" : "Militäridrott och mångkamp, instruktör\/tränare"
+		"term" : "Militäridrott och mångkamp, instruktör\/Militäridrott och mångkamp, tränare"
 	},
 	{
 		"term" : "Militärmusik"
@@ -9951,10 +9705,10 @@
 		"term" : "Miljörapportering"
 	},
 	{
-		"term" : "Miljörätt"
+		"term" : "Miljörevision"
 	},
 	{
-		"term" : "Miljörevision"
+		"term" : "Miljörätt"
 	},
 	{
 		"term" : "Miljöskydd"
@@ -9969,13 +9723,13 @@
 		"term" : "Miljöutbildning"
 	},
 	{
+		"term" : "Miljövetenskap"
+	},
+	{
 		"term" : "Miljövård"
 	},
 	{
 		"term" : "Miljövård, cirkelledning"
-	},
-	{
-		"term" : "Miljövetenskap"
 	},
 	{
 		"term" : "Mindre arbetsmaskiner, reparationsvana"
@@ -10020,18 +9774,6 @@
 		"term" : "Mixning"
 	},
 	{
-		"term" : "Mjölkbehandling"
-	},
-	{
-		"term" : "Mjölkkontroll"
-	},
-	{
-		"term" : "Mjölkmottagning"
-	},
-	{
-		"term" : "Mjölkproduktion"
-	},
-	{
 		"term" : "Mjuklödning"
 	},
 	{
@@ -10044,37 +9786,22 @@
 		"term" : "Mjukvaruutveckling"
 	},
 	{
+		"term" : "Mjölkbehandling"
+	},
+	{
+		"term" : "Mjölkkontroll"
+	},
+	{
+		"term" : "Mjölkmottagning"
+	},
+	{
+		"term" : "Mjölkproduktion"
+	},
+	{
 		"term" : "ML, programmeringsspråk"
 	},
 	{
 		"term" : "MMA, Metallbågsvetsning (pinne)"
-	},
-	{
-		"term" : "Möbeldesign"
-	},
-	{
-		"term" : "Möbelkonservering"
-	},
-	{
-		"term" : "Möbelmontering"
-	},
-	{
-		"term" : "Möbelrengöring"
-	},
-	{
-		"term" : "Möbelrenovering"
-	},
-	{
-		"term" : "Möbelsnickeri"
-	},
-	{
-		"term" : "Möbelstoppning"
-	},
-	{
-		"term" : "Möbeltapetsering, cirkelledning"
-	},
-	{
-		"term" : "Möbelvärdering"
 	},
 	{
 		"term" : "Mobil, konstnärlig"
@@ -10101,25 +9828,22 @@
 		"term" : "Mobitex (system för kommunikation)"
 	},
 	{
-		"term" : "Möbler"
-	},
-	{
 		"term" : "Mockaslipning"
 	},
 	{
-		"term" : "Mode\/design, accessoarer"
+		"term" : "Mode, accessoarer\/Design, accessoarer"
 	},
 	{
-		"term" : "Mode\/design, barnkonfektion"
+		"term" : "Mode, barnkonfektion\/Design, barnkonfektion"
 	},
 	{
-		"term" : "Mode\/design, damkonfektion"
+		"term" : "Mode, damkonfektion\/Design, damkonfektion"
 	},
 	{
-		"term" : "Mode\/design, herrkonfektion"
+		"term" : "Mode, herrkonfektion\/Design, herrkonfektion"
 	},
 	{
-		"term" : "Mode\/design, skor och väskor"
+		"term" : "Mode, skor och väskor\/Design, skor och väskor"
 	},
 	{
 		"term" : "Modefotografering"
@@ -10137,7 +9861,7 @@
 		"term" : "Modellbygge"
 	},
 	{
-		"term" : "Modellering, keramik\/porslin"
+		"term" : "Modellering, keramik\/Modellering, porslin"
 	},
 	{
 		"term" : "Modellgjutning"
@@ -10179,9 +9903,6 @@
 		"term" : "Modevisning, mannekängvana"
 	},
 	{
-		"term" : "Mögelsanering"
-	},
-	{
 		"term" : "Molekylärbiologi"
 	},
 	{
@@ -10192,24 +9913,6 @@
 	},
 	{
 		"term" : "Mono, programmeringsverktyg"
-	},
-	{
-		"term" : "Mönsterkonstruktion"
-	},
-	{
-		"term" : "Mönsterkonstruktion-Gerber"
-	},
-	{
-		"term" : "Mönsterkonstruktion-Lectra Modaris"
-	},
-	{
-		"term" : "Mönsterkortskonstruktion"
-	},
-	{
-		"term" : "Mönsterläggning"
-	},
-	{
-		"term" : "Mönsterrätt"
 	},
 	{
 		"term" : "Montageledning"
@@ -10237,9 +9940,6 @@
 	},
 	{
 		"term" : "Mopedmotorer, reparationsvana"
-	},
-	{
-		"term" : "Mörkrumsarbete"
 	},
 	{
 		"term" : "Morse"
@@ -10290,7 +9990,7 @@
 		"term" : "Motormontering"
 	},
 	{
-		"term" : "Motorsport, instruktör\/tränare"
+		"term" : "Motorsport, instruktör\/Motorsport, tränare"
 	},
 	{
 		"term" : "Motorsport, professionell utövning"
@@ -10302,6 +10002,9 @@
 		"term" : "Movex, affärssystem"
 	},
 	{
+		"term" : "Movie Magic"
+	},
+	{
 		"term" : "MovieMagic, budget- och schemaläggningsprogram"
 	},
 	{
@@ -10309,9 +10012,6 @@
 	},
 	{
 		"term" : "MPS, material- och produktionsstyrning"
-	},
-	{
-		"term" : "MRT, magnetisk resonanstomografi"
 	},
 	{
 		"term" : "MS Access"
@@ -10354,6 +10054,9 @@
 	},
 	{
 		"term" : "Mudderverk"
+	},
+	{
+		"term" : "Multicrew Cooperation\/MCC"
 	},
 	{
 		"term" : "Multimediajournalistik"
@@ -10455,6 +10158,300 @@
 		"term" : "MySQL, databashanterare"
 	},
 	{
+		"term" : "Måleri"
+	},
+	{
+		"term" : "Måleri, konstkonservering"
+	},
+	{
+		"term" : "Måleriarbete, bygg"
+	},
+	{
+		"term" : "Målning av byggnadsplåt"
+	},
+	{
+		"term" : "Månadsrapporter"
+	},
+	{
+		"term" : "Mångkulturell förskola, erfarenhet\/Mångkulturell skola, erfarenhet"
+	},
+	{
+		"term" : "Mäldberedning"
+	},
+	{
+		"term" : "Mängberedning"
+	},
+	{
+		"term" : "Mängdantagning"
+	},
+	{
+		"term" : "Människa-datorinteraktion\/MDI"
+	},
+	{
+		"term" : "Mänskliga rättigheter, områdeskunskap"
+	},
+	{
+		"term" : "Mässdekoration"
+	},
+	{
+		"term" : "Mässförsäljning"
+	},
+	{
+		"term" : "Mästarbrev, bagare och konditor"
+	},
+	{
+		"term" : "Mästarbrev, billackerare"
+	},
+	{
+		"term" : "Mästarbrev, bilsadelmakare"
+	},
+	{
+		"term" : "Mästarbrev, biodlare"
+	},
+	{
+		"term" : "Mästarbrev, bokbindare"
+	},
+	{
+		"term" : "Mästarbrev, broderi\/konstbroderi"
+	},
+	{
+		"term" : "Mästarbrev, byggnadsplåtslagare"
+	},
+	{
+		"term" : "Mästarbrev, båtbyggare"
+	},
+	{
+		"term" : "Mästarbrev, charkuterist"
+	},
+	{
+		"term" : "Mästarbrev, dekopör (intarsia – möbelsnickeri)"
+	},
+	{
+		"term" : "Mästarbrev, duodji"
+	},
+	{
+		"term" : "Mästarbrev, florist"
+	},
+	{
+		"term" : "Mästarbrev, fotograf"
+	},
+	{
+		"term" : "Mästarbrev, frisör"
+	},
+	{
+		"term" : "Mästarbrev, gardinmakare"
+	},
+	{
+		"term" : "Mästarbrev, gjutare"
+	},
+	{
+		"term" : "Mästarbrev, glashantverksyrken"
+	},
+	{
+		"term" : "Mästarbrev, glasmästare"
+	},
+	{
+		"term" : "Mästarbrev, glasmästaryrket"
+	},
+	{
+		"term" : "Mästarbrev, golvläggaryrket"
+	},
+	{
+		"term" : "Mästarbrev, gravör (blankstick\/silver\/skylt-stans och stämpelgravör)"
+	},
+	{
+		"term" : "Mästarbrev, guldsmed"
+	},
+	{
+		"term" : "Mästarbrev, handskmakare"
+	},
+	{
+		"term" : "Mästarbrev, handvävare"
+	},
+	{
+		"term" : "Mästarbrev, hattmakare"
+	},
+	{
+		"term" : "Mästarbrev, hudterapeut"
+	},
+	{
+		"term" : "Mästarbrev, inredningssadelmakare"
+	},
+	{
+		"term" : "Mästarbrev, installatör - inbrottslarm"
+	},
+	{
+		"term" : "Mästarbrev, juvelfattare"
+	},
+	{
+		"term" : "Mästarbrev, kakelugnsmakare"
+	},
+	{
+		"term" : "Mästarbrev, kock"
+	},
+	{
+		"term" : "Mästarbrev, konstgjutare"
+	},
+	{
+		"term" : "Mästarbrev, krukmakare"
+	},
+	{
+		"term" : "Mästarbrev, köttyrket i detaljhandeln\/köttmästare"
+	},
+	{
+		"term" : "Mästarbrev, låssmed"
+	},
+	{
+		"term" : "Mästarbrev, make-up artist"
+	},
+	{
+		"term" : "Mästarbrev, modist"
+	},
+	{
+		"term" : "Mästarbrev, mur och puts"
+	},
+	{
+		"term" : "Mästarbrev, målare"
+	},
+	{
+		"term" : "Mästarbrev, möbelrenoverare"
+	},
+	{
+		"term" : "Mästarbrev, möbelsnickare"
+	},
+	{
+		"term" : "Mästarbrev, oljeeldningsinstallatör"
+	},
+	{
+		"term" : "Mästarbrev, pianotekniker"
+	},
+	{
+		"term" : "Mästarbrev, pälssömmare"
+	},
+	{
+		"term" : "Mästarbrev, riggare"
+	},
+	{
+		"term" : "Mästarbrev, rörinstallatör"
+	},
+	{
+		"term" : "Mästarbrev, sadelmakare"
+	},
+	{
+		"term" : "Mästarbrev, silversmed"
+	},
+	{
+		"term" : "Mästarbrev, skomakare (beställning\/nytillverkning)"
+	},
+	{
+		"term" : "Mästarbrev, skomakare (ortoped)"
+	},
+	{
+		"term" : "Mästarbrev, skomakare (reparation)"
+	},
+	{
+		"term" : "Mästarbrev, skorstensfejare"
+	},
+	{
+		"term" : "Mästarbrev, skräddare"
+	},
+	{
+		"term" : "Mästarbrev, slöjdaryrket - trä"
+	},
+	{
+		"term" : "Mästarbrev, smides-\/konstsmidesyrket"
+	},
+	{
+		"term" : "Mästarbrev, stenhuggare"
+	},
+	{
+		"term" : "Mästarbrev, stickningsyrket"
+	},
+	{
+		"term" : "Mästarbrev, tapetserare"
+	},
+	{
+		"term" : "Mästarbrev, timrare"
+	},
+	{
+		"term" : "Mästarbrev, träbildhuggare"
+	},
+	{
+		"term" : "Mästarbrev, trädgårdsanläggare"
+	},
+	{
+		"term" : "Mästarbrev, urmakare"
+	},
+	{
+		"term" : "Mästarbrev, violinbyggare"
+	},
+	{
+		"term" : "Mästarbrev, väskmakare"
+	},
+	{
+		"term" : "Mätaravläsning"
+	},
+	{
+		"term" : "Mätarmontering"
+	},
+	{
+		"term" : "Mätteknik"
+	},
+	{
+		"term" : "Möbeldesign"
+	},
+	{
+		"term" : "Möbelkonservering"
+	},
+	{
+		"term" : "Möbelmontering"
+	},
+	{
+		"term" : "Möbelrengöring"
+	},
+	{
+		"term" : "Möbelrenovering"
+	},
+	{
+		"term" : "Möbelsnickeri"
+	},
+	{
+		"term" : "Möbelstoppning"
+	},
+	{
+		"term" : "Möbeltapetsering, cirkelledning"
+	},
+	{
+		"term" : "Möbelvärdering"
+	},
+	{
+		"term" : "Möbler"
+	},
+	{
+		"term" : "Mögelsanering"
+	},
+	{
+		"term" : "Mönsterkonstruktion"
+	},
+	{
+		"term" : "Mönsterkonstruktion-Gerber"
+	},
+	{
+		"term" : "Mönsterkonstruktion-Lectra Modaris"
+	},
+	{
+		"term" : "Mönsterkortskonstruktion"
+	},
+	{
+		"term" : "Mönsterläggning"
+	},
+	{
+		"term" : "Mönsterrätt"
+	},
+	{
+		"term" : "Mörkrumsarbete"
+	},
+	{
 		"term" : "Nagelförlängning"
 	},
 	{
@@ -10464,19 +10461,7 @@
 		"term" : "Naprapatexamen"
 	},
 	{
-		"term" : "Näringslivsfrågor"
-	},
-	{
-		"term" : "Näringsvärdesberäkning"
-	},
-	{
 		"term" : "Nationalekonomi"
-	},
-	{
-		"term" : "Nätmaskiner"
-	},
-	{
-		"term" : "Nätskärning"
 	},
 	{
 		"term" : "Natural Programming Language, programmeringsspråk"
@@ -10503,12 +10488,6 @@
 		"term" : "Naturmedicin"
 	},
 	{
-		"term" : "Naturvård"
-	},
-	{
-		"term" : "Naturvårdsplanering"
-	},
-	{
 		"term" : "Naturvetenskap, undervisning högskolenivå"
 	},
 	{
@@ -10518,16 +10497,16 @@
 		"term" : "Naturvetenskapligt fältarbete"
 	},
 	{
-		"term" : "Nätverk, övervakning"
+		"term" : "Naturvård"
 	},
 	{
-		"term" : "Näverslöjd"
+		"term" : "Naturvårdsplanering"
 	},
 	{
 		"term" : "Navigation, cirkelledning"
 	},
 	{
-		"term" : "Neonatal vård\/spädbarnsvård"
+		"term" : "Neonatal vård\/Spädbarnsvård"
 	},
 	{
 		"term" : "Neonatologi"
@@ -10563,7 +10542,7 @@
 		"term" : "Neurologisk arbetsterapi"
 	},
 	{
-		"term" : "Neuropsyk. funktionsnedsättning, omsorgserf."
+		"term" : "Neuropsykologisk funktionsnedsättning, omsorgserfarenhet"
 	},
 	{
 		"term" : "Neuroradiologi"
@@ -10593,13 +10572,7 @@
 		"term" : "Nivåmätningssystem"
 	},
 	{
-		"term" : "NLE, ickelinjär redigering"
-	},
-	{
 		"term" : "Node, exekveringsmiljö"
-	},
-	{
-		"term" : "Nöjesjournalistik"
 	},
 	{
 		"term" : "Nordamerikas arkeologi"
@@ -10629,13 +10602,10 @@
 		"term" : "Notering"
 	},
 	{
-		"term" : "Nötkreatursskötsel"
-	},
-	{
 		"term" : "Notläsning"
 	},
 	{
-		"term" : "Nötstyckning"
+		"term" : "Novell Certified NetWare Instructor\/CNI"
 	},
 	{
 		"term" : "Novell Netware"
@@ -10680,16 +10650,46 @@
 		"term" : "Nyhetstextning"
 	},
 	{
-		"term" : "Nyproduktion\/bygge"
+		"term" : "Nyproduktion, bygge"
+	},
+	{
+		"term" : "Näringslivsfrågor"
+	},
+	{
+		"term" : "Näringsvärdesberäkning"
+	},
+	{
+		"term" : "Nätmaskiner"
+	},
+	{
+		"term" : "Nätskärning"
+	},
+	{
+		"term" : "Nätverk, övervakning"
+	},
+	{
+		"term" : "Näverslöjd"
+	},
+	{
+		"term" : "Nöjesjournalistik"
+	},
+	{
+		"term" : "Nötkreatursskötsel"
+	},
+	{
+		"term" : "Nötstyckning"
 	},
 	{
 		"term" : "Obduktionsassistentutbildning"
 	},
 	{
+		"term" : "Obeståndsrätt"
+	},
+	{
 		"term" : "Obeståndsärenden"
 	},
 	{
-		"term" : "Obeståndsrätt"
+		"term" : "Object Component Model\/COM"
 	},
 	{
 		"term" : "Objective-C, programmeringsspråk"
@@ -10719,10 +10719,7 @@
 		"term" : "Ockarina"
 	},
 	{
-		"term" : "OCP (Oracle Certified Professional)"
-	},
-	{
-		"term" : "Odontologisk radiologi (röntgen)"
+		"term" : "Odontologisk radiologi\/Tandröntgen"
 	},
 	{
 		"term" : "Offertframtagning"
@@ -10762,12 +10759,6 @@
 	},
 	{
 		"term" : "Oförstörande provning: Visuell kontroll (VT)"
-	},
-	{
-		"term" : "Ögonsjukdomar"
-	},
-	{
-		"term" : "Ögonsjukvård"
 	},
 	{
 		"term" : "Olf (order-lager-fakturering)"
@@ -10818,9 +10809,6 @@
 		"term" : "Omplaceringar, personal"
 	},
 	{
-		"term" : "Områdesansvar, äldreomsorg"
-	},
-	{
 		"term" : "Områdesansvar, ambassadverksamhet"
 	},
 	{
@@ -10836,10 +10824,10 @@
 		"term" : "Områdesansvar, fritidsverksamhet"
 	},
 	{
-		"term" : "Områdesansvar, hälso- och sjukvård"
+		"term" : "Områdesansvar, handikappomsorg"
 	},
 	{
-		"term" : "Områdesansvar, handikappomsorg"
+		"term" : "Områdesansvar, hälso- och sjukvård"
 	},
 	{
 		"term" : "Områdesansvar, kriminalvård"
@@ -10884,6 +10872,9 @@
 		"term" : "Områdesansvar, tandvårdsverksamhet"
 	},
 	{
+		"term" : "Områdesansvar, trafikfrågor"
+	},
+	{
 		"term" : "Områdesansvar, tullfrågor"
 	},
 	{
@@ -10893,13 +10884,10 @@
 		"term" : "Områdesansvar, utbildningsfrågor"
 	},
 	{
-		"term" : "Områdesansvar, väg- och trafikfrågor"
+		"term" : "Områdesansvar, äldreomsorg"
 	},
 	{
 		"term" : "Omvårdnad"
-	},
-	{
-		"term" : "Omvärldsanalys (Business Intelligence)"
 	},
 	{
 		"term" : "Onkologi"
@@ -10959,18 +10947,6 @@
 		"term" : "Operativsystem, undervisning"
 	},
 	{
-		"term" : "Öppen förskola, erfarenhet"
-	},
-	{
-		"term" : "Öppen vård"
-	},
-	{
-		"term" : "Öppenvårdsapotek"
-	},
-	{
-		"term" : "Öppna spisar, murningsvana"
-	},
-	{
 		"term" : "Optik, produktkunskap"
 	},
 	{
@@ -10993,6 +10969,12 @@
 	},
 	{
 		"term" : "Oracle Certified Database Administrator"
+	},
+	{
+		"term" : "Oracle Certified Database Operator\/DBO"
+	},
+	{
+		"term" : "Oracle Certified Professional\/OCP"
 	},
 	{
 		"term" : "Oracle Forms, programmeringsverktyg"
@@ -11061,7 +11043,7 @@
 		"term" : "Orientalisk dans, undervisning"
 	},
 	{
-		"term" : "Orientering, instruktör\/tränare"
+		"term" : "Orientering, instruktör\/Orientering, tränare"
 	},
 	{
 		"term" : "Originalframställning"
@@ -11085,13 +11067,10 @@
 		"term" : "Ornament"
 	},
 	{
-		"term" : "Öron-, näs- och halssjukdomar"
-	},
-	{
-		"term" : "Ortodonti (tandreglering)"
-	},
-	{
 		"term" : "Ortodonti, specialisering tandteknik"
+	},
+	{
+		"term" : "Ortodonti\/Tandreglering"
 	},
 	{
 		"term" : "Ortopedi"
@@ -11112,7 +11091,7 @@
 		"term" : "Ortoptistutbildning"
 	},
 	{
-		"term" : "Ortoser (kroppsburna hjälpmedel)"
+		"term" : "Ortoser\/Kroppsburna hjälpmedel"
 	},
 	{
 		"term" : "OS\/390, operativsystem"
@@ -11136,9 +11115,6 @@
 		"term" : "Osteopati"
 	},
 	{
-		"term" : "Östgötska"
-	},
-	{
 		"term" : "Ostpressning"
 	},
 	{
@@ -11157,34 +11133,7 @@
 		"term" : "Ovanjordssprängning, bergtäkt"
 	},
 	{
-		"term" : "Övergreppsproblematik\/incest, psykoterapi"
-	},
-	{
-		"term" : "Övermaskineri"
-	},
-	{
-		"term" : "Överrättstjänstgöring (hovrätt\/kammarrätt)"
-	},
-	{
-		"term" : "Översättningar (sökord för översättare)"
-	},
-	{
-		"term" : "Överspelning"
-	},
-	{
-		"term" : "Övervakning"
-	},
-	{
-		"term" : "OVK (besiktningsbehörighet för ventilation)"
-	},
-	{
-		"term" : "Övriga språk, undervisning"
-	},
-	{
 		"term" : "Oxidering"
-	},
-	{
-		"term" : "Påfyllningsservice"
 	},
 	{
 		"term" : "Pagemill, HTML-editor"
@@ -11199,34 +11148,10 @@
 		"term" : "Paketsortering"
 	},
 	{
-		"term" : "Påklädning, teater"
-	},
-	{
-		"term" : "Paleontologi (djur- o. växtlämningar)"
+		"term" : "Paleontologi (djur- och växtlämningar)"
 	},
 	{
 		"term" : "Palliativ vård"
-	},
-	{
-		"term" : "Pälsdjursavel"
-	},
-	{
-		"term" : "Pälsdjursskötsel"
-	},
-	{
-		"term" : "Pälsning"
-	},
-	{
-		"term" : "Pälsrengöring"
-	},
-	{
-		"term" : "Pälsreparationer"
-	},
-	{
-		"term" : "Pälssömnad"
-	},
-	{
-		"term" : "Pälstvätt"
 	},
 	{
 		"term" : "Panflöjt"
@@ -11250,9 +11175,6 @@
 		"term" : "Pappersskärning, bokbinderi"
 	},
 	{
-		"term" : "Pappersvaror och kontorsartiklar"
-	},
-	{
 		"term" : "Pappersvaruarbete"
 	},
 	{
@@ -11262,7 +11184,7 @@
 		"term" : "Paraplymakeri"
 	},
 	{
-		"term" : "Parfym och kosmetika"
+		"term" : "Parfym\/Kosmetika"
 	},
 	{
 		"term" : "Parker, skötselvana"
@@ -11280,10 +11202,7 @@
 		"term" : "Parlando, telefonväxel"
 	},
 	{
-		"term" : "Pärmtillverkning"
-	},
-	{
-		"term" : "Parodontologi (tandlossningssjukdomar)"
+		"term" : "Parodontologi\/Tandlossningssjukdomar"
 	},
 	{
 		"term" : "Partikelfysik"
@@ -11364,10 +11283,10 @@
 		"term" : "Pedagogiskt utvecklingsarbete"
 	},
 	{
-		"term" : "Pedodonti (barntandvård)"
+		"term" : "Pedodonti\/Barntandvård"
 	},
 	{
-		"term" : "Pendeltåg\/motorvagn, förarutbildning"
+		"term" : "Pendeltåg, förarutbildning\/Motorvagn, förarutbildning"
 	},
 	{
 		"term" : "Penningmarknad"
@@ -11433,6 +11352,9 @@
 		"term" : "Personflygning av aktör i spel"
 	},
 	{
+		"term" : "Personregi"
+	},
+	{
 		"term" : "Personskyddsutbildning"
 	},
 	{
@@ -11493,7 +11415,7 @@
 		"term" : "Piketpolisutbildning"
 	},
 	{
-		"term" : "Pilates, instruktör\/tränare"
+		"term" : "Pilates, instruktör\/Pilates, tränare"
 	},
 	{
 		"term" : "Pistmaskin"
@@ -11553,9 +11475,6 @@
 		"term" : "Plasmabågsvetsning"
 	},
 	{
-		"term" : "Plasmafysik (högtemperaturfysik)"
-	},
-	{
 		"term" : "Plasmaskärning"
 	},
 	{
@@ -11586,6 +11505,18 @@
 		"term" : "Plastverktyg, tillverkning"
 	},
 	{
+		"term" : "Plattläggning"
+	},
+	{
+		"term" : "Plattsättning"
+	},
+	{
+		"term" : "Playback"
+	},
+	{
+		"term" : "Plexiglas, monteringsvana"
+	},
+	{
 		"term" : "Plåtbearbetning"
 	},
 	{
@@ -11601,25 +11532,7 @@
 		"term" : "Plåtskärning"
 	},
 	{
-		"term" : "Plattläggning"
-	},
-	{
-		"term" : "Plattsättning"
-	},
-	{
-		"term" : "Playback"
-	},
-	{
-		"term" : "PLC (programmerbart styrsystem)"
-	},
-	{
-		"term" : "Plexiglas, monteringsvana"
-	},
-	{
 		"term" : "pm3, förvaltningsmodell"
-	},
-	{
-		"term" : "PMP - Project Management Professional"
 	},
 	{
 		"term" : "Pneumatik"
@@ -11715,25 +11628,16 @@
 		"term" : "Potatisodling"
 	},
 	{
-		"term" : "PPL Private Pilot License"
-	},
-	{
-		"term" : "PPS - Praktisk ProjektStyrning"
-	},
-	{
-		"term" : "Prägling"
-	},
-	{
 		"term" : "Praktisk filosofi"
+	},
+	{
+		"term" : "Praktisk ProjektStyrning\/PPS"
 	},
 	{
 		"term" : "Praktiskt-estetiskt ämne och annat ämne, undervisning"
 	},
 	{
 		"term" : "Praktiskt-estetiskt ämne och svenska, undervisning"
-	},
-	{
-		"term" : "Prästvigd"
 	},
 	{
 		"term" : "Precisionsgjutning"
@@ -11746,6 +11650,9 @@
 	},
 	{
 		"term" : "Present, hänvisningssystem"
+	},
+	{
+		"term" : "Presentartiklar\/Reklamartiklar"
 	},
 	{
 		"term" : "Presentationsprogram, undervisning"
@@ -11793,6 +11700,9 @@
 		"term" : "Privatbokbindning"
 	},
 	{
+		"term" : "Private Pilot License\/PPL"
+	},
+	{
 		"term" : "Privathemsflyttning"
 	},
 	{
@@ -11808,9 +11718,6 @@
 		"term" : "Processmetallurgi"
 	},
 	{
-		"term" : "Processövervakning"
-	},
-	{
 		"term" : "Processrätt"
 	},
 	{
@@ -11821,6 +11728,9 @@
 	},
 	{
 		"term" : "Processvana"
+	},
+	{
+		"term" : "Processövervakning"
 	},
 	{
 		"term" : "Prodis, logistiksystem"
@@ -11871,6 +11781,9 @@
 		"term" : "Programledning"
 	},
 	{
+		"term" : "Programmerbart styrsystem\/PLC"
+	},
+	{
 		"term" : "Programmering"
 	},
 	{
@@ -11890,6 +11803,9 @@
 	},
 	{
 		"term" : "Project Architect Model"
+	},
+	{
+		"term" : "Project Management Professional\/PMP"
 	},
 	{
 		"term" : "Projekt- och internredovisning"
@@ -11922,7 +11838,7 @@
 		"term" : "Protes, specialisering tandteknik"
 	},
 	{
-		"term" : "Proteser (kroppsburna hjälpmedel)"
+		"term" : "Proteser"
 	},
 	{
 		"term" : "Prototyping"
@@ -11946,6 +11862,12 @@
 		"term" : "Prydnadsväxtodling"
 	},
 	{
+		"term" : "Prägling"
+	},
+	{
+		"term" : "Prästvigd"
+	},
+	{
 		"term" : "pSOS, operativsystem"
 	},
 	{
@@ -11955,13 +11877,13 @@
 		"term" : "Psykiatrisk arbetsterapi"
 	},
 	{
-		"term" : "Psykiatrisk öppenvård"
-	},
-	{
 		"term" : "Psykiatrisk vård"
 	},
 	{
-		"term" : "Psykisk funktionsnedsättning, arbetsrehab."
+		"term" : "Psykiatrisk öppenvård"
+	},
+	{
+		"term" : "Psykisk funktionsnedsättning, arbetsrehabilitering"
 	},
 	{
 		"term" : "Psykisk funktionsnedsättning, handikappfrågor"
@@ -11976,9 +11898,6 @@
 		"term" : "Psykodrama"
 	},
 	{
-		"term" : "Psykodynamisk inriktning"
-	},
-	{
 		"term" : "Psykodynamisk psykoterapi"
 	},
 	{
@@ -11988,10 +11907,13 @@
 		"term" : "Psykologi, undervisning"
 	},
 	{
+		"term" : "Psykologisk traumabehandling"
+	},
+	{
 		"term" : "Psykosocialt arbete"
 	},
 	{
-		"term" : "Psykosomatik, psyk. behandlingserfarenhet"
+		"term" : "Psykosomatik, psykologisk behandlingserfarenhet"
 	},
 	{
 		"term" : "Psykos-psykoterapi"
@@ -12048,16 +11970,49 @@
 		"term" : "Python, programmeringsspråk"
 	},
 	{
+		"term" : "Påbyggnadsutbildning i räddningstjänst för brandingenjörer"
+	},
+	{
+		"term" : "Påfyllningsservice"
+	},
+	{
+		"term" : "Påklädning, teater"
+	},
+	{
+		"term" : "Pälsdjursavel"
+	},
+	{
+		"term" : "Pälsdjursskötsel"
+	},
+	{
+		"term" : "Pälsning"
+	},
+	{
+		"term" : "Pälsrengöring"
+	},
+	{
+		"term" : "Pälsreparationer"
+	},
+	{
+		"term" : "Pälssömnad"
+	},
+	{
+		"term" : "Pälstvätt"
+	},
+	{
+		"term" : "Pärmtillverkning"
+	},
+	{
 		"term" : "Qbasic, programmeringsspråk"
 	},
 	{
 		"term" : "QDP, certifiering för dekorationsmålare"
 	},
 	{
-		"term" : "QFD (Quality Function Deployment)"
+		"term" : "QLab"
 	},
 	{
-		"term" : "QLab"
+		"term" : "Quality Function Deployment\/QFD"
 	},
 	{
 		"term" : "R, programmeringsspråk"
@@ -12069,21 +12024,6 @@
 		"term" : "RAD, systemutvecklingsmetod"
 	},
 	{
-		"term" : "Räddningsfarkoster och beredskapsbåtar"
-	},
-	{
-		"term" : "Räddningsledning"
-	},
-	{
-		"term" : "Räddningsverkets påbyggn.utb. f. brandingenjör"
-	},
-	{
-		"term" : "Rådgivning, förebyggande djurhälsovård"
-	},
-	{
-		"term" : "Rådgivning, frivård"
-	},
-	{
 		"term" : "Radialborrning"
 	},
 	{
@@ -12093,19 +12033,22 @@
 		"term" : "Radioelektronik"
 	},
 	{
+		"term" : "Radiofysik\/Strålningsfysik"
+	},
+	{
 		"term" : "Radiojournalistik"
 	},
 	{
 		"term" : "Radiokonstruktion"
 	},
 	{
-		"term" : "Radiolänksystem"
-	},
-	{
 		"term" : "Radiologi, medicintekniskt område ingenjör"
 	},
 	{
 		"term" : "Radioloksutbildning"
+	},
+	{
+		"term" : "Radiolänksystem"
 	},
 	{
 		"term" : "Radioreklam"
@@ -12135,9 +12078,6 @@
 		"term" : "Rakning och trimning av skägg"
 	},
 	{
-		"term" : "Råkostberedning"
-	},
-	{
 		"term" : "Ramarbete"
 	},
 	{
@@ -12145,9 +12085,6 @@
 	},
 	{
 		"term" : "Rap"
-	},
-	{
-		"term" : "Råstockning"
 	},
 	{
 		"term" : "Rational Application Developer, systemutvecklingsverktyg"
@@ -12187,24 +12124,6 @@
 	},
 	{
 		"term" : "Rationaliseringsteknik"
-	},
-	{
-		"term" : "Rättsmedicin"
-	},
-	{
-		"term" : "Rättsodontologi"
-	},
-	{
-		"term" : "Rättspsykiatri"
-	},
-	{
-		"term" : "Rättspsykiatrisk inriktning, psykolog"
-	},
-	{
-		"term" : "Rättspsykiatrisk vård"
-	},
-	{
-		"term" : "Rättssociologi"
 	},
 	{
 		"term" : "RC-loksreparationer"
@@ -12261,22 +12180,22 @@
 		"term" : "Rederikontor"
 	},
 	{
+		"term" : "Redigering, rörlig bild"
+	},
+	{
 		"term" : "Redigering, spelfilm"
 	},
 	{
 		"term" : "Redigering, TV-produktion"
 	},
 	{
-		"term" : "Redigering, videoproduktion"
-	},
-	{
 		"term" : "Redigeringsmanus"
 	},
 	{
-		"term" : "Redovisning\/2, redovisningssystem"
+		"term" : "Redovisning"
 	},
 	{
-		"term" : "Redovisning\/revision"
+		"term" : "Redovisning\/2, redovisningssystem"
 	},
 	{
 		"term" : "Redovisningsansvar"
@@ -12313,9 +12232,6 @@
 	},
 	{
 		"term" : "Rehabiliteringsutredningar"
-	},
-	{
-		"term" : "Reklam- och presentartiklar"
 	},
 	{
 		"term" : "Reklamationer, handläggningsvana"
@@ -12375,16 +12291,13 @@
 		"term" : "Religionskunskap, undervisning gymnasienivå"
 	},
 	{
-		"term" : "Religionsvetenskap\/teologi"
+		"term" : "Religionsvetenskap\/Teologi"
 	},
 	{
 		"term" : "Relining, tätningsmetod"
 	},
 	{
 		"term" : "Remburs"
-	},
-	{
-		"term" : "Renässans"
 	},
 	{
 		"term" : "Renhållningsbil, körvana"
@@ -12400,6 +12313,9 @@
 	},
 	{
 		"term" : "Renrumsarbete"
+	},
+	{
+		"term" : "Renässans"
 	},
 	{
 		"term" : "Reparation av cembalin"
@@ -12522,22 +12438,22 @@
 		"term" : "Rhythm & Blues"
 	},
 	{
-		"term" : "Ridålackering"
-	},
-	{
 		"term" : "Ridande polis-utbildning"
 	},
 	{
 		"term" : "Ridkunskap"
 	},
 	{
-		"term" : "Ridlärarutbildning"
-	},
-	{
 		"term" : "Ridlektioner"
 	},
 	{
+		"term" : "Ridlärarutbildning"
+	},
+	{
 		"term" : "Ridterapi"
+	},
+	{
+		"term" : "Ridålackering"
 	},
 	{
 		"term" : "Riggning"
@@ -12585,13 +12501,13 @@
 		"term" : "Ritteknik"
 	},
 	{
-		"term" : "Rivning (demontering av div. byggobjekt)"
-	},
-	{
-		"term" : "Robotövervakning"
+		"term" : "Rivning av byggobjekt\/Demontering av byggobjekt"
 	},
 	{
 		"term" : "Robotteknik"
+	},
+	{
+		"term" : "Robotövervakning"
 	},
 	{
 		"term" : "ROC-behörighet"
@@ -12603,79 +12519,13 @@
 		"term" : "Rock'n'roll dans, undervisning"
 	},
 	{
-		"term" : "Rodd, instruktör\/tränare"
-	},
-	{
-		"term" : "Röjdykning"
-	},
-	{
-		"term" : "Röjningsmaskin"
-	},
-	{
-		"term" : "Rök- och kemdykning"
-	},
-	{
-		"term" : "Rökavvänjning, ledarerfarenhet"
-	},
-	{
-		"term" : "Rökgasanalyser"
-	},
-	{
-		"term" : "Röntgenkontroll av metallprodukter"
-	},
-	{
-		"term" : "Röntgensjuksköterskeexamen"
-	},
-	{
-		"term" : "Rörbockning"
-	},
-	{
-		"term" : "Rördrivning"
-	},
-	{
-		"term" : "Rörelsenedsättning, arbetslivsinriktad rehab."
-	},
-	{
-		"term" : "Rörelsenedsättning, handikappfrågor"
-	},
-	{
-		"term" : "Rörelsepedagogik"
-	},
-	{
-		"term" : "Rörelseterapi"
-	},
-	{
-		"term" : "Rörkapning"
-	},
-	{
-		"term" : "Rörkonstruktion"
-	},
-	{
-		"term" : "Rörläggning"
-	},
-	{
-		"term" : "Rörläggning, mark"
+		"term" : "Rodd, instruktör\/Rodd, tränare"
 	},
 	{
 		"term" : "RoRo-fartyg"
 	},
 	{
-		"term" : "Rörreparationer"
-	},
-	{
-		"term" : "Rörställning"
-	},
-	{
-		"term" : "Rörvalsning"
-	},
-	{
 		"term" : "Rosenmetoden"
-	},
-	{
-		"term" : "Röst- och talrubbningar"
-	},
-	{
-		"term" : "Röst- och talteknik"
 	},
 	{
 		"term" : "Rostfritt stål, materialkunskap"
@@ -12688,9 +12538,6 @@
 	},
 	{
 		"term" : "Rostskyddsmålning"
-	},
-	{
-		"term" : "Röststörningar, behandling"
 	},
 	{
 		"term" : "Rotationstryckning"
@@ -12732,7 +12579,7 @@
 		"term" : "Ruby, programmeringsspråk"
 	},
 	{
-		"term" : "Rugby, instruktör\/tränare"
+		"term" : "Rugby, instruktör\/Rugby, tränare"
 	},
 	{
 		"term" : "Rulloffsettryckning"
@@ -12741,10 +12588,10 @@
 		"term" : "Rullpolering"
 	},
 	{
-		"term" : "Rullställning"
+		"term" : "Rullstolar, reparationer"
 	},
 	{
-		"term" : "Rullstolar, reparationer"
+		"term" : "Rullställning"
 	},
 	{
 		"term" : "Rulltrappsreparationer"
@@ -12768,43 +12615,121 @@
 		"term" : "Ryska, cirkelledning"
 	},
 	{
+		"term" : "Rådgivning, frivård"
+	},
+	{
+		"term" : "Rådgivning, förebyggande djurhälsovård"
+	},
+	{
+		"term" : "Råkostberedning"
+	},
+	{
+		"term" : "Råstockning"
+	},
+	{
+		"term" : "Räddningsfarkoster och beredskapsbåtar"
+	},
+	{
+		"term" : "Räddningsledning"
+	},
+	{
+		"term" : "Rättsmedicin"
+	},
+	{
+		"term" : "Rättsodontologi"
+	},
+	{
+		"term" : "Rättspsykiatri"
+	},
+	{
+		"term" : "Rättspsykiatrisk inriktning, psykolog"
+	},
+	{
+		"term" : "Rättspsykiatrisk vård"
+	},
+	{
+		"term" : "Rättssociologi"
+	},
+	{
+		"term" : "Röjdykning"
+	},
+	{
+		"term" : "Röjningsmaskin"
+	},
+	{
+		"term" : "Rökavvänjning, ledarerfarenhet"
+	},
+	{
+		"term" : "Rökgasanalyser"
+	},
+	{
+		"term" : "Röntgenkontroll av metallprodukter"
+	},
+	{
+		"term" : "Röntgensjuksköterskeexamen"
+	},
+	{
+		"term" : "Rörbockning"
+	},
+	{
+		"term" : "Rördrivning"
+	},
+	{
+		"term" : "Rörelsenedsättning, arbetslivsinriktad rehabilitering"
+	},
+	{
+		"term" : "Rörelsenedsättning, handikappfrågor"
+	},
+	{
+		"term" : "Rörelsepedagogik"
+	},
+	{
+		"term" : "Rörelseterapi"
+	},
+	{
+		"term" : "Rörkapning"
+	},
+	{
+		"term" : "Rörkonstruktion"
+	},
+	{
+		"term" : "Rörlig bild"
+	},
+	{
+		"term" : "Rörläggning"
+	},
+	{
+		"term" : "Rörläggning, mark"
+	},
+	{
+		"term" : "Rörreparationer"
+	},
+	{
+		"term" : "Rörställning"
+	},
+	{
+		"term" : "Rörvalsning"
+	},
+	{
+		"term" : "Röst- och talrubbningar"
+	},
+	{
+		"term" : "Röststörningar, behandling"
+	},
+	{
+		"term" : "Röstteknik\/Talteknik"
+	},
+	{
 		"term" : "Saber"
 	},
 	{
 		"term" : "SABRE, resebokningssystem"
 	},
 	{
-		"term" : "Säckpipa"
-	},
-	{
 		"term" : "Sadelmakeri"
 	},
 	{
 		"term" : "SAFE-T-CUT (sprängningsteknik)"
-	},
-	{
-		"term" : "Såg"
-	},
-	{
-		"term" : "Sågande skärning"
-	},
-	{
-		"term" : "Sågning, CNC"
-	},
-	{
-		"term" : "Sågning, konventionell maskin"
-	},
-	{
-		"term" : "Säkerhetsanalys, datasäkerhet"
-	},
-	{
-		"term" : "Säkerhetsdörrar, monteringsvana"
-	},
-	{
-		"term" : "Säkerhetsfrågor"
-	},
-	{
-		"term" : "Säkerhetsglas, monteringsvana"
 	},
 	{
 		"term" : "Sakförsäkringar"
@@ -12816,19 +12741,7 @@
 		"term" : "Sales"
 	},
 	{
-		"term" : "Säljcoachning"
-	},
-	{
-		"term" : "Säljledning"
-	},
-	{
-		"term" : "Säljsupport, administrativt säljstöd"
-	},
-	{
 		"term" : "Salladsberedning"
-	},
-	{
-		"term" : "Sällskapsdans, undervisning"
 	},
 	{
 		"term" : "Salsa"
@@ -12918,22 +12831,13 @@
 		"term" : "Sandgjutning"
 	},
 	{
-		"term" : "Sandning\/plogning, körvana"
+		"term" : "Sandning, körvana\/Plogning, körvana"
 	},
 	{
 		"term" : "Sandspackling-maskinell"
 	},
 	{
 		"term" : "Saneringsteknik"
-	},
-	{
-		"term" : "Sång, undervisning musikskola"
-	},
-	{
-		"term" : "Sångkunnig"
-	},
-	{
-		"term" : "Sänkgnistning"
 	},
 	{
 		"term" : "SAP R\/3, affärssystem"
@@ -12948,13 +12852,10 @@
 		"term" : "SAR\/MSA"
 	},
 	{
-		"term" : "Särskola"
+		"term" : "SAR-OSC"
 	},
 	{
 		"term" : "SAS, statistikprogram"
-	},
-	{
-		"term" : "Satellit- och kabel-TV, produktkunskap"
 	},
 	{
 		"term" : "Satellitnavigering, biltransporter"
@@ -13026,9 +12927,6 @@
 		"term" : "Schlager"
 	},
 	{
-		"term" : "SCJP (Sun Certified Java Programmer)"
-	},
-	{
 		"term" : "Screentryck"
 	},
 	{
@@ -13047,16 +12945,16 @@
 		"term" : "Segelfartyg"
 	},
 	{
-		"term" : "Segling, instruktör\/tränare"
+		"term" : "Segling, instruktör\/Segling, tränare"
 	},
 	{
 		"term" : "Segling, professionell utövning"
 	},
 	{
-		"term" : "Seismik (mätmetod)"
+		"term" : "Seismik, mätmetod"
 	},
 	{
-		"term" : "Seismologi (jordrörelser)"
+		"term" : "Seismologi\/Jordrörelser"
 	},
 	{
 		"term" : "Sekreterarfunktion i politiska organ"
@@ -13086,7 +12984,7 @@
 		"term" : "Servicearbete, elektronik"
 	},
 	{
-		"term" : "Servicehus\/äldreboende"
+		"term" : "Servicehus\/Äldreboende"
 	},
 	{
 		"term" : "Servoteknik"
@@ -13095,10 +12993,10 @@
 		"term" : "Servrar, installation och underhåll"
 	},
 	{
-		"term" : "Sexuell hälsa"
+		"term" : "Sexologi"
 	},
 	{
-		"term" : "Sexuella problem\/störningar, psykoterapi"
+		"term" : "Sexuell hälsa"
 	},
 	{
 		"term" : "SGML, programmeringsspråk"
@@ -13137,7 +13035,7 @@
 		"term" : "Simlärarutbildning"
 	},
 	{
-		"term" : "Simsport, instruktör\/tränare"
+		"term" : "Simsport, instruktör\/Simsport, tränare"
 	},
 	{
 		"term" : "Simsport, professionell utövning"
@@ -13171,6 +13069,45 @@
 	},
 	{
 		"term" : "Sitevision, publicerings- och portalverktyg"
+	},
+	{
+		"term" : "Sjukgymnastexamen"
+	},
+	{
+		"term" : "Sjukhem\/Särskilt boende"
+	},
+	{
+		"term" : "Sjukhusapotek"
+	},
+	{
+		"term" : "Sjukhusfotografering"
+	},
+	{
+		"term" : "Sjukhusfysikerexamen"
+	},
+	{
+		"term" : "Sjukhuslaboratoriearbete"
+	},
+	{
+		"term" : "Sjukhusmåltider"
+	},
+	{
+		"term" : "Sjukhusstädning"
+	},
+	{
+		"term" : "Sjukhustandteknik, specialisering anaplastologi"
+	},
+	{
+		"term" : "Sjuksköterskeexamen"
+	},
+	{
+		"term" : "Sjukvård, specialisering för officer"
+	},
+	{
+		"term" : "Sjukvårdsekonomi"
+	},
+	{
+		"term" : "Sjukvårdstolkning"
 	},
 	{
 		"term" : "Självlossare"
@@ -13209,45 +13146,6 @@
 		"term" : "Sjöspedition"
 	},
 	{
-		"term" : "Sjukgymnastexamen"
-	},
-	{
-		"term" : "Sjukhem\/särskilt boende"
-	},
-	{
-		"term" : "Sjukhusapotek"
-	},
-	{
-		"term" : "Sjukhusfotografering"
-	},
-	{
-		"term" : "Sjukhusfysikerexamen"
-	},
-	{
-		"term" : "Sjukhuslaboratoriearbete"
-	},
-	{
-		"term" : "Sjukhusmåltider"
-	},
-	{
-		"term" : "Sjukhusstädning"
-	},
-	{
-		"term" : "Sjukhustandteknik, specialisering anaplastologi"
-	},
-	{
-		"term" : "Sjuksköterskeexamen"
-	},
-	{
-		"term" : "Sjukvård, specialisering för officer"
-	},
-	{
-		"term" : "Sjukvårdsekonomi"
-	},
-	{
-		"term" : "Sjukvårdstolkning"
-	},
-	{
 		"term" : "Skadedjursbekämpning"
 	},
 	{
@@ -13269,9 +13167,6 @@
 		"term" : "Skadesanering"
 	},
 	{
-		"term" : "Skådespelaransvar"
-	},
-	{
 		"term" : "Skadeståndsrätt"
 	},
 	{
@@ -13281,25 +13176,7 @@
 		"term" : "Skadevärdering"
 	},
 	{
-		"term" : "Skänkskötsel"
-	},
-	{
-		"term" : "Skånska"
-	},
-	{
 		"term" : "Skapande verksamhet, undervisning"
-	},
-	{
-		"term" : "Skåplackering"
-	},
-	{
-		"term" : "Skärande bearbetning"
-	},
-	{
-		"term" : "Skärgårdsbåt"
-	},
-	{
-		"term" : "Skärpning, verktyg"
 	},
 	{
 		"term" : "Skattehandläggarutbildning"
@@ -13332,10 +13209,13 @@
 		"term" : "Skidresor, ledarerfarenhet"
 	},
 	{
-		"term" : "Skidskytte, instruktör\/tränare"
+		"term" : "Skidskytte, instruktör\/Skidskytte, tränare"
 	},
 	{
 		"term" : "Skidslipning"
+	},
+	{
+		"term" : "Skinn\/Textilier"
 	},
 	{
 		"term" : "Skinnberedning"
@@ -13395,13 +13275,13 @@
 		"term" : "Skogsteknikerexamen"
 	},
 	{
+		"term" : "Skogsvetarexamen"
+	},
+	{
 		"term" : "Skogsvård"
 	},
 	{
 		"term" : "Skogsvärdering"
-	},
-	{
-		"term" : "Skogsvetarexamen"
 	},
 	{
 		"term" : "Skolfotografering"
@@ -13416,16 +13296,7 @@
 		"term" : "Skolmåltider"
 	},
 	{
-		"term" : "Skolpsykologi (elevvård)"
-	},
-	{
 		"term" : "Skomakeri"
-	},
-	{
-		"term" : "Skönlitterär text"
-	},
-	{
-		"term" : "Skönlitteratur"
 	},
 	{
 		"term" : "Skoputsning"
@@ -13434,25 +13305,13 @@
 		"term" : "Skor"
 	},
 	{
-		"term" : "Skördearbete"
-	},
-	{
 		"term" : "Skorstensmurning"
 	},
 	{
 		"term" : "Skorstenstätning"
 	},
 	{
-		"term" : "Skötsel av fordonstvätt"
-	},
-	{
-		"term" : "Skötsel och underhåll av utemiljöer"
-	},
-	{
-		"term" : "Skrädderiarbeten"
-	},
-	{
-		"term" : "Skridsko, instruktör\/tränare"
+		"term" : "Skridsko, instruktör\/Skridsko, tränare"
 	},
 	{
 		"term" : "Skridskoslipning"
@@ -13474,6 +13333,9 @@
 	},
 	{
 		"term" : "Skrovkonstruktion"
+	},
+	{
+		"term" : "Skrädderiarbeten"
 	},
 	{
 		"term" : "Skuggspel"
@@ -13506,25 +13368,55 @@
 		"term" : "Skyddsvaktutbildning"
 	},
 	{
+		"term" : "Skådespelaransvar"
+	},
+	{
+		"term" : "Skånska"
+	},
+	{
+		"term" : "Skåplackering"
+	},
+	{
+		"term" : "Skänkskötsel"
+	},
+	{
+		"term" : "Skärande bearbetning"
+	},
+	{
+		"term" : "Skärgårdsbåt"
+	},
+	{
+		"term" : "Skärpning, verktyg"
+	},
+	{
+		"term" : "Skönlitteratur"
+	},
+	{
+		"term" : "Skönlitterär text"
+	},
+	{
+		"term" : "Skördearbete"
+	},
+	{
+		"term" : "Skötsel av fordonstvätt"
+	},
+	{
+		"term" : "Skötsel och underhåll av utemiljöer"
+	},
+	{
 		"term" : "Slagverk"
 	},
 	{
 		"term" : "Slagverksinstrument, undervisning musikskola"
 	},
 	{
-		"term" : "Släktforskning, cirkelledning"
-	},
-	{
-		"term" : "Slalom, instruktör\/tränare"
+		"term" : "Slalom, instruktör\/Slalom, tränare"
 	},
 	{
 		"term" : "Slalom, professionell utövning"
 	},
 	{
 		"term" : "Slamsugning"
-	},
-	{
-		"term" : "Släp, körvana"
 	},
 	{
 		"term" : "Slipning, CNC"
@@ -13536,12 +13428,6 @@
 		"term" : "Slitagebestämning, flyg"
 	},
 	{
-		"term" : "Slöjd, undervisning"
-	},
-	{
-		"term" : "Slöjdlärarexamen"
-	},
-	{
 		"term" : "Slungblästring"
 	},
 	{
@@ -13549,6 +13435,45 @@
 	},
 	{
 		"term" : "Sluten vård"
+	},
+	{
+		"term" : "Släktforskning, cirkelledning"
+	},
+	{
+		"term" : "Släp, körvana"
+	},
+	{
+		"term" : "Slöjd, undervisning"
+	},
+	{
+		"term" : "Slöjdlärarexamen"
+	},
+	{
+		"term" : "Smalltalk, programmeringsspråk"
+	},
+	{
+		"term" : "Smart, resebokningssystem"
+	},
+	{
+		"term" : "Smide"
+	},
+	{
+		"term" : "Sminkning, film\/Sminkning, TV"
+	},
+	{
+		"term" : "Sminkning\/Make-up"
+	},
+	{
+		"term" : "Smittskydd"
+	},
+	{
+		"term" : "Smittskyddssanering"
+	},
+	{
+		"term" : "Smyckesdesign"
+	},
+	{
+		"term" : "Smyckessmide"
 	},
 	{
 		"term" : "Småbarnsgrupp, erfarenhet"
@@ -13566,13 +13491,10 @@
 		"term" : "Småländska"
 	},
 	{
-		"term" : "Smalltalk, programmeringsspråk"
+		"term" : "Småmaskiner, reparationsvana"
 	},
 	{
 		"term" : "Smältning, ädelmetaller"
-	},
-	{
-		"term" : "Småmaskiner, reparationsvana"
 	},
 	{
 		"term" : "Smärgelduksarbete"
@@ -13581,28 +13503,10 @@
 		"term" : "Smärgling"
 	},
 	{
-		"term" : "Smart, resebokningssystem"
-	},
-	{
 		"term" : "Smärtbehandling"
 	},
 	{
 		"term" : "Smärtlindring"
-	},
-	{
-		"term" : "Smide"
-	},
-	{
-		"term" : "Sminkning, film\/TV"
-	},
-	{
-		"term" : "Sminkning\/Make-up"
-	},
-	{
-		"term" : "Smittskydd"
-	},
-	{
-		"term" : "Smittskyddssanering"
 	},
 	{
 		"term" : "Smörgåsar"
@@ -13611,25 +13515,22 @@
 		"term" : "Smörgåsbord"
 	},
 	{
-		"term" : "Smyckesdesign"
-	},
-	{
-		"term" : "Smyckessmide"
-	},
-	{
 		"term" : "SNA, kommunikationsprotokoll"
 	},
 	{
 		"term" : "Snabba fartyg (RIB)"
 	},
 	{
-		"term" : "Snap (stödhjul, position, höjd etc.)"
+		"term" : "Snap (stödhjul, position, höjd)"
 	},
 	{
-		"term" : "Snickeri, film\/TV"
+		"term" : "Snickeri, film\/Snickeri, TV"
 	},
 	{
 		"term" : "Snickerimålning och ytbehandling"
+	},
+	{
+		"term" : "Snowboard, instruktör\/Snowboard, tränare"
 	},
 	{
 		"term" : "Snökanonskötsel"
@@ -13641,13 +13542,7 @@
 		"term" : "Snöskottning"
 	},
 	{
-		"term" : "Snowboard, instruktör\/tränare"
-	},
-	{
 		"term" : "SO:s grundutbildning"
-	},
-	{
-		"term" : "SOA, tjänsteorienterande arkitektur"
 	},
 	{
 		"term" : "SOAP, kommunikationsprotokoll"
@@ -13674,13 +13569,13 @@
 		"term" : "Socialförsäkringsrätt"
 	},
 	{
-		"term" : "Socialmed. funktionsnedsättning, handikappfrågor"
-	},
-	{
 		"term" : "Socialmedicin"
 	},
 	{
-		"term" : "Socialmedicinsk funktionsnedsättn, arbetsrehab."
+		"term" : "Socialmedicinsk funktionsnedsättning, arbetsrehabilitering"
+	},
+	{
+		"term" : "Socialmedicinsk funktionsnedsättning, handikappfrågor"
 	},
 	{
 		"term" : "Socialpedagogik"
@@ -13698,7 +13593,7 @@
 		"term" : "Socialrätt"
 	},
 	{
-		"term" : "Socialt arbete med flyktingar\/invandrare"
+		"term" : "Socialt arbete med flyktingar\/Socialt arbete med nyanlända"
 	},
 	{
 		"term" : "Socialt försörjningsstöd, handläggningsvana"
@@ -13716,6 +13611,9 @@
 		"term" : "Sockerbetsodling"
 	},
 	{
+		"term" : "Softboll, instruktör\/Softboll, tränare"
+	},
+	{
 		"term" : "SoftOne, affärssystem"
 	},
 	{
@@ -13725,13 +13623,7 @@
 		"term" : "Software AG WebMethods, integrationsplattform"
 	},
 	{
-		"term" : "Software Virtualization Solution (SVS)"
-	},
-	{
-		"term" : "Sökmotoroptimering\/SEM, Sökmotormarknadsföring"
-	},
-	{
-		"term" : "Sökordsoptimering\/SEO"
+		"term" : "Software Virtualization Solution\/SVS"
 	},
 	{
 		"term" : "Solaris, operativsystem"
@@ -13755,13 +13647,10 @@
 		"term" : "Solskyddsglas, monteringsvana"
 	},
 	{
-		"term" : "Somatisk funktionsnedsättning, arbetsrehab."
+		"term" : "Somatisk funktionsnedsättning, arbetsrehabilitering"
 	},
 	{
 		"term" : "Sommelierkompetens"
-	},
-	{
-		"term" : "Sömnad, cirkelledning"
 	},
 	{
 		"term" : "Sopho, telefonväxel"
@@ -13771,9 +13660,6 @@
 	},
 	{
 		"term" : "Sopransaxofon"
-	},
-	{
-		"term" : "Sorge- och begravningsmusik"
 	},
 	{
 		"term" : "Sorteringsverk, skötselvana"
@@ -13806,22 +13692,37 @@
 		"term" : "Spanska, undervisning"
 	},
 	{
-		"term" : "Spårsvetsning"
-	},
-	{
-		"term" : "Spårutbildning för SJ"
-	},
-	{
-		"term" : "Spårutbildning för SL"
-	},
-	{
-		"term" : "Spårvagnsförarutbildning"
-	},
-	{
-		"term" : "Spårvagnsreparationer"
-	},
-	{
 		"term" : "Special effects"
+	},
+	{
+		"term" : "Specialistbehörig inom arbets- och organisationspsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom beroendepsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom forensisk psykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom funktionshindrens psykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom hälsopsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom klinisk barn- och ungdomspsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom klinisk vuxenpsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom neuropsykologi"
+	},
+	{
+		"term" : "Specialistbehörig inom pedagogisk psykologi"
+	},
+	{
+		"term" : "Specialistbehörig, psykologisk behandling\/Specialistbehörig, psykoterapi"
 	},
 	{
 		"term" : "Specialistsjuksköterskeexamen"
@@ -13902,16 +13803,13 @@
 		"term" : "Spetsknyppling"
 	},
 	{
-		"term" : "SPIC Student Pilot in Command"
-	},
-	{
 		"term" : "SPICE, simuleringsprogram"
 	},
 	{
 		"term" : "Spikning, konventionell maskin"
 	},
 	{
-		"term" : "Spinett\/taffel"
+		"term" : "Spinett\/Taffel"
 	},
 	{
 		"term" : "Spiralborrning"
@@ -13926,9 +13824,6 @@
 		"term" : "Sponsorkunskap"
 	},
 	{
-		"term" : "Sport- och fritidsartiklar"
-	},
-	{
 		"term" : "Sportdykning"
 	},
 	{
@@ -13941,7 +13836,31 @@
 		"term" : "Sportjournalistik"
 	},
 	{
-		"term" : "Sportskytte, instruktör\/tränare"
+		"term" : "Sportskytte, instruktör\/Sportskytte, tränare"
+	},
+	{
+		"term" : "Spridningsnät"
+	},
+	{
+		"term" : "Sprinklermontering"
+	},
+	{
+		"term" : "Sprit\/Vin"
+	},
+	{
+		"term" : "Sprittillverkning"
+	},
+	{
+		"term" : "Sprutisolering"
+	},
+	{
+		"term" : "Sprutmålning"
+	},
+	{
+		"term" : "Sprutmålning, konstnärlig"
+	},
+	{
+		"term" : "Sprutputsning"
 	},
 	{
 		"term" : "Språk och språkutveckling, undervisning"
@@ -13977,31 +13896,22 @@
 		"term" : "Sprängning, linjearbeten"
 	},
 	{
-		"term" : "Spridningsnät"
-	},
-	{
-		"term" : "Sprinklermontering"
-	},
-	{
-		"term" : "Sprittillverkning"
-	},
-	{
-		"term" : "Sprutisolering"
-	},
-	{
-		"term" : "Sprutmålning"
-	},
-	{
-		"term" : "Sprutmålning, konstnärlig"
-	},
-	{
-		"term" : "Sprutputsning"
-	},
-	{
-		"term" : "SPS (Statistisk Processtyrning)"
-	},
-	{
 		"term" : "SPSS, statistikprogram"
+	},
+	{
+		"term" : "Spårsvetsning"
+	},
+	{
+		"term" : "Spårutbildning för SJ"
+	},
+	{
+		"term" : "Spårutbildning för SL"
+	},
+	{
+		"term" : "Spårvagnsförarutbildning"
+	},
+	{
+		"term" : "Spårvagnsreparationer"
 	},
 	{
 		"term" : "SQL, programmeringsspråk"
@@ -14016,19 +13926,13 @@
 		"term" : "SQL-Server, databashanterare"
 	},
 	{
-		"term" : "Squash, instruktör\/tränare"
+		"term" : "Squash, instruktör\/Squash, tränare"
 	},
 	{
 		"term" : "SSEF behörig golvvårdare"
 	},
 	{
-		"term" : "SSG ENTRE Safety Passport"
-	},
-	{
-		"term" : "Städbesiktning"
-	},
-	{
-		"term" : "Städmaterial"
+		"term" : "SSG Entre Safety Passport"
 	},
 	{
 		"term" : "Stadsarkeologi"
@@ -14040,55 +13944,10 @@
 		"term" : "Stadsplanering"
 	},
 	{
-		"term" : "Städtjänster"
-	},
-	{
-		"term" : "Städvana, hotell o dyl"
-	},
-	{
-		"term" : "Stål- och verkstadsprodukter"
-	},
-	{
-		"term" : "Stålämneshantering"
-	},
-	{
-		"term" : "Stålkonstruktion"
-	},
-	{
-		"term" : "Stålkonstruktionsmontage"
-	},
-	{
-		"term" : "Ställagemontering"
-	},
-	{
-		"term" : "Ställverk, installation och underhåll"
-	},
-	{
-		"term" : "Stålplåt, materialkunskap"
-	},
-	{
-		"term" : "Stålriktning"
-	},
-	{
-		"term" : "Stålsticksgravyr"
-	},
-	{
 		"term" : "Stambyten"
 	},
 	{
 		"term" : "Stamdragning"
-	},
-	{
-		"term" : "Stämledning, inriktning instrumentalist"
-	},
-	{
-		"term" : "Stämning av dragspel"
-	},
-	{
-		"term" : "Stämning av orglar"
-	},
-	{
-		"term" : "Stämning av pianon"
 	},
 	{
 		"term" : "Stand-up comedy"
@@ -14119,6 +13978,9 @@
 	},
 	{
 		"term" : "Statistansvar"
+	},
+	{
+		"term" : "Statistisk Processtyrning\/SPS"
 	},
 	{
 		"term" : "Statistisk övervakning"
@@ -14154,9 +14016,6 @@
 		"term" : "Sten, konstkonservering"
 	},
 	{
-		"term" : "Stenålderns arkeologi"
-	},
-	{
 		"term" : "Stenarbete"
 	},
 	{
@@ -14169,10 +14028,13 @@
 		"term" : "Stenografivana"
 	},
 	{
+		"term" : "Stenskulptur"
+	},
+	{
 		"term" : "Stensättning"
 	},
 	{
-		"term" : "Stenskulptur"
+		"term" : "Stenålderns arkeologi"
 	},
 	{
 		"term" : "Steppdans"
@@ -14200,9 +14062,6 @@
 	},
 	{
 		"term" : "Stockholmska"
-	},
-	{
-		"term" : "Stödterapi"
 	},
 	{
 		"term" : "Stombyggnad"
@@ -14238,13 +14097,31 @@
 		"term" : "Straffrätt"
 	},
 	{
+		"term" : "Streetdance"
+	},
+	{
+		"term" : "Streetdance, undervisning"
+	},
+	{
+		"term" : "Stresshantering"
+	},
+	{
+		"term" : "Stroppekurs G11"
+	},
+	{
+		"term" : "Structural Engineering"
+	},
+	{
+		"term" : "Strukturkemi"
+	},
+	{
+		"term" : "Strukturreparation, flyg"
+	},
+	{
 		"term" : "Strålbehandling"
 	},
 	{
 		"term" : "Strålning"
-	},
-	{
-		"term" : "Strålningsfysik\/radiofysik"
 	},
 	{
 		"term" : "Strålskydd"
@@ -14265,37 +14142,19 @@
 		"term" : "Strängsprutning-rör"
 	},
 	{
-		"term" : "Streetdance"
-	},
-	{
-		"term" : "Streetdance, undervisning"
-	},
-	{
-		"term" : "Stresshantering"
-	},
-	{
 		"term" : "Strömförsörjningssystem"
 	},
 	{
 		"term" : "Strömningsteknik"
 	},
 	{
-		"term" : "Stroppekurs G11"
-	},
-	{
-		"term" : "Structural Engineering"
-	},
-	{
-		"term" : "Strukturkemi"
-	},
-	{
-		"term" : "Strukturreparation, flyg"
-	},
-	{
 		"term" : "Stubbrytning"
 	},
 	{
 		"term" : "Stuckaturarbete"
+	},
+	{
+		"term" : "Student Pilot in Command\/SPIC"
 	},
 	{
 		"term" : "Studerandeverksamhet"
@@ -14319,6 +14178,9 @@
 		"term" : "Stunt"
 	},
 	{
+		"term" : "Stuntkoordinering"
+	},
+	{
 		"term" : "Styckegodshantering"
 	},
 	{
@@ -14337,6 +14199,66 @@
 		"term" : "Styrketräning, instruktör"
 	},
 	{
+		"term" : "Stålkonstruktion"
+	},
+	{
+		"term" : "Stålkonstruktionsmontage"
+	},
+	{
+		"term" : "Stålplåt, materialkunskap"
+	},
+	{
+		"term" : "Stålprodukter\/Verkstadsprodukter"
+	},
+	{
+		"term" : "Stålriktning"
+	},
+	{
+		"term" : "Stålsticksgravyr"
+	},
+	{
+		"term" : "Stålämneshantering"
+	},
+	{
+		"term" : "Städbesiktning"
+	},
+	{
+		"term" : "Städmaterial"
+	},
+	{
+		"term" : "Städning av förskola\/Städning av skola"
+	},
+	{
+		"term" : "Städtjänster"
+	},
+	{
+		"term" : "Städvana, hotell"
+	},
+	{
+		"term" : "Ställagemontering"
+	},
+	{
+		"term" : "Ställverk, installation och underhåll"
+	},
+	{
+		"term" : "Stämledning, inriktning instrumentalist"
+	},
+	{
+		"term" : "Stämning av dragspel"
+	},
+	{
+		"term" : "Stämning av orglar"
+	},
+	{
+		"term" : "Stämning av pianon"
+	},
+	{
+		"term" : "Ständiga förbättringar\/Lean"
+	},
+	{
+		"term" : "Stödterapi"
+	},
+	{
 		"term" : "Sufflering"
 	},
 	{
@@ -14352,16 +14274,19 @@
 		"term" : "Sun Certified Java Developer"
 	},
 	{
+		"term" : "Sun Certified Java Programmer\/SCJP"
+	},
+	{
 		"term" : "Sun Certified Network Administrator"
+	},
+	{
+		"term" : "Sun Certified System Administrator\/CSA"
 	},
 	{
 		"term" : "Sun Java Enterprise System, webbserverprogram"
 	},
 	{
 		"term" : "Sun SeeBeyond eGate Integrator, integrationsplattform"
-	},
-	{
-		"term" : "Supply chain management (SCM)\/Flödesekonomi"
 	},
 	{
 		"term" : "Supply-fartyg"
@@ -14382,7 +14307,7 @@
 		"term" : "Svalbädd"
 	},
 	{
-		"term" : "Sväljsvårigheter, behandling"
+		"term" : "Swappar"
 	},
 	{
 		"term" : "Svart certifikat, CNC"
@@ -14398,6 +14323,9 @@
 	},
 	{
 		"term" : "SVEA, styr- och utvecklingsmodell"
+	},
+	{
+		"term" : "Sweet"
 	},
 	{
 		"term" : "Svensk skidlärarexamen, SLAO"
@@ -14442,6 +14370,12 @@
 		"term" : "Svetsteknik"
 	},
 	{
+		"term" : "Swift, programmeringsspråk"
+	},
+	{
+		"term" : "Swing"
+	},
+	{
 		"term" : "Svinskötsel"
 	},
 	{
@@ -14451,19 +14385,10 @@
 		"term" : "Svinstyckning"
 	},
 	{
-		"term" : "Swappar"
-	},
-	{
-		"term" : "Sweet"
-	},
-	{
-		"term" : "Swift, programmeringsspråk"
-	},
-	{
-		"term" : "Swing"
-	},
-	{
 		"term" : "Switchar, installation och underhåll"
+	},
+	{
+		"term" : "Sväljsvårigheter, behandling"
 	},
 	{
 		"term" : "Sydamerikas arkeologi"
@@ -14493,7 +14418,7 @@
 		"term" : "Synskadade elever, vana vid"
 	},
 	{
-		"term" : "Synskadade, arbetslivsinriktad rehab."
+		"term" : "Synskadade, arbetslivsinriktad rehabilitering"
 	},
 	{
 		"term" : "Synskadade, handikappfrågor"
@@ -14535,19 +14460,73 @@
 		"term" : "Systemutveckling"
 	},
 	{
+		"term" : "Såg"
+	},
+	{
+		"term" : "Sågande skärning"
+	},
+	{
+		"term" : "Sågning, CNC"
+	},
+	{
+		"term" : "Sågning, konventionell maskin"
+	},
+	{
+		"term" : "Sång, undervisning musikskola"
+	},
+	{
+		"term" : "Sångkunnig"
+	},
+	{
+		"term" : "Säckpipa"
+	},
+	{
+		"term" : "Säkerhetsanalys, datasäkerhet"
+	},
+	{
+		"term" : "Säkerhetsdörrar, monteringsvana"
+	},
+	{
+		"term" : "Säkerhetsfrågor"
+	},
+	{
+		"term" : "Säkerhetsglas, monteringsvana"
+	},
+	{
+		"term" : "Säljcoachning"
+	},
+	{
+		"term" : "Säljledning"
+	},
+	{
+		"term" : "Säljsupport, administrativt säljstöd"
+	},
+	{
+		"term" : "Sällskapsdans, undervisning"
+	},
+	{
+		"term" : "Sänkgnistning"
+	},
+	{
+		"term" : "Särskola"
+	},
+	{
+		"term" : "Sökmotormarknadsföring\/SEM"
+	},
+	{
+		"term" : "Sökordsoptimering\/SEO"
+	},
+	{
+		"term" : "Sömnad"
+	},
+	{
+		"term" : "Sömnad, cirkelledning"
+	},
+	{
 		"term" : "Tackjärnshantering"
 	},
 	{
-		"term" : "Taekwondo, instruktör\/tränare"
-	},
-	{
-		"term" : "Tågklarerarutbildning"
-	},
-	{
-		"term" : "Tågmästarutbildning"
-	},
-	{
-		"term" : "Tågvärdsutbildning"
+		"term" : "Taekwondo, instruktör\/Taekwondo, tränare"
 	},
 	{
 		"term" : "Tak- och fasadisolering"
@@ -14646,9 +14625,6 @@
 		"term" : "Tankrengöring"
 	},
 	{
-		"term" : "Tapeter\/färg\/kemikalieprodukter"
-	},
-	{
 		"term" : "Tapetsering, fordon"
 	},
 	{
@@ -14661,16 +14637,7 @@
 		"term" : "Tappning, konventionell maskin"
 	},
 	{
-		"term" : "Tärning, croupierutbildad"
-	},
-	{
-		"term" : "Tårtor\/bakelser"
-	},
-	{
 		"term" : "Tatueringar"
-	},
-	{
-		"term" : "Tavelramar och konstnärsmaterial"
 	},
 	{
 		"term" : "Taxiförarlegitimation"
@@ -14689,9 +14656,6 @@
 	},
 	{
 		"term" : "Teater"
-	},
-	{
-		"term" : "Teater\/drama, undervisning"
 	},
 	{
 		"term" : "Teaterdekor"
@@ -14754,6 +14718,9 @@
 		"term" : "Teknisk dokumentation"
 	},
 	{
+		"term" : "Teknisk fysik"
+	},
+	{
 		"term" : "Teknisk försäljning"
 	},
 	{
@@ -14763,25 +14730,25 @@
 		"term" : "Teknisk förvaltning, fastigheter"
 	},
 	{
-		"term" : "Teknisk fysik"
-	},
-	{
 		"term" : "Teknisk illustration"
-	},
-	{
-		"term" : "Teknisk översättning"
 	},
 	{
 		"term" : "Teknisk rådgivning"
 	},
 	{
-		"term" : "Teknisk tjänst\/flyg, specialisering för officer"
+		"term" : "Teknisk tjänst inom flyg, specialisering för officer"
 	},
 	{
-		"term" : "Teknisk tjänst\/marin, specialisering för officer"
+		"term" : "Teknisk tjänst inom marin, specialisering för officer"
 	},
 	{
 		"term" : "Teknisk upphandling"
+	},
+	{
+		"term" : "Teknisk översättning"
+	},
+	{
+		"term" : "Tekniska beräkningar\/MATLAB"
 	},
 	{
 		"term" : "Tele, specialisering för officer"
@@ -14808,7 +14775,7 @@
 		"term" : "Telia Centrex, hänvisningssystem"
 	},
 	{
-		"term" : "Tennis, instruktör\/tränare"
+		"term" : "Tennis, instruktör\/Tennis, tränare"
 	},
 	{
 		"term" : "Tennis, professionell utövning"
@@ -14880,10 +14847,10 @@
 		"term" : "Testlink, systemutvecklingsverktyg"
 	},
 	{
-		"term" : "Testning\/verifiering, hårdvara"
+		"term" : "Testning, hårdvara\/Verifiering, hårdvara"
 	},
 	{
-		"term" : "Testning\/verifiering, mjukvara"
+		"term" : "Testning, mjukvara\/Verifiering, mjukvara"
 	},
 	{
 		"term" : "Testrail, systemutvecklingsverktyg"
@@ -14916,9 +14883,6 @@
 		"term" : "Textilfärgning"
 	},
 	{
-		"term" : "Textilier och skinn"
-	},
-	{
 		"term" : "Textilkemi"
 	},
 	{
@@ -14949,6 +14913,12 @@
 		"term" : "Thaimassage"
 	},
 	{
+		"term" : "The Seven Quality Control Tools\/7QC"
+	},
+	{
+		"term" : "The Seven Quality Management Tools\/7QM"
+	},
+	{
 		"term" : "Think Free"
 	},
 	{
@@ -14977,9 +14947,6 @@
 	},
 	{
 		"term" : "TIG-svetsning"
-	},
-	{
-		"term" : "Tillämpad statistik"
 	},
 	{
 		"term" : "Tillskärning, däcksgummi"
@@ -15069,6 +15036,9 @@
 		"term" : "Tillverkningsvana, inredningssnickerier"
 	},
 	{
+		"term" : "Tillämpad statistik"
+	},
+	{
 		"term" : "Timmertransporter, körvana"
 	},
 	{
@@ -15094,6 +15064,9 @@
 	},
 	{
 		"term" : "Tjänstemarknadsföring"
+	},
+	{
+		"term" : "Tjänsteorienterande arkitektur\/SOA"
 	},
 	{
 		"term" : "Tobaksvaror"
@@ -15126,6 +15099,15 @@
 		"term" : "Torvupptagning (maskinkörning)"
 	},
 	{
+		"term" : "Total Productive Maintenance\/TPM"
+	},
+	{
+		"term" : "Total Quality Control\/TQC"
+	},
+	{
+		"term" : "Total Quality Management\/TQM"
+	},
+	{
 		"term" : "Totalstation (mätinstrument)"
 	},
 	{
@@ -15138,70 +15120,10 @@
 		"term" : "Toxikologi"
 	},
 	{
-		"term" : "TPM (Total Productive Maintenance)"
-	},
-	{
-		"term" : "TQC (Total Quality Control)"
-	},
-	{
-		"term" : "TQM (Total Quality Management)"
-	},
-	{
-		"term" : "Träarbete, anläggning"
-	},
-	{
-		"term" : "Träarbete, husbyggnad"
-	},
-	{
-		"term" : "Träbåtar, reparationsvana"
-	},
-	{
-		"term" : "Tråddragning"
-	},
-	{
-		"term" : "Tråddragningsteknik"
-	},
-	{
-		"term" : "Trädfällning"
-	},
-	{
-		"term" : "Trädgårdsdesign"
-	},
-	{
-		"term" : "Trädgårdsingenjörsexamen"
-	},
-	{
-		"term" : "Trädgårdsrådgivning"
-	},
-	{
-		"term" : "Trädgårdsskötsel"
-	},
-	{
-		"term" : "Trädgårdsskötsel, cirkelledning"
-	},
-	{
-		"term" : "Trädgårdsteknik"
-	},
-	{
-		"term" : "Trådgnistning"
-	},
-	{
 		"term" : "Trading"
 	},
 	{
 		"term" : "Tradjazz"
-	},
-	{
-		"term" : "Trådning"
-	},
-	{
-		"term" : "Trådspolning, metall"
-	},
-	{
-		"term" : "Trådvalsning"
-	},
-	{
-		"term" : "Trädvård"
 	},
 	{
 		"term" : "Traffic-X, logistiksystem"
@@ -15210,10 +15132,7 @@
 		"term" : "Trafik och kommunikation, områdeskunskap"
 	},
 	{
-		"term" : "Trafikövervakarutbildning"
-	},
-	{
-		"term" : "Trafikövervakning"
+		"term" : "Trafikföreskrifter för järnväg\/JTF"
 	},
 	{
 		"term" : "Trafiksäkerhetsregler"
@@ -15237,31 +15156,28 @@
 		"term" : "Trafikverkets föreskriftsregler"
 	},
 	{
-		"term" : "Trägolv"
+		"term" : "Trafikövervakarutbildning"
 	},
 	{
-		"term" : "Trägravyr"
+		"term" : "Trafikövervakning"
 	},
 	{
 		"term" : "Trailerproduktion"
 	},
 	{
-		"term" : "Träkonstruktioner"
-	},
-	{
 		"term" : "Traktorkort"
 	},
 	{
-		"term" : "Trålfiske"
-	},
-	{
-		"term" : "Träningsskola"
+		"term" : "Tramp\/Foley"
 	},
 	{
 		"term" : "Transferverktyg, tillverkning"
 	},
 	{
 		"term" : "Transfusionsmedicin"
+	},
+	{
+		"term" : "Transkulturell psykologi"
 	},
 	{
 		"term" : "Transportekonomi"
@@ -15300,28 +15216,13 @@
 		"term" : "Trappstädning"
 	},
 	{
-		"term" : "Träskor, tillverkning"
-	},
-	{
-		"term" : "Träskulptur"
-	},
-	{
-		"term" : "Träsnideri"
-	},
-	{
-		"term" : "Träsnitt"
-	},
-	{
 		"term" : "Traumavård"
 	},
 	{
-		"term" : "Trav, instruktör\/tränare"
+		"term" : "Trav, instruktör\/Trav, tränare"
 	},
 	{
 		"term" : "Trav, professionell utövning"
-	},
-	{
-		"term" : "Trävaruarbete"
 	},
 	{
 		"term" : "Travers\/Lyftanordningar"
@@ -15330,10 +15231,7 @@
 		"term" : "Traverskörning"
 	},
 	{
-		"term" : "Triathlon, instruktör\/tränare"
-	},
-	{
-		"term" : "Trickfilmsfotografering"
+		"term" : "Triathlon, instruktör\/Triathlon, tränare"
 	},
 	{
 		"term" : "Triggerpunktsbehandling"
@@ -15381,6 +15279,87 @@
 		"term" : "Trycksakskalkylering"
 	},
 	{
+		"term" : "Tråddragning"
+	},
+	{
+		"term" : "Tråddragningsteknik"
+	},
+	{
+		"term" : "Trådgnistning"
+	},
+	{
+		"term" : "Trådning"
+	},
+	{
+		"term" : "Trådspolning, metall"
+	},
+	{
+		"term" : "Trådvalsning"
+	},
+	{
+		"term" : "Trålfiske"
+	},
+	{
+		"term" : "Träarbete, anläggning"
+	},
+	{
+		"term" : "Träarbete, husbyggnad"
+	},
+	{
+		"term" : "Träbåtar, reparationsvana"
+	},
+	{
+		"term" : "Trädfällning"
+	},
+	{
+		"term" : "Trädgårdsdesign"
+	},
+	{
+		"term" : "Trädgårdsingenjörsexamen"
+	},
+	{
+		"term" : "Trädgårdsrådgivning"
+	},
+	{
+		"term" : "Trädgårdsskötsel"
+	},
+	{
+		"term" : "Trädgårdsskötsel, cirkelledning"
+	},
+	{
+		"term" : "Trädgårdsteknik"
+	},
+	{
+		"term" : "Trädvård"
+	},
+	{
+		"term" : "Trägolv"
+	},
+	{
+		"term" : "Trägravyr"
+	},
+	{
+		"term" : "Träkonstruktioner"
+	},
+	{
+		"term" : "Träningsskola"
+	},
+	{
+		"term" : "Träskor, tillverkning"
+	},
+	{
+		"term" : "Träskulptur"
+	},
+	{
+		"term" : "Träsnideri"
+	},
+	{
+		"term" : "Träsnitt"
+	},
+	{
+		"term" : "Trävaruarbete"
+	},
+	{
 		"term" : "TSS-tolkning (Tecken som Stöd)"
 	},
 	{
@@ -15420,10 +15399,10 @@
 		"term" : "Turkiskt kök"
 	},
 	{
-		"term" : "Turnéläggning"
+		"term" : "Turnéledning"
 	},
 	{
-		"term" : "Turnéledning"
+		"term" : "Turnéläggning"
 	},
 	{
 		"term" : "Turnéteknik"
@@ -15438,10 +15417,16 @@
 		"term" : "TV"
 	},
 	{
-		"term" : "TV\/video\/radio\/hi-fi"
+		"term" : "TV, reparationsvana\/Hi-fi, reparationsvana"
 	},
 	{
-		"term" : "TV\/video\/radio\/hi-fi, reparationsvana"
+		"term" : "TV-journalistik"
+	},
+	{
+		"term" : "TV-produktion"
+	},
+	{
+		"term" : "TV-sändning"
 	},
 	{
 		"term" : "Tvärflöjt"
@@ -15456,19 +15441,10 @@
 		"term" : "Tvätteri"
 	},
 	{
-		"term" : "TV-journalistik"
-	},
-	{
 		"term" : "TV-övervakning, installationsvana"
 	},
 	{
-		"term" : "TV-produktion"
-	},
-	{
-		"term" : "TV-sändning"
-	},
-	{
-		"term" : "Tyngdlyftning, instruktör\/tränare"
+		"term" : "Tyngdlyftning, instruktör\/Tyngdlyftning, tränare"
 	},
 	{
 		"term" : "Typbesiktning"
@@ -15490,6 +15466,21 @@
 	},
 	{
 		"term" : "Tyska, undervisning"
+	},
+	{
+		"term" : "Tågklarerarutbildning"
+	},
+	{
+		"term" : "Tågmästarutbildning"
+	},
+	{
+		"term" : "Tågvärdsutbildning"
+	},
+	{
+		"term" : "Tårtor\/Bakelser"
+	},
+	{
+		"term" : "Tärning, croupierutbildad"
 	},
 	{
 		"term" : "Ubuntu, operativsystem"
@@ -15522,7 +15513,7 @@
 		"term" : "Ultraljudsundersökningar"
 	},
 	{
-		"term" : "Umgängesrätt (utredningar)"
+		"term" : "Umgängesrätt, utredningar"
 	},
 	{
 		"term" : "UML, programmeringsspråk"
@@ -15537,7 +15528,7 @@
 		"term" : "Underhållsarbete, snickeri"
 	},
 	{
-		"term" : "Underhållsarbete, VA- och gatunät"
+		"term" : "Underhållsarbete, VA-nät\/Underhållsarbete, gatunät"
 	},
 	{
 		"term" : "Underhållskontroll av tak och fasader"
@@ -15585,6 +15576,9 @@
 		"term" : "Undervattenssprängning"
 	},
 	{
+		"term" : "Undervisning, erfarenhet"
+	},
+	{
 		"term" : "Ungdomspsykologi"
 	},
 	{
@@ -15594,16 +15588,13 @@
 		"term" : "Unit tester, metod\/systemutvecklingsverktyg"
 	},
 	{
-		"term" : "Unity"
+		"term" : "Unity, spelmotor"
 	},
 	{
 		"term" : "UNIX, operativsystem"
 	},
 	{
 		"term" : "Unix-script, programmeringsspråk"
-	},
-	{
-		"term" : "Unreal"
 	},
 	{
 		"term" : "Unreal Engine, spelmotor"
@@ -15637,9 +15628,6 @@
 	},
 	{
 		"term" : "User experience"
-	},
-	{
-		"term" : "Utåtagerande elever, erfarenhet"
 	},
 	{
 		"term" : "Utbildad dramapedagog"
@@ -15720,10 +15708,10 @@
 		"term" : "Utbildningsbevis, mobila arbetsplattformar"
 	},
 	{
-		"term" : "Utbildningsbevis, säkra lyft"
+		"term" : "Utbildningsbevis, ställningsbyggnad 2 - 9 meter"
 	},
 	{
-		"term" : "Utbildningsbevis, ställningsbyggnad 2 - 9 meter"
+		"term" : "Utbildningsbevis, säkra lyft"
 	},
 	{
 		"term" : "Utbildningsbevis, VVS-isolerare"
@@ -15756,9 +15744,6 @@
 		"term" : "Utlandsinkasso"
 	},
 	{
-		"term" : "Utländska endorsement"
-	},
-	{
 		"term" : "Utlandstjänstgöring, erfarenhet"
 	},
 	{
@@ -15766,6 +15751,9 @@
 	},
 	{
 		"term" : "Utlandstrafik, planering"
+	},
+	{
+		"term" : "Utländska endorsement"
 	},
 	{
 		"term" : "Utmanande beteende, omsorgserfarenhet"
@@ -15786,13 +15774,10 @@
 		"term" : "Utrikesjournalistik"
 	},
 	{
-		"term" : "Utsättning"
+		"term" : "Utskrift efter diktamen"
 	},
 	{
 		"term" : "Utskärning, skinn och läder"
-	},
-	{
-		"term" : "Utskrift efter diktamen"
 	},
 	{
 		"term" : "Utställning"
@@ -15805,6 +15790,9 @@
 	},
 	{
 		"term" : "Utställningsteknik"
+	},
+	{
+		"term" : "Utsättning"
 	},
 	{
 		"term" : "Utveckling av statistiska metoder"
@@ -15828,49 +15816,22 @@
 		"term" : "Utvecklingssamtal, metodutveckling"
 	},
 	{
+		"term" : "Utåtagerande elever, erfarenhet"
+	},
+	{
 		"term" : "UV-strålning"
 	},
 	{
 		"term" : "VA-anläggningsarbete"
 	},
 	{
-		"term" : "Väderobservationer"
-	},
-	{
-		"term" : "Väg- och trafikplanering"
-	},
-	{
-		"term" : "Väg- och vattenbyggnadsteknik"
-	},
-	{
-		"term" : "Vägbevakning"
-	},
-	{
-		"term" : "Vägbyggnad"
-	},
-	{
-		"term" : "Vägfärja"
-	},
-	{
-		"term" : "Väggsättning"
-	},
-	{
-		"term" : "Vägledande arbetssätt"
-	},
-	{
-		"term" : "Vägmålning"
-	},
-	{
-		"term" : "Vägteknik"
+		"term" : "Wagnersång"
 	},
 	{
 		"term" : "Vakans, hänvisningssystem"
 	},
 	{
-		"term" : "Väktarutbildning (grundutbildning)"
-	},
-	{
-		"term" : "Vaktmästeri-sjukhus"
+		"term" : "Vaktmästeri, sjukhus"
 	},
 	{
 		"term" : "Vakuumformning"
@@ -15879,13 +15840,16 @@
 		"term" : "Vakuumsanering"
 	},
 	{
+		"term" : "Waldorfförskola, erfarenhet"
+	},
+	{
+		"term" : "Waldorfpedagogik"
+	},
+	{
 		"term" : "Vallodling"
 	},
 	{
 		"term" : "Valsslipning"
-	},
-	{
-		"term" : "Vält"
 	},
 	{
 		"term" : "Valthorn"
@@ -15903,6 +15867,9 @@
 		"term" : "Valvmurning"
 	},
 	{
+		"term" : "WAN"
+	},
+	{
 		"term" : "Vapen, arkeologisk kunskap"
 	},
 	{
@@ -15918,46 +15885,16 @@
 		"term" : "Vapenutbildning"
 	},
 	{
-		"term" : "Vård av äldre"
-	},
-	{
-		"term" : "Vård- och omsorgsinriktning, undervisning"
-	},
-	{
-		"term" : "Vårdavdelning\/mottagning"
-	},
-	{
-		"term" : "Vårdcentral"
-	},
-	{
-		"term" : "Värdetransportör, behörighet"
-	},
-	{
-		"term" : "Vårdnadsutredningar"
+		"term" : "WAP-teknik"
 	},
 	{
 		"term" : "Varieténummer"
-	},
-	{
-		"term" : "Värmeanläggning, underhåll"
-	},
-	{
-		"term" : "Värmeisoleringsmontering"
-	},
-	{
-		"term" : "Värmetak"
-	},
-	{
-		"term" : "Värmeteknik"
 	},
 	{
 		"term" : "Varmfogning"
 	},
 	{
 		"term" : "Varmkök"
-	},
-	{
-		"term" : "Värmländska"
 	},
 	{
 		"term" : "Varmvalsning"
@@ -15969,6 +15906,9 @@
 		"term" : "Varubelåning"
 	},
 	{
+		"term" : "Varumottagning"
+	},
+	{
 		"term" : "Varumärkesrätt"
 	},
 	{
@@ -15978,31 +15918,7 @@
 		"term" : "Varumärkning"
 	},
 	{
-		"term" : "Varumottagning"
-	},
-	{
 		"term" : "Varuvärdering"
-	},
-	{
-		"term" : "Västgötska"
-	},
-	{
-		"term" : "Våt- och torrsugning"
-	},
-	{
-		"term" : "Våtblästring"
-	},
-	{
-		"term" : "Våtlackering"
-	},
-	{
-		"term" : "Våtrumsbehörighet, målare"
-	},
-	{
-		"term" : "Våtrumsbehörighet\/BKR, GBR"
-	},
-	{
-		"term" : "Våtrumsbehörighet\/GVK"
 	},
 	{
 		"term" : "Vattenanalyser"
@@ -16038,51 +15954,6 @@
 		"term" : "Vattenvård"
 	},
 	{
-		"term" : "Vävmaskiner"
-	},
-	{
-		"term" : "Vävning"
-	},
-	{
-		"term" : "Växellådsreparationer"
-	},
-	{
-		"term" : "Växling, tåg"
-	},
-	{
-		"term" : "Växtekologi"
-	},
-	{
-		"term" : "Växter, inventering"
-	},
-	{
-		"term" : "Växter, skötselvana"
-	},
-	{
-		"term" : "Växtförädling"
-	},
-	{
-		"term" : "Växtfysiologi"
-	},
-	{
-		"term" : "Växthusarbete"
-	},
-	{
-		"term" : "Växthusodling"
-	},
-	{
-		"term" : "Växtmaterial, konservering"
-	},
-	{
-		"term" : "Växtodling, lantbruk"
-	},
-	{
-		"term" : "Växtodling, trädgård"
-	},
-	{
-		"term" : "Växtskydd"
-	},
-	{
 		"term" : "Vaxursmältningsmetod"
 	},
 	{
@@ -16093,6 +15964,57 @@
 	},
 	{
 		"term" : "vBulletin, publicerings- och portalverktyg"
+	},
+	{
+		"term" : "WCDMA-system"
+	},
+	{
+		"term" : "Web Accessibility Initiative\/WAI"
+	},
+	{
+		"term" : "Web Content Accessibility Guidelines\/WCAG"
+	},
+	{
+		"term" : "Webb"
+	},
+	{
+		"term" : "Webbdesign"
+	},
+	{
+		"term" : "Webbdesign-Adobe Animate\/Flash"
+	},
+	{
+		"term" : "Webbdesign-Adobe ColdFusion"
+	},
+	{
+		"term" : "Webbdesign-Adobe Dreamweaver"
+	},
+	{
+		"term" : "Webbdesign-Adobe Fireworks"
+	},
+	{
+		"term" : "Webbdesign-Wordpress"
+	},
+	{
+		"term" : "Webbredigering"
+	},
+	{
+		"term" : "Webbservrar, installation och underhåll"
+	},
+	{
+		"term" : "Webbtjänster, produktkunskap"
+	},
+	{
+		"term" : "Webbutveckling"
+	},
+	{
+		"term" : "Webedit, texteditor"
+	},
+	{
+		"term" : "Weblogic Server, applikationsplattform"
+	},
+	{
+		"term" : "WebSphere, publicerings- och portalverktyg"
 	},
 	{
 		"term" : "Vedugnsbakning"
@@ -16164,7 +16086,7 @@
 		"term" : "Verksamhetsledning, elverk"
 	},
 	{
-		"term" : "Verksamhetsledning, film\/TV"
+		"term" : "Verksamhetsledning, film\/Verksamhetsledning, TV"
 	},
 	{
 		"term" : "Verksamhetsledning, flygplats"
@@ -16218,22 +16140,25 @@
 		"term" : "Verksamhetsledning, rederi"
 	},
 	{
-		"term" : "Verksamhetsledning, särskola"
-	},
-	{
 		"term" : "Verksamhetsledning, simhall"
 	},
 	{
 		"term" : "Verksamhetsledning, skogsbruk"
 	},
 	{
-		"term" : "Verksamhetsledning, städföretag"
-	},
-	{
 		"term" : "Verksamhetsledning, stadsträdgård"
 	},
 	{
+		"term" : "Verksamhetsledning, städföretag"
+	},
+	{
+		"term" : "Verksamhetsledning, särskola"
+	},
+	{
 		"term" : "Verksamhetsledning, telefoni"
+	},
+	{
+		"term" : "Verksamhetsledning, travbana"
 	},
 	{
 		"term" : "Verksamhetsledning, trädgårdsföretag"
@@ -16242,19 +16167,10 @@
 		"term" : "Verksamhetsledning, träningsskola"
 	},
 	{
-		"term" : "Verksamhetsledning, travbana"
-	},
-	{
 		"term" : "Verksamhetsledning, tvätteri"
 	},
 	{
 		"term" : "Verksamhetsledning, utbildningsföretag"
-	},
-	{
-		"term" : "Verksamhetsledning, vård"
-	},
-	{
-		"term" : "Verksamhetsledning, värmeverk"
 	},
 	{
 		"term" : "Verksamhetsledning, varuhus"
@@ -16264,6 +16180,12 @@
 	},
 	{
 		"term" : "Verksamhetsledning, verkstad"
+	},
+	{
+		"term" : "Verksamhetsledning, vård"
+	},
+	{
+		"term" : "Verksamhetsledning, värmeverk"
 	},
 	{
 		"term" : "Verkstadsmaskiner"
@@ -16296,7 +16218,7 @@
 		"term" : "Versionering"
 	},
 	{
-		"term" : "Vete-\/wienerdegar, beredningsvana"
+		"term" : "Vetedegar, beredningsvana\/Wienerdegar, beredningsvana"
 	},
 	{
 		"term" : "Vetenskapsjournalistik"
@@ -16320,9 +16242,6 @@
 		"term" : "Video, konstnärlig\/Film, konstnärlig"
 	},
 	{
-		"term" : "Videobandteknik"
-	},
-	{
 		"term" : "Videofotografering"
 	},
 	{
@@ -16332,7 +16251,7 @@
 		"term" : "Videoteknik"
 	},
 	{
-		"term" : "Vildmarks-\/äventyrsresor, ledarerfarenhet"
+		"term" : "Vildmarkresor, ledarerfarenhet\/Äventyrsresor, ledarerfarenhet"
 	},
 	{
 		"term" : "Vilotidsförordningen"
@@ -16353,10 +16272,25 @@
 		"term" : "Viltvård"
 	},
 	{
-		"term" : "Vin och sprit"
+		"term" : "Vinberedning"
 	},
 	{
-		"term" : "Vinberedning"
+		"term" : "Windows Azure, molnplattform"
+	},
+	{
+		"term" : "Windows för mobila enheter"
+	},
+	{
+		"term" : "Windows Powershell, systemutvecklingsverktyg"
+	},
+	{
+		"term" : "Windows Server, applikationsplattform"
+	},
+	{
+		"term" : "Windows Server, operativsystem"
+	},
+	{
+		"term" : "Windows, operativsystem"
 	},
 	{
 		"term" : "Vinjournalistik"
@@ -16366,6 +16300,9 @@
 	},
 	{
 		"term" : "Vinlista, planeringsvana"
+	},
+	{
+		"term" : "WINNIN, hotellbokningssystem"
 	},
 	{
 		"term" : "Vinplantering"
@@ -16384,6 +16321,12 @@
 	},
 	{
 		"term" : "Violin"
+	},
+	{
+		"term" : "Wireframe"
+	},
+	{
+		"term" : "Wireshark, analysverktyg"
 	},
 	{
 		"term" : "Virkeskontraktering"
@@ -16411,6 +16354,12 @@
 	},
 	{
 		"term" : "Virologi"
+	},
+	{
+		"term" : "Virtual reality\/VR"
+	},
+	{
+		"term" : "Wise Installation Express, programmeringsverktyg"
 	},
 	{
 		"term" : "Vision 80\/20, telefonväxel"
@@ -16455,25 +16404,31 @@
 		"term" : "Visum till USA"
 	},
 	{
-		"term" : "Vitvaror och hushållsmaskiner"
-	},
-	{
 		"term" : "Vivaldi, hotellbokningssystem"
 	},
 	{
 		"term" : "VM\/CMS, operativsystem"
 	},
 	{
+		"term" : "WML, programmeringsspråk"
+	},
+	{
 		"term" : "VMS, operativsystem"
 	},
 	{
-		"term" : "Volleyboll, instruktör\/tränare"
+		"term" : "Wok"
+	},
+	{
+		"term" : "Volleyboll, instruktör\/Volleyboll, tränare"
+	},
+	{
+		"term" : "WordPress, publicerings- och portalverktyg"
+	},
+	{
+		"term" : "World music"
 	},
 	{
 		"term" : "VPN, privat nätverk"
-	},
-	{
-		"term" : "VR, Virtual reality"
 	},
 	{
 		"term" : "VRML, programmeringsspråk"
@@ -16551,115 +16506,142 @@
 		"term" : "VxWorks, operativsystem"
 	},
 	{
-		"term" : "Wagnersång"
-	},
-	{
-		"term" : "Waldorfförskola, erfarenhet"
-	},
-	{
-		"term" : "Waldorfpedagogik"
-	},
-	{
-		"term" : "WAN"
-	},
-	{
-		"term" : "WAP-teknik"
-	},
-	{
-		"term" : "WCAG (Web Content Accessibility Guidelines)"
-	},
-	{
-		"term" : "WCDMA-system"
-	},
-	{
-		"term" : "Web Accessibility Initiative, WAI"
-	},
-	{
-		"term" : "Webb"
-	},
-	{
-		"term" : "Webbdesign"
-	},
-	{
-		"term" : "Webbdesign-Adobe Animate\/Flash"
-	},
-	{
-		"term" : "Webbdesign-Adobe ColdFusion"
-	},
-	{
-		"term" : "Webbdesign-Adobe Dreamweaver"
-	},
-	{
-		"term" : "Webbdesign-Adobe Fireworks"
-	},
-	{
-		"term" : "Webbdesign-Wordpress"
-	},
-	{
-		"term" : "Webbredigering"
-	},
-	{
-		"term" : "Webbservrar, installation och underhåll"
-	},
-	{
-		"term" : "Webbtjänster, produktkunskap"
-	},
-	{
-		"term" : "Webbutveckling"
-	},
-	{
-		"term" : "Webedit, texteditor"
-	},
-	{
-		"term" : "Weblogic Server, applikationsplattform"
-	},
-	{
-		"term" : "WebSphere, publicerings- och portalverktyg"
-	},
-	{
-		"term" : "Windows Azure, molnplattform"
-	},
-	{
-		"term" : "Windows för mobila enheter"
-	},
-	{
-		"term" : "Windows Powershell, systemutvecklingsverktyg"
-	},
-	{
-		"term" : "Windows Server, applikationsplattform"
-	},
-	{
-		"term" : "Windows Server, operativsystem"
-	},
-	{
-		"term" : "Windows, operativsystem"
-	},
-	{
-		"term" : "WINNIN, hotellbokningssystem"
-	},
-	{
-		"term" : "Wireframe"
-	},
-	{
-		"term" : "Wireshark, analysverktyg"
-	},
-	{
-		"term" : "Wise Installation Express, programmeringsverktyg"
-	},
-	{
-		"term" : "WML, programmeringsspråk"
-	},
-	{
-		"term" : "Wok"
-	},
-	{
-		"term" : "WordPress, publicerings- och portalverktyg"
-	},
-	{
-		"term" : "World music"
-	},
-	{
 		"term" : "Wysiwug"
+	},
+	{
+		"term" : "Vård av äldre"
+	},
+	{
+		"term" : "Vård- och omsorgsinriktning, undervisning"
+	},
+	{
+		"term" : "Vårdavdelning\/Mottagning"
+	},
+	{
+		"term" : "Vårdcentral"
+	},
+	{
+		"term" : "Vårdnadsutredningar"
+	},
+	{
+		"term" : "Våt- och torrsugning"
+	},
+	{
+		"term" : "Våtblästring"
+	},
+	{
+		"term" : "Våtlackering"
+	},
+	{
+		"term" : "Våtrumsbehörighet, målare"
+	},
+	{
+		"term" : "Våtrumsbehörighet\/BKR, GBR"
+	},
+	{
+		"term" : "Våtrumsbehörighet\/GVK"
+	},
+	{
+		"term" : "Väderobservationer"
+	},
+	{
+		"term" : "Väg- och trafikplanering"
+	},
+	{
+		"term" : "Väg- och vattenbyggnadsteknik"
+	},
+	{
+		"term" : "Vägbevakning"
+	},
+	{
+		"term" : "Vägbyggnad"
+	},
+	{
+		"term" : "Vägfärja"
+	},
+	{
+		"term" : "Väggsättning"
+	},
+	{
+		"term" : "Vägledande arbetssätt"
+	},
+	{
+		"term" : "Vägmålning"
+	},
+	{
+		"term" : "Vägteknik"
+	},
+	{
+		"term" : "Väktarutbildning (grundutbildning)"
+	},
+	{
+		"term" : "Vält"
+	},
+	{
+		"term" : "Värdetransportör, behörighet"
+	},
+	{
+		"term" : "Värmeanläggning, underhåll"
+	},
+	{
+		"term" : "Värmeisoleringsmontering"
+	},
+	{
+		"term" : "Värmetak"
+	},
+	{
+		"term" : "Värmeteknik"
+	},
+	{
+		"term" : "Värmländska"
+	},
+	{
+		"term" : "Västgötska"
+	},
+	{
+		"term" : "Vävmaskiner"
+	},
+	{
+		"term" : "Vävning"
+	},
+	{
+		"term" : "Växellådsreparationer"
+	},
+	{
+		"term" : "Växling, tåg"
+	},
+	{
+		"term" : "Växtekologi"
+	},
+	{
+		"term" : "Växter, inventering"
+	},
+	{
+		"term" : "Växter, skötselvana"
+	},
+	{
+		"term" : "Växtfysiologi"
+	},
+	{
+		"term" : "Växtförädling"
+	},
+	{
+		"term" : "Växthusarbete"
+	},
+	{
+		"term" : "Växthusodling"
+	},
+	{
+		"term" : "Växtmaterial, konservering"
+	},
+	{
+		"term" : "Växtodling, lantbruk"
+	},
+	{
+		"term" : "Växtodling, trädgård"
+	},
+	{
+		"term" : "Växtskydd"
 	},
 	{
 		"term" : "X.25, kommunikationsprotokoll"
@@ -16722,7 +16704,7 @@
 		"term" : "Yoga, cirkelledning"
 	},
 	{
-		"term" : "Yoga, instruktör\/tränare"
+		"term" : "Yoga, instruktör\/Yoga, tränare"
 	},
 	{
 		"term" : "Yogamassage"
@@ -16773,13 +16755,13 @@
 		"term" : "Yrkesbevis, golvläggare"
 	},
 	{
+		"term" : "Yrkesbevis, grundläggning"
+	},
+	{
 		"term" : "Yrkesbevis, gräs"
 	},
 	{
-		"term" : "Yrkesbevis, grävmaskin\/grävlastare"
-	},
-	{
-		"term" : "Yrkesbevis, grundläggning"
+		"term" : "Yrkesbevis, grävlastare\/Yrkesbevis, grävmaskin"
 	},
 	{
 		"term" : "Yrkesbevis, hjullastare, anläggning"
@@ -16812,7 +16794,7 @@
 		"term" : "Yrkesbevis, PRYL"
 	},
 	{
-		"term" : "Yrkesbevis, ritningsläsn., avvägning, utsättning"
+		"term" : "Yrkesbevis, ritningsläsning, avvägning, utsättning"
 	},
 	{
 		"term" : "Yrkesbevis, schakt, fyllning och dränering"
@@ -16824,10 +16806,10 @@
 		"term" : "Yrkesbevis, SRY"
 	},
 	{
-		"term" : "Yrkesbevis, ställningsbyggare"
+		"term" : "Yrkesbevis, stenmontör"
 	},
 	{
-		"term" : "Yrkesbevis, stenmontör"
+		"term" : "Yrkesbevis, ställningsbyggare"
 	},
 	{
 		"term" : "Yrkesbevis, tak- och tätskiktsmontör"
@@ -16842,22 +16824,22 @@
 		"term" : "Yrkesbevis, tornkran"
 	},
 	{
-		"term" : "Yrkesbevis, träarbetare"
-	},
-	{
 		"term" : "Yrkesbevis, trappor och murar"
 	},
 	{
+		"term" : "Yrkesbevis, träarbetare"
+	},
+	{
 		"term" : "Yrkesbevis, undertaksmontör"
+	},
+	{
+		"term" : "Yrkesbevis, ventilationsplåtslagare"
 	},
 	{
 		"term" : "Yrkesbevis, väghyvel"
 	},
 	{
 		"term" : "Yrkesbevis, växtkännedom steg 1-3"
-	},
-	{
-		"term" : "Yrkesbevis, ventilationsplåtslagare"
 	},
 	{
 		"term" : "Yrkesdiplom, försäkringsförmedlare"
@@ -16890,9 +16872,6 @@
 		"term" : "Ystning, manuell"
 	},
 	{
-		"term" : "Yt- och kolloidkemi"
-	},
-	{
 		"term" : "Ytbehandling"
 	},
 	{
@@ -16903,6 +16882,9 @@
 	},
 	{
 		"term" : "Ytkemi"
+	},
+	{
+		"term" : "Ytkemi\/Kolloidkemi"
 	},
 	{
 		"term" : "Ytmodellering"
@@ -16924,5 +16906,92 @@
 	},
 	{
 		"term" : "Zoologi"
+	},
+	{
+		"term" : "Å-data, redovisningssystem"
+	},
+	{
+		"term" : "Ångfartyg"
+	},
+	{
+		"term" : "Ångkraftanläggning, underhåll"
+	},
+	{
+		"term" : "Ångloksreparationer"
+	},
+	{
+		"term" : "Återvinning, konstnärlig"
+	},
+	{
+		"term" : "Återvinningsteknik"
+	},
+	{
+		"term" : "Ädelmetallgravyr"
+	},
+	{
+		"term" : "Ädelstensslipning"
+	},
+	{
+		"term" : "Äger godkänd tjänstehund"
+	},
+	{
+		"term" : "Äggsortering"
+	},
+	{
+		"term" : "Äldreboende"
+	},
+	{
+		"term" : "Äldreomsorg"
+	},
+	{
+		"term" : "Ämneslärarexamen"
+	},
+	{
+		"term" : "Ändringsarbeten, pälsar"
+	},
+	{
+		"term" : "Ändringsarbeten, skrädderi"
+	},
+	{
+		"term" : "Ögonsjukdomar"
+	},
+	{
+		"term" : "Ögonsjukvård"
+	},
+	{
+		"term" : "Öppen förskola, erfarenhet"
+	},
+	{
+		"term" : "Öppen vård"
+	},
+	{
+		"term" : "Öppenvårdsapotek"
+	},
+	{
+		"term" : "Öppna spisar, murningsvana"
+	},
+	{
+		"term" : "Öron-, näs- och halssjukdomar"
+	},
+	{
+		"term" : "Östgötska"
+	},
+	{
+		"term" : "Övergreppsproblematik, behandlingserfarenhet\/Incest, behandlingserfarenhet"
+	},
+	{
+		"term" : "Övermaskineri"
+	},
+	{
+		"term" : "Överrättstjänstgöring, hovrätt\/Överrättstjänstgöring, kammarrätt"
+	},
+	{
+		"term" : "Översättningar (sökord för översättare)"
+	},
+	{
+		"term" : "Övervakning"
+	},
+	{
+		"term" : "Övriga språk, undervisning"
 	}
 ]
