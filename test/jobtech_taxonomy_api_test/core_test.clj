@@ -44,8 +44,8 @@
   (let [local-preferred-label (parse-local-preferred-labels (get-filename-v2-from-type type))
         remote-preferred-label (set (map :taxonomy/preferred-label (:body (retrieve-all-concepts-given-a-type type))))]
 
-    (map #(is (= true (contains? remote-preferred-label %)))
-         local-preferred-label)))
+    (doall (map #(is (= true (contains? remote-preferred-label %)))
+                local-preferred-label))))
 
 ;; Checks if preferred label exists in database, TODO simplify to one request, multiple test per preferred label
 
