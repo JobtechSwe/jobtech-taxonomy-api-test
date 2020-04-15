@@ -14,6 +14,14 @@
 (defn parse-local-preferred-labels [filename]
   (map :term (parse-string (slurp filename) true)))
 
+(defn retrieve-all-concepts-given-a-type [type]
+
+  (client/get url {:as :json-strict
+                   :headers {"api-key" api-key
+                             "Content-Type" "application/json"}
+                   ;;                :debug true
+                   :query-params {"type" type}}))
+
 (defn call-api [preferredLabel type url]
 
   (client/get url {:as :json-strict
@@ -32,15 +40,19 @@
 (defn get-remote-and-local-values [type local-preferred-labels url]
   (map #(get-remote-preferredLabel % type url) local-preferred-labels))
 
-(defn is-local-equal-to-remote [type file url]
-  (let [result (get-remote-and-local-values type (parse-local-preferred-labels file) url)]
+(defn is-local-equal-to-remote [type]
+  (let [local-preferred-label (parse-local-preferred-labels (get-filename-v2-from-type type))
+        remote-preferred-label (set (map :taxonomy/preferred-label (:body (retrieve-all-concepts-given-a-type type))))]
 
-    (doall (map (fn [[expected actual]]
-                  (is (= expected actual)))  result))))
+    (map #(is (contains? remote-preferred-label %))
+         local-preferred-label)))
 
-(defn test-taxonomy [name type file url]
+;; Checks if preferred label exists in database, TODO simplify to one request, multiple test per preferred label
+
+
+(defn test-taxonomy [name type]
   (testing name
-    (is-local-equal-to-remote type file url)))
+    (is-local-equal-to-remote type)))
 
 (def types
   ["continent",
@@ -86,8 +98,7 @@
   (doall (map (fn [type]
                 (test-taxonomy (str type "--" url)
                                type
-                               (get-filename-v2-from-type type)
-                               url))
+                               ))
               types)))
 
 (deftest test-all
