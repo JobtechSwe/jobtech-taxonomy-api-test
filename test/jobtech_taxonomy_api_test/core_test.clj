@@ -97,8 +97,7 @@
 (defn run-taxonomy-tests [types url]
   (doall (map (fn [type]
                 (test-taxonomy (str type "--" url)
-                               type
-                               ))
+                               type))
               types)))
 
 (deftest test-all
@@ -117,6 +116,17 @@
                    :query-params {"id" concept-id
                                   "version" 1}}))
 
+(defn call-api-fetch-all []
+
+  (client/get url {:accept :json
+                   :as :json-strict
+                   :headers {"api-key" api-key
+                             "Content-Type" "application/json"}
+                   :query-params {"version" 1}}))
+
+(defn create-concept-map-by-id []
+  (reduce #(assoc %1 (:taxonomy/id %2) %2) {} (:body (call-api-fetch-all))))
+
 (defn preferred-label-from-api-call [concept-id url]
   (:taxonomy/preferred-label (first (get (call-api-with-concept-id concept-id url) :body))))
 
@@ -133,12 +143,14 @@
                "occupation-experience-years"} type))
 
 (defn call-api-with-v67-test-data [url]
-  (map (fn [[concept-id concept]]
-         (let [expected (:label concept)
-               actual  (preferred-label-from-api-call (name concept-id) url)]
-           [expected actual]))
 
-       (doall (filter (fn [[id con]]   (not (has-unwanted-type (:type con)))) (v67-file)))))
+  (let [remote-concepts (create-concept-map-by-id)]
+    (map (fn [[concept-id concept]]
+           (let [expected (:label concept)
+                 actual  (:taxonomy/preferred-label (get remote-concepts (name concept-id)))]
+             [expected actual]))
+
+         (doall (filter (fn [[id con]]   (not (has-unwanted-type (:type con)))) (v67-file))))))
 
 (defn is-local-equal-to-remote-v67 [url]
 
