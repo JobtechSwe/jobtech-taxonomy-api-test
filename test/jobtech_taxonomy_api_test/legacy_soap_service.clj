@@ -16,6 +16,12 @@
            200 (body-parser body)
            500 (fail-parser body))))
 
+
+(defn parse-guide-node [node]
+
+  )
+
+
 (defn get-guide-tree []
   (let [
         soap-service (wsdl/parse taxonomy-service-url)
@@ -34,6 +40,9 @@
                       :body         body
                       :headers      headers})
         :body
-        parse-fn)
+        parse-fn
+        (get-in ["Envelope" "Body" "GetSUNGuideTreeResponse" "GetSUNGuideTreeResult" "SUNGuideBranches"])
+        )
+
     )
   )
