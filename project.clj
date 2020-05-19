@@ -8,7 +8,9 @@
                  [cheshire "5.9.0"]
                  [martian "0.1.10"]
                  [martian-clj-http "0.1.10"]
+                 [io.xapix/paos "0.2.4"]
                  ]
+  :repositories [["enonic" "https://repo.enonic.com/public/"]]
   :main ^:skip-aot jobtech-taxonomy-api-test.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}
