@@ -47,6 +47,12 @@
     (doall (map #(is (= true (contains? remote-preferred-label %)))
                 local-preferred-label))))
 
+(defn is-local-equal-to-remote-slow [type url]
+  (let [result (get-remote-and-local-values type (parse-local-preferred-labels (get-filename-v2-from-type type)) url)]
+
+    (doall (map (fn [[expected actual]]
+                  (is (= expected actual)))  result))))
+
 ;; Checks if preferred label exists in database, TODO simplify to one request, multiple test per preferred label
 
 
