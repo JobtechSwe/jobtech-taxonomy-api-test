@@ -4,7 +4,10 @@
             [clj-http.client :as client]
             [paos.service :as service]
             [paos.wsdl :as wsdl]
-            [cheshire.core :refer :all]))
+            [cheshire.core :refer :all]
+            [jobtech-taxonomy-api-test.smoke-test :as smoke]
+
+            ))
 
 (def taxonomy-service-url "http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?wsdl")
 
@@ -63,3 +66,10 @@
         :body
         parse-fn
         (get-in ["Envelope" "Body" "GetSUNGuideTreeResponse" "GetSUNGuideTreeResult" "SUNGuideBranches"]))))
+
+
+
+
+(defn fetch-sun-education-level-1 []
+  (smoke/call-api-specific "sun-education-level" {"type" "sun-education-level-1"})
+  )
