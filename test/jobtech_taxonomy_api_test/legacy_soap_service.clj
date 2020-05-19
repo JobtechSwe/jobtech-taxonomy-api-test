@@ -11,6 +11,53 @@
 
 (def taxonomy-service-url "http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?wsdl")
 
+
+
+
+(defn fetch-sun-education-level-1 []
+  (smoke/call-api-specific "sun-education-level" {"type" "sun-education-level-1"
+                                                  "version" "1"})
+  )
+
+(defn create-index [field items]
+  (reduce (fn [acc item]
+            (assoc acc (field item) item) )
+          {} items )
+  )
+
+
+
+(defn fetch-sun-field-3 []
+  (smoke/call-api-specific "sun-education-field" {"type" "sun-education-field-3"
+                                                  "version" "1"
+                                                  })
+  )
+
+(defn fetch-relation-sun-level-1-field-3 []
+  (get-in (smoke/call-api-main "graph" {"edge-relation-type" "related"
+                                        "source-concept-type" "sun-education-level-1"
+                                        "target-concept-type" "sun-education-field-3"
+                                        "version" "1"
+                                        })
+          [:taxonomy/graph :taxonomy/edges]
+          )
+  )
+
+(defn get-indexed-education-level-1 []
+  (create-index :taxonomy/sun-education-level-code-2000 (fetch-sun-education-level-1))
+  )
+
+(def education-level-1-lookup (memoize get-indexed-education-level-1))
+
+(defn get-indexed-education-field-3 []
+  (create-index :taxonomy/sun-education-field-code-2000 (fetch-sun-field-3))
+  )
+
+(def education-field-3-lookup (memoize get-indexed-education-field-3))
+
+
+
+
 (defn parse-response [{:keys [status body] :as response} body-parser fail-parser]
   (assoc response
          :body
@@ -50,7 +97,7 @@
 
 (defn get-guide-tree []
   (let [soap-service (wsdl/parse taxonomy-service-url)
-        srv          (get-in taxwsdl ["TaxonomiServiceSoap12" :operations  "GetSUNGuideTree"])
+        srv          (get-in soap-service ["TaxonomiServiceSoap12" :operations  "GetSUNGuideTree"])
         soap-url     "http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx"
         content-type (service/content-type srv)
         headers      (service/soap-headers srv)
@@ -66,10 +113,3 @@
         :body
         parse-fn
         (get-in ["Envelope" "Body" "GetSUNGuideTreeResponse" "GetSUNGuideTreeResult" "SUNGuideBranches"]))))
-
-
-
-
-(defn fetch-sun-education-level-1 []
-  (smoke/call-api-specific "sun-education-level" {"type" "sun-education-level-1"})
-  )
