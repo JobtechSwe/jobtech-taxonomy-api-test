@@ -6,7 +6,7 @@
             [paos.wsdl :as wsdl]
             [cheshire.core :refer :all]
             [jobtech-taxonomy-api-test.smoke-test :as smoke]
-
+            [clojure.data :as data]
             ))
 
 (def taxonomy-service-url "http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?wsdl")
@@ -33,14 +33,37 @@
                                                   })
   )
 
+
+
+(defn node-to-string [node]
+  (str (:taxonomy/id node)  " "  (:taxonomy/preferred-label node))
+  )
+
 (defn fetch-relation-sun-level-1-field-3 []
-  (get-in (smoke/call-api-main "graph" {"edge-relation-type" "related"
-                                        "source-concept-type" "sun-education-level-1"
-                                        "target-concept-type" "sun-education-field-3"
-                                        "version" "1"
-                                        })
-          [:taxonomy/graph :taxonomy/edges]
-          )
+
+  (let [result (smoke/call-api-main "graph" {"edge-relation-type" "related"
+                                             "source-concept-type" "sun-education-level-1"
+                                             "target-concept-type" "sun-education-field-3"
+                                             "version" "1"
+                                             })
+        relations (set  (get-in result [:taxonomy/graph :taxonomy/edges]))
+        indexed-nodes  (create-index  :taxonomy/id  (set (get-in result [:taxonomy/graph :taxonomy/nodes])))
+
+        id-look-fun (fn [id]
+                      (node-to-string (get indexed-nodes id))
+                      )
+
+        ]
+    (map (fn [rel]
+
+           (-> rel
+               (update :taxonomy/source id-look-fun)
+               (update :taxonomy/target id-look-fun)
+               )
+
+           )  relations)
+    )
+
   )
 
 (defn get-indexed-education-level-1 []
@@ -65,35 +88,39 @@
            200 (body-parser body)
            500 (fail-parser body))))
 
+(defn create-education-level-1-education-field-3-relation []
+
+  )
 
 (defn parse-field-3-leaf [field-3-leaf]
   (let [sun-field-3-fun #(get-in field-3-leaf ["SUNField3" % "__value"]) ]
-    {:taxonomy/deprecated-legacy-id (sun-field-3-fun "SUNField3ID")
-     :taxonomy/preferred-label (sun-field-3-fun "Term")
-     :taxonomy/sun-education-level-code-2000 (sun-field-3-fun "SUNField3Code")
-     }
+    (str
+     (get-in (education-field-3-lookup) [(sun-field-3-fun "SUNField3Code") :taxonomy/id] )
+     " "
+     (sun-field-3-fun "Term")
+     )
+
     )
   )
 
 (defn parse-guide-leaf [leaf]
   (let [sun-field-2-fun #(get-in leaf  ["SUNGuideLeaf" "SUNField2" % "__value"])]
-    {:taxonomy/deprecated-legacy-id (sun-field-2-fun "SUNField2ID")
-     :taxonomy/preferred-label (sun-field-2-fun "Term")
-     :taxonomy/sun-education-level-code-2000 (sun-field-2-fun "SUNField2Code")
-     :related (map parse-field-3-leaf (get-in leaf ["SUNGuideLeaf"  "SUNField3List" "SUNField3s"  ]))
-     }
-    )
+    (map parse-field-3-leaf (get-in leaf ["SUNGuideLeaf"  "SUNField3List" "SUNField3s"  ])))
   )
 
 (defn parse-guide-branch [node]
   (let [sun-level-fun #(get-in node ["SUNGuideBranch" "SUNLevel1"  % "__value"])
+        education-id (get-in (education-level-1-lookup) [(sun-level-fun "SUNLevel1Code") :taxonomy/id] )
+        term (sun-level-fun "Term")
+        id-term (str education-id " " term)
 
+        field-3-ids (mapcat parse-guide-leaf (get-in node ["SUNGuideBranch" "SUNGuideLeaves" "SUNGuideLeafs"  ]))
         ]
-    {:taxonomy/deprecated-legacy-id (sun-level-fun "SUNLevel1ID")
-     :taxonomy/preferred-label (sun-level-fun "Term")
-     :taxonomy/sun-education-level-code-2000 (sun-level-fun "SUNLevel1Code")
-     :related (map parse-guide-leaf (get-in node ["SUNGuideBranch" "SUNGuideLeaves" "SUNGuideLeafs"  ]))
-     }))
+    (map (fn [ids]  {:taxonomy/source id-term :taxonomy/target ids  :taxonomy/relation-type "related"} ) field-3-ids )
+
+    ))
+
+
 
 (defn get-guide-tree []
   (let [soap-service (wsdl/parse taxonomy-service-url)
@@ -113,3 +140,19 @@
         :body
         parse-fn
         (get-in ["Envelope" "Body" "GetSUNGuideTreeResponse" "GetSUNGuideTreeResult" "SUNGuideBranches"]))))
+
+(defn get-guide-tree-as-source-target []
+  (set (flatten (map parse-guide-branch (get-guide-tree))))
+  )
+
+
+(defn is-legacy-soap-same-as-rest-for-guide-tree-nodes? []
+  (is (= (set (get-guide-tree-as-source-target))  (set (fetch-relation-sun-level-1-field-3)) ))
+  )
+
+
+(deftest test-soap
+  (testing "Testing GUIDE tree"
+    (is-legacy-soap-same-as-rest-for-guide-tree-nodes?)
+    )
+  )
