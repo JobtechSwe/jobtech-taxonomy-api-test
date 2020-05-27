@@ -1,36 +1,24 @@
 # jobtech-taxonomy-api-test
 
-FIXME: description
+Tests for the API server in https://gitlab.com/team-batfish/jobtech-taxonomy-api
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone this repo.
 
-## Usage
+## Run the tests
 
-FIXME: explanation
+The tests are configured via two environment variables. Set those before running the tests.
 
-    $ java -jar jobtech-taxonomy-api-test-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+```shell
+export JOBTECH_TAXONOMY_API_KEY=111
+export JOBTECH_TAXONOMY_API_URL=http://localhost:3000
+lein test
+```
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Jobtech
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
