@@ -1,4 +1,4 @@
- [
+[
 	{
 		"term" : "16 mm film"
 	},
@@ -75,6 +75,9 @@
 		"term" : "3D-grafik-Carrara"
 	},
 	{
+		"term" : "3D-grafik-Fusion 360"
+	},
+	{
 		"term" : "3D-grafik-Houdini"
 	},
 	{
@@ -112,9 +115,6 @@
 	},
 	{
 		"term" : "3-års montör"
-	},
-	{
-		"term" : "4-färgsseparering"
 	},
 	{
 		"term" : "4-färgstryck (blandade grundfärger)"
@@ -1470,6 +1470,9 @@
 		"term" : "Besiktningserfarenhet"
 	},
 	{
+		"term" : "Besiktningsman, gas"
+	},
+	{
 		"term" : "Besiktningsman, järnväg (certifikat)"
 	},
 	{
@@ -1582,9 +1585,6 @@
 	},
 	{
 		"term" : "Bildredigering"
-	},
-	{
-		"term" : "Bildrepro"
 	},
 	{
 		"term" : "Bildskärmar, installation och underhåll"
@@ -5058,6 +5058,9 @@
 		"term" : "Föreläsningsvana"
 	},
 	{
+		"term" : "Föreståndare, brandarliga och explosiva varor (LBE)"
+	},
+	{
 		"term" : "Företagsanalys"
 	},
 	{
@@ -5259,6 +5262,9 @@
 		"term" : "Gashyvling"
 	},
 	{
+		"term" : "Gasinstallationsledare"
+	},
+	{
 		"term" : "Gasmejsling"
 	},
 	{
@@ -5269,6 +5275,9 @@
 	},
 	{
 		"term" : "Gassvetsning"
+	},
+	{
+		"term" : "Gassäkerhetsansvarig"
 	},
 	{
 		"term" : "Gassäkring"
@@ -6810,6 +6819,18 @@
 		"term" : "Inspelningsledning"
 	},
 	{
+		"term" : "Installation av ej EU-typgodkända gasapparater"
+	},
+	{
+		"term" : "Installation av EU-typgodkända gasapparater med maximal effekt 100 kW"
+	},
+	{
+		"term" : "Installation av EU-typgodkända gasapparater med maximal effekt över 100 kW"
+	},
+	{
+		"term" : "Installation av EU-typgodkända spisar och restaurangapparater för matlagning"
+	},
+	{
 		"term" : "Installation, konstnärlig"
 	},
 	{
@@ -7312,9 +7333,6 @@
 	},
 	{
 		"term" : "Karriärplanering"
-	},
-	{
-		"term" : "Kartgravyr"
 	},
 	{
 		"term" : "Kartläggning av kostvanor"
@@ -7864,9 +7882,6 @@
 	},
 	{
 		"term" : "Kopparsmide"
-	},
-	{
-		"term" : "Kopparsticksgravyr"
 	},
 	{
 		"term" : "Kopplingsansvarig, järnväg"
@@ -10968,6 +10983,9 @@
 		"term" : "Optoelektronik"
 	},
 	{
+		"term" : "Optomekanik"
+	},
+	{
 		"term" : "Oracle Certified Database Administrator"
 	},
 	{
@@ -11047,9 +11065,6 @@
 	},
 	{
 		"term" : "Originalframställning"
-	},
-	{
-		"term" : "Originalmontering"
 	},
 	{
 		"term" : "Orion, redovisningssystem"
@@ -11368,6 +11383,9 @@
 	},
 	{
 		"term" : "Perukdesign"
+	},
+	{
+		"term" : "PE-svetsare, gas"
 	},
 	{
 		"term" : "PET\/CT"
@@ -13014,9 +13032,6 @@
 		"term" : "Showdans"
 	},
 	{
-		"term" : "Sidmontering"
-	},
-	{
 		"term" : "Signalbehandling"
 	},
 	{
@@ -13048,6 +13063,9 @@
 	},
 	{
 		"term" : "Simultantolkning"
+	},
+	{
+		"term" : "Sintring"
 	},
 	{
 		"term" : "SIR\/MSA"
@@ -14214,9 +14232,6 @@
 		"term" : "Stålriktning"
 	},
 	{
-		"term" : "Stålsticksgravyr"
-	},
-	{
 		"term" : "Stålämneshantering"
 	},
 	{
@@ -14446,6 +14461,9 @@
 	},
 	{
 		"term" : "Systemförvaltning"
+	},
+	{
+		"term" : "Systemgranskare gasinstallationer"
 	},
 	{
 		"term" : "Systemintegrering"
@@ -14865,9 +14883,6 @@
 		"term" : "Textanalys"
 	},
 	{
-		"term" : "Textbearbetning"
-	},
-	{
 		"term" : "Textil, konst"
 	},
 	{
@@ -14896,9 +14911,6 @@
 	},
 	{
 		"term" : "Textredigering"
-	},
-	{
-		"term" : "Textsättning"
 	},
 	{
 		"term" : "Texttelefon"
