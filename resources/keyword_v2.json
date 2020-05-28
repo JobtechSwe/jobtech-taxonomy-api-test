@@ -6,7 +6,13 @@
 		"term" : "ABF"
 	},
 	{
+		"term" : "Abonnemangskontorist"
+	},
+	{
 		"term" : "Affärsbiträde"
+	},
+	{
+		"term" : "A-kassa"
 	},
 	{
 		"term" : "Aktiveringspedagog"
@@ -19,6 +25,9 @@
 	},
 	{
 		"term" : "Ambulansförare"
+	},
+	{
+		"term" : "Ammunitionsarbetare"
 	},
 	{
 		"term" : "Användbarhetsdesigner"
@@ -39,7 +48,13 @@
 		"term" : "Asfaltarbete"
 	},
 	{
+		"term" : "Assistent, bostadsförmedling"
+	},
+	{
 		"term" : "Assisterande säljledare"
+	},
+	{
+		"term" : "Avdelningschef, vårdavdelng\/mottagning"
 	},
 	{
 		"term" : "Avfall"
@@ -49,6 +64,15 @@
 	},
 	{
 		"term" : "Avloppsteknik"
+	},
+	{
+		"term" : "Badchef"
+	},
+	{
+		"term" : "Badhuspersonal"
+	},
+	{
+		"term" : "Badvärd"
 	},
 	{
 		"term" : "Bank"
@@ -63,7 +87,7 @@
 		"term" : "Barnombudsman"
 	},
 	{
-		"term" : "Båtsäljare"
+		"term" : "Baskettränare"
 	},
 	{
 		"term" : "Bauhaus"
@@ -72,13 +96,16 @@
 		"term" : "B-chaufför"
 	},
 	{
+		"term" : "Bearbetningsproducent"
+	},
+	{
 		"term" : "Befolkningsstatistiker"
 	},
 	{
-		"term" : "Besöksnäring"
+		"term" : "Bespisningsbiträde"
 	},
 	{
-		"term" : "Bespisningsbiträde"
+		"term" : "Besöksnäring"
 	},
 	{
 		"term" : "Beteendevetare"
@@ -99,6 +126,9 @@
 		"term" : "Bildlärare"
 	},
 	{
+		"term" : "Bildproduent"
+	},
+	{
 		"term" : "Biljettkassör"
 	},
 	{
@@ -109,6 +139,9 @@
 	},
 	{
 		"term" : "Bilrekondare"
+	},
+	{
+		"term" : "Bilskolelärare"
 	},
 	{
 		"term" : "Bilsäljare"
@@ -150,12 +183,6 @@
 		"term" : "Butik"
 	},
 	{
-		"term" : "Butiksägare"
-	},
-	{
-		"term" : "Butiksäljare"
-	},
-	{
 		"term" : "Butiksanställd"
 	},
 	{
@@ -177,6 +204,12 @@
 		"term" : "Butiksmedarbetare"
 	},
 	{
+		"term" : "Butiksägare"
+	},
+	{
+		"term" : "Butiksäljare"
+	},
+	{
 		"term" : "BVC"
 	},
 	{
@@ -184,6 +217,9 @@
 	},
 	{
 		"term" : "Byggsmed"
+	},
+	{
+		"term" : "Båtsäljare"
 	},
 	{
 		"term" : "C chaufför"
@@ -234,6 +270,9 @@
 		"term" : "Chef internrevision"
 	},
 	{
+		"term" : "Chef, biomedicinsk analytiker"
+	},
+	{
 		"term" : "Chief financial officer"
 	},
 	{
@@ -255,7 +294,13 @@
 		"term" : "Damfrisörska"
 	},
 	{
+		"term" : "Dansare, show"
+	},
+	{
 		"term" : "Danslärare"
+	},
+	{
+		"term" : "Dansproducent"
 	},
 	{
 		"term" : "Databasarkitekt"
@@ -264,7 +309,7 @@
 		"term" : "Databastekniker"
 	},
 	{
-		"term" : "Dekoratör, inredning"
+		"term" : "Dekoratör"
 	},
 	{
 		"term" : "Demonterare"
@@ -279,10 +324,19 @@
 		"term" : "Diakonissa"
 	},
 	{
+		"term" : "Dietetiker"
+	},
+	{
+		"term" : "Digitaloperatör"
+	},
+	{
 		"term" : "Direktreklam"
 	},
 	{
 		"term" : "Diskrimineringsombudsman"
+	},
+	{
+		"term" : "Dispatcher"
 	},
 	{
 		"term" : "DJ"
@@ -291,10 +345,25 @@
 		"term" : "Djur"
 	},
 	{
+		"term" : "Djurkonservator"
+	},
+	{
 		"term" : "Djursjukvårdare"
 	},
 	{
+		"term" : "Driftkopplingstekniker"
+	},
+	{
 		"term" : "DSK"
+	},
+	{
+		"term" : "Dykarskötare"
+	},
+	{
+		"term" : "Dykledare"
+	},
+	{
+		"term" : "Ekonometriker"
 	},
 	{
 		"term" : "Ekonomi"
@@ -303,10 +372,13 @@
 		"term" : "Ekonomiansvarig"
 	},
 	{
+		"term" : "Ekonomiledare"
+	},
+	{
 		"term" : "Emporia"
 	},
 	{
-		"term" : "Ensamkommande"
+		"term" : "Entertainer"
 	},
 	{
 		"term" : "ERPAS-operatör"
@@ -315,25 +387,25 @@
 		"term" : "ERPAS-pilot"
 	},
 	{
+		"term" : "Eventproducent"
+	},
+	{
 		"term" : "Eventvärd\/Eventvärdinna"
 	},
 	{
-		"term" : "Fältmekaniker"
-	},
-	{
-		"term" : "Fältsäljare"
-	},
-	{
-		"term" : "Färdtjänstbusschaufför"
-	},
-	{
-		"term" : "Färdtjänstchaufför"
+		"term" : "Expressarbetare"
 	},
 	{
 		"term" : "Farmacevt"
 	},
 	{
 		"term" : "Fartyg"
+	},
+	{
+		"term" : "Fashion modell"
+	},
+	{
+		"term" : "Finansiell controller"
 	},
 	{
 		"term" : "Fitness"
@@ -343,9 +415,6 @@
 	},
 	{
 		"term" : "Flygbladsutdelare"
-	},
-	{
-		"term" : "Flykting"
 	},
 	{
 		"term" : "Flyttkille"
@@ -366,7 +435,55 @@
 		"term" : "Forex"
 	},
 	{
-		"term" : "Försäkringskassan"
+		"term" : "Formsprutare, plast"
+	},
+	{
+		"term" : "Formsprutställare"
+	},
+	{
+		"term" : "Formspruttekniker"
+	},
+	{
+		"term" : "Fotbollstränare"
+	},
+	{
+		"term" : "Fotvårdare"
+	},
+	{
+		"term" : "Friskvård"
+	},
+	{
+		"term" : "Friskvårdskonsulent"
+	},
+	{
+		"term" : "Frissa"
+	},
+	{
+		"term" : "Frisörlärare"
+	},
+	{
+		"term" : "Front Office Agent"
+	},
+	{
+		"term" : "Front Office Night Audit"
+	},
+	{
+		"term" : "Fyrverkeriarbetare"
+	},
+	{
+		"term" : "Fältmekaniker"
+	},
+	{
+		"term" : "Fältsäljare"
+	},
+	{
+		"term" : "Färdtjänstbusschaufför"
+	},
+	{
+		"term" : "Färdtjänstchaufför"
+	},
+	{
+		"term" : "Företagsledare"
 	},
 	{
 		"term" : "Församling"
@@ -384,25 +501,10 @@
 		"term" : "Försvarsmakten"
 	},
 	{
-		"term" : "Fotvårdare"
+		"term" : "Försäkringskassan"
 	},
 	{
-		"term" : "Friskvård"
-	},
-	{
-		"term" : "Friskvårdskonsulent"
-	},
-	{
-		"term" : "Frisörlärare"
-	},
-	{
-		"term" : "Frissa"
-	},
-	{
-		"term" : "Front Office Agent"
-	},
-	{
-		"term" : "Front Office Night Audit"
+		"term" : "Galopptränare"
 	},
 	{
 		"term" : "Golf"
@@ -420,19 +522,7 @@
 		"term" : "H&M"
 	},
 	{
-		"term" : "Hälsa"
-	},
-	{
-		"term" : "Hälso"
-	},
-	{
-		"term" : "Hälsoinspiratör"
-	},
-	{
 		"term" : "Hamnagent"
-	},
-	{
-		"term" : "Häst"
 	},
 	{
 		"term" : "Hemspråkslärare"
@@ -459,6 +549,9 @@
 		"term" : "HR"
 	},
 	{
+		"term" : "HR-partner"
+	},
+	{
 		"term" : "HSEQ-ansvarig"
 	},
 	{
@@ -469,6 +562,18 @@
 	},
 	{
 		"term" : "Hunddagis"
+	},
+	{
+		"term" : "Hälsa"
+	},
+	{
+		"term" : "Hälso"
+	},
+	{
+		"term" : "Hälsoinspiratör"
+	},
+	{
+		"term" : "Häst"
 	},
 	{
 		"term" : "ICA"
@@ -489,6 +594,12 @@
 		"term" : "Idrottslärare"
 	},
 	{
+		"term" : "Idrottspedagog"
+	},
+	{
+		"term" : "Idrottsvetare"
+	},
+	{
 		"term" : "Implantat"
 	},
 	{
@@ -501,10 +612,22 @@
 		"term" : "Inredning"
 	},
 	{
+		"term" : "Inspelningskoordinator"
+	},
+	{
+		"term" : "Ishockeytränare"
+	},
+	{
 		"term" : "IT chef"
 	},
 	{
-		"term" : "Järnväg"
+		"term" : "IT-säkerhetskonsult"
+	},
+	{
+		"term" : "Jaktpolis"
+	},
+	{
+		"term" : "Jordbruksforskare"
 	},
 	{
 		"term" : "Junior revisor"
@@ -522,6 +645,9 @@
 		"term" : "Justitieombudsman"
 	},
 	{
+		"term" : "Järnväg"
+	},
+	{
 		"term" : "Kabinpersonal"
 	},
 	{
@@ -531,10 +657,13 @@
 		"term" : "Kaffe"
 	},
 	{
-		"term" : "Källarmästare"
+		"term" : "KAM"
 	},
 	{
-		"term" : "KAM"
+		"term" : "Kameraman, TV"
+	},
+	{
+		"term" : "Kanslist"
 	},
 	{
 		"term" : "KBT"
@@ -558,10 +687,19 @@
 		"term" : "Konduktör"
 	},
 	{
+		"term" : "Konstmodell"
+	},
+	{
 		"term" : "Konstnärlig ledare"
 	},
 	{
+		"term" : "Konstvävare"
+	},
+	{
 		"term" : "Konsumentombudsman"
+	},
+	{
+		"term" : "Korvmästare"
 	},
 	{
 		"term" : "Kosmetik"
@@ -576,6 +714,15 @@
 		"term" : "Kostrådgivare"
 	},
 	{
+		"term" : "Kriinalinspektör"
+	},
+	{
+		"term" : "Kriminalassistent"
+	},
+	{
+		"term" : "Kriminalkommissarie"
+	},
+	{
 		"term" : "Kriminalvård"
 	},
 	{
@@ -583,6 +730,9 @@
 	},
 	{
 		"term" : "Krokimodell"
+	},
+	{
+		"term" : "Kulturproducent"
 	},
 	{
 		"term" : "Kundcentermedarbetare"
@@ -612,6 +762,21 @@
 		"term" : "Kyrkan"
 	},
 	{
+		"term" : "Kyrkogårdsföreståndare"
+	},
+	{
+		"term" : "Källarmästare"
+	},
+	{
+		"term" : "Körskoleinstruktör"
+	},
+	{
+		"term" : "Körskolelärare"
+	},
+	{
+		"term" : "Laboratorietandtekniker"
+	},
+	{
 		"term" : "Lackkokare"
 	},
 	{
@@ -627,28 +792,7 @@
 		"term" : "Landchef"
 	},
 	{
-		"term" : "Långtradarchaffis"
-	},
-	{
-		"term" : "Långtradarchaufför"
-	},
-	{
 		"term" : "Lantmäteri"
-	},
-	{
-		"term" : "Lärare ekonomi"
-	},
-	{
-		"term" : "Lärare historia"
-	},
-	{
-		"term" : "Lärare i idrott"
-	},
-	{
-		"term" : "Lärare media"
-	},
-	{
-		"term" : "Lärare svenska"
 	},
 	{
 		"term" : "Lastbil"
@@ -684,6 +828,12 @@
 		"term" : "Limousinechaufför"
 	},
 	{
+		"term" : "Linfärjförare"
+	},
+	{
+		"term" : "Linjeproducent"
+	},
+	{
 		"term" : "Livsmedel"
 	},
 	{
@@ -693,13 +843,43 @@
 		"term" : "Lokalvård"
 	},
 	{
+		"term" : "Långtradarchaffis"
+	},
+	{
+		"term" : "Långtradarchaufför"
+	},
+	{
+		"term" : "Länsassessor"
+	},
+	{
+		"term" : "Lärare ekonomi"
+	},
+	{
+		"term" : "Lärare historia"
+	},
+	{
+		"term" : "Lärare i gymnasiet - kärnämne och yrkesämne"
+	},
+	{
+		"term" : "Lärare i gymnasiet - yrkesämne och kärnämne"
+	},
+	{
+		"term" : "Lärare i idrott"
+	},
+	{
+		"term" : "Lärare media"
+	},
+	{
+		"term" : "Lärare svenska"
+	},
+	{
+		"term" : "Lärling, drift- och vägunderhållsarbetare"
+	},
+	{
 		"term" : "Makeup"
 	},
 	{
 		"term" : "Makeupartist"
-	},
-	{
-		"term" : "Mäklarassistent"
 	},
 	{
 		"term" : "Massös"
@@ -720,22 +900,37 @@
 		"term" : "Menzies"
 	},
 	{
-		"term" : "Migrationsverket"
-	},
-	{
 		"term" : "Militär"
-	},
-	{
-		"term" : "Möbler"
 	},
 	{
 		"term" : "Mode"
 	},
 	{
+		"term" : "Modedesigner"
+	},
+	{
+		"term" : "Modeskapare"
+	},
+	{
 		"term" : "Montessori"
 	},
 	{
+		"term" : "Multimediaproducent"
+	},
+	{
 		"term" : "Museum"
+	},
+	{
+		"term" : "Musikproducent"
+	},
+	{
+		"term" : "Mäklarassistent"
+	},
+	{
+		"term" : "Möbelkonservator"
+	},
+	{
+		"term" : "Möbler"
 	},
 	{
 		"term" : "Nagelskulptör"
@@ -744,10 +939,10 @@
 		"term" : "Nagelspecialist"
 	},
 	{
-		"term" : "Nanny"
+		"term" : "Nakenmodell"
 	},
 	{
-		"term" : "Näringsfrihetsombudsman"
+		"term" : "Nanny"
 	},
 	{
 		"term" : "Narkossjuksköterska"
@@ -765,6 +960,12 @@
 		"term" : "Nyhetstextare"
 	},
 	{
+		"term" : "Näringsfrihetsombudsman"
+	},
+	{
+		"term" : "Näringskonsulent"
+	},
+	{
 		"term" : "Ombordpersonal"
 	},
 	{
@@ -777,16 +978,16 @@
 		"term" : "Omsorgspedagog"
 	},
 	{
-		"term" : "Överläkare"
-	},
-	{
-		"term" : "Översättning"
-	},
-	{
 		"term" : "Partibokbindare"
 	},
 	{
+		"term" : "PC-tekniker"
+	},
+	{
 		"term" : "Personal"
+	},
+	{
+		"term" : "Personalintendent"
 	},
 	{
 		"term" : "Personalvetare"
@@ -802,6 +1003,18 @@
 	},
 	{
 		"term" : "Pizza bagare"
+	},
+	{
+		"term" : "Planeringskontorist"
+	},
+	{
+		"term" : "Plastpressare"
+	},
+	{
+		"term" : "Plastsprutare"
+	},
+	{
+		"term" : "Platskoordinator"
 	},
 	{
 		"term" : "Plåtslagare"
@@ -831,6 +1044,9 @@
 		"term" : "Pressbyrån"
 	},
 	{
+		"term" : "Primärvårdschef"
+	},
+	{
 		"term" : "Primärvårdskurator"
 	},
 	{
@@ -838,6 +1054,12 @@
 	},
 	{
 		"term" : "Prodekan"
+	},
+	{
+		"term" : "Produktionskoordinator"
+	},
+	{
+		"term" : "Produktionsplanerare, TV"
 	},
 	{
 		"term" : "Programvarutestare"
@@ -855,6 +1077,9 @@
 		"term" : "Purchaser"
 	},
 	{
+		"term" : "Pyroteknisk arbetare"
+	},
+	{
 		"term" : "R&D"
 	},
 	{
@@ -864,10 +1089,16 @@
 		"term" : "R+D"
 	},
 	{
-		"term" : "Räddningsdykare"
+		"term" : "Radioproducent"
 	},
 	{
 		"term" : "Rampmedarbetare"
+	},
+	{
+		"term" : "Rangerare"
+	},
+	{
+		"term" : "Rangerledare"
 	},
 	{
 		"term" : "Reception"
@@ -880,6 +1111,9 @@
 	},
 	{
 		"term" : "Reklamare"
+	},
+	{
+		"term" : "Reklamdirektör"
 	},
 	{
 		"term" : "Religion"
@@ -900,16 +1134,16 @@
 		"term" : "Restaurang"
 	},
 	{
+		"term" : "Räckesmontör"
+	},
+	{
+		"term" : "Räddningsdykare"
+	},
+	{
 		"term" : "Rökdykare"
 	},
 	{
 		"term" : "Rörmokare"
-	},
-	{
-		"term" : "Sälj"
-	},
-	{
-		"term" : "Säljare"
 	},
 	{
 		"term" : "Samhällsvetare"
@@ -919,12 +1153,6 @@
 	},
 	{
 		"term" : "Sanerare"
-	},
-	{
-		"term" : "Sång"
-	},
-	{
-		"term" : "Särskola"
 	},
 	{
 		"term" : "SATS"
@@ -945,16 +1173,22 @@
 		"term" : "Servis"
 	},
 	{
-		"term" : "Sjökapten"
-	},
-	{
-		"term" : "Sjöman"
+		"term" : "Simlärare"
 	},
 	{
 		"term" : "Sjukhusapotekare"
 	},
 	{
+		"term" : "Sjukhusingenjör"
+	},
+	{
 		"term" : "Sjukhuskurator"
+	},
+	{
+		"term" : "Sjukhustandtekniker"
+	},
+	{
+		"term" : "Sjukhustekniker"
 	},
 	{
 		"term" : "Sjuksköterska inom cancervård"
@@ -963,7 +1197,22 @@
 		"term" : "Sjuksyster"
 	},
 	{
+		"term" : "Sjökapten"
+	},
+	{
+		"term" : "Sjöman"
+	},
+	{
+		"term" : "Skadebesiktningsman, försäkring"
+	},
+	{
 		"term" : "Skeppare"
+	},
+	{
+		"term" : "Skeppningsassistent"
+	},
+	{
+		"term" : "Skeppningskontorist"
 	},
 	{
 		"term" : "Skeppningsplanerare"
@@ -984,13 +1233,16 @@
 		"term" : "Skribent"
 	},
 	{
+		"term" : "Skrovbyggare, plast"
+	},
+	{
+		"term" : "Skulpturkonservator"
+	},
+	{
 		"term" : "Snötillverkare"
 	},
 	{
 		"term" : "Sodexo"
-	},
-	{
-		"term" : "Sopåkare"
 	},
 	{
 		"term" : "Sopbilsförare"
@@ -1002,6 +1254,9 @@
 		"term" : "Sopstationsarbetare"
 	},
 	{
+		"term" : "Sopåkare"
+	},
+	{
 		"term" : "Spa"
 	},
 	{
@@ -1011,16 +1266,13 @@
 		"term" : "Sport"
 	},
 	{
+		"term" : "Språkforskare"
+	},
+	{
 		"term" : "Språkpedagog"
 	},
 	{
 		"term" : "ST tandläkare"
-	},
-	{
-		"term" : "Städa"
-	},
-	{
-		"term" : "Städerska"
 	},
 	{
 		"term" : "Stadsarkitekt"
@@ -1029,16 +1281,31 @@
 		"term" : "Stadsombudsman"
 	},
 	{
+		"term" : "Stadsveterinär"
+	},
+	{
 		"term" : "Statoil"
 	},
 	{
 		"term" : "Statsvetenskap"
 	},
 	{
+		"term" : "Stoppmöbelarbetare"
+	},
+	{
 		"term" : "Studie och yrkesvägledare"
 	},
 	{
 		"term" : "Studieförbund"
+	},
+	{
+		"term" : "Städa"
+	},
+	{
+		"term" : "Städerska"
+	},
+	{
+		"term" : "Ställningsmontör"
 	},
 	{
 		"term" : "SUBWAY"
@@ -1074,16 +1341,43 @@
 		"term" : "Systembolaget"
 	},
 	{
-		"term" : "Tåg"
+		"term" : "Sång"
 	},
 	{
-		"term" : "Tågförare"
+		"term" : "Sälj"
+	},
+	{
+		"term" : "Säljare"
+	},
+	{
+		"term" : "Säljassistent"
+	},
+	{
+		"term" : "Säljsekreterare"
+	},
+	{
+		"term" : "Särskola"
+	},
+	{
+		"term" : "Takläggare"
+	},
+	{
+		"term" : "Talboksproducent"
+	},
+	{
+		"term" : "Taltidningsredaktör"
 	},
 	{
 		"term" : "Tamburvaktmästare"
 	},
 	{
 		"term" : "Tandvård"
+	},
+	{
+		"term" : "Tandvårdschef"
+	},
+	{
+		"term" : "Tavelkonservator"
 	},
 	{
 		"term" : "Taxi"
@@ -1098,10 +1392,40 @@
 		"term" : "Teater"
 	},
 	{
+		"term" : "Teaterinspicient"
+	},
+	{
+		"term" : "Teaterproducent"
+	},
+	{
 		"term" : "Teckenspråk"
 	},
 	{
+		"term" : "Tegelbrännare, ugnsskötare"
+	},
+	{
+		"term" : "Tegelformare"
+	},
+	{
+		"term" : "Tegelpressare"
+	},
+	{
+		"term" : "Tegeltorkskötare"
+	},
+	{
+		"term" : "Tegelvaruarbetare"
+	},
+	{
+		"term" : "Teknisk direktör, kommun"
+	},
+	{
 		"term" : "Teknisk säljare"
+	},
+	{
+		"term" : "Tennistränare"
+	},
+	{
+		"term" : "Textilkonservator"
 	},
 	{
 		"term" : "Tidningsutdelare"
@@ -1113,13 +1437,40 @@
 		"term" : "Timmerbilsförare"
 	},
 	{
+		"term" : "Traffic"
+	},
+	{
+		"term" : "Trafficman"
+	},
+	{
+		"term" : "Trafikmästare, vägtrafik"
+	},
+	{
+		"term" : "Trafikoperatör"
+	},
+	{
 		"term" : "Training"
 	},
 	{
-		"term" : "Träning"
+		"term" : "Travtränare"
 	},
 	{
 		"term" : "Truck"
+	},
+	{
+		"term" : "Trädgårdsforskare"
+	},
+	{
+		"term" : "Träindustriarbetare"
+	},
+	{
+		"term" : "Trämaskinskötare"
+	},
+	{
+		"term" : "Trämaskinställare"
+	},
+	{
+		"term" : "Träning"
 	},
 	{
 		"term" : "Tullman"
@@ -1137,10 +1488,34 @@
 		"term" : "Turism"
 	},
 	{
+		"term" : "Turnéproducent för utställningar"
+	},
+	{
+		"term" : "TV-inspicient"
+	},
+	{
+		"term" : "TV-producent"
+	},
+	{
+		"term" : "TV-redigerare"
+	},
+	{
+		"term" : "Tåg"
+	},
+	{
+		"term" : "Tågförare"
+	},
+	{
+		"term" : "Tändsticksfabriksarbetare"
+	},
+	{
 		"term" : "UAS-operatör"
 	},
 	{
 		"term" : "UAV-pilot"
+	},
+	{
+		"term" : "Ugnsuppsättare, tegelbruk"
 	},
 	{
 		"term" : "Underläkare"
@@ -1152,7 +1527,10 @@
 		"term" : "Upphandling"
 	},
 	{
-		"term" : "Vägtrafikledare"
+		"term" : "Utställningskoordinator"
+	},
+	{
+		"term" : "Utställningsproducent"
 	},
 	{
 		"term" : "Vaktmästare"
@@ -1161,19 +1539,19 @@
 		"term" : "Valutaväxlare"
 	},
 	{
-		"term" : "VA-projektör"
+		"term" : "Vapenmekaniker"
 	},
 	{
-		"term" : "Vårdadministrativ sekreterare"
+		"term" : "VA-projektör"
 	},
 	{
 		"term" : "Varuhuschef"
 	},
 	{
-		"term" : "Värvare"
+		"term" : "Vattendykare"
 	},
 	{
-		"term" : "Vattendykare"
+		"term" : "Webbmästare"
 	},
 	{
 		"term" : "Verksamhetscontroller"
@@ -1185,19 +1563,43 @@
 		"term" : "Verktygsoperatör"
 	},
 	{
-		"term" : "Vinkypare"
+		"term" : "Videoproducent"
 	},
 	{
-		"term" : "Virkesbilsförare"
-	},
-	{
-		"term" : "Webbmästare"
+		"term" : "Videoredigerare"
 	},
 	{
 		"term" : "Willys"
 	},
 	{
 		"term" : "Willy's"
+	},
+	{
+		"term" : "Vinkypare"
+	},
+	{
+		"term" : "Virkesbilsförare"
+	},
+	{
+		"term" : "Workoutinstruktör"
+	},
+	{
+		"term" : "Vårdadministrativ sekreterare"
+	},
+	{
+		"term" : "Vårdcentralchef"
+	},
+	{
+		"term" : "Vårdnadsutredare"
+	},
+	{
+		"term" : "Vägtrafikledare"
+	},
+	{
+		"term" : "Värvare"
+	},
+	{
+		"term" : "Växlare"
 	},
 	{
 		"term" : "Yrkeslärare"
@@ -1207,5 +1609,11 @@
 	},
 	{
 		"term" : "Zoo"
+	},
+	{
+		"term" : "Överläkare"
+	},
+	{
+		"term" : "Översättning"
 	}
 ]
