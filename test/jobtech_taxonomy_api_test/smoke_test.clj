@@ -281,6 +281,16 @@
   )
 
 
+(defn call-main-concept-deprecated-false []
+  (call-api-main "concepts" {"type" "employment-type"
+                             "deprecated" false
+                             })
+  )
+
+(defn test-call-main-concept-deprecated-false []
+  (is (empty? (filter :taxonomy/deprecated (call-main-concept-deprecated-false))))
+  )
+
 (deftest main-tests
   (testing "Main"
     (test-changes)
@@ -289,6 +299,7 @@
     (test-concepts-animering)
     (test-relation-types)
     (test-replaced-by-changes)
+    (test-call-main-concept-deprecated-false)
     )
   )
 
