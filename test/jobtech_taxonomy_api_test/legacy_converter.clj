@@ -60,7 +60,7 @@
 (defn call-api-with-test-data [data]
   (let [[legacy-data concept-id] data
         {:keys [legacyAmsTaxonomyId type]}  legacy-data
-        remote-concept-id  (:id (call-convert-matching-component-id-to-new-id legacyAmsTaxonomyId (change-occupation-group-to-ssyk-level-4 type)))]
+        remote-concept-id  (:taxonomy/id (call-convert-matching-component-id-to-new-id legacyAmsTaxonomyId (change-occupation-group-to-ssyk-level-4 type)))]
     [(name concept-id) remote-concept-id]))
 
 (defn  is-local-equal-to-remote-v67-matching-component-converter []
