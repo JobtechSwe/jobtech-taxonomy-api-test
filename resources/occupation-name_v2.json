@@ -765,6 +765,9 @@
 		"term" : "Beredningssekreterare\/Domstolssekreterare\/Domstolshandläggare"
 	},
 	{
+		"term" : "Beredskapsdirektör"
+	},
+	{
 		"term" : "Beredskapssamordnare\/Krisberedskapssamordnare"
 	},
 	{
@@ -1420,9 +1423,6 @@
 	},
 	{
 		"term" : "Civil brottsutredare"
-	},
-	{
-		"term" : "Civilförsvarschef"
 	},
 	{
 		"term" : "Civilingenjör, anläggning"
@@ -3445,6 +3445,9 @@
 	},
 	{
 		"term" : "Handläggare, flygledning"
+	},
+	{
+		"term" : "Handläggare, intresseorganisation\/Utredare, intresseorganisation"
 	},
 	{
 		"term" : "Handläggare, offentlig förvaltning\/Utredare, offentlig förvaltning"
