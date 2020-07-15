@@ -126,9 +126,6 @@
 		"term" : "Bildlärare"
 	},
 	{
-		"term" : "Bildproduent"
-	},
-	{
 		"term" : "Biljettkassör"
 	},
 	{
@@ -361,6 +358,12 @@
 	},
 	{
 		"term" : "Dykledare"
+	},
+	{
+		"term" : "Däckspecialist"
+	},
+	{
+		"term" : "Däcktekniker"
 	},
 	{
 		"term" : "Ekonometriker"
