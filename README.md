@@ -1,20 +1,8 @@
-# jobtech-taxonomy-api-test
+# jobtech-taxonomy-api-test (no longer maintained)
+
+This repo has been moved to https://gitlab.com/team-batfish/jobtech-taxonomy-api-test
 
 Tests for the API server in https://gitlab.com/team-batfish/jobtech-taxonomy-api
-
-## Installation
-
-Clone this repo.
-
-## Run the tests
-
-The tests are configured via two environment variables. Set those before running the tests.
-
-```shell
-export JOBTECH_TAXONOMY_API_KEY=111
-export JOBTECH_TAXONOMY_API_URL=http://localhost:3000
-lein test
-```
 
 ## License
 
