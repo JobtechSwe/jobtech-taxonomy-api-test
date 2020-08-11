@@ -4,9 +4,11 @@
             [clj-http.client :as client]
             [cheshire.core :refer :all]
             [jobtech-taxonomy-api-test.core-test :as ct]
-            [jobtech-taxonomy-api-test.smoke-test :as st]))
+            [jobtech-taxonomy-api-test.smoke-test :as st]
+            [jobtech-taxonomy-api-test.config :as config]
+            ))
 
-(def legacy-base-url (str st/base-url "/v1/taxonomy/legacy/"))
+(def legacy-base-url (str config/base-url "/v1/taxonomy/legacy/"))
 
 
 ;; GET /v1/taxonomy/legacy/convert-matching-component-id-to-new-id

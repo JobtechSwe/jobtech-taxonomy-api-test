@@ -3,22 +3,18 @@
             [jobtech-taxonomy-api-test.core :refer :all]
             [clj-http.client :as client]
             [cheshire.core :refer :all]
+            [jobtech-taxonomy-api-test.config :as config]
             ))
 
 
 ;; http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/v1/taxonomy/swagger-ui/index.html#!/Main/get_v1_taxonomy_main_concept_types
 
 
-
-(def api-key (System/getenv "JOBTECH_TAXONOMY_API_KEY"))
-(def base-url (System/getenv "JOBTECH_TAXONOMY_API_URL") )
-
-
 ;;(def base-url "http://jobtech-taxonomy-api-spec-jobtech-taxonomy-api.test.services.jtech.se/")
 
-(def main-base-url (str base-url "v1/taxonomy/main/"))
-(def specific-base-url (str base-url "v1/taxonomy/specific/concepts/"))
-(def suggesters-base-url (str base-url "v1/taxonomy/suggesters/"))
+(def main-base-url (str config/base-url "v1/taxonomy/main/"))
+(def specific-base-url (str config/base-url "v1/taxonomy/specific/concepts/"))
+(def suggesters-base-url (str config/base-url "v1/taxonomy/suggesters/"))
 
 (defn call-api
   ([url query-params]
@@ -27,7 +23,7 @@
    (:body (client/get url
                       (cond->
                           {:as :json-strict
-                           :headers {"api-key" api-key}
+                           :headers {"api-key" config/api-key}
                             :debug false
                            }
 
@@ -93,10 +89,20 @@
   (test-concepts-animering)
   )
 
-
-(defn call-changes []
+(defn call-changes-old []
   (call-api-main "changes" {"after-version" 1 "limit" 1})
   )
+
+(defn test-changes-old []
+  (is (= 2 (:taxonomy/version (first (call-changes-old)))))
+  )
+
+
+
+(defn call-changes []
+  (call-api-main "concept/changes" {"after-version" 1 "limit" 1})
+  )
+
 
 (defn test-changes []
   (is (= 2 (:taxonomy/version (first (call-changes)))))

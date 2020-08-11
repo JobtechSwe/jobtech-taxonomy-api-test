@@ -2,14 +2,19 @@
   (:require [clojure.test :refer :all]
             [jobtech-taxonomy-api-test.core :refer :all]
             [clj-http.client :as client]
-            [cheshire.core :refer :all]))
+            [cheshire.core :refer :all]
+            [jobtech-taxonomy-api-test.config :as config]
+            ))
 
-(def api-key (System/getenv "JOBTECH_TAXONOMY_API_KEY"))
 
 (defn get-filename-v2-from-type [type]
   (str "resources/" type "_v2.json"))
 
-(def url (str (System/getenv "JOBTECH_TAXONOMY_API_URL")  "v1/taxonomy/main/concepts"))
+(def url (str config/base-url  "v1/taxonomy/main/concepts"))
+
+
+
+#_(def url (str "http://localhost:3000/" "v1/taxonomy/main/concepts"))
 
 (defn parse-local-preferred-labels [filename]
   (map :term (parse-string (slurp filename) true)))
@@ -17,7 +22,7 @@
 (defn retrieve-all-concepts-given-a-type [type]
 
   (client/get url {:as :json-strict
-                   :headers {"api-key" api-key
+                   :headers {"api-key" config/api-key
                              "Content-Type" "application/json"}
                    ;;                :debug true
                    :query-params {"type" type}}))
@@ -25,7 +30,7 @@
 (defn call-api [preferredLabel type url]
 
   (client/get url {:as :json-strict
-                   :headers {"api-key" api-key
+                   :headers {"api-key" config/api-key
                              "Content-Type" "application/json"}
                    ;;                :debug true
                    :query-params {"preferred-label" preferredLabel
@@ -117,7 +122,7 @@
 
   (client/get url {:accept :json
                    :as :json-strict
-                   :headers {"api-key" api-key
+                   :headers {"api-key" config/api-key
                              "Content-Type" "application/json"}
                    :query-params {"id" concept-id
                                   "version" 1}}))
@@ -126,7 +131,7 @@
 
   (client/get url {:accept :json
                    :as :json-strict
-                   :headers {"api-key" api-key
+                   :headers {"api-key" config/api-key
                              "Content-Type" "application/json"}
                    :query-params {"version" 1}}))
 
